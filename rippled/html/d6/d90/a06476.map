@@ -1,0 +1,8 @@
+<map id="beast::asio::abstract_socket" name="beast::asio::abstract_socket">
+<area shape="rect" id="node7" href="$d8/dd0/a01430.html" title="beast::asio::socket\l_wrapper\&lt; Object \&gt;" alt="" coords="467,5,603,51"/>
+<area shape="rect" id="node9" href="$da/d0a/a00993.html" title="ripple::MultiSocket" alt="" coords="469,75,600,104"/>
+<area shape="rect" id="node15" href="$d8/dd0/a01430.html" title="beast::asio::socket\l_wrapper\&lt; acceptor_type &amp; \&gt;" alt="" coords="437,127,632,174"/>
+<area shape="rect" id="node17" href="$d8/dd0/a01430.html" title="beast::asio::socket\l_wrapper\&lt; socket_type &amp; \&gt;" alt="" coords="444,197,625,243"/>
+<area shape="rect" id="node11" href="$d0/d28/a00997.html" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;" alt="" coords="681,31,839,78"/>
+<area shape="rect" id="node13" href="$d0/d28/a00997.html" title="ripple::MultiSocketType\l\&lt; StreamSocket \&gt;" alt="" coords="681,101,839,147"/>
+</map>

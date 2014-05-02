@@ -1,0 +1,7 @@
+<map id="beast::Stoppable::stopAsyncRecursive" name="beast::Stoppable::stopAsyncRecursive">
+<area shape="rect" id="node3" href="$d2/d79/a00898.html#aabf0d32e3381ad563fa03f948cc497bf" title="beast::LockFreeStack\l::cbegin" alt="" coords="256,5,405,51"/>
+<area shape="rect" id="node5" href="$d2/d79/a00898.html#a3fe19ab930cc3d1dcf70b2d6e5f5ddd6" title="beast::LockFreeStack\l::cend" alt="" coords="256,74,405,121"/>
+<area shape="rect" id="node7" href="$d2/d49/a01561.html#aeb5a464db59bc5313a39bb868c9f18da" title="beast::Stoppable::onStop" alt="" coords="247,144,415,173"/>
+<area shape="rect" id="node9" href="$d2/d49/a01561.html#a32a3f86c14a870b4c8eefa77f9989a5e" title="beast::Stoppable::stopped" alt="" coords="465,144,639,173"/>
+<area shape="rect" id="node11" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="688,135,835,182"/>
+</map>

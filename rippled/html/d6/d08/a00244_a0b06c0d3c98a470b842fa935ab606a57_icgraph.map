@@ -1,0 +1,5 @@
+<map id="beast::ByteOrder::bigEndianInt" name="beast::ByteOrder::bigEndianInt">
+<area shape="rect" id="node3" href="$df/d96/a00714.html#a077ad3b28c872819149798f7283c30ba" title="beast::InputStream\l::readInt32BigEndian" alt="" coords="257,5,399,51"/>
+<area shape="rect" id="node5" href="$df/d96/a00714.html#ae1bc0cd2c480ec31be9ec98d223e0666" title="beast::InputStream\l::readIntBigEndian" alt="" coords="261,74,395,121"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#aab883f5f322809c95f6543e56ca8306f" title="beast::InputStream\l::readFloatBigEndian" alt="" coords="449,74,591,121"/>
+</map>

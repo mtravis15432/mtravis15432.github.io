@@ -1,0 +1,31 @@
+<map id="ripple::STAmount_test::roundTest" name="ripple::STAmount_test::roundTest">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a547cf5be1bf2fdd7f7cd4cc076d77196" title="ripple::STAmount::divide" alt="" coords="240,139,405,168"/>
+<area shape="rect" id="node17" href="$d6/d51/a01494.html#a9ecfade4c0375ef1dadd384fd64760ef" title="ripple::STAmount_test\l::expect" alt="" coords="247,498,399,545"/>
+<area shape="rect" id="node23" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="249,567,396,614"/>
+<area shape="rect" id="node35" href="$d2/d41/a01493.html#a207b1e769e476310cc294e5a3d6d299f" title="ripple::STAmount::getText" alt="" coords="236,707,409,736"/>
+<area shape="rect" id="node37" href="$d2/d41/a01493.html#af327650875d5657bc9999fac9751a0eb" title="ripple::STAmount::isNative" alt="" coords="233,760,412,789"/>
+<area shape="rect" id="node39" href="$d2/d41/a01493.html#a12cf6e60ed96232c0595ebe39a7c65ac" title="ripple::STAmount::multiply" alt="" coords="235,219,411,248"/>
+<area shape="rect" id="node52" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="249,637,396,683"/>
+<area shape="rect" id="node59" href="$d2/d41/a01493.html#a9530d7c64e52d16ac0b0ea62f7d9cb98" title="ripple::STAmount::roundSelf" alt="" coords="229,445,416,475"/>
+<area shape="rect" id="node64" href="$d2/d41/a01493.html#ab0b901062f0b7e67b0832d0601cd665e" title="ripple::STAmount::throwComparable" alt="" coords="207,813,439,843"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="515,165,672,195"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="517,219,669,248"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="515,5,672,35"/>
+<area shape="rect" id="node11" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="504,59,683,88"/>
+<area shape="rect" id="node15" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="497,112,689,141"/>
+<area shape="rect" id="node13" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="748,59,921,88"/>
+<area shape="rect" id="node19" href="$d4/dcb/a03370.html#ab0ea42fa726858d153aae1d9325f31e8" title="beast::IP::detail::\lexpect" alt="" coords="532,498,655,545"/>
+<area shape="rect" id="node21" href="$d1/d88/a01578.html#a0374e8000615d657aafc0c3ae82d76ad" title="beast::String::toStdString" alt="" coords="509,568,677,597"/>
+<area shape="rect" id="node25" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="516,621,671,667"/>
+<area shape="rect" id="node27" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="757,586,912,633"/>
+<area shape="rect" id="node29" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="757,655,912,702"/>
+<area shape="rect" id="node31" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="972,621,1127,667"/>
+<area shape="rect" id="node33" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="972,690,1127,737"/>
+<area shape="rect" id="node44" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="520,271,667,318"/>
+<area shape="rect" id="node46" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="493,341,693,371"/>
+<area shape="rect" id="node49" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="772,411,897,458"/>
+<area shape="rect" id="node54" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="516,690,671,737"/>
+<area shape="rect" id="node56" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="757,725,912,771"/>
+<area shape="rect" id="node61" href="$d2/d41/a01493.html#a104f16b3dcb68a0b317788706c347809" title="ripple::STAmount::canonicalize" alt="" coords="492,445,695,475"/>
+<area shape="rect" id="node66" href="$d2/d41/a01493.html#a3cf020f0636f8cbc302a6261b9145c11" title="ripple::STAmount::isComparable" alt="" coords="488,813,699,843"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="beast::File::moveInternal" name="beast::File::moveInternal">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a1189ca4bcc58e94cf6d3dbda3bf3136a" title="beast::File::moveFileTo" alt="" coords="223,36,380,65"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#a7e51e0f19df1ad6841fb570bc56c98d8" title="beast::File::moveToTrash" alt="" coords="460,5,631,35"/>
+<area shape="rect" id="node7" href="$d4/d49/a01643.html#aa751b12e6e0e453cd39c78a5603cd1a4" title="beast::TemporaryFile\l::overwriteTargetFileWithTemporary" alt="" coords="431,58,660,105"/>
+<area shape="rect" id="node9" href="$d4/d33/a00536.html#a05a70c6e6570aec32842e76c6d08a677" title="beast::File::replaceWithData" alt="" coords="711,40,897,69"/>
+<area shape="rect" id="node11" href="$d4/d33/a00536.html#ae29d14b6f84ab267d820d2001db82d8f" title="beast::File::replaceWithText" alt="" coords="711,93,897,123"/>
+</map>

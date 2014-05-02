@@ -1,0 +1,14 @@
+<map id="ripple::Resource::ManagerImp::~ManagerImp" name="ripple::Resource::ManagerImp::~ManagerImp">
+<area shape="rect" id="node3" href="$d6/d53/a01688.html#a0f091046cfb7079b343c1e02f462cc94" title="beast::Thread::stopThread" alt="" coords="231,196,404,225"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#a810116e24c319661ba9e7583ae17fa3e" title="beast::Thread::getCurrent\lThreadId" alt="" coords="715,5,885,51"/>
+<area shape="rect" id="node7" href="$d6/d53/a01688.html#a647188494652a4383fae32509d1cb5b3" title="beast::Thread::getThreadId" alt="" coords="711,75,889,104"/>
+<area shape="rect" id="node9" href="$d6/d53/a01688.html#ae3008b46e1f74df7b35a56a9d5e8465c" title="beast::Thread::isThreadRunning" alt="" coords="696,251,904,280"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html#ae81d39927327aaaf6e8a77ad9d94a318" title="beast::Thread::killThread" alt="" coords="468,248,633,277"/>
+<area shape="rect" id="node13" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="480,301,621,331"/>
+<area shape="rect" id="node17" href="$d6/d53/a01688.html#a7a8c61ba7975e767c62e9cc6a69868d6" title="beast::Thread::signalThread\lShouldExit" alt="" coords="459,354,643,401"/>
+<area shape="rect" id="node19" href="$d6/d53/a01688.html#a02cc909609f8c48d9673fcbe21400215" title="beast::Thread::waitForThread\lToExit" alt="" coords="455,127,647,174"/>
+<area shape="rect" id="node15" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="727,303,873,350"/>
+<area shape="rect" id="node22" href="$dc/dc8/a01695.html#a72213ba0e3eff5f7067dd740922651f2" title="beast::Time::getMillisecond\lCounter" alt="" coords="709,127,891,174"/>
+<area shape="rect" id="node28" href="$d6/d53/a01688.html#a55db77995760cf1a29a154ae57dc9d8d" title="beast::Thread::sleep" alt="" coords="729,197,871,227"/>
+<area shape="rect" id="node24" href="$d5/d83/a03337.html#ab9caefe6aa83608404ede7c32dbadda8" title="beast::beast_milliseconds\lSinceStartup" alt="" coords="952,127,1125,174"/>
+</map>

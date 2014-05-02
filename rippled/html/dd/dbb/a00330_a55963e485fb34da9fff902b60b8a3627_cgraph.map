@@ -1,0 +1,5 @@
+<map id="beast::ServiceQueue_timing_test::Consumer::stop_one" name="beast::ServiceQueue_timing_test::Consumer::stop_one">
+<area shape="rect" id="node3" href="$d6/d53/a01688.html#a7a8c61ba7975e767c62e9cc6a69868d6" title="beast::Thread::signalThread\lShouldExit" alt="" coords="216,5,400,51"/>
+<area shape="rect" id="node5" href="$dd/dbb/a00330.html#a27484113ee8c55fa73875c7de03775c2" title="beast::ServiceQueue\l_timing_test::Consumer\l::thread" alt="" coords="228,75,388,139"/>
+<area shape="rect" id="node7" href="$d6/d01/a01690.html#aaa7dd0087d7afc1f65ba968a085e0910" title="beast::ThreadLocalValue::get" alt="" coords="448,92,640,121"/>
+</map>

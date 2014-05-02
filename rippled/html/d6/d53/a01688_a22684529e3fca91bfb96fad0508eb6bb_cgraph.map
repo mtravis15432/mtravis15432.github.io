@@ -1,0 +1,5 @@
+<map id="beast::Thread::getCurrentThread" name="beast::Thread::getCurrentThread">
+<area shape="rect" id="node3" href="$d0/d36/a01388.html#a53340f090532780957b394012bd6dde6" title="beast::SharedPtr::get" alt="" coords="252,5,399,35"/>
+<area shape="rect" id="node5" href="$d5/d83/a03337.html#a50b90e965a35ba31322993dae280a9fb" title="beast::getCurrentThreadHolder" alt="" coords="225,59,425,88"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#a0ef07091cccad2c47c0a93fe6a372e4d" title="beast::castToSpinLockWithout\lAliasingWarning" alt="" coords="476,50,676,97"/>
+</map>

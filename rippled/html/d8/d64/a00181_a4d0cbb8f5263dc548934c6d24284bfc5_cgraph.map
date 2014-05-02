@@ -1,0 +1,24 @@
+<map id="rocksdb::Benchmark::Crc32c" name="rocksdb::Benchmark::Crc32c">
+<area shape="rect" id="node3" href="$d3/d4c/a01540.html#a18c6d9a25584793cf78b9dc6ba0af06d" title="rocksdb::Stats::AddBytes" alt="" coords="208,77,379,107"/>
+<area shape="rect" id="node5" href="$d3/d4c/a01540.html#ac00992e4e00f467ac8e2517fc0cf035a" title="rocksdb::Stats::AddMessage" alt="" coords="199,131,388,160"/>
+<area shape="rect" id="node15" href="$d3/d4c/a01540.html#a8ce651061783579bb738ec20f4efae26" title="rocksdb::Stats::Finished\lSingleOp" alt="" coords="212,183,375,230"/>
+<area shape="rect" id="node25" href="$d7/db0/a03467.html#a90a67ab6517f594a989c6cb4f3ff67f9" title="rocksdb::crc32c::Value" alt="" coords="216,276,371,305"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a51a424ca9e8e7b4e7d171eb1fde8f9f9" title="rocksdb::AppendWithSpace" alt="" coords="441,59,625,88"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="692,5,831,35"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="687,59,836,88"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="693,112,829,141"/>
+<area shape="rect" id="node17" href="$d9/d41/a00666.html#ad8a0dd2edfe798d631e995028693e9ca" title="rocksdb::HistogramImpl::Add" alt="" coords="437,112,629,141"/>
+<area shape="rect" id="node19" href="$d8/ddd/a00380.html#adbfc80c222da108a0d89a55ed829726c" title="rocksdb::DB::GetProperty" alt="" coords="447,165,620,195"/>
+<area shape="rect" id="node21" href="$db/db1/a00460.html#a20e69bbefe7d92b92a2f33100cf251b7" title="rocksdb::Env::NowMicros" alt="" coords="447,219,620,248"/>
+<area shape="rect" id="node23" href="$db/db1/a00460.html#ade1259f3f43b344b56b69b5b007d979b" title="rocksdb::Env::TimeToString" alt="" coords="441,272,625,301"/>
+<area shape="rect" id="node27" href="$d7/db0/a03467.html#aba0a720f8204028aa9b0f78f969d5f97" title="rocksdb::crc32c::Extend" alt="" coords="452,325,615,355"/>
+<area shape="rect" id="node29" href="$d7/db0/a03467.html#a174fe9c8cf3cb558b7accfdc10c6c04c" title="rocksdb::crc32c::CRC32" alt="" coords="679,325,844,355"/>
+<area shape="rect" id="node31" href="$d7/db0/a03467.html#aeb8537c518a4a8ac7e1d8f8ac1c6bb63" title="rocksdb::crc32c::Choose\l_CRC32" alt="" coords="893,317,1061,363"/>
+<area shape="rect" id="node33" href="$d7/db0/a03467.html#a6abc7c8ed18979f0e12fcfb6460f9285" title="rocksdb::crc32c::isSSE42" alt="" coords="1111,264,1284,293"/>
+<area shape="rect" id="node35" href="$d7/db0/a03467.html#ab6bf1f9041f7859fe1aae6312f650115" title="rocksdb::crc32c::Fast\l_CRC32" alt="" coords="1123,317,1272,363"/>
+<area shape="rect" id="node43" href="$d7/db0/a03467.html#aabbb4470a0a8566fff676e40a5c3a491" title="rocksdb::crc32c::Slow\l_CRC32" alt="" coords="1333,377,1485,423"/>
+<area shape="rect" id="node37" href="$d7/db0/a03467.html#aa5eeccea7be6cc99acab7223cc1c7baf" title="rocksdb::crc32c::LE\l_LOAD64" alt="" coords="1340,307,1479,354"/>
+<area shape="rect" id="node39" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="1535,319,1700,348"/>
+<area shape="rect" id="node41" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="1751,351,1916,380"/>
+<area shape="rect" id="node45" href="$d7/db0/a03467.html#a72b216c9d4dfeeaea89e2410eec06ff9" title="rocksdb::crc32c::LE\l_LOAD32" alt="" coords="1548,373,1687,419"/>
+</map>

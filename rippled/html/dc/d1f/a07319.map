@@ -1,0 +1,48 @@
+<map id="ripple::SqliteDatabase" name="ripple::SqliteDatabase">
+<area shape="rect" id="node2" href="$d5/db5/a00374.html" title="ripple::Database" alt="" coords="304,396,421,425"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="48,129,128,159"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="25,6,151,53"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html" title="beast::Thread" alt="" coords="552,263,653,292"/>
+<area shape="rect" id="node15" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="799,15,929,44"/>
+<area shape="rect" id="node19" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="791,129,937,159"/>
+<area shape="rect" id="node146" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; Child \&gt;" alt="" coords="961,121,1111,167"/>
+<area shape="rect" id="node17" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="152,129,309,159"/>
+<area shape="rect" id="node134" href="$d2/d49/a01561.html" title="beast::Stoppable" alt="" coords="976,263,1096,292"/>
+<area shape="rect" id="node22" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="555,129,651,159"/>
+<area shape="rect" id="node24" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="517,15,688,44"/>
+<area shape="rect" id="node29" href="$df/dc5/a01455.html" title="sqlite3" alt="" coords="2000,396,2059,425"/>
+<area shape="rect" id="node31" href="$dc/db6/a00955.html" title="Mem" alt="" coords="1751,656,1801,685"/>
+<area shape="rect" id="node37" href="$d6/d53/a01789.html" title="Vdbe" alt="" coords="1820,1075,1871,1104"/>
+<area shape="rect" id="node54" href="$db/db2/a01806.html" title="VTable" alt="" coords="2256,537,2317,567"/>
+<area shape="rect" id="node68" href="$dc/d55/a00226.html" title="Btree" alt="" coords="2057,656,2111,685"/>
+<area shape="rect" id="node72" href="$dd/d80/a01075.html" title="Parse" alt="" coords="2307,1189,2363,1219"/>
+<area shape="rect" id="node96" href="$dc/ded/a01290.html" title="RowSet" alt="" coords="1760,537,1829,567"/>
+<area shape="rect" id="node34" href="$d1/dea/a01791.html" title="VdbeFrame" alt="" coords="1839,940,1927,969"/>
+<area shape="rect" id="node49" href="$dd/de9/a01792.html" title="VdbeOp" alt="" coords="1472,755,1541,784"/>
+<area shape="rect" id="node43" href="$d5/d4e/a00141.html" title="AuxData" alt="" coords="1628,940,1700,969"/>
+<area shape="rect" id="node46" href="$d6/d82/a01607.html" title="SubProgram" alt="" coords="1396,940,1489,969"/>
+<area shape="rect" id="node52" href="$d4/d66/a00289.html" title="CollSeq" alt="" coords="1471,263,1537,292"/>
+<area shape="rect" id="node76" href="$d1/d3a/a01622.html" title="Table" alt="" coords="2308,656,2361,685"/>
+<area shape="rect" id="node121" href="$d7/d62/a01805.html" title="VtabCtx" alt="" coords="2532,755,2601,784"/>
+<area shape="rect" id="node58" href="$df/d2f/a00991.html" title="Module" alt="" coords="2356,396,2420,425"/>
+<area shape="rect" id="node60" href="$df/d2f/a01474.html" title="sqlite3_vtab" alt="" coords="2241,396,2332,425"/>
+<area shape="rect" id="node63" href="$dd/d5c/a00578.html" title="FuncDef" alt="" coords="1397,129,1469,159"/>
+<area shape="rect" id="node104" href="$dc/d4a/a00579.html" title="FuncDefHash" alt="" coords="2025,263,2127,292"/>
+<area shape="rect" id="node66" href="$d2/d20/a01790.html" title="VdbeCursor" alt="" coords="2039,755,2129,784"/>
+<area shape="rect" id="node127" href="$de/d08/a00381.html" title="Db" alt="" coords="2221,940,2259,969"/>
+<area shape="rect" id="node78" href="$d9/de6/a01314.html" title="Schema" alt="" coords="2299,755,2368,784"/>
+<area shape="rect" id="node81" href="$d6/dfa/a00626.html" title="Hash" alt="" coords="2589,263,2643,292"/>
+<area shape="rect" id="node83" href="$d6/d97/a00045.html" title="Hash::_ht" alt="" coords="2633,129,2711,159"/>
+<area shape="rect" id="node85" href="$d6/dcf/a00645.html" title="HashElem" alt="" coords="2575,15,2657,44"/>
+<area shape="rect" id="node101" href="$de/d69/a01311.html" title="Savepoint" alt="" coords="2151,263,2231,292"/>
+<area shape="rect" id="node107" href="$d1/d0b/a00919.html" title="Lookaside" alt="" coords="2319,263,2399,292"/>
+<area shape="rect" id="node109" href="$d6/d82/a00920.html" title="LookasideSlot" alt="" coords="2307,129,2411,159"/>
+<area shape="rect" id="node112" href="$df/d5e/a01467.html" title="sqlite3_mutex" alt="" coords="2423,263,2524,292"/>
+<area shape="rect" id="node114" href="$de/d13/a01473.html" title="sqlite3_vfs" alt="" coords="1561,263,1647,292"/>
+<area shape="rect" id="node117" href="$d8/d7b/a01478.html" title="sqlite3::sqlite3InitInfo" alt="" coords="1735,263,1881,292"/>
+<area shape="rect" id="node119" href="$d2/dc8/a00242.html" title="BusyHandler" alt="" coords="1905,263,2001,292"/>
+<area shape="rect" id="node132" href="$dc/d0c/a00783.html" title="ripple::JobQueue" alt="" coords="681,396,801,425"/>
+<area shape="rect" id="node139" href="$dd/d56/a00274.html" title="beast::Stoppable::Child" alt="" coords="896,396,1053,425"/>
+<area shape="rect" id="node142" href="$d9/dda/a01289.html" title="beast::RootStoppable" alt="" coords="1108,396,1255,425"/>
+<area shape="rect" id="node136" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="1140,129,1281,159"/>
+</map>

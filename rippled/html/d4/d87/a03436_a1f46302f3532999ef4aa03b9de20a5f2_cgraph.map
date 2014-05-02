@@ -1,0 +1,29 @@
+<map id="rocksdb::GetFileIterator" name="rocksdb::GetFileIterator">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="215,5,396,35"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="236,67,375,96"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="223,120,388,149"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a7b03495439285fb3fb42a3208b01a3d7" title="rocksdb::NewErrorIterator" alt="" coords="447,172,617,201"/>
+<area shape="rect" id="node15" href="$de/df9/a01624.html#a59b62bf2644f7cf62feb7275085a9185" title="rocksdb::TableCache\l::NewIterator" alt="" coords="232,285,379,331"/>
+<area shape="rect" id="node60" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="237,355,373,384"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="965,55,1125,84"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="449,119,615,148"/>
+<area shape="rect" id="node17" href="$de/df9/a01624.html#aed7ec4f6ca046cd127813d39e75dee0c" title="rocksdb::TableCache\l::FindTable" alt="" coords="459,225,605,271"/>
+<area shape="rect" id="node32" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="723,373,859,403"/>
+<area shape="rect" id="node38" href="$d0/da4/a01631.html#ab457fa9a28a505dcd52222b12e331a6c" title="rocksdb::TableReader\l::NewIterator" alt="" coords="457,345,607,391"/>
+<area shape="rect" id="node40" href="$d2/d02/a00777.html#a668d7cfe0b950c1ee2806a3a3d21bb90" title="rocksdb::Iterator::\lRegisterCleanup" alt="" coords="469,414,595,461"/>
+<area shape="rect" id="node54" href="$d4/d87/a03436.html#a71b6611372242bca71af15eb1e4c2a78" title="rocksdb::UnrefEntry" alt="" coords="463,484,601,513"/>
+<area shape="rect" id="node58" href="$d0/da4/a01631.html#a8b065eafa65a8d1e8b69b6300370b744" title="rocksdb::TableReader\l::SetupForCompaction" alt="" coords="456,537,608,583"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#a0a6b5f485f1b3d6f33ead2fc4d7c891c" title="rocksdb::EncodeFixed64" alt="" coords="708,53,873,83"/>
+<area shape="rect" id="node21" href="$d0/db9/a01552.html#a223ccba0dce26cd4539d6fd2c28ae364" title="rocksdb::Status::Incomplete" alt="" coords="697,107,884,136"/>
+<area shape="rect" id="node24" href="$d4/d87/a03436.html#ac542e5154705959dfccc0adac5c3af3a" title="rocksdb::TableFileName" alt="" coords="709,160,872,189"/>
+<area shape="rect" id="node28" href="$db/db1/a00460.html#a6e6619074ecb6b5ba4e4a23ffb2e4974" title="rocksdb::Env::NewRandomAccessFile" alt="" coords="667,213,915,243"/>
+<area shape="rect" id="node30" href="$d4/d87/a03436.html#a833e685de1acb680b321c566cadffc9f" title="rocksdb::RecordTick" alt="" coords="720,267,861,296"/>
+<area shape="rect" id="node34" href="$d4/d87/a03436.html#a25709ac27a5b4b9ca699413c90036eed" title="rocksdb::DeleteEntry" alt="" coords="719,320,863,349"/>
+<area shape="rect" id="node26" href="$d4/d87/a03436.html#a645cac7eafed2fae5df45e8483f8fbaf" title="rocksdb::MakeFileName" alt="" coords="964,160,1127,189"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#ae3e0dbf7ac3255e91d16cd24fd2c2b1d" title="Cleanup" alt="" coords="756,427,825,456"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="995,427,1096,456"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1388,388,1479,417"/>
+<area shape="rect" id="node48" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1367,453,1500,483"/>
+<area shape="rect" id="node50" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1176,427,1317,456"/>
+<area shape="rect" id="node56" href="$d4/d9a/a00246.html#a0c407981dfc226d8ec65e6b076aab42d" title="rocksdb::Cache::Release" alt="" coords="705,484,876,513"/>
+</map>

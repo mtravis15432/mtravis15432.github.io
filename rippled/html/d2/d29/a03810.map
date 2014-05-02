@@ -1,0 +1,24 @@
+<map id="rippled/src/beast/beast/strings/NewLine.h" name="rippled/src/beast/beast/strings/NewLine.h">
+<area shape="rect" id="node3" href="$d0/dde/a01924.html" title="../Config.h" alt="" coords="457,565,540,595"/>
+<area shape="rect" id="node22" href="$db/dac/a02077.html" title="String.h" alt="" coords="580,101,647,131"/>
+<area shape="rect" id="node5" href="$d5/dba/a01940.html" title="config/SelectCompilerConfig.h" alt="" coords="44,643,241,672"/>
+<area shape="rect" id="node7" href="$d3/d28/a02147.html" title="Version.h" alt="" coords="265,643,343,672"/>
+<area shape="rect" id="node9" href="$d4/d25/a01939.html" title="config/PlatformConfig.h" alt="" coords="301,720,459,749"/>
+<area shape="rect" id="node11" href="$d5/d31/a01931.html" title="config/CompilerConfig.h" alt="" coords="417,643,580,672"/>
+<area shape="rect" id="node16" href="$df/dd8/a01943.html" title="config/StandardConfig.h" alt="" coords="604,643,767,672"/>
+<area shape="rect" id="node18" href="$d8/d22/a01932.html" title="config/ConfigCheck.h" alt="" coords="791,643,937,672"/>
+<area shape="rect" id="node20" href="$db/da1/a01944.html" title="config/Suffix.h" alt="" coords="961,643,1068,672"/>
+<area shape="rect" id="node25" href="$d1/dc4/a02042.html" title="../Memory.h" alt="" coords="124,488,215,517"/>
+<area shape="rect" id="node32" href="$d3/d48/a02069.html" title="CharacterFunctions.h" alt="" coords="460,411,607,440"/>
+<area shape="rect" id="node40" href="$de/df8/a02073.html" title="CharPointer_UTF8.h" alt="" coords="396,333,537,363"/>
+<area shape="rect" id="node55" href="$d5/d14/a02071.html" title="CharPointer_UTF16.h" alt="" coords="836,333,985,363"/>
+<area shape="rect" id="node61" href="$de/d9d/a02072.html" title="CharPointer_UTF32.h" alt="" coords="612,333,761,363"/>
+<area shape="rect" id="node68" href="$d8/d9c/a02070.html" title="CharPointer_ASCII.h" alt="" coords="228,333,372,363"/>
+<area shape="rect" id="node74" href="$d6/d5b/a02078.html" title="StringCharPointerType.h" alt="" coords="769,256,935,285"/>
+<area shape="rect" id="node80" href="$dc/d21/a02079.html" title="StringFromNumber.h" alt="" coords="1033,179,1175,208"/>
+<area shape="rect" id="node30" href="$d4/d18/a02106.html" title="Uncopyable.h" alt="" coords="119,565,220,595"/>
+<area shape="rect" id="node43" href="$d6/d4c/a01903.html" title="../Atomic.h" alt="" coords="820,411,905,440"/>
+<area shape="rect" id="node46" href="$d5/d8b/a02060.html" title="StaticAssert.h" alt="" coords="639,488,743,517"/>
+<area shape="rect" id="node48" href="$db/ddd/a02136.html" title="utility/noexcept.h" alt="" coords="903,488,1023,517"/>
+<area shape="rect" id="node83" href="$d5/da8/a01865.html" title="../Arithmetic.h" alt="" coords="1148,411,1252,440"/>
+</map>

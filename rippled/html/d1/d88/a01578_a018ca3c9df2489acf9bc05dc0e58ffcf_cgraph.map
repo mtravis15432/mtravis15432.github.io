@@ -1,0 +1,5 @@
+<map id="beast::String::operator=" name="beast::String::operator=">
+<area shape="rect" id="node3" href="$dc/d42/a01591.html#a68c2817293b487ddfbfb44e6d977e684" title="beast::StringHolder\l::release" alt="" coords="215,5,348,51"/>
+<area shape="rect" id="node5" href="$dc/d42/a01591.html#a0ff9414622e5a8b1beee23e1aea19c15" title="beast::StringHolder\l::retain" alt="" coords="215,74,348,121"/>
+<area shape="rect" id="node7" href="$dc/d42/a01591.html#a76bb5db7bd49e474f3d7ac977950c767" title="beast::StringHolder\l::bufferFromText" alt="" coords="399,74,532,121"/>
+</map>

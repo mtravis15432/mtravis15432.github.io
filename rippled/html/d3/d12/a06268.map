@@ -1,0 +1,16 @@
+<map id="beast::HTTPResponse" name="beast::HTTPResponse">
+<area shape="rect" id="node2" href="$df/d1b/a00687.html" title="beast::HTTPMessage" alt="" coords="212,875,361,904"/>
+<area shape="rect" id="node4" href="$d9/d40/a01387.html" title="beast::SharedObject" alt="" coords="5,269,147,299"/>
+<area shape="rect" id="node6" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="144,101,275,131"/>
+<area shape="rect" id="node22" href="$d4/d53/a00429.html" title="beast::DummyCriticalSection" alt="" coords="113,207,305,236"/>
+<area shape="rect" id="node25" href="$da/dc3/a00657.html" title="beast::HeapBlock\&lt; beast\l::String \&gt;" alt="" coords="329,198,500,245"/>
+<area shape="rect" id="node8" href="$df/d9e/a00686.html" title="beast::HTTPHeaders" alt="" coords="113,779,260,808"/>
+<area shape="rect" id="node10" href="$d9/dc8/a01593.html" title="beast::StringPairArray" alt="" coords="140,683,289,712"/>
+<area shape="rect" id="node14" href="$d9/d1b/a01583.html" title="beast::StringArray" alt="" coords="152,561,277,591"/>
+<area shape="rect" id="node18" href="$d4/d81/a00110.html" title="beast::Array\&lt; beast\l::String \&gt;" alt="" coords="147,438,283,485"/>
+<area shape="rect" id="node20" href="$dd/d6d/a00111.html" title="beast::ArrayAllocationBase\l\&lt; beast::String, DummyCriticalSection \&gt;" alt="" coords="113,323,372,370"/>
+<area shape="rect" id="node28" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="367,101,463,131"/>
+<area shape="rect" id="node30" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="329,5,500,35"/>
+<area shape="rect" id="node33" href="$d5/d5b/a00695.html" title="beast::HTTPVersion" alt="" coords="284,779,425,808"/>
+<area shape="rect" id="node35" href="$d4/d82/a00436.html" title="beast::DynamicBuffer" alt="" coords="449,779,599,808"/>
+</map>

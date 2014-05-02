@@ -1,0 +1,21 @@
+<map id="beast::RandomAccessFile_test::writeRecords" name="beast::RandomAccessFile_test::writeRecords">
+<area shape="rect" id="node3" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="244,91,391,138"/>
+<area shape="rect" id="node24" href="$dc/d81/a01161.html#ac747ffde0caff402241c674384c041ff" title="beast::RandomAccessFile\l::setPosition" alt="" coords="229,211,405,258"/>
+<area shape="rect" id="node35" href="$d9/de7/a01257.html#ad1cd6e48b8f41b1c5f6377109288cffe" title="beast::Result::wasOk" alt="" coords="467,401,616,431"/>
+<area shape="rect" id="node39" href="$dc/d81/a01161.html#a643d65c4b73ec7b7142993b2c4997211" title="beast::RandomAccessFile\l::write" alt="" coords="229,331,405,378"/>
+<area shape="rect" id="node5" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="468,91,615,138"/>
+<area shape="rect" id="node17" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="468,22,615,69"/>
+<area shape="rect" id="node7" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="688,91,843,138"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="903,74,1057,121"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="903,143,1057,190"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1108,39,1263,86"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1108,109,1263,155"/>
+<area shape="rect" id="node19" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="688,22,843,69"/>
+<area shape="rect" id="node22" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="903,5,1057,51"/>
+<area shape="rect" id="node26" href="$dc/d81/a01161.html#a56e8083b424a24b09512519cc6263484" title="beast::RandomAccessFile\l::nativeSetPosition" alt="" coords="453,211,629,258"/>
+<area shape="rect" id="node30" href="$d9/de7/a01257.html#a564d5ce775dabd861f475dcc1cfc4ab7" title="beast::Result::ok" alt="" coords="704,237,827,267"/>
+<area shape="rect" id="node28" href="$dc/d81/a01161.html#a07bae5684c94c72e71cae2f1cbde894a" title="beast::RandomAccessFile\l::isOpen" alt="" coords="677,311,853,358"/>
+<area shape="rect" id="node32" href="$d9/de7/a01257.html#acb75803e2914f94d988b1abd2eabc968" title="beast::Result::Result" alt="" coords="907,237,1053,267"/>
+<area shape="rect" id="node37" href="$d1/d88/a01578.html#adac6dac4898ce30d950e6e253fa47162" title="beast::String::isEmpty" alt="" coords="689,401,841,431"/>
+<area shape="rect" id="node42" href="$dc/d81/a01161.html#a46f08eb72bbafd8906aefe0ac5cc2ec8" title="beast::RandomAccessFile\l::nativeWrite" alt="" coords="453,331,629,378"/>
+</map>

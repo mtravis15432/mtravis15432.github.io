@@ -1,0 +1,13 @@
+<map id="beast::Range::Range" name="beast::Range::Range">
+<area shape="rect" id="node3" href="$d7/dd6/a01167.html#a30bc92657c625220ce349249df48865e" title="beast::Range::between" alt="" coords="232,5,389,35"/>
+<area shape="rect" id="node5" href="$d7/dd6/a01167.html#af455a77c637695d51d7ecb27e05356cf" title="beast::Range::emptyRange" alt="" coords="220,59,401,88"/>
+<area shape="rect" id="node7" href="$d7/dd6/a01167.html#a0c150f781179760cb4ce64e822322392" title="beast::Range::getIntersectionWith" alt="" coords="200,112,421,141"/>
+<area shape="rect" id="node9" href="$d7/dd6/a01167.html#a7edf02fc6b9b8a552cd0831c79f9ad0e" title="beast::Range::getUnionWith" alt="" coords="217,165,404,195"/>
+<area shape="rect" id="node11" href="$d7/dd6/a01167.html#a50a134e51c6362d25a18f7192eb82efa" title="beast::Range::movedToEndAt" alt="" coords="212,219,409,248"/>
+<area shape="rect" id="node13" href="$d7/dd6/a01167.html#a413c951c3f4851e0b0d1751280704302" title="beast::Range::movedToStartAt" alt="" coords="209,272,412,301"/>
+<area shape="rect" id="node15" href="$d7/dd6/a01167.html#aecf00a2c0e45cae1731bfbcbd9fecd4b" title="beast::Range::operator+" alt="" coords="229,325,392,355"/>
+<area shape="rect" id="node17" href="$d7/dd6/a01167.html#a701e8c58384d07a081e24fa128783f6e" title="beast::Range::operator&#45;" alt="" coords="232,379,389,408"/>
+<area shape="rect" id="node19" href="$d7/dd6/a01167.html#acaa5f6f20fe2a2bc335d200359bc5ff2" title="beast::Range::withEnd" alt="" coords="233,432,388,461"/>
+<area shape="rect" id="node21" href="$d7/dd6/a01167.html#afe8f755550a4d0e8389686eef9a551e8" title="beast::Range::withLength" alt="" coords="225,485,396,515"/>
+<area shape="rect" id="node23" href="$d7/dd6/a01167.html#ae2a2710ea926066898ecbfb1e459e1fb" title="beast::Range::withStart" alt="" coords="231,539,391,568"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rocksdb::HistogramImpl::Clear" name="rocksdb::HistogramImpl::Clear">
+<area shape="rect" id="node3" href="$d3/d4c/a01540.html#a1132d6205b631f3a0de6261174c7ff8f" title="rocksdb::Stats::Start" alt="" coords="217,36,359,65"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#abfcb38054090546686ac586b151e45e2" title="rocksdb::TEST" alt="" coords="233,89,343,119"/>
+<area shape="rect" id="node5" href="$d3/d4c/a01540.html#aab33d2bbf965b9f78bbcd91f36097158" title="rocksdb::Stats::Stats" alt="" coords="408,5,555,35"/>
+<area shape="rect" id="node7" href="$d8/d64/a00181.html#a3603aecc18abad678b7984bc43053df7" title="rocksdb::Benchmark\l::ThreadBody" alt="" coords="411,58,552,105"/>
+<area shape="rect" id="node9" href="$d8/d64/a00181.html#a914a888d9274d0651f49947310479464" title="rocksdb::Benchmark\l::RunBenchmark" alt="" coords="604,58,745,105"/>
+<area shape="rect" id="node11" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="796,67,969,96"/>
+<area shape="rect" id="node13" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1019,67,1069,96"/>
+</map>

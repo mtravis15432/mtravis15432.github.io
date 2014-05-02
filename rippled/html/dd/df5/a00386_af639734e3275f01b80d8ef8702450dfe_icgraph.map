@@ -1,0 +1,9 @@
+<map id="rocksdb::DBImpl::GetLatestSequenceNumber" name="rocksdb::DBImpl::GetLatestSequenceNumber">
+<area shape="rect" id="node3" href="$d0/d42/a01707.html#a99b39841bf9c872f5da623a1c375fdc3" title="rocksdb::TransactionLogIterator\lImpl::IsBatchExpected" alt="" coords="241,34,447,81"/>
+<area shape="rect" id="node11" href="$d0/d42/a01707.html#a1ad9efe3af953b0b543f5b092eaa27ac" title="rocksdb::TransactionLogIterator\lImpl::NextImpl" alt="" coords="1011,74,1216,121"/>
+<area shape="rect" id="node19" href="$d0/d42/a01707.html#a9cab26b8d260525506c0305219266425" title="rocksdb::TransactionLogIterator\lImpl::RestrictedRead" alt="" coords="497,98,703,145"/>
+<area shape="rect" id="node5" href="$d0/d42/a01707.html#a192e03a3528b78afa45054cc7beb6768" title="rocksdb::TransactionLogIterator\lImpl::UpdateCurrentWriteBatch" alt="" coords="497,29,703,75"/>
+<area shape="rect" id="node7" href="$d0/d42/a01707.html#a9cec532b9abaf9cc6aff4b1c649ceae5" title="rocksdb::TransactionLogIterator\lImpl::SeekToStartSequence" alt="" coords="753,43,959,90"/>
+<area shape="rect" id="node9" href="$d0/d42/a01707.html#a33ae4d3693b009471c7798c8e78fd317" title="rocksdb::TransactionLogIterator\lImpl::TransactionLogIteratorImpl" alt="" coords="1008,5,1219,51"/>
+<area shape="rect" id="node14" href="$d0/d42/a01707.html#a4fd4d2bb33d65b2f5ef5cd80b927c846" title="rocksdb::TransactionLogIterator\lImpl::Next" alt="" coords="1268,74,1473,121"/>
+</map>

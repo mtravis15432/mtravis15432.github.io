@@ -1,0 +1,6 @@
+<map id="ripple::PeerFinder::ConnectHandouts::full" name="ripple::PeerFinder::ConnectHandouts::full">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#ab0df69dd2ac34a4577f0fd3bc6e45e68" title="ripple::PeerFinder\l::Logic::autoconnect" alt="" coords="224,5,363,51"/>
+<area shape="rect" id="node9" href="$de/de9/a00322.html#a0969ac49969bf7ab92468af6072c8db1" title="ripple::PeerFinder\l::ConnectHandouts::try\l_insert" alt="" coords="215,75,372,139"/>
+<area shape="rect" id="node5" href="$df/da5/a00912.html#a8b21581187efd17c2b4660f74d4fbbc6" title="ripple::PeerFinder\l::Logic::periodicActivity" alt="" coords="423,5,580,51"/>
+<area shape="rect" id="node7" href="$d0/d5b/a00933.html#a7fbd188cedd1e8e63c8191e01da77540" title="ripple::PeerFinder\l::ManagerImp::onDeadlineTimer" alt="" coords="629,5,837,51"/>
+</map>

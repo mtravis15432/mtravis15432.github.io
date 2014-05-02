@@ -1,0 +1,19 @@
+<map id="ripple::core::OfferStream::step" name="ripple::core::OfferStream::step">
+<area shape="rect" id="node3" href="$d7/d46/a01045.html#a0a06d9159e9f0c690aa12f7aa9c87d99" title="ripple::core::Offer\l::account" alt="" coords="240,5,363,51"/>
+<area shape="rect" id="node5" href="$d7/d46/a01045.html#a8d8b16273568621674eed0abaed78608" title="ripple::core::Offer\l::amount" alt="" coords="240,74,363,121"/>
+<area shape="rect" id="node7" href="$dd/df3/a00219.html#a69dc34b0e8513de5a991c8b31af7c4d7" title="ripple::core::BookTip\l::entry" alt="" coords="231,143,372,190"/>
+<area shape="rect" id="node9" href="$d0/d22/a01049.html#a50b81c0ed8e45a60ea8613eac52424ab" title="ripple::core::OfferStream\l::erase" alt="" coords="219,213,384,259"/>
+<area shape="rect" id="node19" href="$d0/d08/a00832.html#a47e828204b1fc11c80899fadd55f4c63" title="ripple::LedgerEntrySet\l::offerDelete" alt="" coords="441,301,591,347"/>
+<area shape="rect" id="node22" href="$dd/df3/a00219.html#ab32cc3db3c8d3ef09ea042034ab5fa02" title="ripple::core::BookTip\l::quality" alt="" coords="231,402,372,449"/>
+<area shape="rect" id="node30" href="$dd/df3/a00219.html#a5ef802b7e2bdcc2a922b627804428ca3" title="ripple::core::BookTip\l::step" alt="" coords="231,333,372,379"/>
+<area shape="rect" id="node37" href="$d0/d22/a01049.html#a78dda46f1ab42d4de6cfcccef8b9c550" title="ripple::core::OfferStream\l::view" alt="" coords="219,471,384,518"/>
+<area shape="rect" id="node39" href="$d0/d22/a01049.html#add65c742e84a0f805e107e2ff80ac684" title="ripple::core::OfferStream\l::view_cancel" alt="" coords="219,541,384,587"/>
+<area shape="rect" id="node11" href="$dd/df3/a00219.html#aa3f901d35235733bb79934dc92df8262" title="ripple::core::BookTip::dir" alt="" coords="435,248,597,277"/>
+<area shape="rect" id="node13" href="$d0/d08/a00832.html#ad13594cf847a6c56ef479ee44ae3c329" title="ripple::LedgerEntrySet\l::entryCache" alt="" coords="649,301,799,347"/>
+<area shape="rect" id="node15" href="$d0/d08/a00832.html#a566a4d723aabbf98f55afc88f9159b18" title="ripple::LedgerEntrySet\l::entryModify" alt="" coords="441,58,591,105"/>
+<area shape="rect" id="node17" href="$dd/df3/a00219.html#a946656d1cae252176c0205485d660bcf" title="ripple::core::BookTip\l::index" alt="" coords="445,127,587,174"/>
+<area shape="rect" id="node24" href="$dd/d5f/a00825.html#ad8125a5566e9310f96db8d6d421e75d3" title="ripple::Ledger::getQuality" alt="" coords="433,491,599,520"/>
+<area shape="rect" id="node26" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="651,491,797,520"/>
+<area shape="rect" id="node28" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="849,491,999,520"/>
+<area shape="rect" id="node35" href="$dd/df3/a00219.html#a2bae1c2be55b46fa5c1c920ecafa2f33" title="ripple::core::BookTip\l::view" alt="" coords="445,421,587,467"/>
+</map>

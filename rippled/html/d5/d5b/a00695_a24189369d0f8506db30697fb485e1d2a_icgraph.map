@@ -1,0 +1,6 @@
+<map id="beast::HTTPVersion::vmajor" name="beast::HTTPVersion::vmajor">
+<area shape="rect" id="node3" href="$d5/d5b/a00695.html#ac234aa3965ab80444f3f43f50e3b5b91" title="beast::HTTPVersion\l::toString" alt="" coords="195,39,336,86"/>
+<area shape="rect" id="node5" href="$df/d1b/a00687.html#a884806c3791220aea0675e118a6780a4" title="beast::HTTPMessage\l::toString" alt="" coords="385,39,535,86"/>
+<area shape="rect" id="node7" href="$da/dd4/a00690.html#af7324f7ee124f759cc9691ca2fe704a3" title="beast::HTTPRequest\l::toString" alt="" coords="589,5,736,51"/>
+<area shape="rect" id="node9" href="$d3/dd2/a00693.html#af8c7bde800acea694a81199b2535ce87" title="beast::HTTPResponse\l::toString" alt="" coords="585,74,740,121"/>
+</map>

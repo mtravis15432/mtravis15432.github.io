@@ -1,0 +1,15 @@
+<map id="disconnectAllVtab" name="disconnectAllVtab">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="387,93,523,122"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="384,172,525,201"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#a27389b43aaf0bfa61d7f4ae78863ef2a" title="sqlite3VtabDisconnect" alt="" coords="183,249,335,278"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="948,173,1081,202"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="576,93,699,122"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="757,146,883,176"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="764,42,876,72"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="939,42,1091,72"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="575,146,700,176"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="391,326,519,356"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="587,340,688,369"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="749,352,891,381"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="969,377,1060,406"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="rippled/src/ripple_data" name="rippled/src/ripple_data">
+<area shape="rect" id="node5" href="dir_a8ba4e6bf0045f6e68b7c22f21cf487d.html" title="protocol" alt="" coords="37,161,109,209"/>
+<area shape="rect" id="edge22" href="dir_000186_000188.html" title="30" alt="" coords="107,145,122,162"/>
+<area shape="rect" id="node6" href="dir_2670a87fb6caf11d7df27c77b1b32c86.html" title="utility" alt="" coords="133,161,205,209"/>
+<area shape="rect" id="edge18" href="dir_000186_000189.html" title="1" alt="" coords="171,133,179,151"/>
+<area shape="rect" id="node7" href="dir_4f35c33c078d43bf932a768cedddad12.html" title="ripple_rpc" alt="" coords="237,161,315,209"/>
+<area shape="rect" id="edge16" href="dir_000186_000076.html" title="1" alt="" coords="235,134,243,152"/>
+<area shape="rect" id="node8" href="dir_d6ea1aade4acb187080cb9b8b5396b2e.html" title="ripple_basics" alt="" coords="339,161,437,209"/>
+<area shape="rect" id="edge20" href="dir_000186_000068.html" title="1" alt="" coords="321,141,329,158"/>
+<area shape="rect" id="node4" href="dir_c17f920c291b00567ab94cf9b5c49ad2.html" title="crypto" alt="" coords="51,257,123,305"/>
+<area shape="rect" id="node9" href="dir_3cbe579b62fb3b558711662b2d28c275.html" title="beast" alt="" coords="239,353,311,401"/>
+<area shape="rect" id="edge4" href="dir_000187_000002.html" title="1" alt="" coords="219,349,227,366"/>
+<area shape="rect" id="edge24" href="dir_000188_000187.html" title="1" alt="" coords="85,229,93,246"/>
+<area shape="rect" id="edge26" href="dir_000188_000002.html" title="7" alt="" coords="238,326,246,343"/>
+<area shape="rect" id="node10" href="dir_cce4fc1292c2c40b73b4e82743233d0b.html" title="ripple" alt="" coords="239,257,311,305"/>
+<area shape="rect" id="edge28" href="dir_000188_000008.html" title="1" alt="" coords="222,241,230,258"/>
+<area shape="rect" id="edge6" href="dir_000076_000008.html" title="1" alt="" coords="280,230,288,247"/>
+<area shape="rect" id="edge8" href="dir_000068_000002.html" title="19" alt="" coords="312,337,327,354"/>
+<area shape="rect" id="edge10" href="dir_000068_000008.html" title="2" alt="" coords="319,243,327,261"/>
+<area shape="rect" id="edge12" href="dir_000002_000008.html" title="3" alt="" coords="271,316,279,333"/>
+<area shape="rect" id="edge14" href="dir_000008_000002.html" title="40" alt="" coords="267,325,281,343"/>
+<area shape="rect" id="graph3" href="dir_207db89f4ead944cf6412d8e1438b426.html" alt="" coords="27,55,216,316"/>
+<area shape="rect" id="graph2" href="dir_7231cabff50aa2ecdbaa6a44d475491e.html" title="src" alt="" coords="16,16,227,327"/>
+</map>

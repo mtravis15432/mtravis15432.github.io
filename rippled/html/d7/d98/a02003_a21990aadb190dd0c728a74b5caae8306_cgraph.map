@@ -1,0 +1,10 @@
+<map id="test_simple" name="test_simple">
+<area shape="rect" id="node3" href="$d8/d24/a02001.html#a8a93ed79c5d48491b72945ce11f75f7f" title="http_errno_name" alt="" coords="145,5,263,35"/>
+<area shape="rect" id="node5" href="$d7/d98/a02003.html#a44b400d6e7f4f657e449f26c992c0ee8" title="parse" alt="" coords="177,59,231,88"/>
+<area shape="rect" id="node13" href="$d7/d98/a02003.html#a8c6f2c7c62704fd2d39f2979f11d35a3" title="parser_free" alt="" coords="161,112,247,141"/>
+<area shape="rect" id="node15" href="$d7/d98/a02003.html#aeb01cec0cce5a159ec43344ba5dd6d4f" title="parser_init" alt="" coords="163,165,245,195"/>
+<area shape="rect" id="node7" href="$d8/d24/a02001.html#a5034165465db6c488ce8b75fd0f72faf" title="http_parser_execute" alt="" coords="313,59,452,88"/>
+<area shape="rect" id="node9" href="$d8/d24/a02001.html#a55b76c7f4422dba1cbb2d8af509d727f" title="http_message_needs_eof" alt="" coords="501,32,672,61"/>
+<area shape="rect" id="node11" href="$d8/d24/a02001.html#a071073630afc28dbbc7caee3f4d9e451" title="parse_url_char" alt="" coords="533,85,640,115"/>
+<area shape="rect" id="node17" href="$d8/d24/a02001.html#afb37506e1c2601889b0c3181688960f0" title="http_parser_init" alt="" coords="328,165,437,195"/>
+</map>

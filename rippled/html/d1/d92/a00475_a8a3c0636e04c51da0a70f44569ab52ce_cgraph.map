@@ -1,0 +1,6 @@
+<map id="rocksdb::test::ErrorEnv::NewWritableFile" name="rocksdb::test::ErrorEnv::NewWritableFile">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc" title="rocksdb::Status::IOError" alt="" coords="231,5,393,35"/>
+<area shape="rect" id="node7" href="$db/db1/a00460.html#a2415186e0a399d70edabef9f477e4c47" title="rocksdb::Env::NewWritableFile" alt="" coords="211,59,413,88"/>
+<area shape="rect" id="node9" href="$d3/d5d/a00463.html#a412536aaca74e290242521f063910cdf" title="rocksdb::EnvWrapper\l::target" alt="" coords="239,111,385,158"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="461,5,621,35"/>
+</map>

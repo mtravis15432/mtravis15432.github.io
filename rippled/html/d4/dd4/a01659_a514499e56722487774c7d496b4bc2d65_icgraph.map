@@ -1,0 +1,11 @@
+<map id="ripple::NodeStore::TestBase::fetchCopyOfBatch" name="ripple::NodeStore::TestBase::fetchCopyOfBatch">
+<area shape="rect" id="node3" href="$d7/dce/a00143.html#abe867039738384301c305ba812b3fb3e" title="ripple::NodeStore::\lBackend_test::testBackend" alt="" coords="249,5,431,51"/>
+<area shape="rect" id="node7" href="$db/d23/a01025.html#acf4f062398552f1f4546028d449cc98d" title="ripple::NodeStore::\lNodeStoreTiming_test\l::testBackend" alt="" coords="264,75,416,139"/>
+<area shape="rect" id="node11" href="$d6/dcd/a01023.html#afd5e41e45b1a4d31ca7799198de20270" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::testImport" alt="" coords="256,163,424,227"/>
+<area shape="rect" id="node17" href="$d6/dcd/a01023.html#a3be580fa826ea50c7db919255b7f53bf" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::testNodeStore" alt="" coords="256,251,424,315"/>
+<area shape="rect" id="node5" href="$d7/dce/a00143.html#a5eb44e8ff6ec79bb76fb15329195eeff" title="ripple::NodeStore::\lBackend_test::run" alt="" coords="504,5,635,51"/>
+<area shape="rect" id="node9" href="$db/d23/a01025.html#af92a5af2d2440d48440fefdd259cc5b5" title="ripple::NodeStore::\lNodeStoreTiming_test::run" alt="" coords="480,83,659,130"/>
+<area shape="rect" id="node13" href="$d6/dcd/a01023.html#a8f4a54a687fb0da1316c62f8b908e6e6" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::runImportTests" alt="" coords="485,163,653,227"/>
+<area shape="rect" id="node15" href="$d6/dcd/a01023.html#a31410fb43d1bb5782eac2d76be3998ec" title="ripple::NodeStore::\lNodeStoreDatabase_test::run" alt="" coords="707,241,901,287"/>
+<area shape="rect" id="node20" href="$d6/dcd/a01023.html#aacd4e6f359d44807a1f8eade5b706d7c" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::runBackendTests" alt="" coords="485,301,653,365"/>
+</map>

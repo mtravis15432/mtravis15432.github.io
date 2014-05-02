@@ -1,0 +1,24 @@
+<map id="ripple::SerializedTransaction::getJson" name="ripple::SerializedTransaction::getJson">
+<area shape="rect" id="node3" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="516,111,641,158"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="757,5,856,35"/>
+<area shape="rect" id="node15" href="$d9/de4/a01346.html#a436d1b0b2d422540cd39c117f5f6816d" title="ripple::SerializedTransaction\l::getJson" alt="" coords="245,281,432,327"/>
+<area shape="rect" id="node32" href="$d9/de4/a01346.html#a501700305bfe6b71f1b8de263bdde43e" title="ripple::SerializedTransaction\l::getTransactionID" alt="" coords="485,342,672,389"/>
+<area shape="rect" id="node44" href="$de/d1a/a01559.html#ac76f0200658c88ce6e3929006647e08c" title="ripple::STObject::getSerializer" alt="" coords="241,401,436,431"/>
+<area shape="rect" id="node48" href="$da/d61/a01350.html#a460460eaf22f52170a4e451471f0c19c" title="ripple::Serializer\l::peekData" alt="" coords="281,454,396,501"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="744,111,869,158"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="732,59,881,88"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="943,120,1092,149"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="963,5,1072,35"/>
+<area shape="rect" id="node18" href="$de/d1a/a01559.html#a20e386b11943fda5fe9c67542e8f0e50" title="ripple::STObject::getJson" alt="" coords="493,289,664,319"/>
+<area shape="rect" id="node20" href="$d7/d57/a01348.html#a420d71c47a773cf368ab6d8e99152871" title="ripple::SerializedType\l::getSType" alt="" coords="733,181,880,227"/>
+<area shape="rect" id="node22" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="733,250,880,297"/>
+<area shape="rect" id="node24" href="$d7/d81/a01365.html#afcf28e489ecd5c0453e86e4d134afa45" title="ripple::SField::hasName" alt="" coords="725,320,888,349"/>
+<area shape="rect" id="node26" href="$d7/d57/a01348.html#af1869902e1ff733f983ee59b686894eb" title="ripple::SerializedType\l::getJson" alt="" coords="733,373,880,419"/>
+<area shape="rect" id="node30" href="$d7/d57/a01348.html#a933443458635aa9598529a530326af66" title="ripple::SerializedType\l::getName" alt="" coords="733,442,880,489"/>
+<area shape="rect" id="node28" href="$d7/d57/a01348.html#a7d77514b5e009bccd4de10303851a022" title="ripple::SerializedType\l::getText" alt="" coords="944,365,1091,411"/>
+<area shape="rect" id="node34" href="$de/d1a/a01559.html#a7a9cbb8d5e1266c782de1bb94998289e" title="ripple::STObject::getHash" alt="" coords="720,512,893,541"/>
+<area shape="rect" id="node36" href="$da/d61/a01350.html#a4f09dcca07217744f793fa7473e845fe" title="ripple::Serializer\l::add32" alt="" coords="960,434,1075,481"/>
+<area shape="rect" id="node38" href="$de/d1a/a01559.html#a85c374b955de23e00242029cb0bd4f74" title="ripple::STObject::add" alt="" coords="945,573,1089,603"/>
+<area shape="rect" id="node40" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="957,503,1077,550"/>
+<area shape="rect" id="node42" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="1141,503,1256,550"/>
+</map>

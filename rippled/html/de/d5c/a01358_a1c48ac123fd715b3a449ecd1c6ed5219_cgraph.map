@@ -1,0 +1,4 @@
+<map id="beast::ServiceQueueType::poll" name="beast::ServiceQueueType::poll">
+<area shape="rect" id="node3" href="$df/d10/a01357.html#adaf25f86c9bd0187727b9c9818c3db24" title="beast::ServiceQueueBase\l::poll" alt="" coords="228,5,401,51"/>
+<area shape="rect" id="node5" href="$df/d10/a01357.html#a5780cb0dd5b667b3f4b62ee53a9415bc" title="beast::ServiceQueueBase\l::dequeue" alt="" coords="452,5,625,51"/>
+</map>

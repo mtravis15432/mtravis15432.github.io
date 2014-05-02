@@ -1,0 +1,6 @@
+<map id="rocksdb::VersionSet::VersionSet" name="rocksdb::VersionSet::VersionSet">
+<area shape="rect" id="node3" href="$d1/d42/a01800.html#aa5b2b44d11b6085ed5deeb7a562d30a7" title="rocksdb::VersionSet\l::AppendVersion" alt="" coords="196,23,335,70"/>
+<area shape="rect" id="node9" href="$d1/d42/a01800.html#add78f5ab4cff29b479bed39a64406732" title="rocksdb::VersionSet\l::Init" alt="" coords="196,93,335,139"/>
+<area shape="rect" id="node5" href="$d4/dd1/a01797.html#a54bd122a7534f61aeddf599ddf2dd45d" title="rocksdb::Version::Unref" alt="" coords="384,5,544,35"/>
+<area shape="rect" id="node7" href="$d4/dd1/a01797.html#af720448137d10341732ca283eefe0bd2" title="rocksdb::Version::Ref" alt="" coords="389,59,539,88"/>
+</map>

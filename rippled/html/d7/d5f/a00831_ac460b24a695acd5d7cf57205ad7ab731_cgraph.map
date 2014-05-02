@@ -1,0 +1,9 @@
+<map id="ripple::LedgerConsensusImp::closeLedger" name="ripple::LedgerConsensusImp::closeLedger">
+<area shape="rect" id="node3" href="$d1/de6/a00837.html#a719c8f28d77bb4f314b4527e90299f85" title="ripple::LedgerMaster\l::closeLedger" alt="" coords="244,5,383,51"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="263,75,364,104"/>
+<area shape="rect" id="node9" href="$dd/dac/a01008.html#aeeadbf915d62f00319ce782da0990567" title="ripple::NetworkOPs\l::getCloseTimeNC" alt="" coords="245,127,381,174"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="251,197,376,243"/>
+<area shape="rect" id="node13" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="251,266,376,313"/>
+<area shape="rect" id="node15" href="$dd/dac/a01008.html#a939df1934a5e67c2fee0583676e0cf24" title="ripple::NetworkOPs\l::setLastCloseTime" alt="" coords="245,335,381,382"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="433,66,609,113"/>
+</map>

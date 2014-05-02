@@ -1,0 +1,7 @@
+<map id="rocksdb::ExpectRecords" name="rocksdb::ExpectRecords">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a889b5ea655bdaf92a410271a80aaa113" title="rocksdb::ReadRecords" alt="" coords="223,117,377,147"/>
+<area shape="rect" id="node5" href="$db/dbe/a01706.html#abf49d190ae6319233225f904a75ee916" title="rocksdb::TransactionLogIterator\l::Valid" alt="" coords="428,5,633,51"/>
+<area shape="rect" id="node7" href="$db/dbe/a01706.html#a10bcfd9c9a00bdd7e5fd80e765ec8242" title="rocksdb::TransactionLogIterator\l::GetBatch" alt="" coords="428,74,633,121"/>
+<area shape="rect" id="node9" href="$db/dbe/a01706.html#a5ec1a9b846562af9b5ac775b3855d654" title="rocksdb::TransactionLogIterator\l::status" alt="" coords="428,143,633,190"/>
+<area shape="rect" id="node11" href="$db/dbe/a01706.html#a6055689c7f0fa7f87fc5be036eb2a00e" title="rocksdb::TransactionLogIterator\l::Next" alt="" coords="428,213,633,259"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="sqlite3BtreeCopyFile" name="sqlite3BtreeCopyFile">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="425,56,548,85"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a91f9dbfdbf95d6d9b955d1c7648b9fc1" title="sqlite3BtreeGetPageSize" alt="" coords="197,267,365,296"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#af38624e008e0a0e872a21934b7c75a42" title="sqlite3BtreeIsInTrans" alt="" coords="413,163,560,192"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#ad098765ff19e404329c836462c185d95" title="sqlite3BtreeLastPage" alt="" coords="208,320,355,349"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="424,109,549,139"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#aa0b1925984c0d8606d760b8fa27a4d7c" title="sqlite3BtreePager" alt="" coords="219,373,344,403"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#aa8dad928f8e52b454c6d82bd2fe5c3fc" title="sqlite3OsFileControl" alt="" coords="212,427,351,456"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#a4a63ac64849ad46ad5a539332c43f494" title="sqlite3PagerClearCache" alt="" coords="200,213,363,243"/>
+<area shape="rect" id="node48" href="$da/d6b/a02352.html#a4994718ae281ffc714aa975c5b9b359d" title="sqlite3PagerFile" alt="" coords="224,480,339,509"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="813,109,947,139"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="619,109,744,139"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="625,5,737,35"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="804,5,956,35"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="431,320,543,349"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="441,216,532,245"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#a51c915452a70527bce99483f8eac02b8" title="sqlite3BackupRestart" alt="" coords="608,213,755,243"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#ae4bcea77d6c756c9ad6ef25739172928" title="sqlite3PcacheClear" alt="" coords="615,267,748,296"/>
+<area shape="rect" id="node40" href="$da/d6b/a02352.html#aa25da46a83609c408a14977a087af782" title="sqlite3PcacheTruncate" alt="" coords="803,267,957,296"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#ac00d8abc5cdfaa4da090c03d2b24711c" title="sqlite3PcacheMakeClean" alt="" coords="1005,267,1176,296"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#abeed5ab58c7f6b9f9683e39a53a5a8f7" title="pcacheRemoveFromDirtyList" alt="" coords="1224,240,1416,269"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#a76530dde0f26366c0614d713daf9859c" title="pcacheUnpin" alt="" coords="1271,293,1369,323"/>
+</map>

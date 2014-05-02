@@ -1,0 +1,6 @@
+<map id="rocksdb::MergeOperators::CreateFromStringId" name="rocksdb::MergeOperators::CreateFromStringId">
+<area shape="rect" id="node3" href="$db/dbf/a00975.html#ad9603085b9c846fef61b60aa0c465484" title="rocksdb::MergeOperators\l::CreatePutOperator" alt="" coords="256,5,424,51"/>
+<area shape="rect" id="node5" href="$db/dbf/a00975.html#a38aa557d551d6ca4b0f25f8db12b072f" title="rocksdb::MergeOperators\l::CreateStringAppendOperator" alt="" coords="241,74,439,121"/>
+<area shape="rect" id="node7" href="$db/dbf/a00975.html#a9b90942c2cd08358c2676aa8fce55bb5" title="rocksdb::MergeOperators\l::CreateStringAppendTESTOperator" alt="" coords="225,143,455,190"/>
+<area shape="rect" id="node9" href="$db/dbf/a00975.html#ad937a8aed1925b3dee1e35c2e889fc65" title="rocksdb::MergeOperators\l::CreateUInt64AddOperator" alt="" coords="249,213,431,259"/>
+</map>

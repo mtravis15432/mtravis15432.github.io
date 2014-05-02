@@ -1,0 +1,6 @@
+<map id="ripple::JobTypeInfo::name" name="ripple::JobTypeInfo::name">
+<area shape="rect" id="node3" href="$d3/d00/a00785.html#ab39ac1ca97d101cf2b673d5b321c6118" title="ripple::JobTypeData\l::JobTypeData" alt="" coords="187,5,325,51"/>
+<area shape="rect" id="node5" href="$d3/d00/a00785.html#a32402dbaea601fce4a8dea39a5523c4b" title="ripple::JobTypeData\l::name" alt="" coords="187,74,325,121"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#a87809b2191b20b53d701ac2deec4f129" title="ripple::JobQueueImp\l::getJson" alt="" coords="375,39,516,86"/>
+<area shape="rect" id="node9" href="$d9/d00/a00784.html#a7666704c0d51e837f890bd5df81dfa03" title="ripple::JobQueueImp\l::processTask" alt="" coords="375,109,516,155"/>
+</map>

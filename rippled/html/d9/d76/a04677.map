@@ -1,0 +1,7 @@
+<map id="rippled/src/ripple/rocksdb/rocksdb/util/posix_logger.h" name="rippled/src/ripple/rocksdb/rocksdb/util/posix_logger.h">
+<area shape="rect" id="node3" href="$d8/dd0/a02711.html" title="rippled/src/ripple\l/rocksdb/rocksdb/util\l/auto_roll_logger.h" alt="" coords="168,117,309,181"/>
+<area shape="rect" id="node11" href="$d1/d58/a02731.html" title="rippled/src/ripple\l/rocksdb/rocksdb/util\l/env_posix.cc" alt="" coords="333,117,475,181"/>
+<area shape="rect" id="node5" href="$db/d44/a02564.html" title="rippled/src/ripple\l/rocksdb/rocksdb/db\l/db_impl.cc" alt="" coords="5,229,144,293"/>
+<area shape="rect" id="node7" href="$d9/d6c/a02710.html" title="rippled/src/ripple\l/rocksdb/rocksdb/util\l/auto_roll_logger.cc" alt="" coords="168,229,309,293"/>
+<area shape="rect" id="node9" href="$df/dc7/a02712.html" title="rippled/src/ripple\l/rocksdb/rocksdb/util\l/auto_roll_logger_test.cc" alt="" coords="333,229,496,293"/>
+</map>

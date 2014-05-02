@@ -1,0 +1,13 @@
+<map id="beast::asio::HandshakeDetectLogic::conclude" name="beast::asio::HandshakeDetectLogic::conclude">
+<area shape="rect" id="node3" href="$d7/d80/a00614.html#ab413c87ad6dfe738965d89288c641f5d" title="beast::asio::HandshakeDetect\lLogicSSL3::analyze" alt="" coords="503,146,700,193"/>
+<area shape="rect" id="node5" href="$d1/d6e/a00613.html#ad665cd5b4726fca7ec50f0b8c114a2bb" title="beast::asio::HandshakeDetect\lLogicSSL2::analyze" alt="" coords="503,285,700,331"/>
+<area shape="rect" id="node7" href="$d0/d8d/a00612.html#a165e4d3ba15b439be143c241ebb512d1" title="beast::asio::HandshakeDetect\lLogicPROXY::analyze" alt="" coords="255,335,452,382"/>
+<area shape="rect" id="node9" href="$dd/dc0/a00611.html#a6d83d82212dfae62d2950d8384137480" title="beast::asio::HandshakeDetect\lLogic::fail" alt="" coords="255,215,452,262"/>
+<area shape="rect" id="node13" href="$d7/d60/a00816.html#a7338a0a53f5bf16336167c7e0ca778e4" title="ldb_test.LDBTestCase.assert\lRunFAILFull" alt="" coords="504,215,699,262"/>
+<area shape="rect" id="node15" href="$d7/d60/a00816.html#a55015605b7eb31e8be935670fef962e3" title="ldb_test.LDBTestCase.assert\lRunFAIL" alt="" coords="749,178,944,225"/>
+<area shape="rect" id="node21" href="$d7/d60/a00816.html#ae35ad3e6868faedc26a3efbdd6f5acf6" title="ldb_test.LDBTestCase.test\lInvalidCmdLines" alt="" coords="992,306,1173,353"/>
+<area shape="rect" id="node17" href="$d7/d60/a00816.html#a42dadcc2e8777a2e12180e0a5d6b2a06" title="ldb_test.LDBTestCase.test\lSimpleStringPutGet" alt="" coords="992,5,1173,51"/>
+<area shape="rect" id="node19" href="$d7/d60/a00816.html#a4318da7c1c69df961753ba315520b17d" title="ldb_test.LDBTestCase.test\lStringBatchPut" alt="" coords="992,74,1173,121"/>
+<area shape="rect" id="node24" href="$d7/d60/a00816.html#a9c86975d92c256413235c0dcb966af2f" title="ldb_test.LDBTestCase.test\lHexPutGet" alt="" coords="992,143,1173,190"/>
+<area shape="rect" id="node26" href="$d7/d60/a00816.html#a1b02ca383bf2123d944ad6c83cb29db6" title="ldb_test.LDBTestCase.test\lTtlPutGet" alt="" coords="992,213,1173,259"/>
+</map>

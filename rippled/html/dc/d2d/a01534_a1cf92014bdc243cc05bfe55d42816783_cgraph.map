@@ -1,0 +1,11 @@
+<map id="beast::StaticObject::get" name="beast::StaticObject::get">
+<area shape="rect" id="node3" href="$d7/d06/a00131.html#a41f21d4a7146b3b26e41ae8e16ce086e" title="beast::Atomic::compareAnd\lSetBool" alt="" coords="221,15,405,62"/>
+<area shape="rect" id="node5" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="249,85,377,115"/>
+<area shape="rect" id="node11" href="$d4/d62/a01531.html#a682303b543b87e84c5b3965c2679e6f2" title="beast::StaticObject\l::StaticData::get" alt="" coords="247,139,380,186"/>
+<area shape="rect" id="node15" href="$d6/d18/a03350.html#a619729cb57becc14c98d1a7799abbf63" title="beast::detail::staticObjectWait" alt="" coords="215,213,412,243"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="461,5,627,51"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="461,74,627,121"/>
+<area shape="rect" id="node13" href="$d4/d62/a01531.html#a4b11344b294532a4412e2d031b0714a0" title="beast::StaticObject\l::StaticData::StaticData" alt="" coords="463,143,625,190"/>
+<area shape="rect" id="node17" href="$d6/d53/a01688.html#a6ba3125156c6538ba6fd308c4c2a5978" title="beast::Thread::yield" alt="" coords="476,213,612,243"/>
+<area shape="rect" id="node19" href="$d6/d53/a01688.html#a55db77995760cf1a29a154ae57dc9d8d" title="beast::Thread::sleep" alt="" coords="473,267,615,296"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d7/d70/a00106.html#a52cd0a1558ce9454012b46804b9ed45b" title="rocksdb::ArenaImpl\l::Allocate" alt="" coords="181,5,315,51"/>
+<area shape="rect" id="node9" href="$d7/d70/a00106.html#abcae23ff4e2cc3ca4f30867c8c25fe07" title="rocksdb::ArenaImpl\l::MemoryAllocatedBytes" alt="" coords="165,74,331,121"/>
+<area shape="rect" id="node5" href="$d7/d70/a00106.html#a1771f8deee06ef37d188dc707dbc4201" title="rocksdb::ArenaImpl\l::AllocateFallback" alt="" coords="380,5,513,51"/>
+<area shape="rect" id="node7" href="$d7/d70/a00106.html#ab2562aa7f51cb004e5f240378f68f36f" title="rocksdb::ArenaImpl\l::AllocateNewBlock" alt="" coords="564,5,700,51"/>
+</map>

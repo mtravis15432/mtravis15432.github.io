@@ -1,0 +1,6 @@
+<map id="beast::asio::abstract_socket::async_read_some" name="beast::asio::abstract_socket::async_read_some">
+<area shape="rect" id="node3" href="$d5/d9d/a03343.html#ae1c9014199c29fe953abd1778034e222" title="beast::asio::bind_handler" alt="" coords="243,5,408,35"/>
+<area shape="rect" id="node5" href="$d1/d84/a00052.html#a9bbd269034a5d0f9e521c84c8ce59c4e" title="beast::asio::abstract\l_socket::get_io_service" alt="" coords="245,58,405,105"/>
+<area shape="rect" id="node9" href="$d1/d84/a00052.html#a8a4c3fb53814b654b4a49a45c876db91" title="beast::asio::abstract\l_socket::pure_virtual_error" alt="" coords="237,127,413,174"/>
+<area shape="rect" id="node7" href="$d1/d84/a00052.html#a0986a84d71be04533b868dd501956405" title="beast::asio::abstract\l_socket::pure_virtual\l_called" alt="" coords="463,84,604,148"/>
+</map>

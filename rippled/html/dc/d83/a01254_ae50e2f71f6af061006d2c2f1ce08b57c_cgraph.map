@@ -1,0 +1,6 @@
+<map id="ripple::ResolverAsioImpl::stop" name="ripple::ResolverAsioImpl::stop">
+<area shape="rect" id="node3" href="$dc/d83/a01254.html#a1d5294660b4ac73d50c2d47b22ef757d" title="ripple::ResolverAsioImpl\l::stop_async" alt="" coords="220,5,383,51"/>
+<area shape="rect" id="node9" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="228,74,375,121"/>
+<area shape="rect" id="node5" href="$dc/d83/a01254.html#aabbcc518951e6b569fdbbe42dacd242c" title="ripple::ResolverAsioImpl\l::do_stop" alt="" coords="433,5,596,51"/>
+<area shape="rect" id="node7" href="$d7/d12/a00126.html#ad9b82cfd4d734f5ac0ddf5e157d689ce" title="beast::asio::AsyncObject\l\&lt; ResolverAsioImpl \&gt;::removeReference" alt="" coords="647,5,905,51"/>
+</map>

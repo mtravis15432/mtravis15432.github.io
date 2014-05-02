@@ -1,0 +1,13 @@
+<map id="ripple::STAmount::getNValue" name="ripple::STAmount::getNValue">
+<area shape="rect" id="node3" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="257,109,425,155"/>
+<area shape="rect" id="node13" href="$da/d0e/a01720.html#a2b9fb48a88531be86cd60b350564c7aa" title="ripple::TrustSetTransactor\l::doApply" alt="" coords="255,178,428,225"/>
+<area shape="rect" id="node15" href="$da/d73/a01090.html#a7ad4cccf4a91ff162dc862e5222cf0c6" title="ripple::PaymentTransactor\l::doApply" alt="" coords="255,247,428,294"/>
+<area shape="rect" id="node17" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="247,317,436,363"/>
+<area shape="rect" id="node19" href="$d8/d52/a00729.html#add491412a714041038ea9bd8e9acda1b" title="ripple::Script::Interpreter\l::interpret" alt="" coords="260,386,423,433"/>
+<area shape="rect" id="node21" href="$d6/d51/a01494.html#a5df91f39cc08e9e9c648546f2c472738" title="ripple::STAmount_test\l::testSetValue" alt="" coords="265,455,417,502"/>
+<area shape="rect" id="node5" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="512,5,648,51"/>
+<area shape="rect" id="node7" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="487,74,673,121"/>
+<area shape="rect" id="node9" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="499,143,661,190"/>
+<area shape="rect" id="node11" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="499,213,661,259"/>
+<area shape="rect" id="node23" href="$d6/d51/a01494.html#a2fed37e27754e534db456868751ba2eb" title="ripple::STAmount_test::run" alt="" coords="491,464,669,493"/>
+</map>

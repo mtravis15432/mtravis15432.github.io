@@ -1,0 +1,12 @@
+<map id="beast::MemoryOutputStream::prepareToWrite" name="beast::MemoryOutputStream::prepareToWrite">
+<area shape="rect" id="node3" href="$d5/d83/a03337.html#a850600d8d5274c00146bd55444cc1e82" title="beast::bmax" alt="" coords="271,5,364,35"/>
+<area shape="rect" id="node5" href="$d5/d83/a03337.html#a9747ec397aa1236065057d64c2364e20" title="beast::bmin" alt="" coords="272,59,363,88"/>
+<area shape="rect" id="node7" href="$da/d45/a00961.html#afa421c383bdc8e6528954b3ef0e004c7" title="beast::MemoryBlock\l::ensureSize" alt="" coords="247,111,388,158"/>
+<area shape="rect" id="node19" href="$da/d45/a00961.html#ad492ba4c9db3b015ac799cbfe500ef3c" title="beast::MemoryBlock\l::getData" alt="" coords="247,181,388,227"/>
+<area shape="rect" id="node21" href="$da/d45/a00961.html#a8aa3eee25fc5d0599c960b705d5ddced" title="beast::MemoryBlock\l::getSize" alt="" coords="247,250,388,297"/>
+<area shape="rect" id="node9" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="439,111,580,158"/>
+<area shape="rect" id="node11" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="636,40,815,69"/>
+<area shape="rect" id="node13" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="637,93,813,123"/>
+<area shape="rect" id="node15" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="631,147,820,176"/>
+<area shape="rect" id="node17" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="668,200,783,229"/>
+</map>

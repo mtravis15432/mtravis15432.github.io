@@ -1,0 +1,12 @@
+<map id="ripple::TransactionEngine::getLedger" name="ripple::TransactionEngine::getLedger">
+<area shape="rect" id="node3" href="$d8/df7/a01711.html#ac2faaa3bfd1c9b9f91ae24f367474d0f" title="ripple::Transactor\l::apply" alt="" coords="499,44,621,90"/>
+<area shape="rect" id="node5" href="$d8/df7/a01711.html#a5c91d4c75c8c30c402513f254f299931" title="ripple::Transactor\l::calculateFee" alt="" coords="259,44,381,90"/>
+<area shape="rect" id="node8" href="$d8/df7/a01711.html#abf74bc5b813b1ba1e03d6b8e8efdc2a7" title="ripple::Transactor\l::checkSeq" alt="" coords="259,113,381,160"/>
+<area shape="rect" id="node11" href="$da/d0e/a01720.html#a2b9fb48a88531be86cd60b350564c7aa" title="ripple::TrustSetTransactor\l::doApply" alt="" coords="233,182,407,229"/>
+<area shape="rect" id="node13" href="$d6/dc4/a01816.html#a59e0f5c535a390c88a701741af7e573a" title="ripple::WalletAddTransactor\l::doApply" alt="" coords="229,252,411,298"/>
+<area shape="rect" id="node15" href="$da/d73/a01090.html#a7ad4cccf4a91ff162dc862e5222cf0c6" title="ripple::PaymentTransactor\l::doApply" alt="" coords="233,321,407,368"/>
+<area shape="rect" id="node17" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="705,429,895,476"/>
+<area shape="rect" id="node19" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="239,441,401,488"/>
+<area shape="rect" id="node21" href="$d5/de7/a01048.html#ad23ce85477cc840bf3d7a8210a31d1d9" title="ripple::OfferCreateTransactor\l::isValidOffer" alt="" coords="225,510,415,557"/>
+<area shape="rect" id="node23" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="465,476,655,522"/>
+</map>

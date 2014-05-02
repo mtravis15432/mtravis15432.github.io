@@ -1,0 +1,16 @@
+<map id="functionDestroy" name="functionDestroy">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a686d432574e951a7205c7fe113c93fe2" title="sqlite3CreateFunc" alt="" coords="199,112,327,141"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="169,237,356,283"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a8d807e0e5709528765edfc75696dbdb5" title="sqlite3RegisterLikeFunctions" alt="" coords="407,5,596,35"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#aea30a470c3e6fcd38c0399fd348ce7c2" title="sqlite3_create_function_v2" alt="" coords="413,59,589,88"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#a8751bf4e2e9dbc53f2df8c00a53b3ace" title="sqlite3_create_function16" alt="" coords="416,112,587,141"/>
+<area shape="rect" id="node17" href="$d1/db9/a02353.html#a03692933621e0b16a4a02e1e426cf318" title="sqlite3_overload_function" alt="" coords="417,165,585,195"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="653,5,757,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="813,5,896,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a90682707dee89aba38039bf7848c09d4" title="sqlite3Parser" alt="" coords="944,5,1043,35"/>
+<area shape="rect" id="node21" href="$d1/db9/a02353.html#a176857dd58d99be53b6d7305533e0048" title="sqlite3_backup_finish" alt="" coords="428,219,575,248"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="448,272,555,301"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#aa9f2e73837bba8d721dbde0964ffce11" title="sqlite3Close" alt="" coords="455,325,548,355"/>
+<area shape="rect" id="node27" href="$d1/db9/a02353.html#ac43c9032fc6ef3b2a231dc3a9fa44b2d" title="sqlite3_close" alt="" coords="656,299,755,328"/>
+<area shape="rect" id="node29" href="$d1/db9/a02353.html#ad2cb8462eaba28b4c8410ef55a4282b4" title="sqlite3_close_v2" alt="" coords="647,352,764,381"/>
+</map>

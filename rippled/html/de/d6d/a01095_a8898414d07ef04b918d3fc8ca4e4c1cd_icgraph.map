@@ -1,0 +1,6 @@
+<map id="ripple::HTTP::Peer::handle_request" name="ripple::HTTP::Peer::handle_request">
+<area shape="rect" id="node3" href="$de/d6d/a01095.html#a97db3c238ed12fc7831043c46e849bc2" title="ripple::HTTP::Peer\l::handle_read" alt="" coords="184,5,315,51"/>
+<area shape="rect" id="node5" href="$de/d6d/a01095.html#a30abd2c4146c1e9ace5ee92b097571ae" title="ripple::HTTP::Peer\l::async_read_some" alt="" coords="363,5,499,51"/>
+<area shape="rect" id="node7" href="$de/d6d/a01095.html#ae8da3a80f3810371c829890d096f5b31" title="ripple::HTTP::Peer\l::handle_accept" alt="" coords="733,5,864,51"/>
+<area shape="rect" id="node9" href="$de/d6d/a01095.html#ad0bae3d2a7941e6ed8865f3b06f86e61" title="ripple::HTTP::Peer\l::handle_handshake" alt="" coords="547,34,685,81"/>
+</map>

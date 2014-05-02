@@ -1,0 +1,5 @@
+<map id="rocksdb::VersionSet::UpdateFilesBySize" name="rocksdb::VersionSet::UpdateFilesBySize">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a97c47fe7cbf010994c2307a711b9390c" title="rocksdb::compareSeqnoDescending" alt="" coords="197,5,429,35"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a85ba2149b92b235f96db65279922b7a2" title="rocksdb::compareSizeDescending" alt="" coords="203,59,424,88"/>
+<area shape="rect" id="node7" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="244,111,383,158"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="beast::CharPointer_UTF8::writeWithCharLimit" name="beast::CharPointer_UTF8::writeWithCharLimit">
+<area shape="rect" id="node3" href="$dc/d42/a01591.html#ae40d18975b4ed907a45c5d398efeef34" title="beast::StringHolder\l::createFromCharPointer" alt="" coords="236,5,401,51"/>
+<area shape="rect" id="node5" href="$dc/d42/a01591.html#a8b7214fc0c00f141f5e0f962cc649673" title="beast::StringHolder\l::createFromFixedLength" alt="" coords="236,74,401,121"/>
+<area shape="rect" id="node17" href="$d1/d88/a01578.html#a3c5cbd3b246245a8921374d49d6a5c4c" title="beast::String::operator+=" alt="" coords="236,144,401,173"/>
+<area shape="rect" id="node7" href="$d4/d56/a01042.html#ab0f62e9ad2dc8011090a3cc37e01d63e" title="beast::NumberToStringConverters\l::createFromFixedLength" alt="" coords="451,74,672,121"/>
+<area shape="rect" id="node9" href="$d4/d56/a01042.html#a3abd88ef2938c66c70582b80b7a81e35" title="beast::NumberToStringConverters\l::createFromInteger" alt="" coords="720,39,941,86"/>
+<area shape="rect" id="node13" href="$d4/d56/a01042.html#a6a9b5f33b220284207f96805bbec4e0e" title="beast::NumberToStringConverters\l::createFromDouble" alt="" coords="720,109,941,155"/>
+<area shape="rect" id="node11" href="$d1/d88/a01578.html#ab90d0c3996ec8bb963898e6909bd4003" title="beast::String::fromNumber" alt="" coords="989,48,1165,77"/>
+<area shape="rect" id="node15" href="$d1/d88/a01578.html#a74d9595477d1249a41f3391997e8487c" title="beast::String::fromNumber" alt="" coords="989,117,1165,147"/>
+</map>

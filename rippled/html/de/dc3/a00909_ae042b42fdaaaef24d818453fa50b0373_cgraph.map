@@ -1,0 +1,8 @@
+<map id="ripple::Resource::Logic::isWhitelisted" name="ripple::Resource::Logic::isWhitelisted">
+<area shape="rect" id="node3" href="$d2/d7f/a03369.html#a0a2f19c5d2d5c88d53996c2df2d3eaf0" title="beast::IP::is_public" alt="" coords="212,75,345,104"/>
+<area shape="rect" id="node5" href="$d9/db3/a00066.html#a9151824ddc4a9a6886c10054d8f53d7c" title="beast::IP::AddressV4\l::broadcast" alt="" coords="399,5,545,51"/>
+<area shape="rect" id="node9" href="$d2/d7f/a03369.html#a5ccebc5994566542ca44793961dbd324" title="beast::IP::is_multicast" alt="" coords="396,75,548,104"/>
+<area shape="rect" id="node11" href="$d2/d7f/a03369.html#a25de154b027e488d8e4be8362e6b6927" title="beast::IP::is_private" alt="" coords="403,128,541,157"/>
+<area shape="rect" id="node7" href="$d9/db3/a00066.html#ad1c90b9bc49455786e2d95022b695c02" title="beast::IP::AddressV4\l::AddressV4" alt="" coords="600,5,747,51"/>
+<area shape="rect" id="node13" href="$d2/d7f/a03369.html#abe52052bf8ee760f14bdf9c06e398212" title="beast::IP::is_loopback" alt="" coords="597,128,749,157"/>
+</map>

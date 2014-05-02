@@ -1,0 +1,6 @@
+<map id="beast::IP::is_unspecified" name="beast::IP::is_unspecified">
+<area shape="rect" id="node3" href="$d2/d7f/a03369.html#ab56ae9d3b6003bad39bea158b35d8d67" title="beast::IP::is_unspecified" alt="" coords="223,5,388,35"/>
+<area shape="rect" id="node5" href="$de/de1/a00065.html#a2de4e66f4905e763fd3cf277600af6e2" title="beast::IP::Address\l::is_v4" alt="" coords="240,58,371,105"/>
+<area shape="rect" id="node7" href="$de/de1/a00065.html#abdece011772a8923fe4b8e719e3f3141" title="beast::IP::Address\l::to_v4" alt="" coords="240,127,371,174"/>
+<area shape="rect" id="node9" href="$de/de1/a00065.html#ae538ff5b45a50d397663922f8e0b43aa" title="beast::IP::Address\l::to_v6" alt="" coords="240,197,371,243"/>
+</map>

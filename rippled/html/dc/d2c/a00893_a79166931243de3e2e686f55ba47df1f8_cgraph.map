@@ -1,0 +1,14 @@
+<map id="ripple::LoadMonitor::addLoadSample" name="ripple::LoadMonitor::addLoadSample">
+<area shape="rect" id="node3" href="$d7/d92/a00887.html#a5808871ced421cf97cb80a8dfcccb024" title="ripple::LoadEvent::\lgetSecondsRunning" alt="" coords="199,5,337,51"/>
+<area shape="rect" id="node5" href="$d7/d92/a00887.html#af7cb3a5d3c256fe9df45eb654cb14d37" title="ripple::LoadEvent::\lgetSecondsTotal" alt="" coords="203,74,333,121"/>
+<area shape="rect" id="node7" href="$d7/d92/a00887.html#adc2f75184575b0824e7cee0400e30f1b" title="ripple::LoadEvent::\lgetSecondsWaiting" alt="" coords="201,143,335,190"/>
+<area shape="rect" id="node9" href="$dc/d2c/a00893.html#a68cc6887260f868fd2db597c66414fbc" title="ripple::LoadMonitor\l::LoadMonitor" alt="" coords="203,213,333,259"/>
+<area shape="rect" id="node11" href="$d7/d92/a00887.html#adc3548f40f0be7e74f254f746ac80b91" title="ripple::LoadEvent::name" alt="" coords="187,283,349,312"/>
+<area shape="rect" id="node13" href="$dc/d2c/a00893.html#a5fc6f4367a1f320e7e9700e65de752be" title="ripple::LoadMonitor\l::printElapsed" alt="" coords="203,335,333,382"/>
+<area shape="rect" id="node15" href="$dc/d2c/a00893.html#afcec995204526bb7450681a1a055a7b2" title="ripple::LoadMonitor\l::update" alt="" coords="203,405,333,451"/>
+<area shape="rect" id="node17" href="$df/d7b/a01765.html#ac9f8c7e22a8eb347f4be7596bd712d01" title="ripple::UptimeTimer\l::getInstance" alt="" coords="403,370,539,417"/>
+<area shape="rect" id="node19" href="$df/d7b/a01765.html#aeeb43cebafc02bf5d46cb2bfbcd20444" title="ripple::UptimeTimer\l::getElapsedSeconds" alt="" coords="397,439,544,486"/>
+<area shape="rect" id="node21" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="592,448,739,477"/>
+<area shape="rect" id="node23" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="787,448,973,477"/>
+<area shape="rect" id="node25" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="1021,439,1187,486"/>
+</map>

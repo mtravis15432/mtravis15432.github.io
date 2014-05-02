@@ -1,0 +1,15 @@
+<map id="beast::SemanticVersion::chopIdentifiers" name="beast::SemanticVersion::chopIdentifiers">
+<area shape="rect" id="node3" href="$d9/d1b/a01583.html#ae24095cd645d46ff403aa5933df44029" title="beast::StringArray::add" alt="" coords="220,5,375,35"/>
+<area shape="rect" id="node5" href="$db/dec/a01337.html#ad051dcee3e3d35949b530c6fc430e666" title="beast::SemanticVersion\l::chop" alt="" coords="217,109,377,155"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#a0f26ba48e146890e3ea290b726679810" title="beast::String::length" alt="" coords="447,60,585,89"/>
+<area shape="rect" id="node17" href="$db/dec/a01337.html#aa926658944d177efbbff9041af024ea0" title="beast::SemanticVersion\l::chopIdentifier" alt="" coords="217,178,377,225"/>
+<area shape="rect" id="node11" href="$d1/d88/a01578.html#aaf18b9cb373aa722d59a4a5f701a7300" title="beast::String::startsWith" alt="" coords="435,113,597,143"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#a51b6c08a63652de5e8c66517483fa2b9" title="beast::String::substring" alt="" coords="437,167,595,196"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a46bd4590bbb4c1324dd621fa54d94652" title="beast::CharPointer\l_UTF8::length" alt="" coords="685,51,816,98"/>
+<area shape="rect" id="node15" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="685,150,816,197"/>
+<area shape="rect" id="node19" href="$d1/d88/a01578.html#a2032972f6e378d28571d935fbd24a5a1" title="beast::String::charToString" alt="" coords="427,289,605,319"/>
+<area shape="rect" id="node27" href="$d1/d88/a01578.html#a539433d821e8eb6c420e78f3d1910128" title="beast::String::contains" alt="" coords="440,220,592,249"/>
+<area shape="rect" id="node21" href="$d5/d42/a00269.html#ab20c2d63badda5d0de9005dedfdb4144" title="beast::CharPointer\l_UTF8::getBytesRequiredFor" alt="" coords="655,219,847,266"/>
+<area shape="rect" id="node23" href="$d5/d42/a00269.html#abeeb7e9a14c17bf3100e97d1f93cb944" title="beast::CharPointer\l_UTF8::write" alt="" coords="685,289,816,335"/>
+<area shape="rect" id="node25" href="$d5/d42/a00269.html#af7cde137bd24b395dd3dce5ca6b0191e" title="beast::CharPointer\l_UTF8::writeNull" alt="" coords="685,358,816,405"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rocksdb::DBTest::TryReopen" name="rocksdb::DBTest::TryReopen">
+<area shape="rect" id="node3" href="$db/d95/a00391.html#a21ea2025701f28a3c295db6a7e9bb881" title="rocksdb::DBTest::ChangeCompact\lOptions" alt="" coords="248,5,475,51"/>
+<area shape="rect" id="node5" href="$db/d95/a00391.html#ada9d4dceac67de38a2d6b39b1f4b42ba" title="rocksdb::DBTest::Destroy\lAndReopen" alt="" coords="275,74,448,121"/>
+<area shape="rect" id="node9" href="$db/d95/a00391.html#a4a0d18ad59d3d7d52993aad0e0bc99a0" title="rocksdb::DBTest::Reopen" alt="" coords="275,144,448,173"/>
+<area shape="rect" id="node7" href="$db/d95/a00391.html#a3761d111551d33530517a39f38f908d1" title="rocksdb::DBTest::ChangeOptions" alt="" coords="523,83,741,112"/>
+<area shape="rect" id="node11" href="$db/d95/a00391.html#a509351e18607a06285412f6654253643" title="rocksdb::DBTest::DBTest" alt="" coords="545,144,719,173"/>
+</map>

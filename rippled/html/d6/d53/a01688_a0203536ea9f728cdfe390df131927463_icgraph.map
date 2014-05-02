@@ -1,0 +1,6 @@
+<map id="beast::Thread::wait" name="beast::Thread::wait">
+<area shape="rect" id="node3" href="$da/d36/a01482.html#a60b969459170972a622585edfc6c6dba" title="ripple::SqliteDatabase::run" alt="" coords="199,5,375,35"/>
+<area shape="rect" id="node5" href="$dc/d36/a00925.html#ac4a1a3ee001cf5bc2a37bc6de7a794f5" title="beast::DeadlineTimer\l::Manager::run" alt="" coords="213,58,360,105"/>
+<area shape="rect" id="node7" href="$d0/df0/a00934.html#aa7347699a72054f278d014e3be4ad85e" title="ripple::Resource::Manager\lImp::run" alt="" coords="200,127,373,174"/>
+<area shape="rect" id="node9" href="$d1/dea/a00829.html#a6eff0ca87db1f583b2a401bc4f119990" title="ripple::LedgerCleanerImp::run" alt="" coords="191,197,383,227"/>
+</map>

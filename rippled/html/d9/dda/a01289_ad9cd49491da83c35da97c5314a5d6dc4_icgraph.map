@@ -1,0 +1,17 @@
+<map id="beast::RootStoppable::isStopping" name="beast::RootStoppable::isStopping">
+<area shape="rect" id="node3" href="$d2/d49/a01561.html#a7ca78fcebed5c6b8c9cd96bacb588785" title="beast::Stoppable::isStopping" alt="" coords="203,307,392,336"/>
+<area shape="rect" id="node5" href="$d9/d00/a00784.html#ac2e75f069b3c1ebeb9e9edce0606cad5" title="ripple::JobQueueImp\l::addJob" alt="" coords="475,5,616,51"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#ad06cbbc8ba098656e424cca4eb7cb87a" title="ripple::JobQueueImp\l::checkStopped" alt="" coords="475,125,616,171"/>
+<area shape="rect" id="node9" href="$d9/d00/a00784.html#a7666704c0d51e837f890bd5df81dfa03" title="ripple::JobQueueImp\l::processTask" alt="" coords="719,55,860,102"/>
+<area shape="rect" id="node13" href="$d9/db3/a01064.html#ac46c8e01be998c3a168b1bc6e2da0f07" title="ripple::OverlayImpl\l::connect" alt="" coords="480,194,611,241"/>
+<area shape="rect" id="node17" href="$d4/dc5/a01024.html#a37dba4b07995fec8c045c3284b73c263" title="ripple::NodeStoreScheduler\l::doTask" alt="" coords="455,263,636,310"/>
+<area shape="rect" id="node21" href="$d4/d6a/a00704.html#a3d3529de1a853b2402c46f4305151145" title="ripple::InboundLedgersImp\l::findCreate" alt="" coords="459,333,632,379"/>
+<area shape="rect" id="node23" href="$dc/d2b/a00936.html#af047ddd0861c56c42a45eb8ca1df25c4" title="ripple::Validators\l::ManagerImp::ledgerClosed" alt="" coords="452,402,639,449"/>
+<area shape="rect" id="node25" href="$d6/dc0/a00734.html#a6b8fca718141b1669427cd58a64425db" title="ripple::IoServicePool\l::onThreadExit" alt="" coords="475,471,616,518"/>
+<area shape="rect" id="node30" href="$dc/d2b/a00936.html#a7a355ef8b99bb62c9e44ca1155e2f3e8" title="ripple::Validators\l::ManagerImp::receiveValidation" alt="" coords="441,541,649,587"/>
+<area shape="rect" id="node32" href="$d2/d49/a01561.html#a956c39a8c26ed410c10285e5a1ebf87f" title="beast::Stoppable::Stoppable" alt="" coords="452,611,639,640"/>
+<area shape="rect" id="node11" href="$d9/d00/a00784.html#aeda119f7ca49007dee1ff32195970676" title="ripple::JobQueueImp\l::onChildrenStopped" alt="" coords="719,125,860,171"/>
+<area shape="rect" id="node15" href="$d9/db3/a01064.html#a41ffb563533fd26345f42d63949b7d9d" title="ripple::OverlayImpl\l::connect" alt="" coords="724,194,855,241"/>
+<area shape="rect" id="node19" href="$d4/dc5/a01024.html#a945570125b7134e4ad1ecca895c78cd0" title="ripple::NodeStoreScheduler\l::scheduleTask" alt="" coords="699,263,880,310"/>
+<area shape="rect" id="node27" href="$d9/d79/a01360.html#a17dcd635065ba5dc8403df12f7516995" title="ripple::IoServicePool\l::ServiceThread::run" alt="" coords="719,471,860,518"/>
+</map>

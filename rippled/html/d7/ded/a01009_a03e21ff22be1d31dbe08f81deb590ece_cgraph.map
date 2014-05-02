@@ -1,0 +1,17 @@
+<map id="ripple::NetworkOPsImp::switchLastClosedLedger" name="ripple::NetworkOPsImp::switchLastClosedLedger">
+<area shape="rect" id="node3" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="253,5,379,51"/>
+<area shape="rect" id="node7" href="$d7/ded/a01009.html#a08d1779d5bb2a06bdbaeabdac2ba3ed8" title="ripple::NetworkOPsImp\l::clearNeedNetworkLedger" alt="" coords="228,74,404,121"/>
+<area shape="rect" id="node9" href="$de/de6/a01063.html#a7dc745932a8cbc330dfb6c6e5e608b3c" title="ripple::Overlay::foreach" alt="" coords="237,144,395,173"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="701,195,803,224"/>
+<area shape="rect" id="node17" href="$d7/ded/a01009.html#a07e5590900394e5b3642496533890cef" title="ripple::NetworkOPsImp\l::getNetworkTimeNC" alt="" coords="237,247,395,294"/>
+<area shape="rect" id="node28" href="$da/d74/a00099.html#a0511c5e849c6735036d4667a72ff01ee" title="ripple::Application\l::overlay" alt="" coords="253,317,379,363"/>
+<area shape="rect" id="node30" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="241,387,391,416"/>
+<area shape="rect" id="node32" href="$d1/de6/a00837.html#af249e0b1768882343f37df9720aeb25d" title="ripple::LedgerMaster\l::switchLedgers" alt="" coords="247,439,385,486"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="464,13,613,43"/>
+<area shape="rect" id="node11" href="$de/de6/a01063.html#a5b8ee783b77679fb2fad2543ab521a90" title="ripple::Overlay::getActive\lPeers" alt="" coords="455,127,623,174"/>
+<area shape="rect" id="node15" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="881,186,1057,233"/>
+<area shape="rect" id="node19" href="$d7/ded/a01009.html#a4bd8befae57d65b27880a6c11b903c5a" title="ripple::NetworkOPsImp\l::getNetworkTimePT" alt="" coords="460,247,617,294"/>
+<area shape="rect" id="node24" href="$d9/d9d/a03417.html#af3beca614a7a1e1872b08a8bc37e0ce7" title="ripple::iToSeconds" alt="" coords="473,317,604,347"/>
+<area shape="rect" id="node22" href="$da/d74/a00099.html#a193aa07bf009f0e3140c6744dfa5c678" title="ripple::Application\l::getSystemTimeOffset" alt="" coords="673,247,831,294"/>
+<area shape="rect" id="node26" href="$d9/d9d/a03417.html#a00572ed03b233ecd42f36357a395c163" title="ripple::ptEpoch" alt="" coords="697,317,807,347"/>
+</map>

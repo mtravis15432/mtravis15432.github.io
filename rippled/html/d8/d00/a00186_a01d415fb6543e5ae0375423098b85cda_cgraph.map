@@ -1,0 +1,21 @@
+<map id="beast::BinaryEncoding_test::testEncode" name="beast::BinaryEncoding_test::testEncode">
+<area shape="rect" id="node3" href="$de/df3/a00185.html#afffd0a19bc57b1ef55940b1681ceb435" title="beast::BinaryEncoding\l::decode" alt="" coords="240,93,392,139"/>
+<area shape="rect" id="node13" href="$de/df3/a00185.html#a661b3b8c4b78d21acb428fd4192babd6" title="beast::BinaryEncoding\l::encode" alt="" coords="240,23,392,70"/>
+<area shape="rect" id="node16" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="243,213,389,259"/>
+<area shape="rect" id="node37" href="$d9/d42/a01156.html#a3039be8c82aa091135707dc40a8563bd" title="beast::Random::fillBitsRandomly" alt="" coords="209,317,423,347"/>
+<area shape="rect" id="node41" href="$db/dfd/a01608.html#a02554fbd9200fc71efa03e2cf3430424" title="beast::unit_test::suite\l::testcase" alt="" coords="699,143,845,190"/>
+<area shape="rect" id="node5" href="$d9/de3/a01758.html#a5aefb204c53652153b7bd1732822bebb" title="beast::UnsignedInteger\l::toCalcType" alt="" coords="473,49,631,95"/>
+<area shape="rect" id="node7" href="$d0/d9d/a01760.html#aebe27ace140ab61609e4a494054c0732" title="beast::UnsignedIntegerCalc\l::fromCanonical" alt="" coords="680,49,864,95"/>
+<area shape="rect" id="node9" href="$d5/d9d/a03343.html#a5e50025bd0ee2702179fa614b832c796" title="beast::asio::swap" alt="" coords="941,75,1067,104"/>
+<area shape="rect" id="node11" href="$d0/d9d/a01760.html#aed07e81d021b2965b8f9db4b2ff468d6" title="beast::UnsignedIntegerCalc\l::UnsignedIntegerCalc" alt="" coords="912,5,1096,51"/>
+<area shape="rect" id="node18" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="479,282,625,329"/>
+<area shape="rect" id="node30" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="479,213,625,259"/>
+<area shape="rect" id="node20" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="695,282,849,329"/>
+<area shape="rect" id="node22" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="927,143,1081,190"/>
+<area shape="rect" id="node28" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="927,282,1081,329"/>
+<area shape="rect" id="node24" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1145,109,1300,155"/>
+<area shape="rect" id="node26" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1145,178,1300,225"/>
+<area shape="rect" id="node32" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="695,213,849,259"/>
+<area shape="rect" id="node35" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="927,213,1081,259"/>
+<area shape="rect" id="node39" href="$d9/d42/a01156.html#aaa7eba6653fb57c634ecfefff0e3de33" title="beast::Random::nextInt" alt="" coords="473,352,631,381"/>
+</map>

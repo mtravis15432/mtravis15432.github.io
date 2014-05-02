@@ -1,0 +1,34 @@
+<map id="ripple::LedgerCleanerImp::doLedgerCleaner" name="ripple::LedgerCleanerImp::doLedgerCleaner">
+<area shape="rect" id="node3" href="$d1/dea/a00829.html#ac210318bdb2ea4cf4cbe1be753a51968" title="ripple::LedgerCleanerImp\l::doLedger" alt="" coords="244,634,409,681"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="979,771,1080,800"/>
+<area shape="rect" id="node56" href="$d1/dea/a00829.html#add2f33954124ea07dc3d87eedb8ca74f" title="ripple::LedgerCleanerImp\l::getHash" alt="" coords="244,949,409,995"/>
+<area shape="rect" id="node67" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="744,1098,869,1145"/>
+<area shape="rect" id="node74" href="$d6/d53/a01688.html#a55db77995760cf1a29a154ae57dc9d8d" title="beast::Thread::sleep" alt="" coords="256,1269,397,1299"/>
+<area shape="rect" id="node76" href="$d6/d53/a01688.html#ac3dac964e632b652dd1fabeaa20fbc07" title="beast::Thread::threadShouldExit" alt="" coords="223,1323,431,1352"/>
+<area shape="rect" id="node5" href="$d1/de6/a00837.html#a284cae94955402f898357ae5b8e5841c" title="ripple::LedgerMaster\l::findAcquireLedger" alt="" coords="501,789,640,835"/>
+<area shape="rect" id="node7" href="$d8/d86/a00703.html#a6f59efd378b35314541b4d5c76cd905a" title="ripple::InboundLedgers\l::findCreate" alt="" coords="731,795,883,842"/>
+<area shape="rect" id="node9" href="$d1/de6/a00837.html#a6f3456fffc40b8578d7b4c7dc065973c" title="ripple::LedgerMaster\l::fixIndex" alt="" coords="501,445,640,491"/>
+<area shape="rect" id="node15" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="737,725,876,771"/>
+<area shape="rect" id="node17" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="508,719,633,766"/>
+<area shape="rect" id="node19" href="$dd/d5f/a00825.html#aef9f56323068cb56357b5773a003a0ed" title="ripple::Ledger::loadByIndex" alt="" coords="481,515,660,544"/>
+<area shape="rect" id="node13" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="1156,762,1332,809"/>
+<area shape="rect" id="node21" href="$d2/d21/a01484.html#a1a5f1bf3e562c084e5df0379a944a2bd" title="ripple::SqliteStatement\l::bind" alt="" coords="729,309,884,355"/>
+<area shape="rect" id="node24" href="$d6/db8/a00376.html#a9368476a90456c8f1256a53c239cc9a5" title="ripple::DatabaseCon\l::getDB" alt="" coords="736,378,877,425"/>
+<area shape="rect" id="node26" href="$da/d74/a00099.html#a0a8cd54d61526a10f629ce55d196f344" title="ripple::Application\l::getLedgerDB" alt="" coords="744,447,869,494"/>
+<area shape="rect" id="node28" href="$dd/d5f/a00825.html#a56523e45b148670f59a6fb1c53c91dc2" title="ripple::Ledger::getSQL1" alt="" coords="728,256,885,285"/>
+<area shape="rect" id="node50" href="$dd/d5f/a00825.html#a9545eb2a2f70f4e8efdcb48ec4effaae" title="ripple::Ledger::getSQL2" alt="" coords="728,621,885,651"/>
+<area shape="rect" id="node53" href="$d5/db5/a00374.html#a82432961e09d75f3b53c62c5d495beed" title="ripple::Database::getSqliteDB" alt="" coords="709,568,904,597"/>
+<area shape="rect" id="node30" href="$d2/d21/a01484.html#aa21a18ccbd898583bd640ebd87dbe080" title="ripple::SqliteStatement\l::getError" alt="" coords="952,74,1107,121"/>
+<area shape="rect" id="node32" href="$d2/d21/a01484.html#af1c43ede923d49feced5bb745c6c8324" title="ripple::SqliteStatement\l::getInt64" alt="" coords="952,143,1107,190"/>
+<area shape="rect" id="node34" href="$d2/d21/a01484.html#a09bd6e09b032f4e7a77b164031b6e78b" title="ripple::SqliteStatement\l::getUInt32" alt="" coords="952,213,1107,259"/>
+<area shape="rect" id="node36" href="$d2/d21/a01484.html#afbca7655aaa005526798081f7dc7669e" title="ripple::SqliteStatement\l::isDone" alt="" coords="952,282,1107,329"/>
+<area shape="rect" id="node38" href="$d2/d21/a01484.html#a20b8119adafb0edb0175008e589aebfa" title="ripple::SqliteStatement\l::isRow" alt="" coords="952,351,1107,398"/>
+<area shape="rect" id="node40" href="$d2/d21/a01484.html#a28ed6bbb0c1ef6c5238bfa3bd2b9170e" title="ripple::SqliteStatement\l::peekString" alt="" coords="952,421,1107,467"/>
+<area shape="rect" id="node42" href="$d7/d9a/a00152.html#a9489844779665dbaf6181f037efcc7e0" title="ripple::base_uint::\lSetHexExact" alt="" coords="967,490,1092,537"/>
+<area shape="rect" id="node48" href="$d2/d21/a01484.html#a80b6ff29deef6d948c5477dae82d0082" title="ripple::SqliteStatement\l::step" alt="" coords="952,5,1107,51"/>
+<area shape="rect" id="node44" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1171,499,1317,528"/>
+<area shape="rect" id="node46" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1383,499,1532,528"/>
+<area shape="rect" id="node60" href="$d1/de6/a00837.html#a2e32e5b06d5b855f57a7d4fb3d25c05e" title="ripple::LedgerMaster\l::getValidatedLedger" alt="" coords="500,978,641,1025"/>
+<area shape="rect" id="node62" href="$d1/dea/a00829.html#a4f40a9f1b3e18b27e30873b35ad084e2" title="ripple::LedgerCleanerImp\l::getLedgerHash" alt="" coords="488,858,653,905"/>
+<area shape="rect" id="node69" href="$d7/d9a/a00152.html#a3fa11a064a87fe4e970f00d661287dd2" title="ripple::base_uint::\lisNonZero" alt="" coords="508,1098,633,1145"/>
+</map>

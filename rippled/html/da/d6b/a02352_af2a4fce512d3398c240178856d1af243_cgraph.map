@@ -1,0 +1,13 @@
+<map id="sqlite3_db_release_memory" name="sqlite3_db_release_memory">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="187,107,323,136"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="184,160,325,189"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#aa0b1925984c0d8606d760b8fa27a4d7c" title="sqlite3BtreePager" alt="" coords="192,213,317,243"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#a28f065ffd59dc6b9660bd5622cfa1de8" title="sqlite3PagerShrink" alt="" coords="189,267,320,296"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="748,108,881,137"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="383,56,505,85"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="564,160,689,189"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="571,5,683,35"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="739,5,891,35"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="381,160,507,189"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#a7df3d08b937a4d2e1e59f5233ec11465" title="sqlite3PcacheShrink" alt="" coords="373,267,515,296"/>
+</map>

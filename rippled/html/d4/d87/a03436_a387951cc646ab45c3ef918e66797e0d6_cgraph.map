@@ -1,0 +1,18 @@
+<map id="rocksdb::SetCurrentFile" name="rocksdb::SetCurrentFile">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a112e8c44dec6475699006a7f68830b1a" title="rocksdb::CurrentFileName" alt="" coords="231,5,404,35"/>
+<area shape="rect" id="node5" href="$db/db1/a00460.html#a0d75747a2a64c041d106b85202848fe8" title="rocksdb::Env::DeleteFile" alt="" coords="731,55,896,84"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#addb687ba13b100fdc18a512b23ba195b" title="rocksdb::DescriptorFileName" alt="" coords="221,213,413,243"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="745,108,881,137"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="240,266,395,313"/>
+<area shape="rect" id="node15" href="$db/db1/a00460.html#a8dc0848695f4b55193ee01ffb9ad24b8" title="rocksdb::Env::RenameFile" alt="" coords="229,336,405,365"/>
+<area shape="rect" id="node17" href="$de/daf/a01417.html#a5b27053d7804f8ba4a6430e001ce1c22" title="rocksdb::Slice::starts_with" alt="" coords="229,389,405,419"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#aab2522c126c1764a6be83c9756465d7b" title="rocksdb::TempFileName" alt="" coords="235,443,400,472"/>
+<area shape="rect" id="node23" href="$de/daf/a01417.html#ac5faa24d39a613c0ce7965d2bd9cf958" title="rocksdb::Slice::ToString" alt="" coords="236,496,399,525"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#ae8468f39019126b0e12d6059ada48e6b" title="rocksdb::WriteStringToFileSync" alt="" coords="215,160,420,189"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="499,275,635,304"/>
+<area shape="rect" id="node21" href="$d4/d87/a03436.html#a645cac7eafed2fae5df45e8483f8fbaf" title="rocksdb::MakeFileName" alt="" coords="485,443,648,472"/>
+<area shape="rect" id="node27" href="$d4/d87/a03436.html#a5e656fbd23ad07c1be2a1c433e41b6a0" title="rocksdb::DoWriteStringToFile" alt="" coords="469,165,664,195"/>
+<area shape="rect" id="node29" href="$d9/d75/a01843.html#aa21c4bf5040156fe25e6580495bab7a9" title="rocksdb::WritableFile\l::Append" alt="" coords="741,161,885,207"/>
+<area shape="rect" id="node32" href="$db/db1/a00460.html#a2415186e0a399d70edabef9f477e4c47" title="rocksdb::Env::NewWritableFile" alt="" coords="712,231,915,260"/>
+<area shape="rect" id="node35" href="$d9/d75/a01843.html#a739dc13d33b6716dce73e44a472ba1dd" title="rocksdb::WritableFile\l::Sync" alt="" coords="741,283,885,330"/>
+</map>

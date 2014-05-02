@@ -1,0 +1,8 @@
+<map id="beast::CharacterFunctions::compareIgnoreCaseUpTo" name="beast::CharacterFunctions::compareIgnoreCaseUpTo">
+<area shape="rect" id="node3" href="$db/d12/a00268.html#a59cec593dcf7c999a583823d111b31d9" title="beast::CharPointer\l_UTF32::compareIgnoreCaseUpTo" alt="" coords="232,5,459,51"/>
+<area shape="rect" id="node5" href="$d5/d35/a00266.html#a7bf85bcfda56938bdf773077a92302bc" title="beast::CharPointer\l_ASCII::compareIgnoreCaseUpTo" alt="" coords="235,74,456,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#a23a6bae9d043e2ffc577ad9296c6793f" title="beast::CharPointer\l_UTF16::compareIgnoreCaseUpTo" alt="" coords="232,143,459,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a3588fba2e51518cde161ea332e9d9b6b" title="beast::CharPointer\l_UTF8::compareIgnoreCaseUpTo" alt="" coords="236,213,455,259"/>
+<area shape="rect" id="node11" href="$d1/d88/a01578.html#a33834bc6200cbe479ebb85262f900eaa" title="beast::String::lastIndex\lOfIgnoreCase" alt="" coords="521,178,679,225"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#a7cd82c1c148cb750b81979076598efca" title="beast::String::indexOfWhole\lWordIgnoreCase" alt="" coords="507,247,693,294"/>
+</map>

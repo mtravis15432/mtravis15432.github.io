@@ -1,0 +1,15 @@
+<map id="beast::File::hasFileExtension" name="beast::File::hasFileExtension">
+<area shape="rect" id="node3" href="$d1/d88/a01578.html#a2027c44150ef862b6435f8cc9af54778" title="beast::String::endsWithIgnoreCase" alt="" coords="245,5,472,35"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#ab94a63b1fae34d770e550154a5a65b25" title="beast::String::indexOfChar" alt="" coords="271,59,447,88"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#adac6dac4898ce30d950e6e253fa47162" title="beast::String::isEmpty" alt="" coords="283,112,435,141"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#ac964e99361851027f5df041e2ff21084" title="beast::String::lastIndex\lOfChar" alt="" coords="280,218,437,265"/>
+<area shape="rect" id="node15" href="$d1/d88/a01578.html#a0f26ba48e146890e3ea290b726679810" title="beast::String::length" alt="" coords="289,165,428,195"/>
+<area shape="rect" id="node19" href="$d1/d88/a01578.html#aad9a7298d1d528d042c534293afe4ade" title="beast::String::startsWithChar" alt="" coords="263,288,455,317"/>
+<area shape="rect" id="node21" href="$d1/d88/a01578.html#a51b6c08a63652de5e8c66517483fa2b9" title="beast::String::substring" alt="" coords="280,341,437,371"/>
+<area shape="rect" id="node24" href="$d1/d88/a01578.html#aaa683d788a00c652f510a754f2a5fbd7" title="beast::String::trimEnd" alt="" coords="284,395,433,424"/>
+<area shape="rect" id="node28" href="$d1/d88/a01578.html#a11879ba2355978fb3655c4122d9ab0e2" title="beast::String::trimStart" alt="" coords="281,448,436,477"/>
+<area shape="rect" id="node11" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="520,222,683,269"/>
+<area shape="rect" id="node13" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="536,306,667,353"/>
+<area shape="rect" id="node17" href="$d5/d42/a00269.html#a46bd4590bbb4c1324dd621fa54d94652" title="beast::CharPointer\l_UTF8::length" alt="" coords="536,153,667,199"/>
+<area shape="rect" id="node26" href="$d5/d83/a03337.html#a914548d5c0ffe5f9b604b7cc9a66a096" title="beast::findTrimmedEnd" alt="" coords="523,395,680,424"/>
+</map>

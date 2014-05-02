@@ -1,0 +1,5 @@
+<map id="rocksdb::BlockBuilder::EstimateSizeAfterKV" name="rocksdb::BlockBuilder::EstimateSizeAfterKV">
+<area shape="rect" id="node3" href="$d3/de5/a00209.html#a24efc35594cfa4ed7e170c0a12391abb" title="rocksdb::BlockBuilder\l::CurrentSizeEstimate" alt="" coords="209,5,359,51"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="216,75,352,104"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a6edace1e199eccb5575616fff4104333" title="rocksdb::VarintLength" alt="" coords="209,128,359,157"/>
+</map>

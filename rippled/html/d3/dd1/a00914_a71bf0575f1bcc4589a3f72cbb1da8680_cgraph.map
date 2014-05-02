@@ -1,0 +1,5 @@
+<map id="ripple::LogPartition::write" name="ripple::LogPartition::write">
+<area shape="rect" id="node3" href="$df/d84/a01408.html#a435f774bca391553d90760945c01aa4c" title="beast::Journal::Sink\l::console" alt="" coords="184,5,323,51"/>
+<area shape="rect" id="node5" href="$d3/dd1/a00914.html#a854c38652300a6c11a83b86ffff8efa6" title="ripple::LogPartition\l::convertSeverity" alt="" coords="188,74,319,121"/>
+<area shape="rect" id="node7" href="$d4/ddc/a00917.html#a26cf5d764138e35be6d73247f666dd1a" title="ripple::LogSink::get" alt="" coords="187,144,320,173"/>
+</map>

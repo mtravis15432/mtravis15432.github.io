@@ -1,0 +1,15 @@
+<map id="ripple::STAmount_test::serializeAndDeserialize" name="ripple::STAmount_test::serializeAndDeserialize">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a2378af04f055958ef3f50f5002275bec" title="ripple::STAmount::add" alt="" coords="720,83,872,112"/>
+<area shape="rect" id="node16" href="$d2/d41/a01493.html#ab4cc5b92436232c88eae894fd350f810" title="ripple::STAmount::deserialize" alt="" coords="223,168,415,197"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a509771bf1109949d4bee7b71aecc3757" title="ripple::Serializer\l::add160" alt="" coords="941,5,1056,51"/>
+<area shape="rect" id="node14" href="$da/d61/a01350.html#a253e724ffc3143dfd70bde767af71a7e" title="ripple::Serializer\l::add64" alt="" coords="941,74,1056,121"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="1115,66,1240,113"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1104,13,1251,43"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1300,44,1449,73"/>
+<area shape="rect" id="node18" href="$d2/d41/a01493.html#a9169f72e5b4029ec28c686537f5cd848" title="ripple::STAmount::construct" alt="" coords="465,211,649,240"/>
+<area shape="rect" id="node20" href="$d0/d85/a01352.html#a948898068c494d2e201b9edbf0aa9710" title="ripple::SerializerIterator\l::get160" alt="" coords="719,143,873,190"/>
+<area shape="rect" id="node25" href="$d0/d85/a01352.html#afce9ed17c5f54ae7ee7d4c2b85fea383" title="ripple::SerializerIterator\l::get64" alt="" coords="719,213,873,259"/>
+<area shape="rect" id="node29" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="700,283,892,312"/>
+<area shape="rect" id="node22" href="$da/d61/a01350.html#ad2875a572b1dc73ea6bfba6480827fe5" title="ripple::Serializer\l::get160" alt="" coords="941,143,1056,190"/>
+<area shape="rect" id="node27" href="$da/d61/a01350.html#a64063911749615bf1db86f607391a043" title="ripple::Serializer\l::get64" alt="" coords="941,213,1056,259"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="rocksdb::BlockBasedTable::IndexBlockReader" name="rocksdb::BlockBasedTable::IndexBlockReader">
+<area shape="rect" id="node3" href="$d1/d72/a00204.html#a5eadc884aba075de1cd82a5f81ff49b1" title="rocksdb::BlockBasedTable\l::GetBlock" alt="" coords="232,157,411,203"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#a7b03495439285fb3fb42a3208b01a3d7" title="rocksdb::NewErrorIterator" alt="" coords="236,236,407,265"/>
+<area shape="rect" id="node21" href="$d2/d02/a00777.html#a668d7cfe0b950c1ee2806a3a3d21bb90" title="rocksdb::Iterator::\lRegisterCleanup" alt="" coords="259,307,384,354"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a71979495541c18910434586eddf5e58d" title="rocksdb::DeleteCachedBlock" alt="" coords="459,5,651,35"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#a223ccba0dce26cd4539d6fd2c28ae364" title="rocksdb::Status::Incomplete" alt="" coords="461,59,648,88"/>
+<area shape="rect" id="node11" href="$d4/d9a/a00246.html#a81b3a0d17e7ef373bfc0945c11e849ee" title="rocksdb::Cache::Insert" alt="" coords="477,112,632,141"/>
+<area shape="rect" id="node13" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="487,165,623,195"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#a833e685de1acb680b321c566cadffc9f" title="rocksdb::RecordTick" alt="" coords="484,219,625,248"/>
+<area shape="rect" id="node17" href="$d4/d9a/a00246.html#a18ed26fd1e9e7097fea1a8ee3b2599b4" title="rocksdb::Cache::Value" alt="" coords="477,272,632,301"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="699,59,859,88"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#ae3e0dbf7ac3255e91d16cd24fd2c2b1d" title="Cleanup" alt="" coords="520,325,589,355"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="728,325,829,355"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1119,287,1209,316"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1097,352,1231,381"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="907,325,1048,355"/>
+</map>

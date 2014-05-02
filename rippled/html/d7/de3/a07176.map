@@ -1,0 +1,13 @@
+<map id="ripple::MultiSocketType&lt; StreamSocket &gt;::AsyncOp&lt; Stream &gt;" name="ripple::MultiSocketType&lt; StreamSocket &gt;::AsyncOp&lt; Stream &gt;">
+<area shape="rect" id="node4" href="$db/db5/a00616.html" title="beast::asio::HandshakeDetector\lType\&lt; next_layer_type, beast\l::asio::HandshakeDetectLogicPROXY \&gt;" alt="" coords="1465,181,1721,245"/>
+<area shape="rect" id="node6" href="$d5/dd8/a00615.html" title="beast::asio::HandshakeDetect\lLogicType\&lt; beast::asio::\lHandshakeDetectLogicPROXY \&gt;" alt="" coords="1148,181,1364,245"/>
+<area shape="rect" id="node8" href="$d0/d8d/a00612.html" title="beast::asio::HandshakeDetect\lLogicPROXY" alt="" coords="849,189,1047,235"/>
+<area shape="rect" id="node10" href="$dd/dc0/a00611.html" title="beast::asio::HandshakeDetect\lLogic" alt="" coords="556,119,753,166"/>
+<area shape="rect" id="node25" href="$d7/d80/a00614.html" title="beast::asio::HandshakeDetect\lLogicSSL3" alt="" coords="849,103,1047,150"/>
+<area shape="rect" id="node12" href="$d9/d97/a01152.html" title="beast::asio::HandshakeDetect\lLogicPROXY::ProxyInfo" alt="" coords="556,189,753,235"/>
+<area shape="rect" id="node14" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="284,164,380,193"/>
+<area shape="rect" id="node16" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="5,164,176,193"/>
+<area shape="rect" id="node19" href="$d1/da6/a00738.html" title="beast::asio::InputParser\l::IPv4Address" alt="" coords="252,221,412,267"/>
+<area shape="rect" id="node21" href="$db/db5/a00616.html" title="beast::asio::HandshakeDetector\lType\&lt; next_layer_type, beast\l::asio::HandshakeDetectLogicSSL3 \&gt;" alt="" coords="1472,93,1715,157"/>
+<area shape="rect" id="node23" href="$d5/dd8/a00615.html" title="beast::asio::HandshakeDetect\lLogicType\&lt; beast::asio::\lHandshakeDetectLogicSSL3 \&gt;" alt="" coords="1155,93,1357,157"/>
+</map>

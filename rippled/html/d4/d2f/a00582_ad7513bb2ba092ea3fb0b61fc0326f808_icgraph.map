@@ -1,0 +1,5 @@
+<map id="beast::insight::Gauge::set" name="beast::insight::Gauge::set">
+<area shape="rect" id="node3" href="$d5/d72/a00803.html#a9db213c58a5a854b48d7614bf981ebca" title="ripple::KeyCache\&lt; Key\l \&gt;::collect_metrics" alt="" coords="249,5,407,51"/>
+<area shape="rect" id="node5" href="$dd/d55/a01638.html#a52f015e6ddfe4cdc10db116218ee0ea6" title="ripple::TaggedCache\l\&lt; LedgerIndex, std::\lpair\&lt; LedgerHash, LedgerHash\l \&gt; \&gt;::collect_metrics" alt="" coords="227,74,429,155"/>
+<area shape="rect" id="node7" href="$d4/d2f/a00582.html#a5c033ce0cde8f7b7af394fe84e213965" title="beast::insight::Gauge\l::operator=" alt="" coords="255,178,401,225"/>
+</map>

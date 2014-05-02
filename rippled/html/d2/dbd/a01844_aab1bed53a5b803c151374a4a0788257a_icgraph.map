@@ -1,0 +1,26 @@
+<map id="rocksdb::WriteBatch::Count" name="rocksdb::WriteBatch::Count">
+<area shape="rect" id="node3" href="$da/d8c/a01845.html#a3e28aed1201077095cf66c5e242d1630" title="rocksdb::WriteBatchInternal\l::Append" alt="" coords="195,309,379,355"/>
+<area shape="rect" id="node44" href="$d4/d87/a03436.html#aa206b18a356449ae7715812955d3c629" title="rocksdb::TEST" alt="" coords="232,379,341,408"/>
+<area shape="rect" id="node46" href="$d8/d64/a00181.html#aa176749fae881f38d18e2c5742ad3e71" title="rocksdb::Benchmark\l::WriteFromStdin" alt="" coords="216,431,357,478"/>
+<area shape="rect" id="node5" href="$dd/df5/a00386.html#acbfdfdd72e490648da9f229fdcd06337" title="rocksdb::DBImpl::BuildBatch\lGroup" alt="" coords="428,278,617,325"/>
+<area shape="rect" id="node42" href="$d4/d87/a03436.html#ac60e477fc0559d41da51c3053fa5fc9f" title="rocksdb::TEST" alt="" coords="468,348,577,377"/>
+<area shape="rect" id="node7" href="$dd/df5/a00386.html#a036d197e1bf77abea19c23696305cf34" title="rocksdb::DBImpl::Write" alt="" coords="668,287,825,316"/>
+<area shape="rect" id="node9" href="$dd/df5/a00386.html#ad14868938ccf999100f441fcd9aa7c28" title="rocksdb::DBImpl::FlushMem\lTable" alt="" coords="875,247,1064,294"/>
+<area shape="rect" id="node40" href="$d4/d87/a03436.html#a515f169292cd669c1692ba5d3b3f566c" title="rocksdb::TEST" alt="" coords="915,317,1024,347"/>
+<area shape="rect" id="node11" href="$dd/df5/a00386.html#aaf39022d45b559b69933cfe719571c10" title="rocksdb::DBImpl::Flush" alt="" coords="1123,75,1283,104"/>
+<area shape="rect" id="node17" href="$dd/df5/a00386.html#a789ea69cfa7ee4fccf934757a4641228" title="rocksdb::DBImpl::TEST\l_FlushMemTable" alt="" coords="1121,247,1284,294"/>
+<area shape="rect" id="node38" href="$dd/df5/a00386.html#a9bdda420ec5d44390a04215d8b1cbffd" title="rocksdb::DBImpl::~DBImpl" alt="" coords="1113,317,1292,347"/>
+<area shape="rect" id="node13" href="$dd/df5/a00386.html#aaa4a148182ce98c83d363817e938ddd5" title="rocksdb::DBImpl::GetLive\lFiles" alt="" coords="1355,5,1528,51"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#ae83d9e0143c5cb2f28a47460a91fe73e" title="rocksdb::TEST" alt="" coords="1387,75,1496,104"/>
+<area shape="rect" id="node19" href="$d0/d88/a01231.html#a07eb4424cb2bef23ca200a806de76d9b" title="rocksdb::ReduceLevelTest\l::CompactMemTable" alt="" coords="1352,127,1531,174"/>
+<area shape="rect" id="node21" href="$dd/df5/a00386.html#aafef42f7b99bd9afdd50369bc5d37476" title="rocksdb::DBImpl::Compact\lRange" alt="" coords="1351,247,1532,294"/>
+<area shape="rect" id="node23" href="$d4/d87/a03436.html#ac01378f7c8c05426b6dfdeda9546473b" title="rocksdb::PrefixScanInit" alt="" coords="1603,200,1760,229"/>
+<area shape="rect" id="node29" href="$de/de8/a00405.html#a49dbce26ebba1e0ac3f38a3af92b9757" title="rocksdb::DeleteFileTest\l::CreateTwoLevels" alt="" coords="1361,317,1521,363"/>
+<area shape="rect" id="node31" href="$db/d95/a00391.html#a09218d973702b7be115bc4a65c0d97b9" title="rocksdb::DBTest::MakeTables" alt="" coords="1341,387,1541,416"/>
+<area shape="rect" id="node36" href="$d4/d87/a03436.html#a5ee0a2f05cc4953d8361455bcc51b827" title="rocksdb::TEST" alt="" coords="1387,440,1496,469"/>
+<area shape="rect" id="node27" href="$d4/d87/a03436.html#a80e6c2a14ed6de6ef8f6aeeac1ba4bd2" title="rocksdb::TEST" alt="" coords="1627,256,1736,285"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#aee7713706576484996cbcefb0317f874" title="rocksdb::TEST" alt="" coords="1823,200,1932,229"/>
+<area shape="rect" id="node33" href="$db/d95/a00391.html#af32d610cb80f870ed942c9ec7a053675" title="rocksdb::DBTest::FillLevels" alt="" coords="1589,387,1773,416"/>
+<area shape="rect" id="node48" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="436,440,609,469"/>
+<area shape="rect" id="node50" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="721,440,772,469"/>
+</map>

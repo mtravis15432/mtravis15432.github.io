@@ -1,0 +1,9 @@
+<map id="rocksdb::ArenaImpl::AllocateNewBlock" name="rocksdb::ArenaImpl::AllocateNewBlock">
+<area shape="rect" id="node3" href="$d7/d70/a00106.html#a1771f8deee06ef37d188dc707dbc4201" title="rocksdb::ArenaImpl\l::AllocateFallback" alt="" coords="193,85,327,131"/>
+<area shape="rect" id="node5" href="$d7/d70/a00106.html#a52cd0a1558ce9454012b46804b9ed45b" title="rocksdb::ArenaImpl\l::Allocate" alt="" coords="377,50,511,97"/>
+<area shape="rect" id="node13" href="$d7/d70/a00106.html#ad6491fec38a7f56b2192e4424acbb0b6" title="rocksdb::ArenaImpl\l::AllocateAligned" alt="" coords="377,119,511,166"/>
+<area shape="rect" id="node7" href="$d3/dcd/a00965.html#a365306e3f225d5f5c7278177708b3c03" title="rocksdb::MemTable::Add" alt="" coords="560,13,728,43"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a717390f453657670afcf0c771414668c" title="rocksdb::TEST" alt="" coords="589,67,699,96"/>
+<area shape="rect" id="node9" href="$d2/d6e/a00966.html#af72bd1c1551c5712e33aed9e7a16651d" title="rocksdb::MemTableConstructor\l::FinishImpl" alt="" coords="776,5,981,51"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#a66f3208b6c03a01849c0597aaf0a1b94" title="rocksdb::TEST" alt="" coords="589,128,699,157"/>
+</map>

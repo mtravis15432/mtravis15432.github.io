@@ -1,0 +1,8 @@
+<map id="ripple::PeerFinder::ManagerImp::new_inbound_slot" name="ripple::PeerFinder::ManagerImp::new_inbound_slot">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#a6463c9d5ecbdcb53951df8b8ce5b5906" title="ripple::PeerFinder\l::Logic::new_inbound_slot" alt="" coords="269,109,443,155"/>
+<area shape="rect" id="node5" href="$da/dc3/a00453.html#a41d744f4c8d5888f8d5aa25da5e100bf" title="beast::IP::Endpoint\l::address" alt="" coords="492,5,625,51"/>
+<area shape="rect" id="node7" href="$da/dc3/a00453.html#add6bd9801623765536e19ec1ad0f8011" title="beast::IP::Endpoint\l::at_port" alt="" coords="492,74,625,121"/>
+<area shape="rect" id="node11" href="$df/da5/a00912.html#a14bc95cc71b33d538e53efe8f28bd935" title="ripple::PeerFinder\l::Logic::fixed" alt="" coords="497,143,620,190"/>
+<area shape="rect" id="node13" href="$df/da5/a00912.html#a25ad5bf43d580646bbfaed3334bedd77" title="ripple::PeerFinder\l::Logic::state" alt="" coords="497,213,620,259"/>
+<area shape="rect" id="node9" href="$da/dc3/a00453.html#a25e623f726dbda92789f51cce520b3b1" title="beast::IP::Endpoint\l::Endpoint" alt="" coords="676,74,809,121"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="ripple::LedgerEntrySet::entryModify" name="ripple::LedgerEntrySet::entryModify">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#adb4c10b0043957922ce2b5b5abd67549" title="ripple::LedgerEntrySet\l::accountSend" alt="" coords="1087,173,1236,220"/>
+<area shape="rect" id="node11" href="$d4/d10/a01278.html#a592be0b1094c005d596044230caac6d4" title="ripple::RippleCalc\l::calcNodeDeliverFwd" alt="" coords="1307,69,1456,116"/>
+<area shape="rect" id="node16" href="$d4/d10/a01278.html#ab61998a5e167691b67a1cc512e5e85a0" title="ripple::RippleCalc\l::calcNodeDeliverRev" alt="" coords="1307,208,1456,254"/>
+<area shape="rect" id="node23" href="$de/d14/a01640.html#ab965c98d5a0e895f412f65b1724038b2" title="ripple::core::Taker\l::process" alt="" coords="1319,524,1444,570"/>
+<area shape="rect" id="node27" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="1527,524,1716,570"/>
+<area shape="rect" id="node31" href="$d0/d08/a00832.html#a1c980eea2da42b3f99d55d303c02db63" title="ripple::LedgerEntrySet\l::calcRawMeta" alt="" coords="216,676,365,722"/>
+<area shape="rect" id="node43" href="$d0/d08/a00832.html#a10d4393cdc1b75dd4aca38add0ea1dad" title="ripple::LedgerEntrySet\l::dirAdd" alt="" coords="216,514,365,561"/>
+<area shape="rect" id="node48" href="$d0/d08/a00832.html#abd9ab6f5925fa3f9434e3f44e9ab217e" title="ripple::LedgerEntrySet\l::rippleCredit" alt="" coords="668,113,817,160"/>
+<area shape="rect" id="node56" href="$d0/d08/a00832.html#abd96654545580c7d63ec55446634cd97" title="ripple::LedgerEntrySet\l::dirDelete" alt="" coords="216,113,365,160"/>
+<area shape="rect" id="node65" href="$d9/dc5/a01705.html#a6a68406aec8713a4b3543b5c1a299d4b" title="ripple::TransactionEngine\l::entryModify" alt="" coords="207,770,375,817"/>
+<area shape="rect" id="node81" href="$d0/d22/a01049.html#a50b81c0ed8e45a60ea8613eac52424ab" title="ripple::core::OfferStream\l::erase" alt="" coords="208,1174,373,1221"/>
+<area shape="rect" id="node85" href="$d0/d08/a00832.html#ad74df15d6d95eec5eb5a76b68867fca7" title="ripple::LedgerEntrySet\l::ownerCountAdjust" alt="" coords="216,374,365,421"/>
+<area shape="rect" id="node5" href="$d4/d10/a01278.html#a7e6910b02e5b449803cb1f8f42043bad" title="ripple::RippleCalc\l::calcNodeAccountFwd" alt="" coords="1303,138,1460,185"/>
+<area shape="rect" id="node25" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="1287,404,1476,450"/>
+<area shape="rect" id="node7" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="1765,138,1891,185"/>
+<area shape="rect" id="node9" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="1939,173,2064,220"/>
+<area shape="rect" id="node13" href="$d4/d10/a01278.html#ac9666accf2ed1b2e9b58674645349eec" title="ripple::RippleCalc\l::calcNodeOfferFwd" alt="" coords="1552,74,1691,121"/>
+<area shape="rect" id="node18" href="$d4/d10/a01278.html#acddbc756a6f92ec497a6d5806d356f14" title="ripple::RippleCalc\l::calcNodeOfferRev" alt="" coords="1552,208,1691,254"/>
+<area shape="rect" id="node20" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="1765,208,1891,254"/>
+<area shape="rect" id="node33" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="428,676,596,722"/>
+<area shape="rect" id="node35" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="649,764,836,810"/>
+<area shape="rect" id="node37" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="661,833,824,880"/>
+<area shape="rect" id="node39" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="661,625,824,672"/>
+<area shape="rect" id="node41" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="675,694,811,741"/>
+<area shape="rect" id="node46" href="$d0/d08/a00832.html#a97e303072f41199f21de517301636565" title="ripple::LedgerEntrySet\l::trustCreate" alt="" coords="437,404,587,450"/>
+<area shape="rect" id="node54" href="$da/d0e/a01720.html#a2b9fb48a88531be86cd60b350564c7aa" title="ripple::TrustSetTransactor\l::doApply" alt="" coords="656,374,829,421"/>
+<area shape="rect" id="node50" href="$d0/d08/a00832.html#a0ffde547dd05d6b0816345b9a5123942" title="ripple::LedgerEntrySet\l::rippleSend" alt="" coords="887,113,1036,160"/>
+<area shape="rect" id="node58" href="$d0/d08/a00832.html#aabd756cf65a3309c33f7998eba255980" title="ripple::LedgerEntrySet\l::offerDelete" alt="" coords="437,233,587,280"/>
+<area shape="rect" id="node60" href="$d0/d08/a00832.html#abedb0f6978c7cd6822be15d92daf2bf6" title="ripple::LedgerEntrySet\l::trustDelete" alt="" coords="437,113,587,160"/>
+<area shape="rect" id="node67" href="$df/da9/a00263.html#a736a8c02fe308a9fc92bf621fe8b245d" title="ripple::ChangeTransactor\l::applyFeature" alt="" coords="428,934,596,981"/>
+<area shape="rect" id="node71" href="$df/da9/a00263.html#a2ac58763b5d1590946598f8ae149cacc" title="ripple::ChangeTransactor\l::applyFee" alt="" coords="428,1004,596,1050"/>
+<area shape="rect" id="node75" href="$da/d73/a01090.html#a7ad4cccf4a91ff162dc862e5222cf0c6" title="ripple::PaymentTransactor\l::doApply" alt="" coords="425,796,599,842"/>
+<area shape="rect" id="node77" href="$d8/df7/a01711.html#ac2faaa3bfd1c9b9f91ae24f367474d0f" title="ripple::Transactor\l::apply" alt="" coords="451,865,573,912"/>
+<area shape="rect" id="node69" href="$df/da9/a00263.html#a0673029ce2761d55cc05d75bc0b6b9e4" title="ripple::ChangeTransactor\l::doApply" alt="" coords="659,978,827,1025"/>
+<area shape="rect" id="node83" href="$d0/d22/a01049.html#a1e73441cbdbd8cfcc418bd1bb6beff57" title="ripple::core::OfferStream\l::step" alt="" coords="429,1174,595,1221"/>
+</map>

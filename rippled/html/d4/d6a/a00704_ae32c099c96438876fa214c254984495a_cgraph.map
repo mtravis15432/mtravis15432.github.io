@@ -1,0 +1,21 @@
+<map id="ripple::InboundLedgersImp::gotStaleData" name="ripple::InboundLedgersImp::gotStaleData">
+<area shape="rect" id="node3" href="$dd/dac/a01008.html#a0d90cad3c80e3c51bf800e772e1f29bb" title="ripple::NetworkOPs\l::addFetchPack" alt="" coords="247,127,383,174"/>
+<area shape="rect" id="node5" href="$d2/d29/a01376.html#a23af11605070a49ab9e2f8460b43016f" title="ripple::SHAMapTreeNode\l::addRaw" alt="" coords="229,247,400,294"/>
+<area shape="rect" id="node16" href="$d2/d29/a01376.html#a1432806ab9b074343c59a198225abf8b" title="ripple::SHAMapTreeNode\l::getNodeHash" alt="" coords="452,5,623,51"/>
+<area shape="rect" id="node33" href="$da/d61/a01350.html#a32c26f7ab6d19e352751979c9d56eccd" title="ripple::Serializer\l::begin" alt="" coords="257,317,372,363"/>
+<area shape="rect" id="node35" href="$da/d61/a01350.html#adc17ce0b529c4fd12abdd42b819bd537" title="ripple::Serializer::end" alt="" coords="243,387,387,416"/>
+<area shape="rect" id="node37" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="264,440,365,469"/>
+<area shape="rect" id="node42" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="252,493,377,539"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="480,74,595,121"/>
+<area shape="rect" id="node18" href="$d2/d29/a01376.html#a3b67964a16f947e63eb45cdee3833627" title="ripple::SHAMapTreeNode\l::isEmpty" alt="" coords="452,143,623,190"/>
+<area shape="rect" id="node20" href="$da/d61/a01350.html#a4f09dcca07217744f793fa7473e845fe" title="ripple::Serializer\l::add32" alt="" coords="480,213,595,259"/>
+<area shape="rect" id="node22" href="$d2/d29/a01376.html#a6f6a85ead57b28f67813a6976b55cba1" title="ripple::SHAMapTreeNode\l::getBranchCount" alt="" coords="452,282,623,329"/>
+<area shape="rect" id="node26" href="$d2/d29/a01376.html#a93890c731f643c17964c498d9913dace" title="ripple::SHAMapTreeNode\l::isEmptyBranch" alt="" coords="675,342,845,389"/>
+<area shape="rect" id="node29" href="$da/d61/a01350.html#a0344fccc7552038b51568aa4f93fca4e" title="ripple::Serializer\l::add8" alt="" coords="480,402,595,449"/>
+<area shape="rect" id="node31" href="$da/d61/a01350.html#a8d8774ca938809be8323d3957a62af90" title="ripple::Serializer\l::addRaw" alt="" coords="480,471,595,518"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="697,43,823,90"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="687,113,833,143"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="895,83,1044,112"/>
+<area shape="rect" id="node24" href="$d2/d29/a01376.html#aa842f2f1377b1a2d7433b47beb04829f" title="ripple::SHAMapTreeNode\l::isInner" alt="" coords="675,273,845,319"/>
+<area shape="rect" id="node39" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="449,541,625,587"/>
+</map>

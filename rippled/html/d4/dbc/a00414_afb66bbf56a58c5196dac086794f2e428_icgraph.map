@@ -1,0 +1,7 @@
+<map id="ripple::DirectoryEntryIterator::nextEntry" name="ripple::DirectoryEntryIterator::nextEntry">
+<area shape="rect" id="node3" href="$d4/dbc/a00414.html#a116b89ee485c23d2a611c0da008bfe38" title="ripple::DirectoryEntryIterator\l::firstEntry" alt="" coords="240,5,427,51"/>
+<area shape="rect" id="node5" href="$d0/d90/a01059.html#a540d0058d3c202a4f5b178de8efa19f7" title="ripple::OrderBookIterator\l::nextOffer" alt="" coords="252,74,415,121"/>
+<area shape="rect" id="node11" href="$d0/d90/a01059.html#a1eec0c3e961a9199369afadb5b73d041" title="ripple::OrderBookIterator\l::nextOfferInDir" alt="" coords="252,143,415,190"/>
+<area shape="rect" id="node7" href="$d0/d90/a01059.html#a87d22587d3bcbe1b34c881ac78077cc7" title="ripple::OrderBookIterator\l::firstOffer" alt="" coords="476,39,639,86"/>
+<area shape="rect" id="node9" href="$d0/d90/a01059.html#acdd03776b3a8e11b2160cd46a6d4fbce" title="ripple::OrderBookIterator\l::rewind" alt="" coords="476,109,639,155"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ripple::LADispatch" name="ripple::LADispatch">
+<area shape="rect" id="node3" href="$d1/de6/a00837.html#a07188a21ab02f9fd85914c40b10f4d67" title="ripple::LedgerMaster\l::checkAccept" alt="" coords="185,5,324,51"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="204,75,305,104"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="192,127,317,174"/>
+<area shape="rect" id="node11" href="$d1/de6/a00837.html#aa9fc2803ac02924b512a7f7712234563" title="ripple::LedgerMaster\l::tryAdvance" alt="" coords="185,197,324,243"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="375,66,551,113"/>
+</map>

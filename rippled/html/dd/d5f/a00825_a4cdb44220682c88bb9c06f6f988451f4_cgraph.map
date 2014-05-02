@@ -1,0 +1,17 @@
+<map id="ripple::Ledger::getAccountRoot" name="ripple::Ledger::getAccountRoot">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#ab0ca75e1c5fa67568377f9962687cf90" title="ripple::Ledger::getAccount\lRootIndex" alt="" coords="259,109,432,155"/>
+<area shape="rect" id="node20" href="$dd/d5f/a00825.html#a72341e4d97235207bcf2f8f1525ff831" title="ripple::Ledger::getASNodeI" alt="" coords="256,233,435,263"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="503,5,617,51"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#a509771bf1109949d4bee7b71aecc3757" title="ripple::Serializer\l::add160" alt="" coords="503,74,617,121"/>
+<area shape="rect" id="node16" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="500,143,620,190"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="696,14,821,61"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="685,84,832,113"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="895,53,1044,83"/>
+<area shape="rect" id="node18" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="701,141,816,187"/>
+<area shape="rect" id="node22" href="$dd/d5f/a00825.html#ad939572bf4fe2a241301ed9bd1a0da60" title="ripple::Ledger::getSLEi" alt="" coords="483,272,637,301"/>
+<area shape="rect" id="node24" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="708,211,809,240"/>
+<area shape="rect" id="node28" href="$da/d74/a00099.html#a84b5eb8859011f37e158ab86c29caa06" title="ripple::Application\l::getSLECache" alt="" coords="696,263,821,310"/>
+<area shape="rect" id="node30" href="$dd/d55/a01638.html#a2c709f3115377eeca448ef32acfb9ee0" title="ripple::TaggedCache\l::fetch" alt="" coords="688,333,829,379"/>
+<area shape="rect" id="node32" href="$dd/d55/a01638.html#a6b9d410c1a62349ee3452f4d66c6c751" title="ripple::TaggedCache\l::canonicalize" alt="" coords="688,402,829,449"/>
+<area shape="rect" id="node26" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="881,202,1057,249"/>
+</map>

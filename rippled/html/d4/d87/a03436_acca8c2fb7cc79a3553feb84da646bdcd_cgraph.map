@@ -1,0 +1,8 @@
+<map id="rocksdb::OldLogFileCount" name="rocksdb::OldLogFileCount">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#ad3fcb7354969b5ea357d56b2d02362fc" title="rocksdb::ParseFileName" alt="" coords="228,77,393,107"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="719,26,873,73"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="924,5,1060,35"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#a5b27053d7804f8ba4a6430e001ce1c22" title="rocksdb::Slice::starts_with" alt="" coords="468,77,644,107"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a7d0cd6e6e390a2d44d90571ec29cd8f5" title="rocksdb::ConsumeDecimalNumber" alt="" coords="443,131,669,160"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="721,156,871,185"/>
+</map>

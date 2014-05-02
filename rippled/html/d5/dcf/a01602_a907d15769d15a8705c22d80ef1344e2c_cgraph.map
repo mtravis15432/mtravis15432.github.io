@@ -1,0 +1,10 @@
+<map id="ripple::STVariableLength::deserialize" name="ripple::STVariableLength::deserialize">
+<area shape="rect" id="node3" href="$d5/dcf/a01602.html#ac6bca1a66a91de07d7fb7fc71ab99fe2" title="ripple::STVariableLength\l::construct" alt="" coords="220,143,383,190"/>
+<area shape="rect" id="node5" href="$d0/d85/a01352.html#a8bd9584f8e08879ca1af03266a0c6a42" title="ripple::SerializerIterator\l::getVL" alt="" coords="437,109,592,155"/>
+<area shape="rect" id="node17" href="$d5/dcf/a01602.html#aa6dd8d177faaadee01f7778ac9b90135" title="ripple::STVariableLength\l::STVariableLength" alt="" coords="433,178,596,225"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#a5bd57df1f3ca871d88c58c5c7b812712" title="ripple::Serializer\l::getVL" alt="" coords="645,109,760,155"/>
+<area shape="rect" id="node9" href="$da/d61/a01350.html#aa852df20ccb9b3d16becaa60d4ef0a8f" title="ripple::Serializer\l::get8" alt="" coords="827,5,941,51"/>
+<area shape="rect" id="node11" href="$da/d61/a01350.html#aa1e5a7a161a0dc36b4c7956077d93b46" title="ripple::Serializer\l::decodeLengthLength" alt="" coords="809,74,959,121"/>
+<area shape="rect" id="node13" href="$da/d61/a01350.html#af695b6f11b6e526a3645c573f29b9e36" title="ripple::Serializer\l::decodeVLLength" alt="" coords="821,143,947,190"/>
+<area shape="rect" id="node15" href="$da/d61/a01350.html#aae6a2808959bee786fa30c815a6d2306" title="ripple::Serializer\l::getRaw" alt="" coords="827,213,941,259"/>
+</map>

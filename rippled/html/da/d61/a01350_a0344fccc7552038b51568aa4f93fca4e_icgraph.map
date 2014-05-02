@@ -1,0 +1,35 @@
+<map id="ripple::Serializer::add8" name="ripple::Serializer::add8">
+<area shape="rect" id="node3" href="$d7/d82/a01601.html#a30acdb59a07e50175a45659be80d2467" title="ripple::STUInt8::add" alt="" coords="184,225,323,255"/>
+<area shape="rect" id="node5" href="$d6/db5/a01573.html#aa507b1c2f711cf075fe8681c592e800a" title="ripple::STPathSet::add" alt="" coords="176,279,331,308"/>
+<area shape="rect" id="node7" href="$df/d0b/a01372.html#ace328564a09fe8629e690586129fefbf" title="ripple::SHAMapNode\l::addIDRaw" alt="" coords="181,331,325,378"/>
+<area shape="rect" id="node29" href="$d2/d29/a01376.html#a23af11605070a49ab9e2f8460b43016f" title="ripple::SHAMapTreeNode\l::addRaw" alt="" coords="168,401,339,447"/>
+<area shape="rect" id="node41" href="$dd/d5f/a00825.html#a28ccdd7d5313e2cd6b8c9d610656b7b4" title="ripple::Ledger::addRaw" alt="" coords="176,557,331,587"/>
+<area shape="rect" id="node9" href="$df/d0b/a01372.html#a344c70ac6bbd1e865495841d638b7fdd" title="ripple::SHAMapNode\l::getRawString" alt="" coords="416,259,560,306"/>
+<area shape="rect" id="node11" href="$d0/dbc/a01704.html#ada68c8c11f2c9292782989f1ed65fefd" title="ripple::TransactionAcquire\l::trigger" alt="" coords="644,109,817,155"/>
+<area shape="rect" id="node19" href="$dd/d85/a00702.html#a9ea46b7b6bbb5f99a9120bbfbc70a64e" title="ripple::InboundLedger\l::trigger" alt="" coords="657,282,804,329"/>
+<area shape="rect" id="node13" href="$d0/dbc/a01704.html#aa760936e4317bbf5cfc4167ea66f22f6" title="ripple::TransactionAcquire\l::newPeer" alt="" coords="884,5,1057,51"/>
+<area shape="rect" id="node15" href="$d0/dbc/a01704.html#aff2883c1a530f0236fb22abca68ab83e" title="ripple::TransactionAcquire\l::onTimer" alt="" coords="884,74,1057,121"/>
+<area shape="rect" id="node17" href="$d0/dbc/a01704.html#af5050201ff5162e27302513d989837c2" title="ripple::TransactionAcquire\l::takeNodes" alt="" coords="884,143,1057,190"/>
+<area shape="rect" id="node21" href="$dd/d85/a00702.html#a291eb601240f81e131f7a232f3eeeb71" title="ripple::InboundLedger\l::init" alt="" coords="897,213,1044,259"/>
+<area shape="rect" id="node23" href="$dd/d85/a00702.html#a4e8b358963095210ee909cd5328c58a9" title="ripple::InboundLedger\l::newPeer" alt="" coords="897,282,1044,329"/>
+<area shape="rect" id="node25" href="$dd/d85/a00702.html#a3365d49eb8fb372a956f1ae208330b7f" title="ripple::InboundLedger\l::onTimer" alt="" coords="897,351,1044,398"/>
+<area shape="rect" id="node27" href="$dd/d85/a00702.html#a0fcb919dd1a3c7f0e37525aee124ee7d" title="ripple::InboundLedger\l::runData" alt="" coords="897,421,1044,467"/>
+<area shape="rect" id="node31" href="$d6/dfe/a01366.html#a5e6accfcc68cecb4c327d7eafab32d05" title="ripple::SHAMap::getFetchPack" alt="" coords="387,329,589,359"/>
+<area shape="rect" id="node33" href="$d6/dfe/a01366.html#ada98c0e06bc5b129154a4968b2a94ca3" title="ripple::SHAMap::getNodeFat" alt="" coords="393,383,583,412"/>
+<area shape="rect" id="node37" href="$d6/dfe/a01366.html#abe6ff3e4b1a03cd350c226f4271d5d7c" title="ripple::SHAMap::getPath" alt="" coords="405,436,571,465"/>
+<area shape="rect" id="node39" href="$d4/d6a/a00704.html#ae32c099c96438876fa214c254984495a" title="ripple::InboundLedgersImp\l::gotStaleData" alt="" coords="401,489,575,535"/>
+<area shape="rect" id="node35" href="$d2/dff/a01374.html#a5ba8e3ec0d8dca936347a2d58b235116" title="ripple::SHAMapSync\l_test::run" alt="" coords="659,374,803,421"/>
+<area shape="rect" id="node43" href="$dd/d5f/a00825.html#ae53bf5480c98b36a234e01de0f437845" title="ripple::Ledger::saveValidated\lLedger" alt="" coords="876,519,1065,566"/>
+<area shape="rect" id="node50" href="$dd/d5f/a00825.html#a93d2362a14e7d5a802d03ea5ded53fcd" title="ripple::Ledger::updateHash" alt="" coords="399,721,577,751"/>
+<area shape="rect" id="node45" href="$dd/d5f/a00825.html#a84fb9cd4200c6cc8ae48bc9f0279f731" title="ripple::Ledger::pendSave\lValidated" alt="" coords="1359,519,1524,566"/>
+<area shape="rect" id="node47" href="$dd/d5f/a00825.html#a4ce86b946061155e228c9ea08f9d5bc9" title="ripple::Ledger::saveValidated\lLedgerAsync" alt="" coords="1119,519,1308,566"/>
+<area shape="rect" id="node52" href="$dd/d5f/a00825.html#a16e47eaa1c229298782773ee27eeddaf" title="ripple::Ledger::getHash" alt="" coords="652,667,809,696"/>
+<area shape="rect" id="node62" href="$dd/d5f/a00825.html#a222d80914c27c9564fa8792fa3914308" title="ripple::Ledger::Ledger" alt="" coords="657,721,804,751"/>
+<area shape="rect" id="node64" href="$dd/d5f/a00825.html#a172f6f42a968787e26bc1f2cff970675" title="ripple::Ledger::setImmutable" alt="" coords="637,779,824,808"/>
+<area shape="rect" id="node68" href="$dd/d5f/a00825.html#a6eae40a50498661ac9114218dceba2d7" title="ripple::Ledger::setRaw" alt="" coords="655,840,807,869"/>
+<area shape="rect" id="node54" href="$dd/d5f/a00825.html#a9f986c17ae106d7c9c7d1b118706c04b" title="ripple::Ledger::getLedgerHash" alt="" coords="873,640,1068,669"/>
+<area shape="rect" id="node56" href="$dd/d5f/a00825.html#a5226908762b8529614ba9351999c6c52" title="ripple::Ledger::Ledger" alt="" coords="897,693,1044,723"/>
+<area shape="rect" id="node60" href="$d7/d5f/a00831.html#a69dfdffade06301acafc3220fb358037" title="ripple::LedgerConsensusImp\l::statusChange" alt="" coords="877,746,1064,793"/>
+<area shape="rect" id="node66" href="$dd/d5f/a00825.html#a8026e84f390a0405b80ef935fa660df8" title="ripple::Ledger::setAccepted" alt="" coords="880,816,1061,845"/>
+<area shape="rect" id="node70" href="$dd/d5f/a00825.html#a5eb8e6438f726d32904946567fcd6544" title="ripple::Ledger::Ledger" alt="" coords="897,869,1044,899"/>
+</map>

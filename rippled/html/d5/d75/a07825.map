@@ -1,0 +1,19 @@
+<map id="ripple::SerializedType" name="ripple::SerializedType">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html" title="ripple::STAmount" alt="" coords="221,5,344,35"/>
+<area shape="rect" id="node5" href="$db/d1e/a01497.html" title="ripple::STArray" alt="" coords="228,59,337,88"/>
+<area shape="rect" id="node7" href="$d6/dd7/a01555.html" title="ripple::STHash128" alt="" coords="217,112,348,141"/>
+<area shape="rect" id="node9" href="$d7/db6/a01556.html" title="ripple::STHash160" alt="" coords="217,165,348,195"/>
+<area shape="rect" id="node11" href="$d9/dac/a01557.html" title="ripple::STHash256" alt="" coords="217,219,348,248"/>
+<area shape="rect" id="node13" href="$de/d1a/a01559.html" title="ripple::STObject" alt="" coords="225,272,340,301"/>
+<area shape="rect" id="node21" href="$d6/db5/a01573.html" title="ripple::STPathSet" alt="" coords="220,325,345,355"/>
+<area shape="rect" id="node23" href="$d3/da5/a01598.html" title="ripple::STUInt16" alt="" coords="224,379,341,408"/>
+<area shape="rect" id="node25" href="$d9/d13/a01599.html" title="ripple::STUInt32" alt="" coords="224,432,341,461"/>
+<area shape="rect" id="node27" href="$d4/d3f/a01600.html" title="ripple::STUInt64" alt="" coords="224,485,341,515"/>
+<area shape="rect" id="node29" href="$d7/d82/a01601.html" title="ripple::STUInt8" alt="" coords="228,539,337,568"/>
+<area shape="rect" id="node31" href="$d5/dcf/a01602.html" title="ripple::STVariableLength" alt="" coords="201,592,364,621"/>
+<area shape="rect" id="node35" href="$db/d51/a01603.html" title="ripple::STVector256" alt="" coords="215,645,351,675"/>
+<area shape="rect" id="node15" href="$dc/d54/a01344.html" title="ripple::SerializedLedger\lEntry" alt="" coords="428,202,585,249"/>
+<area shape="rect" id="node17" href="$d9/de4/a01346.html" title="ripple::SerializedTransaction" alt="" coords="413,272,600,301"/>
+<area shape="rect" id="node19" href="$de/d6c/a01349.html" title="ripple::SerializedValidation" alt="" coords="420,325,593,355"/>
+<area shape="rect" id="node33" href="$de/d3c/a01490.html" title="ripple::STAccount" alt="" coords="444,592,569,621"/>
+</map>

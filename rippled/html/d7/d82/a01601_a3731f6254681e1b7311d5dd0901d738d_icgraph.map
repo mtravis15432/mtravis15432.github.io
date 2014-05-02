@@ -1,0 +1,7 @@
+<map id="ripple::STUInt8::STUInt8" name="ripple::STUInt8::STUInt8">
+<area shape="rect" id="node3" href="$d7/d82/a01601.html#ae2abf55feca81bc5122edb514df22122" title="ripple::STUInt8::construct" alt="" coords="223,13,393,43"/>
+<area shape="rect" id="node11" href="$d7/d82/a01601.html#a887509cb62454338efc50f4e36ca5269" title="ripple::STUInt8::duplicate" alt="" coords="223,67,393,96"/>
+<area shape="rect" id="node5" href="$d7/d82/a01601.html#a47e2e0b924bb76460e0345f03a8daac9" title="ripple::STUInt8::deserialize" alt="" coords="444,13,623,43"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#aa6261552072b04431424e4ee96a9081b" title="ripple::STObject::makeDeserialized\lObject" alt="" coords="673,5,900,51"/>
+<area shape="rect" id="node9" href="$de/d1a/a01559.html#a6e4c27aedab5e7ad8921ccced42e39a7" title="ripple::STObject::set" alt="" coords="951,13,1092,43"/>
+</map>

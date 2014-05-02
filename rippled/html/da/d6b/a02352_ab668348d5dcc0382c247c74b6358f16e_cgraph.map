@@ -1,0 +1,27 @@
+<map id="sqlite3PagerSetPagesize" name="sqlite3PagerSetPagesize">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="267,112,357,141"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a9f1947188e8c305d8053d69f82318762" title="pagerFixMaplimit" alt="" coords="252,373,372,403"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="251,427,373,456"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#a7c85b1d9d633386e0ecb5d56594fe03f" title="sqlite3PageFree" alt="" coords="476,323,591,352"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#af05f296695d164316d4666a76d07f1f0" title="sqlite3PageMalloc" alt="" coords="248,269,376,299"/>
+<area shape="rect" id="node56" href="$da/d6b/a02352.html#adee2536d23ec9628e0883ccab03b3429" title="sqlite3PcacheRefCount" alt="" coords="232,480,392,509"/>
+<area shape="rect" id="node58" href="$da/d6b/a02352.html#a5ba90dc7251209f7f0fbb917d0538f0a" title="sqlite3PcacheSetPageSize" alt="" coords="223,533,401,563"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a51c915452a70527bce99483f8eac02b8" title="sqlite3BackupRestart" alt="" coords="879,112,1025,141"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ae4bcea77d6c756c9ad6ef25739172928" title="sqlite3PcacheClear" alt="" coords="467,60,600,89"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1115,112,1248,141"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#aa25da46a83609c408a14977a087af782" title="sqlite3PcacheTruncate" alt="" coords="664,59,819,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ac00d8abc5cdfaa4da090c03d2b24711c" title="sqlite3PcacheMakeClean" alt="" coords="867,59,1037,88"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#abeed5ab58c7f6b9f9683e39a53a5a8f7" title="pcacheRemoveFromDirtyList" alt="" coords="1085,5,1277,35"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a76530dde0f26366c0614d713daf9859c" title="pcacheUnpin" alt="" coords="1132,59,1231,88"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a63d0693fc056b088572daedace58e82f" title="sqlite3OsFileControlHint" alt="" coords="452,376,615,405"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#a283e764f60afec3ed4995402b6604ceb" title="pcache1Free" alt="" coords="904,373,1000,403"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1120,323,1243,352"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1121,376,1241,405"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#ad80f2390e3fdf5c2feab3ea212d4e9a8" title="pcache1Alloc" alt="" coords="484,269,583,299"/>
+<area shape="rect" id="node37" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="665,216,817,245"/>
+<area shape="rect" id="node39" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="692,269,791,299"/>
+<area shape="rect" id="node50" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1123,165,1240,195"/>
+<area shape="rect" id="node41" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="892,269,1012,299"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1116,269,1247,299"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1325,244,1456,273"/>
+</map>

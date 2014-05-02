@@ -1,0 +1,5 @@
+<map id="rocksdb::log::Reader::file" name="rocksdb::log::Reader::file">
+<area shape="rect" id="node3" href="$d0/ddf/a00918.html#a4336028b15673600a6bb1e8566931677" title="rocksdb::log::LogTest\l::ForceError" alt="" coords="205,5,352,51"/>
+<area shape="rect" id="node5" href="$d0/ddf/a00918.html#a6a583f72c240c96d3ea87a0093f4fc73" title="rocksdb::log::LogTest\l::reset_source_contents" alt="" coords="197,74,360,121"/>
+<area shape="rect" id="node7" href="$d0/ddf/a00918.html#a3208a1c304cca8485d89dcb181349206" title="rocksdb::log::LogTest\l::Read" alt="" coords="409,74,556,121"/>
+</map>

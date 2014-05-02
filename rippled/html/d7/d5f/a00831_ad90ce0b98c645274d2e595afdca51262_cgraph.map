@@ -1,0 +1,13 @@
+<map id="ripple::LedgerConsensusImp::statePreClose" name="ripple::LedgerConsensusImp::statePreClose">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="284,13,385,43"/>
+<area shape="rect" id="node7" href="$dd/dac/a01008.html#aeeadbf915d62f00319ce782da0990567" title="ripple::NetworkOPs\l::getCloseTimeNC" alt="" coords="267,66,403,113"/>
+<area shape="rect" id="node9" href="$d1/de6/a00837.html#ace5931ca5ba70ad783563663790a5cf8" title="ripple::LedgerMaster\l::getCurrentLedger" alt="" coords="265,135,404,182"/>
+<area shape="rect" id="node11" href="$dd/dac/a01008.html#adbdb3df658431f3bcdd9978cdaf17c66" title="ripple::NetworkOPs\l::getLastCloseTime" alt="" coords="267,205,403,251"/>
+<area shape="rect" id="node13" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="272,274,397,321"/>
+<area shape="rect" id="node15" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="272,343,397,390"/>
+<area shape="rect" id="node17" href="$d3/dac/a01777.html#af2c2a17a862003e98972450c4d4c8e05" title="ripple::Validations\l::getTrustedValidationCount" alt="" coords="243,413,427,459"/>
+<area shape="rect" id="node19" href="$da/d74/a00099.html#a4f3da0257883c463e0a561d7ba793dd4" title="ripple::Application\l::getValidations" alt="" coords="272,482,397,529"/>
+<area shape="rect" id="node21" href="$d9/d9d/a03417.html#a975c0f5f2493f00dbf15e444b085d785" title="ripple::max" alt="" coords="292,552,377,581"/>
+<area shape="rect" id="node23" href="$d4/dce/a00337.html#af4a68eca6d3af67e06048a0fed03e737" title="ripple::ContinuousLedger\lTiming::shouldClose" alt="" coords="252,605,417,651"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="476,5,652,51"/>
+</map>

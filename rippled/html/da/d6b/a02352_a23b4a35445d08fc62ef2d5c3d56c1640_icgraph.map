@@ -1,0 +1,19 @@
+<map id="unixLogErrorAtLine" name="unixLogErrorAtLine">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#abc25d22670649c241bee8c46921988ab" title="robust_close" alt="" coords="187,320,283,349"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a5ce21209c92740d0a7171235d32f2ada" title="closePendingFds" alt="" coords="331,59,453,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a8ed5efc47b6e14f7805cd1bb9b215775" title="unixOpen" alt="" coords="1011,177,1088,207"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#ac11bfe29d9353ee80f95a520e83f997f" title="closeUnixFile" alt="" coords="341,189,443,219"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#a7803c0517519823542a7d183abdf4a8d" title="unixDelete" alt="" coords="351,320,433,349"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#a9006328b44a687fe13c07acc7aab68da" title="unixRandomness" alt="" coords="331,373,453,403"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#a89b00f37b59738ab669aa66f70f5962b" title="unixShmPurge" alt="" coords="339,427,445,456"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#aceafdac666eb94923ee90064b3934299" title="unixSync" alt="" coords="355,480,429,509"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a90bcc6164aa2d367ff91d4c32b549be6" title="posixUnlock" alt="" coords="537,59,631,88"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#aae07c58190c3878bb635ca8e50a3ff1a" title="releaseInodeInfo" alt="" coords="716,5,833,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ad78004d74bd51bdf7ac43d20999a1208" title="unixUnlock" alt="" coords="732,59,817,88"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a84cdb6e4ff75f085e8c05dfdec178927" title="unixClose" alt="" coords="883,85,963,115"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#aa72eaafaa850f2889e15af7cfb08fa1b" title="dotlockClose" alt="" coords="535,163,633,192"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a946bda4aff58be65e29d6222fcc6e3f6" title="nolockClose" alt="" coords="537,216,631,245"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#a30775afa2e08ca6ddc7853326afed7c7" title="unixOpenSharedMemory" alt="" coords="501,400,667,429"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#acf439c8bef9c866a47714db2c776213f" title="unixShmUnmap" alt="" coords="527,453,641,483"/>
+<area shape="rect" id="node34" href="$da/d6b/a02352.html#aeaa77f0ab08a4f4ee5f86e8c9727e974" title="unixShmMap" alt="" coords="725,400,824,429"/>
+</map>

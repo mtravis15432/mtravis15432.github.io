@@ -1,0 +1,10 @@
+<map id="sqlite3VdbeSorterClose" name="sqlite3VdbeSorterClose">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="421,44,523,73"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a55e2ac414d354ed16d51e9fb500e21df" title="sqlite3OsCloseFree" alt="" coords="223,151,359,180"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a1a1f4907499ff611302a33899d8625b3" title="vdbeSorterIterZero" alt="" coords="225,44,356,73"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#a5f08df9af03994aeeefdf419c66510d6" title="vdbeSorterRecordFree" alt="" coords="215,97,367,127"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="788,5,879,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="767,71,900,100"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="576,44,717,73"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="417,151,527,180"/>
+</map>

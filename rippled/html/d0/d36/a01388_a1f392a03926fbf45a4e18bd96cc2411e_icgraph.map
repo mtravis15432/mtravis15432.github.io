@@ -1,0 +1,4 @@
+<map id="beast::SharedPtr::release" name="beast::SharedPtr::release">
+<area shape="rect" id="node3" href="$d0/d36/a01388.html#ac32fe545bc6ff0929fee50364edf5656" title="beast::SharedPtr\&lt; beast\l::SharedSingleton\&lt; beast\l::sqdb::session::Sqlite3\l \&gt; \&gt;::assign" alt="" coords="225,5,393,86"/>
+<area shape="rect" id="node5" href="$d0/d36/a01388.html#a7a7e627e8d8951b820261220a042caec" title="beast::SharedPtr\&lt; beast\l::SharedSingleton\&lt; beast\l::sqdb::session::Sqlite3\l \&gt; \&gt;::~SharedPtr" alt="" coords="225,109,393,190"/>
+</map>

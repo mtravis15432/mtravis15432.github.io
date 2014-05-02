@@ -1,0 +1,7 @@
+<map id="beast::String::replaceCharacter" name="beast::String::replaceCharacter">
+<area shape="rect" id="node3" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="267,5,429,51"/>
+<area shape="rect" id="node5" href="$da/de2/a01585.html#aa013f6eb176e47cccfb4f2ba8eaf14e2" title="beast::StringCreationHelper\l::write" alt="" coords="257,74,439,121"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#ac6268cb2bd8387df60a94804204c45d8" title="beast::addBytesToPointer" alt="" coords="499,29,672,59"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a850600d8d5274c00146bd55444cc1e82" title="beast::bmax" alt="" coords="539,83,632,112"/>
+<area shape="rect" id="node11" href="$d5/d42/a00269.html#ab20c2d63badda5d0de9005dedfdb4144" title="beast::CharPointer\l_UTF8::getBytesRequiredFor" alt="" coords="489,135,681,182"/>
+</map>

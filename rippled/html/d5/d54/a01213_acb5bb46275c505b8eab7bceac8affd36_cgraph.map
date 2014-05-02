@@ -1,0 +1,6 @@
+<map id="rocksdb::log::Reader::SkipToInitialBlock" name="rocksdb::log::Reader::SkipToInitialBlock">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="201,5,337,35"/>
+<area shape="rect" id="node5" href="$d5/d54/a01213.html#a49fd67047e3128cc471e7c31c5db6f9c" title="rocksdb::log::Reader\l::ReportDrop" alt="" coords="199,58,340,105"/>
+<area shape="rect" id="node7" href="$d7/d04/a01246.html#a3489a71709b9f8a459daf7761fc8658e" title="rocksdb::log::Reader\l::Reporter::Corruption" alt="" coords="391,27,537,74"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="396,97,532,127"/>
+</map>

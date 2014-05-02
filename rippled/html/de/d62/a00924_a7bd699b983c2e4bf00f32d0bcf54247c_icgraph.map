@@ -1,0 +1,6 @@
+<map id="ripple::Resource::Manager::newAdminEndpoint" name="ripple::Resource::Manager::newAdminEndpoint">
+<area shape="rect" id="node3" href="$d6/d07/a01303.html#a7e0ce39f199a893ba0122aa6612c8f02" title="ripple::RPCServerHandler\l::processRequest" alt="" coords="236,5,409,51"/>
+<area shape="rect" id="node9" href="$d8/d38/a01299.html#a336553b822ce152d8da5b9888ef0b80d" title="ripple::RPCHTTPServerImp\l::processRequest" alt="" coords="231,74,415,121"/>
+<area shape="rect" id="node5" href="$d8/d38/a01299.html#ab146ddf2c60287acdc093f382f4839eb" title="ripple::RPCHTTPServerImp\l::processSession" alt="" coords="465,5,649,51"/>
+<area shape="rect" id="node7" href="$d8/d38/a01299.html#a19d94b89eb7a1c0a5f5185dabd6689c7" title="ripple::RPCHTTPServerImp\l::onRequest" alt="" coords="700,5,884,51"/>
+</map>

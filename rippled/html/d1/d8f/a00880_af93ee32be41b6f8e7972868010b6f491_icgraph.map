@@ -1,0 +1,7 @@
+<map id="ripple::SiteFiles::Listener::onSiteFileFetch" name="ripple::SiteFiles::Listener::onSiteFileFetch">
+<area shape="rect" id="node3" href="$d4/d12/a00910.html#a672135620a97ed39754c830bc3249124" title="ripple::SiteFiles::\lLogic::addListener" alt="" coords="241,5,369,51"/>
+<area shape="rect" id="node7" href="$d4/d12/a00910.html#aace724fb45ae653b1822842ea10a218c" title="ripple::SiteFiles::\lLogic::processResponse" alt="" coords="223,74,388,121"/>
+<area shape="rect" id="node5" href="$d8/d19/a00935.html#a9167b236c357ae01d169c88d9b598107" title="ripple::SiteFiles::\lManagerImp::addListener" alt="" coords="439,5,607,51"/>
+<area shape="rect" id="node9" href="$d4/d12/a00910.html#ae38bdb01b5a888e478379fec54bfd501" title="ripple::SiteFiles::\lLogic::addURL" alt="" coords="463,74,583,121"/>
+<area shape="rect" id="node11" href="$d8/d19/a00935.html#a30ee2017d6641be735898d04c2f1f5b0" title="ripple::SiteFiles::\lManagerImp::addURL" alt="" coords="657,74,807,121"/>
+</map>

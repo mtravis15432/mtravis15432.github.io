@@ -1,0 +1,25 @@
+var a01473 =
+[
+    [ "iVersion", "de/d13/a01473.html#a694dd264949bd163545fe174510ed019", null ],
+    [ "mxPathname", "de/d13/a01473.html#adb2d82c74891b00b5529fb94e7710135", null ],
+    [ "pAppData", "de/d13/a01473.html#a8de686c5e679ba421479ac96d6654527", null ],
+    [ "pNext", "de/d13/a01473.html#a4b12c503e4083854a9c4d91697a12de3", null ],
+    [ "szOsFile", "de/d13/a01473.html#a549399081342d61134b6398562a0a997", null ],
+    [ "xAccess", "de/d13/a01473.html#ab4344474034c2dbc9223a362c65ff235", null ],
+    [ "xCurrentTime", "de/d13/a01473.html#ab85a8a3ab59f76a6685508fefaa7b691", null ],
+    [ "xCurrentTimeInt64", "de/d13/a01473.html#aa281584c422969b7f0df0e5f918fc590", null ],
+    [ "xDelete", "de/d13/a01473.html#a5f547a3e54f91c7ebef140d51054bbc0", null ],
+    [ "xDlClose", "de/d13/a01473.html#adaa986b55a44971e7048d160ac5071ad", null ],
+    [ "xDlError", "de/d13/a01473.html#a3cda3a00a43861cef4d5554354cdfda4", null ],
+    [ "xDlOpen", "de/d13/a01473.html#ad6587e730f4f8bce2b0129664a9a86b9", null ],
+    [ "xDlSym", "de/d13/a01473.html#a20ef3dacb974e3e480782629cbbf7534", null ],
+    [ "xFullPathname", "de/d13/a01473.html#a02fafc56d26adab5f236df6493a8bd55", null ],
+    [ "xGetLastError", "de/d13/a01473.html#a4994110c79d082f7770ce553d507748f", null ],
+    [ "xGetSystemCall", "de/d13/a01473.html#a604384e58c645e06b6db38d8a45e1103", null ],
+    [ "xNextSystemCall", "de/d13/a01473.html#ac2930d34749977f39b1bbc27dc1de2b2", null ],
+    [ "xOpen", "de/d13/a01473.html#a5f35d5528d8fdf1d26e1e206879afbe1", null ],
+    [ "xRandomness", "de/d13/a01473.html#ace3fcb41cb01a947457532f645ba4c88", null ],
+    [ "xSetSystemCall", "de/d13/a01473.html#a69996d40229d6eabe6869bb3fc80b730", null ],
+    [ "xSleep", "de/d13/a01473.html#a8ebcfaceced9713024cb8e2508fe6c1b", null ],
+    [ "zName", "de/d13/a01473.html#a01a82d3e1a7efc00a762a00751ed592b", null ]
+];

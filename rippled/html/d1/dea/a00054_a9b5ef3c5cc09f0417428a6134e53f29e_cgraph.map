@@ -1,0 +1,6 @@
+<map id="ripple::AcceptedLedger::AcceptedLedger" name="ripple::AcceptedLedger::AcceptedLedger">
+<area shape="rect" id="node3" href="$d1/dea/a00054.html#a8df57869d680a1f99181efa9097a30b7" title="ripple::AcceptedLedger\l::insert" alt="" coords="233,5,388,51"/>
+<area shape="rect" id="node5" href="$d6/dfe/a01366.html#aed4283d156d24d9670355b526fcac785" title="ripple::SHAMap::peekFirstItem" alt="" coords="209,75,412,104"/>
+<area shape="rect" id="node9" href="$d6/dfe/a01366.html#a3c6509d39084f7d0c9c6684e5942dc0c" title="ripple::SHAMap::peekNextItem" alt="" coords="209,128,412,157"/>
+<area shape="rect" id="node7" href="$d2/d29/a01376.html#ac3c69798cc21341fbabf32d7c92a8c8c" title="ripple::SHAMapTreeNode\l::peekItem" alt="" coords="461,66,632,113"/>
+</map>

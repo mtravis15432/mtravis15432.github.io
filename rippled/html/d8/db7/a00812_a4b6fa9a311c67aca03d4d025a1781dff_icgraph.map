@@ -1,0 +1,6 @@
+<map id="ripple::KnownFormats::findByType" name="ripple::KnownFormats::findByType">
+<area shape="rect" id="node3" href="$d3/da5/a01598.html#af7cf6cd76f8546551fe0edeb80bc7b4e" title="ripple::STUInt16::getJson" alt="" coords="212,5,383,35"/>
+<area shape="rect" id="node5" href="$d3/da5/a01598.html#a38bc0be44156934bc40672f5b604f293" title="ripple::STUInt16::getText" alt="" coords="213,59,381,88"/>
+<area shape="rect" id="node7" href="$dc/d54/a01344.html#a28335969abc5e5c30bbfafe0544b025c" title="ripple::SerializedLedger\lEntry::SerializedLedgerEntry" alt="" coords="204,111,391,158"/>
+<area shape="rect" id="node9" href="$d9/de4/a01346.html#a2efa34a7bf1b71e9b08058df22b47b97" title="ripple::SerializedTransaction\l::SerializedTransaction" alt="" coords="204,181,391,227"/>
+</map>

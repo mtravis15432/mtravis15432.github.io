@@ -1,0 +1,17 @@
+<map id="beast::sqdb::session::clone" name="beast::sqdb::session::clone">
+<area shape="rect" id="node3" href="$da/dab/a01362.html#a63dcaa792ca3cd73161fcd233da3df16" title="beast::sqdb::session\l::open" alt="" coords="199,189,340,235"/>
+<area shape="rect" id="node5" href="$de/d83/a03382.html#a1dec1f584b4d3170dac63acc217d01b3" title="beast::sqdb::detail\l::sqliteError" alt="" coords="400,127,528,174"/>
+<area shape="rect" id="node31" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="391,197,537,227"/>
+<area shape="rect" id="node33" href="$da/dab/a01362.html#acdf1476b47c323661f129aa8b1acd0b6" title="beast::sqdb::session\l::close" alt="" coords="393,250,535,297"/>
+<area shape="rect" id="node7" href="$d4/d4b/a00471.html#a69b66f9dbc6d70f38e8458d101d8db89" title="beast::Error::fail" alt="" coords="587,136,701,165"/>
+<area shape="rect" id="node9" href="$d6/df3/a03349.html#aa7c395bfb9f4dbdb23a88c950242c0b2" title="beast::Debug::getFileName\lFromPath" alt="" coords="751,127,932,174"/>
+<area shape="rect" id="node11" href="$d1/d88/a01578.html#ac964e99361851027f5df041e2ff21084" title="beast::String::lastIndex\lOfChar" alt="" coords="1004,127,1161,174"/>
+<area shape="rect" id="node17" href="$d1/d88/a01578.html#aaca49bb1ee479cbc8a488c8be4b919f8" title="beast::String::replaceCharacter" alt="" coords="981,75,1184,104"/>
+<area shape="rect" id="node28" href="$d1/d88/a01578.html#a51b6c08a63652de5e8c66517483fa2b9" title="beast::String::substring" alt="" coords="1004,197,1161,227"/>
+<area shape="rect" id="node13" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="1243,119,1405,166"/>
+<area shape="rect" id="node15" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="1259,189,1389,235"/>
+<area shape="rect" id="node20" href="$da/de2/a01585.html#aa013f6eb176e47cccfb4f2ba8eaf14e2" title="beast::StringCreationHelper\l::write" alt="" coords="1233,50,1415,97"/>
+<area shape="rect" id="node22" href="$d5/d83/a03337.html#ac6268cb2bd8387df60a94804204c45d8" title="beast::addBytesToPointer" alt="" coords="1475,5,1648,35"/>
+<area shape="rect" id="node24" href="$d5/d83/a03337.html#a850600d8d5274c00146bd55444cc1e82" title="beast::bmax" alt="" coords="1515,59,1608,88"/>
+<area shape="rect" id="node26" href="$d5/d42/a00269.html#ab20c2d63badda5d0de9005dedfdb4144" title="beast::CharPointer\l_UTF8::getBytesRequiredFor" alt="" coords="1465,111,1657,158"/>
+</map>

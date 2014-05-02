@@ -1,0 +1,7 @@
+<map id="ripple::core::Taker::account" name="ripple::core::Taker::account">
+<area shape="rect" id="node3" href="$de/d14/a01640.html#a4b55fba486df9d29a010377872fc7e5d" title="ripple::core::Taker\l::fill" alt="" coords="197,5,323,51"/>
+<area shape="rect" id="node5" href="$de/d14/a01640.html#a52880886eeea7fcd4b11de2e39e80f76" title="ripple::core::Taker\l::funds" alt="" coords="197,74,323,121"/>
+<area shape="rect" id="node9" href="$d1/deb/a03418.html#a66025878cade534e45d43c536baad913" title="ripple::core::operator\&lt;\&lt;" alt="" coords="181,144,339,173"/>
+<area shape="rect" id="node11" href="$de/d14/a01640.html#ab965c98d5a0e895f412f65b1724038b2" title="ripple::core::Taker\l::process" alt="" coords="197,197,323,243"/>
+<area shape="rect" id="node7" href="$de/d14/a01640.html#a75564fa09f369032f150696132b03299" title="ripple::core::Taker\l::done" alt="" coords="388,74,513,121"/>
+</map>

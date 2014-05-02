@@ -1,0 +1,9 @@
+<map id="beast::SemanticVersion_test::checkFail" name="beast::SemanticVersion_test::checkFail">
+<area shape="rect" id="node3" href="$d2/d4d/a01338.html#a4f338712ffae422a2ba71bdddbe97561" title="beast::SemanticVersion\l_test::checkMeta" alt="" coords="217,35,377,82"/>
+<area shape="rect" id="node5" href="$d2/d4d/a01338.html#af41450faa4d1fcff6c738fe218abfc8a" title="beast::SemanticVersion\l_test::checkMetaFail" alt="" coords="428,5,588,51"/>
+<area shape="rect" id="node7" href="$d2/d4d/a01338.html#a66adbd690528cebec07d66fd9e8b69a6" title="beast::SemanticVersion\l_test::checkRelease" alt="" coords="639,35,799,82"/>
+<area shape="rect" id="node9" href="$d2/d4d/a01338.html#a2b05f634747e2b3f496e950d68fa18e9" title="beast::SemanticVersion\l_test::check" alt="" coords="849,35,1009,82"/>
+<area shape="rect" id="node11" href="$d2/d4d/a01338.html#aa88e28a57d33cd5f932276e5665bc79b" title="beast::SemanticVersion\l_test::negcheck" alt="" coords="1060,5,1220,51"/>
+<area shape="rect" id="node13" href="$d2/d4d/a01338.html#a96cd69ef320bffedc6ea010608d60408" title="beast::SemanticVersion\l_test::testParse" alt="" coords="1271,35,1431,82"/>
+<area shape="rect" id="node15" href="$d2/d4d/a01338.html#a28fe4368715b9ea40d26bb8c96c740ad" title="beast::SemanticVersion\l_test::run" alt="" coords="1481,35,1641,82"/>
+</map>

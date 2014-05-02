@@ -1,0 +1,16 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a1b2b5651cb983a11c09908831b349993" title="rocksdb::deleter" alt="" coords="192,5,307,35"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a35a0923808914c8ecd0c78fc5d36fc31" title="rocksdb::NewLRUCache" alt="" coords="165,59,333,88"/>
+<area shape="rect" id="node7" href="$d2/d7f/a03369.html#a4a51c292cb48681521db67f2b4848736" title="beast::IP::to_string" alt="" coords="183,112,316,141"/>
+<area shape="rect" id="node9" href="$d7/db0/a03467.html#a90a67ab6517f594a989c6cb4f3ff67f9" title="rocksdb::crc32c::Value" alt="" coords="172,165,327,195"/>
+<area shape="rect" id="node11" href="$d7/db0/a03467.html#aba0a720f8204028aa9b0f78f969d5f97" title="rocksdb::crc32c::Extend" alt="" coords="383,165,545,195"/>
+<area shape="rect" id="node13" href="$d7/db0/a03467.html#a174fe9c8cf3cb558b7accfdc10c6c04c" title="rocksdb::crc32c::CRC32" alt="" coords="596,165,761,195"/>
+<area shape="rect" id="node15" href="$d7/db0/a03467.html#aeb8537c518a4a8ac7e1d8f8ac1c6bb63" title="rocksdb::crc32c::Choose\l_CRC32" alt="" coords="811,157,979,203"/>
+<area shape="rect" id="node17" href="$d7/db0/a03467.html#a6abc7c8ed18979f0e12fcfb6460f9285" title="rocksdb::crc32c::isSSE42" alt="" coords="1028,104,1201,133"/>
+<area shape="rect" id="node19" href="$d7/db0/a03467.html#ab6bf1f9041f7859fe1aae6312f650115" title="rocksdb::crc32c::Fast\l_CRC32" alt="" coords="1040,157,1189,203"/>
+<area shape="rect" id="node27" href="$d7/db0/a03467.html#aabbb4470a0a8566fff676e40a5c3a491" title="rocksdb::crc32c::Slow\l_CRC32" alt="" coords="1251,217,1403,263"/>
+<area shape="rect" id="node21" href="$d7/db0/a03467.html#aa5eeccea7be6cc99acab7223cc1c7baf" title="rocksdb::crc32c::LE\l_LOAD64" alt="" coords="1257,147,1396,194"/>
+<area shape="rect" id="node23" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="1452,159,1617,188"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="1668,191,1833,220"/>
+<area shape="rect" id="node29" href="$d7/db0/a03467.html#a72b216c9d4dfeeaea89e2410eec06ff9" title="rocksdb::crc32c::LE\l_LOAD32" alt="" coords="1465,213,1604,259"/>
+</map>

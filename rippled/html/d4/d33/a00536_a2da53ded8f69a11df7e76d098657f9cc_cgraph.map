@@ -1,0 +1,5 @@
+<map id="beast::File::setLastAccessTime" name="beast::File::setLastAccessTime">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a60d073245a8ed30940e7edb793218d79" title="beast::File::setFileTimes\lInternal" alt="" coords="271,5,436,51"/>
+<area shape="rect" id="node7" href="$dc/dc8/a01695.html#a8be067a7fcef071a4b60e2a38ce0bdbb" title="beast::Time::toMilliseconds" alt="" coords="263,75,444,104"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="495,13,641,43"/>
+</map>

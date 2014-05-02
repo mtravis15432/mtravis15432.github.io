@@ -1,0 +1,6 @@
+<map id="ripple::ProofOfWorkFactoryImp::getPowEntries" name="ripple::ProofOfWorkFactoryImp::getPowEntries">
+<area shape="rect" id="node3" href="$db/d51/a01144.html#a515a5dbe989ca745d6b3b58c3f73d637" title="ripple::ProofOfWorkFactory\lImp::getPowEntry" alt="" coords="235,5,416,51"/>
+<area shape="rect" id="node7" href="$db/d51/a01144.html#a8b8542d5291e661912633dc00ab84f70" title="ripple::ProofOfWorkFactory\lImp::setDifficulty" alt="" coords="235,74,416,121"/>
+<area shape="rect" id="node5" href="$db/d51/a01144.html#ad945afac4bb8bf1dd1078ac23030b907" title="ripple::ProofOfWorkFactory\lImp::checkProof" alt="" coords="471,5,652,51"/>
+<area shape="rect" id="node9" href="$db/d51/a01144.html#a182b29d4c9a73c3d5cc0f2a9d0302f97" title="ripple::ProofOfWorkFactory\lImp::ProofOfWorkFactoryImp" alt="" coords="464,74,659,121"/>
+</map>

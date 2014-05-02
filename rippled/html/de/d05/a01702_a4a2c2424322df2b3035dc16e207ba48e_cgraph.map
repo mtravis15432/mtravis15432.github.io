@@ -1,0 +1,6 @@
+<map id="ripple::Transaction::getJson" name="ripple::Transaction::getJson">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="204,13,305,43"/>
+<area shape="rect" id="node7" href="$d1/de6/a00837.html#a5a199229ff499451b63f07ae13f5690a" title="ripple::LedgerMaster\l::getLedgerBySeq" alt="" coords="185,66,324,113"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="192,135,317,182"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="375,5,551,51"/>
+</map>

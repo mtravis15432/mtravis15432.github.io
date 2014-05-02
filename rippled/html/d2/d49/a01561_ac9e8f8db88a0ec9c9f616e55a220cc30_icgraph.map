@@ -1,0 +1,12 @@
+<map id="beast::Stoppable::areChildrenStopped" name="beast::Stoppable::areChildrenStopped">
+<area shape="rect" id="node3" href="$d9/d00/a00784.html#ac2e75f069b3c1ebeb9e9edce0606cad5" title="ripple::JobQueueImp\l::addJob" alt="" coords="249,39,391,86"/>
+<area shape="rect" id="node5" href="$d9/db3/a01064.html#a8b12e6a7e9b089480735592140bf5732" title="ripple::OverlayImpl\l::check_stopped" alt="" coords="255,109,385,155"/>
+<area shape="rect" id="node17" href="$d9/d00/a00784.html#ad06cbbc8ba098656e424cca4eb7cb87a" title="ripple::JobQueueImp\l::checkStopped" alt="" coords="249,178,391,225"/>
+<area shape="rect" id="node7" href="$d9/db3/a01064.html#aae610b1a44dfb3505bd9449e5217d660" title="ripple::OverlayImpl\l::release" alt="" coords="447,39,577,86"/>
+<area shape="rect" id="node15" href="$d9/db3/a01064.html#a3a2a34dcf3647aad5b8860744fc4a324" title="ripple::OverlayImpl\l::onChildrenStopped" alt="" coords="443,109,581,155"/>
+<area shape="rect" id="node9" href="$d9/db3/a01064.html#afa4e7d42e14e611f22fd50f5b1f11738" title="ripple::OverlayImpl\l::remove" alt="" coords="632,5,763,51"/>
+<area shape="rect" id="node13" href="$d9/db3/a01064.html#ac252980b7a02834b5a4577456ad8f7a3" title="ripple::OverlayImpl\l::onStop" alt="" coords="632,74,763,121"/>
+<area shape="rect" id="node11" href="$d9/d10/a01103.html#a162a0f14933f5b43db5a9655544effd2" title="ripple::PeerImp::~PeerImp" alt="" coords="812,13,985,43"/>
+<area shape="rect" id="node19" href="$d9/d00/a00784.html#a7666704c0d51e837f890bd5df81dfa03" title="ripple::JobQueueImp\l::processTask" alt="" coords="441,178,583,225"/>
+<area shape="rect" id="node21" href="$d9/d00/a00784.html#aeda119f7ca49007dee1ff32195970676" title="ripple::JobQueueImp\l::onChildrenStopped" alt="" coords="441,247,583,294"/>
+</map>

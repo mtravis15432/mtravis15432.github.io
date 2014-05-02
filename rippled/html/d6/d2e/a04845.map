@@ -1,0 +1,19 @@
+<map id="rippled/src/ripple_app/book/Offer.h" name="rippled/src/ripple_app/book/Offer.h">
+<area shape="rect" id="node3" href="$db/d08/a02871.html" title="Amounts.h" alt="" coords="177,207,263,236"/>
+<area shape="rect" id="node23" href="$d7/d65/a02876.html" title="Quality.h" alt="" coords="409,111,484,140"/>
+<area shape="rect" id="node35" href="$dd/d0a/a02436.html" title="Types.h" alt="" coords="677,111,747,140"/>
+<area shape="rect" id="node59" href="$d2/d34/a02982.html" title="../misc/SerializedLedger.h" alt="" coords="771,111,944,140"/>
+<area shape="rect" id="node61" href="$db/d65/a03179.html" title="../../ripple_data/protocol\l/FieldNames.h" alt="" coords="1075,102,1232,149"/>
+<area shape="rect" id="node5" href="$d0/dee/a02870.html" title="Amount.h" alt="" coords="219,303,296,332"/>
+<area shape="rect" id="node7" href="$d1/d45/a03191.html" title="../../ripple_data/protocol\l/SerializedObject.h" alt="" coords="179,390,336,437"/>
+<area shape="rect" id="node11" href="$db/ddd/a02136.html" title="../../beast/beast/utility\l/noexcept.h" alt="" coords="5,390,155,437"/>
+<area shape="rect" id="node13" href="$d4/dae/a01994.html" title="../../beast/beast/cxx14\l/type_traits.h" alt="" coords="371,390,523,437"/>
+<area shape="rect" id="node15" href="$dc/d67/a01989.html" title="config.h" alt="" coords="419,495,485,524"/>
+<area shape="rect" id="node37" href="$db/da5/a02919.html" title="../ledger/LedgerEntrySet.h" alt="" coords="953,207,1127,236"/>
+<area shape="rect" id="node39" href="$d3/d57/a02834.html" title="../../ripple/types\l/api/RippleAssets.h" alt="" coords="923,294,1059,341"/>
+<area shape="rect" id="node44" href="$dd/dd1/a02842.html" title="../../ripple/types\l/api/UInt160.h" alt="" coords="767,198,879,245"/>
+<area shape="rect" id="node46" href="$dd/dfa/a02824.html" title="base_uint.h" alt="" coords="779,303,867,332"/>
+<area shape="rect" id="node48" href="$d9/d4d/a02840.html" title="strHex.h" alt="" coords="547,399,619,428"/>
+<area shape="rect" id="node50" href="$d9/d90/a01909.html" title="ByteOrder.h" alt="" coords="837,399,928,428"/>
+<area shape="rect" id="node63" href="$d1/d5f/a03189.html" title="../protocol/SerializeDeclarations.h" alt="" coords="1151,207,1369,236"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb::BlockBasedTable::GenerateCachePrefix" name="rocksdb::BlockBasedTable::GenerateCachePrefix">
+<area shape="rect" id="node3" href="$d5/d13/a00205.html#a0f0afdfbe73d57683604ad8ce425d673" title="rocksdb::BlockBasedTable\lBuilder::BlockBasedTableBuilder" alt="" coords="233,5,444,51"/>
+<area shape="rect" id="node5" href="$d1/d72/a00204.html#afb72d5e4b2530dba179d56363c396d35" title="rocksdb::BlockBasedTable\l::SetupCacheKeyPrefix" alt="" coords="249,74,428,121"/>
+<area shape="rect" id="node7" href="$d1/d72/a00204.html#a526e236ccfcd110fbaecd1118c6756eb" title="rocksdb::BlockBasedTable\l::Open" alt="" coords="493,74,672,121"/>
+<area shape="rect" id="node9" href="$de/dd2/a00207.html#a221c51015e9877bf660f905ae9bb4ca0" title="rocksdb::BlockBasedTable\lFactory::GetTableReader" alt="" coords="720,74,899,121"/>
+</map>

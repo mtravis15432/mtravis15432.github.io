@@ -1,0 +1,26 @@
+var a01348 =
+[
+    [ "SerializedType", "d7/d57/a01348.html#ade5a8624be7bc286581c93d73fa21558", null ],
+    [ "SerializedType", "d7/d57/a01348.html#a3e29c9c667341344acff348bd44d4884", null ],
+    [ "~SerializedType", "d7/d57/a01348.html#aa67b5a0b9fcc7ab8c40ee0f7b09b372f", null ],
+    [ "add", "d7/d57/a01348.html#a366575938305cad5b67be9d0c593b0ae", null ],
+    [ "addFieldID", "d7/d57/a01348.html#a9b5e0531c5c623aabb63882aaea4ba3e", null ],
+    [ "clone", "d7/d57/a01348.html#aea325ebc12eb8a57469df47cae7849c7", null ],
+    [ "deserialize", "d7/d57/a01348.html#a3754f5326c79dc9e38a07654eb26ba16", null ],
+    [ "downcast", "d7/d57/a01348.html#a8b24ca872a71eef6bf2ec704c6fadf2b", null ],
+    [ "downcast", "d7/d57/a01348.html#add527a0a7e0c0595d07f09453d87f9e1", null ],
+    [ "duplicate", "d7/d57/a01348.html#a93acf05b0e487344a2181845edf38758", null ],
+    [ "getFName", "d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e", null ],
+    [ "getFullText", "d7/d57/a01348.html#a2a0102c5a54e55393002ae83f9cfdca4", null ],
+    [ "getJson", "d7/d57/a01348.html#af1869902e1ff733f983ee59b686894eb", null ],
+    [ "getName", "d7/d57/a01348.html#a933443458635aa9598529a530326af66", null ],
+    [ "getSType", "d7/d57/a01348.html#a420d71c47a773cf368ab6d8e99152871", null ],
+    [ "getText", "d7/d57/a01348.html#a7d77514b5e009bccd4de10303851a022", null ],
+    [ "isDefault", "d7/d57/a01348.html#a009396b6a6554768fdc9384c48f0ccc8", null ],
+    [ "isEquivalent", "d7/d57/a01348.html#a63eb45ecb1d73526eac585f2c18bc2f1", null ],
+    [ "operator!=", "d7/d57/a01348.html#a86f37edb562adb333c4386b1f0399741", null ],
+    [ "operator=", "d7/d57/a01348.html#a353cb134db983f0bc19b10fe2a5f74c0", null ],
+    [ "operator==", "d7/d57/a01348.html#a5577b494ca6eeb2bb88da4e6e0e58184", null ],
+    [ "setFName", "d7/d57/a01348.html#a7f1949367839e61957f73db9c9a9fe43", null ],
+    [ "fName", "d7/d57/a01348.html#a21a28647ee8d9a6c60141988257c65cf", null ]
+];

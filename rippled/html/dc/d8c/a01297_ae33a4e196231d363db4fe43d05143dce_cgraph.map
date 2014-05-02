@@ -1,0 +1,32 @@
+<map id="ripple::RPCHandler::doGetCounts" name="ripple::RPCHandler::doGetCounts">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="251,13,352,43"/>
+<area shape="rect" id="node7" href="$d1/dea/a00054.html#ab93d95aac088d92a74021c06b7cd77dc" title="ripple::AcceptedLedger\l::getCacheHitRate" alt="" coords="224,66,379,113"/>
+<area shape="rect" id="node9" href="$dd/dcb/a00375.html#a105cc1993a6e21fa10b5f35ec837ac89" title="ripple::NodeStore::\lDatabase::getCacheHitRate" alt="" coords="208,135,395,182"/>
+<area shape="rect" id="node11" href="$d1/de6/a00837.html#a8debf01ddee92cc6abea849b378f004c" title="ripple::LedgerMaster\l::getCacheHitRate" alt="" coords="232,205,371,251"/>
+<area shape="rect" id="node13" href="$db/d10/a00350.html#a0aa3595c7b447836b68712d349a3b103" title="ripple::CountedObjects\l::getCounts" alt="" coords="224,274,379,321"/>
+<area shape="rect" id="node21" href="$d6/db8/a00376.html#a9368476a90456c8f1256a53c239cc9a5" title="ripple::DatabaseCon\l::getDB" alt="" coords="231,343,372,390"/>
+<area shape="rect" id="node23" href="$df/d7b/a01765.html#aeeb43cebafc02bf5d46cb2bfbcd20444" title="ripple::UptimeTimer\l::getElapsedSeconds" alt="" coords="228,413,375,459"/>
+<area shape="rect" id="node31" href="$dd/d55/a01638.html#a27ec9600637298298604d2307ddc58e5" title="ripple::TaggedCache\l::getHitRate" alt="" coords="231,482,372,529"/>
+<area shape="rect" id="node33" href="$db/d10/a00350.html#ae655ec8ef3d3acee176c198a3cae6d40" title="ripple::CountedObjects\l::getInstance" alt="" coords="224,551,379,598"/>
+<area shape="rect" id="node35" href="$df/d7b/a01765.html#ac9f8c7e22a8eb347f4be7596bd712d01" title="ripple::UptimeTimer\l::getInstance" alt="" coords="233,621,369,667"/>
+<area shape="rect" id="node37" href="$d5/db5/a00374.html#a34eec5940253ee7f52e5a0b2451193aa" title="ripple::Database::getKBUsedAll" alt="" coords="199,691,404,720"/>
+<area shape="rect" id="node39" href="$d5/db5/a00374.html#a40e5f5b57f3eef67568b4326cafb9659" title="ripple::Database::getKBUsedDB" alt="" coords="196,744,407,773"/>
+<area shape="rect" id="node41" href="$da/d74/a00099.html#a0a8cd54d61526a10f629ce55d196f344" title="ripple::Application\l::getLedgerDB" alt="" coords="239,797,364,843"/>
+<area shape="rect" id="node43" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="239,866,364,913"/>
+<area shape="rect" id="node45" href="$dd/dac/a01008.html#aa9220ccf8382acf85ccd1043f68b9c37" title="ripple::NetworkOPs\l::getLocalTxCount" alt="" coords="233,935,369,982"/>
+<area shape="rect" id="node47" href="$da/d74/a00099.html#a25c5851322f6cb3762563fd1278c6143" title="ripple::Application\l::getNodeStore" alt="" coords="239,1005,364,1051"/>
+<area shape="rect" id="node49" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="239,1074,364,1121"/>
+<area shape="rect" id="node51" href="$da/d74/a00099.html#a84b5eb8859011f37e158ab86c29caa06" title="ripple::Application\l::getSLECache" alt="" coords="239,1143,364,1190"/>
+<area shape="rect" id="node53" href="$d6/dfe/a01366.html#a2468ed449310e48ac80c53a63ff0e34f" title="ripple::SHAMap::getTreeNodeSize" alt="" coords="191,1213,412,1243"/>
+<area shape="rect" id="node55" href="$da/d74/a00099.html#aed3322f9602bc688e68b14e8baff5440" title="ripple::Application\l::getTxnDB" alt="" coords="239,1266,364,1313"/>
+<area shape="rect" id="node57" href="$dd/dcb/a00375.html#aabb70be2c6ef7841f534ff9202326e46" title="ripple::NodeStore::\lDatabase::getWriteLoad" alt="" coords="220,1335,383,1382"/>
+<area shape="rect" id="node59" href="$d6/d27/a01781.html#a196defba501d70ea2b6793afb04108e3" title="Return true if the object has a member named key. " alt="" coords="224,1405,379,1435"/>
+<area shape="rect" id="node61" href="$d9/d9d/a03417.html#a9d23ef2ff4c8ae72e22bb11c533f9e69" title="ripple::textTime" alt="" coords="245,1459,357,1488"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="463,5,639,51"/>
+<area shape="rect" id="node15" href="$db/ddc/a00353.html#ae8224a395f562d22502377664c083687" title="ripple::CountedObjects\l::CounterBase::getCount" alt="" coords="468,205,633,251"/>
+<area shape="rect" id="node17" href="$db/ddc/a00353.html#a8f1705fff3dcc0050cd3915994fa2f5f" title="ripple::CountedObjects\l::CounterBase::getName" alt="" coords="468,274,633,321"/>
+<area shape="rect" id="node19" href="$db/ddc/a00353.html#aacd87df54b11d42808a0f5a5cab1e2e6" title="ripple::CountedObjects\l::CounterBase::getNext" alt="" coords="471,343,631,390"/>
+<area shape="rect" id="node25" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="477,421,624,451"/>
+<area shape="rect" id="node27" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="688,421,875,451"/>
+<area shape="rect" id="node29" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="923,413,1088,459"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sqlite3FixInit" name="sqlite3FixInit">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="571,5,704,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a8dbe5e590ab6c58a8c45f34f7c81e825" title="sqlite3CreateIndex" alt="" coords="149,135,280,164"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="764,213,892,243"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="359,265,492,295"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="952,135,1035,164"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a90682707dee89aba38039bf7848c09d4" title="sqlite3Parser" alt="" coords="1083,135,1181,164"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a0d41effc4e4a0ba740429a08f6747313" title="convertToWithoutRowidTable" alt="" coords="328,109,523,139"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#af2b0672c3379d2a7d927d210ae0ade62" title="sqlite3AddPrimaryKey" alt="" coords="753,160,903,189"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a7b5f2c66c0f0b6f819d970ca389768b0" title="sqlite3EndTable" alt="" coords="580,109,695,139"/>
+</map>

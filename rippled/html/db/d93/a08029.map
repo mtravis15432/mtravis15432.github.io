@@ -1,0 +1,12 @@
+<map id="ripple::NodeStore::LevelDBBackend" name="ripple::NodeStore::LevelDBBackend">
+<area shape="rect" id="node2" href="$d2/d82/a00142.html" title="ripple::NodeStore::\lBackend" alt="" coords="567,5,697,51"/>
+<area shape="rect" id="node4" href="$dc/ded/a00252.html" title="ripple::NodeStore::\lBatchWriter::Callback" alt="" coords="248,75,397,122"/>
+<area shape="rect" id="node16" href="$d9/d90/a00178.html" title="ripple::NodeStore::\lBatchWriter" alt="" coords="567,217,697,263"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="592,425,672,455"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="260,385,385,431"/>
+<area shape="rect" id="node14" href="$de/d90/a01313.html" title="ripple::NodeStore::\lScheduler" alt="" coords="257,154,388,201"/>
+<area shape="rect" id="node18" href="$d0/d90/a01641.html" title="ripple::NodeStore::Task" alt="" coords="243,301,403,331"/>
+<area shape="rect" id="node24" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="580,517,684,547"/>
+<area shape="rect" id="node26" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="5,543,144,572"/>
+<area shape="rect" id="node28" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="245,511,400,540"/>
+</map>

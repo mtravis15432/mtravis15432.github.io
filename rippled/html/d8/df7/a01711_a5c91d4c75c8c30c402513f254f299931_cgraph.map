@@ -1,0 +1,6 @@
+<map id="ripple::Transactor::calculateFee" name="ripple::Transactor::calculateFee">
+<area shape="rect" id="node3" href="$d8/df7/a01711.html#af218e14bd594bc67343ec352a53076d5" title="ripple::Transactor\l::calculateBaseFee" alt="" coords="195,5,328,51"/>
+<area shape="rect" id="node7" href="$d9/dc5/a01705.html#ad9f745c60450a463895760958fb240e1" title="ripple::TransactionEngine\l::getLedger" alt="" coords="177,74,345,121"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a31cb07ee73687ab40f31634269f9f43c" title="ripple::is_bit_set" alt="" coords="203,144,320,173"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="395,13,512,43"/>
+</map>

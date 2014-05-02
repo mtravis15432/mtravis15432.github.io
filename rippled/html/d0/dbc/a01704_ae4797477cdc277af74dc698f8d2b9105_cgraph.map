@@ -1,0 +1,11 @@
+<map id="ripple::TransactionAcquire::done" name="ripple::TransactionAcquire::done">
+<area shape="rect" id="node3" href="$dc/d0c/a00783.html#a0e6d017b056c57465c9d72f928e3271e" title="ripple::JobQueue::addJob" alt="" coords="236,5,407,35"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="491,55,592,84"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a860be08979e27d8c6f37f722f996ba6c" title="ripple::Application\l::getJobQueue" alt="" coords="259,109,384,155"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#ab60dd3cb8f8d17b918ea9072bad6f551" title="ripple::TACompletionHandler" alt="" coords="227,183,416,212"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="668,46,844,93"/>
+<area shape="rect" id="node13" href="$d8/d86/a00703.html#aa8378c07e914d43964d816ee1ac8d1dd" title="ripple::InboundLedgers\l::dropLedger" alt="" coords="465,107,617,154"/>
+<area shape="rect" id="node16" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="472,177,611,223"/>
+<area shape="rect" id="node18" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="479,246,604,293"/>
+<area shape="rect" id="node20" href="$dd/dac/a01008.html#a8a3422f518b3bfc4b4e2d16abde6ef0d" title="ripple::NetworkOPs\l::mapComplete" alt="" coords="473,315,609,362"/>
+</map>

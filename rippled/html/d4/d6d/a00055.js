@@ -1,0 +1,26 @@
+var a00055 =
+[
+    [ "pointer", "d4/d6d/a00055.html#a0c21e7d6c639d6ac081379dc9e5e5d6d", null ],
+    [ "ref", "d4/d6d/a00055.html#a8438571c3a49f527d7a5ed357e663d8c", null ],
+    [ "AcceptedLedgerTx", "d4/d6d/a00055.html#af58fdf307b866831f7aa6588738aa075", null ],
+    [ "AcceptedLedgerTx", "d4/d6d/a00055.html#af48a2be9f00bdb382ecb57a15c740801", null ],
+    [ "AcceptedLedgerTx", "d4/d6d/a00055.html#a92282faa9d495eb803163ba70674d5ee", null ],
+    [ "buildJson", "d4/d6d/a00055.html#a92e318de53b84c31426cf9c7919cfac4", null ],
+    [ "getAffected", "d4/d6d/a00055.html#a176e18898535dfd604dd8bcdc8ec000b", null ],
+    [ "getEscMeta", "d4/d6d/a00055.html#a328aedfaf5e2384ec5e225d95c2b2c38", null ],
+    [ "getIndex", "d4/d6d/a00055.html#ae2c7e40ca6d1f0987a8ac4ce9865343c", null ],
+    [ "getJson", "d4/d6d/a00055.html#a68f4b5d9b858b90ccbafad80c25e68d2", null ],
+    [ "getMeta", "d4/d6d/a00055.html#ac4b5d3e918d381281f327479609d447e", null ],
+    [ "getResult", "d4/d6d/a00055.html#a5e58100e4cac66bb74083e78ede768c2", null ],
+    [ "getTransactionID", "d4/d6d/a00055.html#a44245fa8a4b53d4c581463907a6eda1f", null ],
+    [ "getTxn", "d4/d6d/a00055.html#a0ba4c031051023c4e3dc98c88c215425", null ],
+    [ "getTxnSeq", "d4/d6d/a00055.html#a1f05c0679bae3f41f4306e60722223c6", null ],
+    [ "getTxnType", "d4/d6d/a00055.html#a9398354a452bce5125f22e1d6e9983b5", null ],
+    [ "isApplied", "d4/d6d/a00055.html#a88e77a08b87615782f17f350eba06925", null ],
+    [ "mAffected", "d4/d6d/a00055.html#a829aa3bf6fab139291470ffa95db5010", null ],
+    [ "mJson", "d4/d6d/a00055.html#af2ea7b3c166ce89ef53dcca7f4de5169", null ],
+    [ "mMeta", "d4/d6d/a00055.html#ab5af4bd802823da8e08b666f7d745011", null ],
+    [ "mRawMeta", "d4/d6d/a00055.html#a602514f98f4b7b24255952234aa5359d", null ],
+    [ "mResult", "d4/d6d/a00055.html#aa30ecf8fb0570ef811224aa052e1a50d", null ],
+    [ "mTxn", "d4/d6d/a00055.html#a7d82df1de2ee8ddd05ed4f459f0ff5e3", null ]
+];

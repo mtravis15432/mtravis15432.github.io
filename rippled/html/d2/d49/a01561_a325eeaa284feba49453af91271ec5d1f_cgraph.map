@@ -1,0 +1,9 @@
+<map id="beast::Stoppable::stopRecursive" name="beast::Stoppable::stopRecursive">
+<area shape="rect" id="node3" href="$d2/d79/a00898.html#aabf0d32e3381ad563fa03f948cc497bf" title="beast::LockFreeStack\l::cbegin" alt="" coords="288,5,437,51"/>
+<area shape="rect" id="node5" href="$d2/d79/a00898.html#a3fe19ab930cc3d1dcf70b2d6e5f5ddd6" title="beast::LockFreeStack\l::cend" alt="" coords="288,74,437,121"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="289,144,436,173"/>
+<area shape="rect" id="node13" href="$d2/d49/a01561.html#a2b5dbf359315d75eacb3386140b32e0f" title="beast::Stoppable::onChildren\lStopped" alt="" coords="268,197,457,243"/>
+<area shape="rect" id="node15" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="289,266,436,313"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="507,144,693,173"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="741,135,907,182"/>
+</map>

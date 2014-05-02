@@ -1,0 +1,9 @@
+<map id="ripple::IoServicePool::ServiceThread::ServiceThread" name="ripple::IoServicePool::ServiceThread::ServiceThread">
+<area shape="rect" id="node3" href="$d6/d53/a01688.html#a2a338a7d7297324717aabdc9fad34ec8" title="beast::Thread::startThread" alt="" coords="261,75,437,104"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#a7988b11d77444cfc8ba590863e2f3a1a" title="beast::Thread::launchThread" alt="" coords="487,13,673,43"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html#a1528b19070b35e686e76cefb753e91f0" title="beast::Thread::setThread\lPriority" alt="" coords="496,66,664,113"/>
+<area shape="rect" id="node15" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="507,135,653,182"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#aa860b9c64bc9fb0a6e8e1d007bf339c9" title="beast::threadEntryProcBeast" alt="" coords="724,13,913,43"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a1f872c4561966945f9da9f791cba3f11" title="beast::beast_threadEntry\lPoint" alt="" coords="963,5,1131,51"/>
+<area shape="rect" id="node13" href="$d5/d83/a03337.html#adfcad9f96859f16e6d3cffb4a08aa390" title="beast::blimit" alt="" coords="772,75,865,104"/>
+</map>

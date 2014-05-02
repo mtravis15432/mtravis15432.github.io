@@ -1,0 +1,8 @@
+<map id="writeMasterJournal" name="writeMasterJournal">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#ade39a2ad6c5f6511b13e92c024e83888" title="journalHdrOffset" alt="" coords="192,5,309,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="200,59,301,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="189,112,312,141"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ab14e17fc93b09d52b42c433c47eb3b68" title="sqlite3OsTruncate" alt="" coords="187,165,315,195"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="364,244,471,273"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a5db7813c01a178a634f0dcd6e7766ed6" title="write32bits" alt="" coords="208,269,293,299"/>
+</map>

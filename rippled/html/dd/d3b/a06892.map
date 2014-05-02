@@ -1,0 +1,7 @@
+<map id="beast::insight::detail::StatsDMetricBase" name="beast::insight::detail::StatsDMetricBase">
+<area shape="rect" id="node5" href="$d6/d83/a01544.html" title="beast::insight::detail\l::StatsDCounterImpl" alt="" coords="409,5,551,51"/>
+<area shape="rect" id="node7" href="$d9/da1/a01546.html" title="beast::insight::detail\l::StatsDGaugeImpl" alt="" coords="411,74,549,121"/>
+<area shape="rect" id="node9" href="$da/ded/a01547.html" title="beast::insight::detail\l::StatsDHookImpl" alt="" coords="411,143,549,190"/>
+<area shape="rect" id="node11" href="$da/dc7/a01548.html" title="beast::insight::detail\l::StatsDMeterImpl" alt="" coords="411,213,549,259"/>
+<area shape="rect" id="node2" href="$d3/d50/a00882.html" title="List\&lt;StatsDMetricBase\&gt;\l::Node" alt="" coords="7,109,172,155"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="ripple::Resource::Logic::newOutboundEndpoint" name="ripple::Resource::Logic::newOutboundEndpoint">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#ae042b42fdaaaef24d818453fa50b0373" title="ripple::Resource::Logic\l::isWhitelisted" alt="" coords="217,66,372,113"/>
+<area shape="rect" id="node17" href="$de/dc3/a00909.html#a57b35fdd14a7d989e1a4f7cf5d379f06" title="ripple::Resource::Logic\l::newAdminEndpoint" alt="" coords="217,135,372,182"/>
+<area shape="rect" id="node19" href="$d9/d9d/a03417.html#aba30c6642420129125415284c35f098f" title="ripple::to_string" alt="" coords="240,205,349,235"/>
+<area shape="rect" id="node5" href="$d2/d7f/a03369.html#a0a2f19c5d2d5c88d53996c2df2d3eaf0" title="beast::IP::is_public" alt="" coords="459,75,592,104"/>
+<area shape="rect" id="node7" href="$d9/db3/a00066.html#a9151824ddc4a9a6886c10054d8f53d7c" title="beast::IP::AddressV4\l::broadcast" alt="" coords="681,5,828,51"/>
+<area shape="rect" id="node11" href="$d2/d7f/a03369.html#a5ccebc5994566542ca44793961dbd324" title="beast::IP::is_multicast" alt="" coords="679,75,831,104"/>
+<area shape="rect" id="node13" href="$d2/d7f/a03369.html#a25de154b027e488d8e4be8362e6b6927" title="beast::IP::is_private" alt="" coords="685,128,824,157"/>
+<area shape="rect" id="node9" href="$d9/db3/a00066.html#ad1c90b9bc49455786e2d95022b695c02" title="beast::IP::AddressV4\l::AddressV4" alt="" coords="883,5,1029,51"/>
+<area shape="rect" id="node15" href="$d2/d7f/a03369.html#abe52052bf8ee760f14bdf9c06e398212" title="beast::IP::is_loopback" alt="" coords="880,128,1032,157"/>
+<area shape="rect" id="node21" href="$d5/d17/a01098.html#a7b6700e295afc70eda9083ebcacda145" title="ripple::Peer::getCluster\lNodeName" alt="" coords="448,131,603,178"/>
+<area shape="rect" id="node23" href="$d5/d17/a01098.html#a35b25d5a662db9a534ac4a972a8ba6b3" title="ripple::Peer::getRemoteAddress" alt="" coords="421,201,629,231"/>
+<area shape="rect" id="node25" href="$d5/d17/a01098.html#aeaf4f0b492c460f758b5ab25c289d1f2" title="ripple::Peer::isInCluster" alt="" coords="447,255,604,284"/>
+<area shape="rect" id="node27" href="$da/dc3/a00453.html#a61ca2a7887f10051efbe1611f1bab0fe" title="beast::IP::Endpoint\l::to_string" alt="" coords="459,307,592,354"/>
+<area shape="rect" id="node29" href="$da/dc3/a00453.html#a41d744f4c8d5888f8d5aa25da5e100bf" title="beast::IP::Endpoint\l::address" alt="" coords="688,238,821,285"/>
+<area shape="rect" id="node31" href="$da/dc3/a00453.html#ad34a025ff522a7e45e18ee58f2a9eab6" title="beast::IP::Endpoint\l::port" alt="" coords="688,307,821,354"/>
+<area shape="rect" id="node33" href="$d2/d7f/a03369.html#a4a51c292cb48681521db67f2b4848736" title="beast::IP::to_string" alt="" coords="688,377,821,407"/>
+</map>

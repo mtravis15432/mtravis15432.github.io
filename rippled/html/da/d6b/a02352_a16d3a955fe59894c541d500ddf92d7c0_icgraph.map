@@ -1,0 +1,15 @@
+<map id="insertCell" name="insertCell">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="131,248,248,277"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a65c40cd7ec987dbd25392a180f388fe7" title="sqlite3BtreeDelete" alt="" coords="432,283,560,312"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#aa6c6b68ed28d38984e5fa329794d7f02" title="sqlite3BtreeInsert" alt="" coords="435,221,557,251"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="137,195,241,224"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="296,221,363,251"/>
+<area shape="rect" id="node7" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="412,143,580,190"/>
+<area shape="rect" id="node9" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="631,74,817,121"/>
+<area shape="rect" id="node11" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="643,143,805,190"/>
+<area shape="rect" id="node13" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="643,213,805,259"/>
+<area shape="rect" id="node15" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="656,5,792,51"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="664,283,784,312"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="868,283,953,312"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="1004,283,1095,312"/>
+</map>

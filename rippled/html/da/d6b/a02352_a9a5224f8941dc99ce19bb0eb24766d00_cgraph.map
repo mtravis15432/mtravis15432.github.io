@@ -1,0 +1,23 @@
+<map id="pager_open_journal" name="pager_open_journal">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a25aec96ef7cef0d1999b492b4b74a767" title="databaseIsUnmoved" alt="" coords="200,31,341,60"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="220,84,321,113"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="203,137,339,167"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="200,191,341,220"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#ad464be0cdcbcfad82c33db47ba916bf4" title="sqlite3MemJournalOpen" alt="" coords="189,244,352,273"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="217,297,324,327"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#a0b0a4fa9c3fe997aaa565b1e438acca7" title="writeJournalHdr" alt="" coords="215,351,327,380"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#aa8dad928f8e52b454c6d82bd2fe5c3fc" title="sqlite3OsFileControl" alt="" coords="435,31,573,60"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="443,137,565,167"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="656,137,755,167"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="804,137,924,167"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="975,5,1108,35"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="976,59,1107,88"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1157,85,1288,115"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="980,163,1103,192"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="981,216,1101,245"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="983,269,1100,299"/>
+<area shape="rect" id="node34" href="$da/d6b/a02352.html#a467faa8c56423e1d71f1edcdf788ea01" title="sqlite3MemJournalSize" alt="" coords="425,244,583,273"/>
+<area shape="rect" id="node40" href="$da/d6b/a02352.html#ade39a2ad6c5f6511b13e92c024e83888" title="journalHdrOffset" alt="" coords="445,297,563,327"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="401,351,607,380"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="451,404,557,433"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="beast::Workers" name="beast::Workers">
+<area shape="rect" id="node2" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; beast::Workers::Worker \&gt;" alt="" coords="860,24,1044,71"/>
+<area shape="rect" id="node4" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,176,136,205"/>
+<area shape="rect" id="node6" href="$d3/d08/a01018.html" title="beast::LockFreeStack\l\&lt; Element, Tag \&gt;::Node" alt="" coords="187,96,349,143"/>
+<area shape="rect" id="node17" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="373,261,520,290"/>
+<area shape="rect" id="node20" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; beast::Workers::Worker,\l beast::Workers::PausedTag \&gt;" alt="" coords="852,153,1052,217"/>
+<area shape="rect" id="node9" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::LockFreeStack::Node * \&gt;" alt="" coords="544,76,723,123"/>
+<area shape="rect" id="node13" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="881,313,1023,342"/>
+<area shape="rect" id="node15" href="$db/ddf/a00164.html" title="beast::basic_semaphore\l\&lt; std::mutex, std::condition\l_variable \&gt;" alt="" coords="861,366,1043,430"/>
+<area shape="rect" id="node25" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="904,496,1000,525"/>
+<area shape="rect" id="node27" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="548,496,719,525"/>
+<area shape="rect" id="node30" href="$d0/da7/a00250.html" title="beast::Workers::Callback" alt="" coords="867,549,1037,578"/>
+</map>

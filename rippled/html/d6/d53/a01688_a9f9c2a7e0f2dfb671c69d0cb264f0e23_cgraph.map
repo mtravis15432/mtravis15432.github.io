@@ -1,0 +1,13 @@
+<map id="beast::Thread::startThread" name="beast::Thread::startThread">
+<area shape="rect" id="node3" href="$d6/d53/a01688.html#a5e73232af1bba50252ff38fd58c0e0c5" title="beast::Thread::setPriority" alt="" coords="233,136,401,165"/>
+<area shape="rect" id="node16" href="$d6/d53/a01688.html#a2a338a7d7297324717aabdc9fad34ec8" title="beast::Thread::startThread" alt="" coords="229,273,405,303"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#a810116e24c319661ba9e7583ae17fa3e" title="beast::Thread::getCurrent\lThreadId" alt="" coords="463,5,633,51"/>
+<area shape="rect" id="node7" href="$d6/d53/a01688.html#a647188494652a4383fae32509d1cb5b3" title="beast::Thread::getThreadId" alt="" coords="459,75,637,104"/>
+<area shape="rect" id="node9" href="$d6/d53/a01688.html#a2092bd0a7b7951ad8499b82e7f24ca68" title="beast::Thread::setCurrent\lThreadPriority" alt="" coords="463,127,633,174"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html#a1528b19070b35e686e76cefb753e91f0" title="beast::Thread::setThread\lPriority" alt="" coords="703,187,871,234"/>
+<area shape="rect" id="node13" href="$d5/d83/a03337.html#adfcad9f96859f16e6d3cffb4a08aa390" title="beast::blimit" alt="" coords="968,196,1061,225"/>
+<area shape="rect" id="node18" href="$d6/d53/a01688.html#a7988b11d77444cfc8ba590863e2f3a1a" title="beast::Thread::launchThread" alt="" coords="455,299,641,328"/>
+<area shape="rect" id="node25" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="475,351,621,398"/>
+<area shape="rect" id="node20" href="$d5/d83/a03337.html#aa860b9c64bc9fb0a6e8e1d007bf339c9" title="beast::threadEntryProcBeast" alt="" coords="692,299,881,328"/>
+<area shape="rect" id="node22" href="$d5/d83/a03337.html#a1f872c4561966945f9da9f791cba3f11" title="beast::beast_threadEntry\lPoint" alt="" coords="931,290,1099,337"/>
+</map>

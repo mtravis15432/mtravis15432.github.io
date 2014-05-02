@@ -1,0 +1,5 @@
+<map id="rocksdb::Logger" name="rocksdb::Logger">
+<area shape="rect" id="node3" href="$d4/ddd/a00138.html" title="rocksdb::AutoRollLogger" alt="" coords="5,83,171,112"/>
+<area shape="rect" id="node5" href="$da/db6/a00427.html" title="rocksdb::DumbLogger" alt="" coords="195,83,344,112"/>
+<area shape="rect" id="node7" href="$de/de5/a01123.html" title="rocksdb::PosixLogger" alt="" coords="368,83,515,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="beast::InputStream::getPosition" name="beast::InputStream::getPosition">
+<area shape="rect" id="node3" href="$df/d96/a00714.html#af3a3c1af959f28bcf2f7e56a49e7e656" title="beast::InputStream\l::getNumBytesRemaining" alt="" coords="197,39,368,86"/>
+<area shape="rect" id="node9" href="$df/d96/a00714.html#a1e1395fc3549874e5deb8ed386c3284a" title="beast::InputStream\l::readNextLine" alt="" coords="216,109,349,155"/>
+<area shape="rect" id="node11" href="$de/dad/a00963.html#acb048eb12aa1104a6af38447da75c4af" title="beast::MemoryOutputStream\l::writeFromInputStream" alt="" coords="188,178,377,225"/>
+<area shape="rect" id="node5" href="$df/d96/a00714.html#a66ea31138885ae37bd669f653be45bff" title="beast::InputStream\l::readTypeBigEndianInto" alt="" coords="427,5,592,51"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#a9787b3531ff49b478d960ab481f0f962" title="beast::InputStream\l::readTypeInto" alt="" coords="443,74,576,121"/>
+<area shape="rect" id="node13" href="$df/d96/a00714.html#a386792eae8cf4273464058597b69929e" title="beast::InputStream\l::readIntoMemoryBlock" alt="" coords="431,178,588,225"/>
+<area shape="rect" id="node15" href="$d4/d33/a00536.html#aceba75948d504dd1cd2e1e2cacd0a49d" title="beast::File::loadFileAsData" alt="" coords="641,187,820,216"/>
+</map>

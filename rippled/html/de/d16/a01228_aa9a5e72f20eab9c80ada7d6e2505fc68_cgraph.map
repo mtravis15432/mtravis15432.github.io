@@ -1,0 +1,19 @@
+<map id="rocksdb::RedisLists::Trim" name="rocksdb::RedisLists::Trim">
+<area shape="rect" id="node3" href="$d9/da8/a01227.html#ac5d5be4b0e182c8146643e13fdbbcb50" title="rocksdb::RedisListIterator\l::Done" alt="" coords="636,109,807,155"/>
+<area shape="rect" id="node5" href="$de/d16/a01228.html#a2565cc831b9a506f7cd440ece5b672bf" title="The number of items in (list: key) " alt="" coords="209,282,348,329"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a975c0f5f2493f00dbf15e444b085d785" title="ripple::max" alt="" coords="236,352,321,381"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#aa3091bec2c625018fadb6aefef12b9ff" title="ripple::min" alt="" coords="237,405,320,435"/>
+<area shape="rect" id="node13" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="211,459,347,488"/>
+<area shape="rect" id="node15" href="$d9/da8/a01227.html#aa01105d178fa6589c9b823a7fc6c421c" title="rocksdb::RedisListIterator\l::Push" alt="" coords="193,78,364,125"/>
+<area shape="rect" id="node32" href="$d9/da8/a01227.html#a4058bb0b2a33441b9d932a634a8bc596" title="rocksdb::RedisListIterator\l::Reserve" alt="" coords="193,511,364,558"/>
+<area shape="rect" id="node34" href="$d9/da8/a01227.html#adcc15d5fb4dfb33e2a49382571afdbc5" title="rocksdb::RedisListIterator\l::Size" alt="" coords="193,581,364,627"/>
+<area shape="rect" id="node36" href="$d9/da8/a01227.html#aa1ca2ded765766803ee2efc2b0f31032" title="rocksdb::RedisListIterator\l::Skip" alt="" coords="193,9,364,55"/>
+<area shape="rect" id="node39" href="$d9/da8/a01227.html#a0abc033cfd7cd4341b407dd10fd2f8c0" title="rocksdb::RedisListIterator\l::WriteResult" alt="" coords="193,213,364,259"/>
+<area shape="rect" id="node7" href="$d9/da8/a01227.html#a8154a7a9942b5894455a40ccbd0a9174" title="rocksdb::RedisListIterator\l::Length" alt="" coords="415,342,585,389"/>
+<area shape="rect" id="node17" href="$d9/da8/a01227.html#a2931860dfbfbc54b2e884ab3d15bffda" title="Go to the next element (used in Push() and Skip()) " alt="" coords="415,49,585,95"/>
+<area shape="rect" id="node27" href="$d9/da8/a01227.html#a204261da4a239a9d325fa5a486f7cd59" title="rocksdb::RedisListIterator\l::WriteCurrentElement" alt="" coords="415,169,585,215"/>
+<area shape="rect" id="node19" href="$d9/da8/a01227.html#a32ccb3752e2c1ad71cc3c506bd7e9427" title="rocksdb::RedisListIterator\l::CheckErrors" alt="" coords="636,229,807,275"/>
+<area shape="rect" id="node21" href="$d9/da8/a01227.html#a4dee828479ad4a4b1020c4f19ab9278c" title="rocksdb::RedisListIterator\l::ThrowError" alt="" coords="857,169,1028,215"/>
+<area shape="rect" id="node23" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="639,5,804,35"/>
+<area shape="rect" id="node42" href="$d4/d87/a03436.html#aabc7ce45ae48e15b24a6756f9b4fd694" title="rocksdb::EncodeFixed32" alt="" coords="417,289,583,319"/>
+</map>

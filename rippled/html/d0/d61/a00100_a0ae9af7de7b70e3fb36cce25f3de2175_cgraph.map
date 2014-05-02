@@ -1,0 +1,21 @@
+<map id="ripple::ApplicationImp::doStop" name="ripple::ApplicationImp::doStop">
+<area shape="rect" id="node3" href="$d9/dda/a01289.html#af7e7a261649f15c40ef66abc9d0717fe" title="beast::RootStoppable\l::stop" alt="" coords="201,135,348,182"/>
+<area shape="rect" id="node42" href="$d9/d9d/a03417.html#afe8f9eb98fca56ba0fa3d9c0c7c18b68" title="ripple::StopSustain" alt="" coords="209,205,340,235"/>
+<area shape="rect" id="node5" href="$d7/d06/a00131.html#a41f21d4a7146b3b26e41ae8e16ce086e" title="beast::Atomic::compareAnd\lSetBool" alt="" coords="609,35,793,82"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="408,236,536,265"/>
+<area shape="rect" id="node13" href="$d9/dda/a01289.html#af9fc86b9c7f1e49d21083b9d6f2170f5" title="beast::RootStoppable\l::stopAsync" alt="" coords="399,105,545,151"/>
+<area shape="rect" id="node28" href="$d2/d49/a01561.html#a325eeaa284feba49453af91271ec5d1f" title="beast::Stoppable::stopRecursive" alt="" coords="596,175,807,204"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="619,297,784,343"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="619,227,784,274"/>
+<area shape="rect" id="node16" href="$d2/d49/a01561.html#a5b8db6c4196cf1676a41471c7ac40fd9" title="beast::Stoppable::stopAsync\lRecursive" alt="" coords="607,105,796,151"/>
+<area shape="rect" id="node18" href="$d2/d79/a00898.html#aabf0d32e3381ad563fa03f948cc497bf" title="beast::LockFreeStack\l::cbegin" alt="" coords="877,135,1027,182"/>
+<area shape="rect" id="node20" href="$d2/d79/a00898.html#a3fe19ab930cc3d1dcf70b2d6e5f5ddd6" title="beast::LockFreeStack\l::cend" alt="" coords="877,66,1027,113"/>
+<area shape="rect" id="node22" href="$d2/d49/a01561.html#aeb5a464db59bc5313a39bb868c9f18da" title="beast::Stoppable::onStop" alt="" coords="868,13,1036,43"/>
+<area shape="rect" id="node24" href="$d2/d49/a01561.html#a32a3f86c14a870b4c8eefa77f9989a5e" title="beast::Stoppable::stopped" alt="" coords="1103,13,1276,43"/>
+<area shape="rect" id="node26" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="1340,5,1487,51"/>
+<area shape="rect" id="node32" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="879,344,1025,373"/>
+<area shape="rect" id="node38" href="$d2/d49/a01561.html#a2b5dbf359315d75eacb3386140b32e0f" title="beast::Stoppable::onChildren\lStopped" alt="" coords="857,274,1047,321"/>
+<area shape="rect" id="node40" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="879,205,1025,251"/>
+<area shape="rect" id="node34" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="1096,344,1283,373"/>
+<area shape="rect" id="node36" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="1331,335,1496,382"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="beast::asio::TestPeerType::start" name="beast::asio::TestPeerType::start">
+<area shape="rect" id="node3" href="$d5/d83/a01680.html#a45bb2df00990ba94931808b2f6a2bd87" title="beast::asio::TestPeerType\l::is_async" alt="" coords="229,9,405,55"/>
+<area shape="rect" id="node5" href="$d5/d83/a01680.html#a1de1a4c453f21390c7b83cdb09f3b4e4" title="beast::asio::TestPeerType\l::on_deadline" alt="" coords="229,78,405,125"/>
+<area shape="rect" id="node22" href="$d6/d53/a01688.html#a2a338a7d7297324717aabdc9fad34ec8" title="beast::Thread::startThread" alt="" coords="229,148,405,177"/>
+<area shape="rect" id="node35" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="244,201,391,247"/>
+<area shape="rect" id="node7" href="$d2/d7b/a01672.html#a7017f7246480173765fb139c7533bd2e" title="beast::asio::TestPeerBasics\l::expected" alt="" coords="931,39,1117,86"/>
+<area shape="rect" id="node15" href="$d5/d83/a01680.html#a61fcdb2a792a0f631b53994dba7a5aee" title="beast::asio::TestPeerType\l::finished" alt="" coords="460,78,636,125"/>
+<area shape="rect" id="node9" href="$d2/d7b/a01672.html#a40e044785edb9475f9f2874b54e3823c" title="beast::asio::TestPeerBasics\l::breakpoint" alt="" coords="1165,5,1352,51"/>
+<area shape="rect" id="node11" href="$d2/d7b/a01672.html#aec926a89d6f67e3419b4589461a7dfdb" title="beast::asio::TestPeerBasics\l::make_error" alt="" coords="1165,74,1352,121"/>
+<area shape="rect" id="node13" href="$d2/d7b/a01672.html#ab788c0bb1ebddd1ee5b07a113ae8c6b3" title="beast::asio::TestPeerBasics\l::test_category" alt="" coords="1400,74,1587,121"/>
+<area shape="rect" id="node17" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="713,138,860,185"/>
+<area shape="rect" id="node19" href="$d2/d7b/a01672.html#ac6d46a1d3535ac9bfed338aaf347f5b9" title="beast::asio::TestPeerBasics\l::unexpected" alt="" coords="693,69,880,115"/>
+<area shape="rect" id="node24" href="$d6/d53/a01688.html#a7988b11d77444cfc8ba590863e2f3a1a" title="beast::Thread::launchThread" alt="" coords="455,199,641,228"/>
+<area shape="rect" id="node30" href="$d6/d53/a01688.html#a1528b19070b35e686e76cefb753e91f0" title="beast::Thread::setThread\lPriority" alt="" coords="464,251,632,298"/>
+<area shape="rect" id="node26" href="$d5/d83/a03337.html#aa860b9c64bc9fb0a6e8e1d007bf339c9" title="beast::threadEntryProcBeast" alt="" coords="692,208,881,237"/>
+<area shape="rect" id="node28" href="$d5/d83/a03337.html#a1f872c4561966945f9da9f791cba3f11" title="beast::beast_threadEntry\lPoint" alt="" coords="940,199,1108,246"/>
+<area shape="rect" id="node32" href="$d5/d83/a03337.html#adfcad9f96859f16e6d3cffb4a08aa390" title="beast::blimit" alt="" coords="740,261,833,291"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="http_message_needs_eof" name="http_message_needs_eof">
+<area shape="rect" id="node3" href="$df/d37/a02002.html#a5034165465db6c488ce8b75fd0f72faf" title="http_parser_execute" alt="" coords="235,303,373,332"/>
+<area shape="rect" id="node46" href="$df/d37/a02002.html#abefaa63b2505a6d38f96fc782c41d111" title="http_should_keep_alive" alt="" coords="225,565,383,595"/>
+<area shape="rect" id="node5" href="$de/d25/a01999.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="500,85,551,115"/>
+<area shape="rect" id="node7" href="$d7/d98/a02003.html#a44b400d6e7f4f657e449f26c992c0ee8" title="parse" alt="" coords="499,139,552,168"/>
+<area shape="rect" id="node22" href="$d7/d98/a02003.html#aba7480100df7e34987bf7694d1802424" title="parse_count_body" alt="" coords="461,219,589,248"/>
+<area shape="rect" id="node27" href="$d7/d98/a02003.html#a3862f2c2e13851b86181be3951c540ea" title="parse_pause" alt="" coords="477,272,573,301"/>
+<area shape="rect" id="node32" href="$d7/d98/a02003.html#a3bfa2b173ae0bd4a19a5baf0e6e0f414" title="test_header_overflow\l_error" alt="" coords="452,325,599,371"/>
+<area shape="rect" id="node35" href="$d7/d98/a02003.html#aa5bfb62adb4702cab88d500b6af1b3fd" title="test_content_length\l_overflow" alt="" coords="457,394,593,441"/>
+<area shape="rect" id="node43" href="$d7/d98/a02003.html#a0f5b6bcccb99927cf4ba10c43ee23651" title="test_no_overflow_long_body" alt="" coords="432,488,619,517"/>
+<area shape="rect" id="node9" href="$d7/d98/a02003.html#a61b266d37ae4ddac552dbeeb089ee84b" title="test_message" alt="" coords="715,5,819,35"/>
+<area shape="rect" id="node13" href="$d7/d98/a02003.html#a21990aadb190dd0c728a74b5caae8306" title="test_simple" alt="" coords="723,59,811,88"/>
+<area shape="rect" id="node16" href="$d7/d98/a02003.html#ad6ba8713575fbfd9fdccf25120aa1c09" title="test_multiple3" alt="" coords="716,112,817,141"/>
+<area shape="rect" id="node19" href="$d7/d98/a02003.html#ac838040e674c55c0eea7e5cd09084fdb" title="test_scan" alt="" coords="728,165,805,195"/>
+<area shape="rect" id="node11" href="$d7/d98/a02003.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="915,245,965,275"/>
+<area shape="rect" id="node24" href="$d7/d98/a02003.html#a6161275987cb28b0ea5418ff8b552210" title="test_message_count_body" alt="" coords="677,219,856,248"/>
+<area shape="rect" id="node29" href="$d7/d98/a02003.html#a59f5ada5ef954aeb2e7a2eeb83b1effc" title="test_message_pause" alt="" coords="693,272,840,301"/>
+<area shape="rect" id="node37" href="$d7/d98/a02003.html#aac3d73c519ed6791282ddc2b9eb673f7" title="test_header_content\l_length_overflow_error" alt="" coords="691,375,843,422"/>
+<area shape="rect" id="node40" href="$d7/d98/a02003.html#acefa167eb9417b66bb83911d57c0c5ad" title="test_chunk_content\l_length_overflow_error" alt="" coords="691,445,843,491"/>
+<area shape="rect" id="node48" href="$d7/d98/a02003.html#a782f85dbb74cf7091466e413f4c0edf8" title="headers_complete_cb" alt="" coords="451,565,600,595"/>
+<area shape="rect" id="node52" href="$d7/d98/a02003.html#a4b943cb90dd8d97b7bd6d2a769ffb112" title="message_complete_cb" alt="" coords="448,619,603,648"/>
+<area shape="rect" id="node50" href="$d7/d98/a02003.html#a0ed41ab92968c4d8fee592376f9efc0a" title="pause_headers_complete_cb" alt="" coords="672,565,861,595"/>
+<area shape="rect" id="node54" href="$d7/d98/a02003.html#adfb0d1f60bbf8f54994468be1a5e8353" title="pause_message_complete_cb" alt="" coords="668,619,865,648"/>
+</map>

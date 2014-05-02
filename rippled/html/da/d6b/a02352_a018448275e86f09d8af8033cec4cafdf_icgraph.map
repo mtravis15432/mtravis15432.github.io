@@ -1,0 +1,13 @@
+<map id="vdbeSafetyNotNull" name="vdbeSafetyNotNull">
+<area shape="rect" id="node3" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="188,139,279,168"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#ae3ca3d8a878660305a0efd0c73c9f064" title="vdbeUnbind" alt="" coords="188,192,279,221"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acdec2c68ea6b14a08bcfea9cfd32b2f2" title="bindText" alt="" coords="365,85,437,115"/>
+<area shape="rect" id="node17" href="$d1/db9/a02353.html#a8dc6f4de797850398e12e5022cae8915" title="sqlite3_bind_double" alt="" coords="333,139,469,168"/>
+<area shape="rect" id="node19" href="$d1/db9/a02353.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="339,192,464,221"/>
+<area shape="rect" id="node21" href="$d1/db9/a02353.html#a6649c57d2c7b13ba6b506f6f79da85aa" title="sqlite3_bind_null" alt="" coords="343,245,460,275"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#afd35a95aa65e816b43cc2dc03abd118b" title="sqlite3_bind_zeroblob" alt="" coords="328,299,475,328"/>
+<area shape="rect" id="node9" href="$d1/db9/a02353.html#a6c41c2b6f82188283a846a98d5367885" title="sqlite3_bind_blob" alt="" coords="529,5,652,35"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="531,59,651,88"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#a7d78ae53b3dc77824595fa3a1abb5c79" title="sqlite3_bind_text16" alt="" coords="524,112,657,141"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#a962df8800a9e412161fee0add5f7267e" title="sqlite3_bind_value" alt="" coords="527,165,655,195"/>
+</map>

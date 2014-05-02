@@ -1,0 +1,7 @@
+<map id="sqlite3LeaveMutexAndCloseZombie" name="sqlite3LeaveMutexAndCloseZombie">
+<area shape="rect" id="node3" href="$d1/db9/a02353.html#a176857dd58d99be53b6d7305533e0048" title="sqlite3_backup_finish" alt="" coords="243,5,389,35"/>
+<area shape="rect" id="node5" href="$d1/db9/a02353.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="263,59,369,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#aa9f2e73837bba8d721dbde0964ffce11" title="sqlite3Close" alt="" coords="269,112,363,141"/>
+<area shape="rect" id="node9" href="$d1/db9/a02353.html#ac43c9032fc6ef3b2a231dc3a9fa44b2d" title="sqlite3_close" alt="" coords="448,85,547,115"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#ad2cb8462eaba28b4c8410ef55a4282b4" title="sqlite3_close_v2" alt="" coords="439,139,556,168"/>
+</map>

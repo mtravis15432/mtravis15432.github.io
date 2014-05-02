@@ -1,0 +1,7 @@
+<map id="ripple::core::Quality::ceil_out" name="ripple::core::Quality::ceil_out">
+<area shape="rect" id="node3" href="$db/d07/a01155.html#a4dd6e14686ed559443dcdc7607cc5e05" title="ripple::core::Quality\l_test::ceil_out" alt="" coords="191,5,324,51"/>
+<area shape="rect" id="node9" href="$de/d14/a01640.html#a4b55fba486df9d29a010377872fc7e5d" title="ripple::core::Taker\l::fill" alt="" coords="195,74,320,121"/>
+<area shape="rect" id="node11" href="$db/d07/a01155.html#a07cb5fec02057c9642b84e9afdc413cf" title="ripple::core::Quality\l_test::test_raw" alt="" coords="375,105,508,151"/>
+<area shape="rect" id="node5" href="$db/d07/a01155.html#ac98adf06a4d4daf7d7bd21b556e687c7" title="ripple::core::Quality\l_test::test_ceil_out" alt="" coords="375,21,508,67"/>
+<area shape="rect" id="node7" href="$db/d07/a01155.html#ad743d72315c409156e29c358c84e13e6" title="ripple::core::Quality\l_test::run" alt="" coords="559,63,692,110"/>
+</map>

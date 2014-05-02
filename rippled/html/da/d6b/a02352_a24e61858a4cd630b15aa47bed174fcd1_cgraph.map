@@ -1,0 +1,15 @@
+<map id="sqlite3VdbeSorterInit" name="sqlite3VdbeSorterInit">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a91f9dbfdbf95d6d9b955d1c7648b9fc1" title="sqlite3BtreeGetPageSize" alt="" coords="203,5,371,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="216,59,357,88"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#a458449cdb4a6ca29650deb8af285a511" title="sqlite3TempInMemory" alt="" coords="212,112,361,141"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#a473d7af9f383bad3155a618ff4f5bd2e" title="sqlite3VdbeAllocUnpacked\lRecord" alt="" coords="197,165,376,211"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="425,116,567,145"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="935,63,1068,92"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="616,141,715,171"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="764,168,884,197"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="936,116,1067,145"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1117,143,1248,172"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="940,220,1063,249"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="941,273,1061,303"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="943,327,1060,356"/>
+</map>

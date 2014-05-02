@@ -1,0 +1,26 @@
+<map id="rocksdb::AppendWithSpace" name="rocksdb::AppendWithSpace">
+<area shape="rect" id="node3" href="$d3/d4c/a01540.html#ac00992e4e00f467ac8e2517fc0cf035a" title="rocksdb::Stats::AddMessage" alt="" coords="239,607,428,636"/>
+<area shape="rect" id="node64" href="$d3/d4c/a01540.html#ac0003f7ad3f78ec53da92a72ee402fcb" title="rocksdb::Stats::Report" alt="" coords="256,867,411,896"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#a4d0cbb8f5263dc548934c6d24284bfc5" title="rocksdb::Benchmark\l::Crc32c" alt="" coords="791,5,932,51"/>
+<area shape="rect" id="node11" href="$d8/d64/a00181.html#a19705955d96d58fb8a01e203a42703f8" title="rocksdb::Benchmark\l::AcquireLoad" alt="" coords="791,74,932,121"/>
+<area shape="rect" id="node14" href="$d8/d64/a00181.html#af85e5fee5a637d733ea54d28cb7ce515" title="rocksdb::Benchmark\l::SnappyCompress" alt="" coords="791,143,932,190"/>
+<area shape="rect" id="node17" href="$d8/d64/a00181.html#a7e55c2861afc247443cd451e32757e4d" title="rocksdb::Benchmark\l::SnappyUncompress" alt="" coords="788,213,935,259"/>
+<area shape="rect" id="node20" href="$d8/d64/a00181.html#ab0567ca257cea3b9446c6572e4e00cf3" title="rocksdb::Benchmark\l::DoWrite" alt="" coords="527,362,668,409"/>
+<area shape="rect" id="node31" href="$d8/d64/a00181.html#a5634eff9318050a11fcda84224263f20" title="rocksdb::Benchmark\l::ReadRandom" alt="" coords="527,443,668,490"/>
+<area shape="rect" id="node37" href="$d8/d64/a00181.html#acdd96ba845d0b9418965b26269a0eb94" title="rocksdb::Benchmark\l::PrefixScanRandom" alt="" coords="791,610,932,657"/>
+<area shape="rect" id="node40" href="$d8/d64/a00181.html#a54fd1c162f6d9a520567a466cf997d1a" title="rocksdb::Benchmark\l::ReadHot" alt="" coords="527,563,668,610"/>
+<area shape="rect" id="node43" href="$d8/d64/a00181.html#aee86ac7852785353c802918e50a21334" title="rocksdb::Benchmark\l::SeekRandom" alt="" coords="527,633,668,679"/>
+<area shape="rect" id="node46" href="$d8/d64/a00181.html#aa19482ee168f1ab9b9b59cb1fc7ca532" title="rocksdb::Benchmark\l::RandomWithVerify" alt="" coords="527,702,668,749"/>
+<area shape="rect" id="node49" href="$d8/d64/a00181.html#aadf8c92861f368f9b531dfd4778e023a" title="rocksdb::Benchmark\l::ReadRandomWriteRandom" alt="" coords="767,831,956,878"/>
+<area shape="rect" id="node52" href="$d8/d64/a00181.html#a4f8a69bd665b3dfc8d5f9bb3a01fb29e" title="rocksdb::Benchmark\l::ReadRandomWriteRandomMultiGet" alt="" coords="479,822,716,869"/>
+<area shape="rect" id="node55" href="$d8/d64/a00181.html#a6e80da08b7d1fd84d87e116fdfb3f1f2" title="rocksdb::Benchmark\l::UpdateRandom" alt="" coords="527,891,668,938"/>
+<area shape="rect" id="node58" href="$d8/d64/a00181.html#abe3484e8fee379945192ee569ddc9c7a" title="rocksdb::Benchmark\l::AppendRandom" alt="" coords="527,961,668,1007"/>
+<area shape="rect" id="node61" href="$d8/d64/a00181.html#a597fc33ca480f1de8e433a0ec2aad48c" title="rocksdb::Benchmark\l::MergeRandom" alt="" coords="527,1030,668,1077"/>
+<area shape="rect" id="node7" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="1007,584,1180,613"/>
+<area shape="rect" id="node9" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1229,584,1280,613"/>
+<area shape="rect" id="node22" href="$d8/d64/a00181.html#a4601e8522c484545f12e20f392adca85" title="rocksdb::Benchmark\l::WriteSeq" alt="" coords="791,282,932,329"/>
+<area shape="rect" id="node25" href="$d8/d64/a00181.html#a5f742eccea590df29a184b9e09f52f31" title="rocksdb::Benchmark\l::WriteRandom" alt="" coords="791,351,932,398"/>
+<area shape="rect" id="node28" href="$d8/d64/a00181.html#a33943169aea11d9be25397f58d2b1fe9" title="rocksdb::Benchmark\l::WriteUniqueRandom" alt="" coords="787,421,936,467"/>
+<area shape="rect" id="node34" href="$d8/d64/a00181.html#adf9ea0013ec641c8cac061320a763749" title="rocksdb::Benchmark\l::ReadWhileWriting" alt="" coords="791,541,932,587"/>
+<area shape="rect" id="node66" href="$d8/d64/a00181.html#a914a888d9274d0651f49947310479464" title="rocksdb::Benchmark\l::RunBenchmark" alt="" coords="527,1099,668,1146"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ripple::BookDirIterator::getCurrentRate" name="ripple::BookDirIterator::getCurrentRate">
+<area shape="rect" id="node3" href="$df/d24/a00217.html#a2edba2566ec00fd60eb14a31da8e0285" title="ripple::BookDirIterator\l::getCurrentQuality" alt="" coords="217,5,367,51"/>
+<area shape="rect" id="node11" href="$d2/d41/a01493.html#a05d8d9a9e3e2fa2f6f6ced24bed4d224" title="ripple::STAmount::setRate" alt="" coords="204,75,380,104"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#ad8125a5566e9310f96db8d6d421e75d3" title="ripple::Ledger::getQuality" alt="" coords="444,13,609,43"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="672,13,819,43"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="868,13,1017,43"/>
+<area shape="rect" id="node13" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="431,75,623,104"/>
+</map>

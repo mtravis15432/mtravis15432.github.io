@@ -1,0 +1,7 @@
+<map id="beast::detail::aged_unordered_container::config_t::alloc" name="beast::detail::aged_unordered_container::config_t::alloc">
+<area shape="rect" id="node3" href="$da/dec/a00080.html#a664ad0d2318def2cd6e979fb91f98292" title="beast::detail::aged\l_unordered_container\l\&lt; beast::IP::Endpoint,\l int \&gt;::delete_element" alt="" coords="201,5,351,86"/>
+<area shape="rect" id="node5" href="$da/dec/a00080.html#a8ac51bfaf8b34c3440c84ade1c0e8b51" title="beast::detail::aged\l_unordered_container\l\&lt; beast::IP::Endpoint,\l int \&gt;::get_allocator" alt="" coords="201,109,351,190"/>
+<area shape="rect" id="node7" href="$da/dec/a00080.html#a23b3cc602f630f25e1dcd649925a0fce" title="beast::detail::aged\l_unordered_container\l\&lt; beast::IP::Endpoint,\l int \&gt;::new_element" alt="" coords="201,213,351,294"/>
+<area shape="rect" id="node9" href="$d2/d41/a00318.html#ac6d417dea1bba15773130896b4530e60" title="beast::detail::aged\l_unordered_container\l::config_t::operator=" alt="" coords="203,317,349,381"/>
+<area shape="rect" id="node11" href="$da/dec/a00080.html#a0ba3a2363819d583184042905936218b" title="beast::detail::aged\l_unordered_container\l\&lt; beast::IP::Endpoint,\l int \&gt;::swap_data" alt="" coords="201,405,351,486"/>
+</map>

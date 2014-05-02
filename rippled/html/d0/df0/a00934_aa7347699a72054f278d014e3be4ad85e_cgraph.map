@@ -1,0 +1,8 @@
+<map id="ripple::Resource::ManagerImp::run" name="ripple::Resource::ManagerImp::run">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#a64185b8b932c490346f0a0fe89b40bbe" title="ripple::Resource::Logic\l::periodicActivity" alt="" coords="257,51,412,98"/>
+<area shape="rect" id="node9" href="$d6/d53/a01688.html#ac3dac964e632b652dd1fabeaa20fbc07" title="beast::Thread::threadShouldExit" alt="" coords="231,121,439,151"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html#a0203536ea9f728cdfe390df131927463" title="beast::Thread::wait" alt="" coords="268,175,401,204"/>
+<area shape="rect" id="node5" href="$d2/dee/a00049.html#ae8a34dde26bed08c9a6dbb59f0e9abd1" title="beast::abstract_clock\l::elapsed" alt="" coords="493,5,640,51"/>
+<area shape="rect" id="node7" href="$de/dc3/a00909.html#ace6afc85cec6c733406b5a3ab4c050db" title="ripple::Resource::Logic\l::erase" alt="" coords="489,74,644,121"/>
+<area shape="rect" id="node13" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="493,166,640,213"/>
+</map>

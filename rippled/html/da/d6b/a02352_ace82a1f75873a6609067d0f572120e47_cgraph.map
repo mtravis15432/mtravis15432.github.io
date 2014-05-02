@@ -1,0 +1,15 @@
+<map id="sqlite3VdbeDelete" name="sqlite3VdbeDelete">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1407,167,1540,196"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="1065,245,1167,275"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#aa36c8bd3814c4923416d35ef3454f979" title="sqlite3VdbeClearObject" alt="" coords="183,117,340,147"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1428,245,1519,275"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1216,219,1357,248"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#a321ef1ead88ab0c4c636971ae5cc9778" title="releaseMemArray" alt="" coords="675,144,797,173"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#affa26b190a34b8772c3f4a4d06866c50" title="vdbeFreeOpArray" alt="" coords="391,196,513,225"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="849,245,1015,275"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#aa1ec8debef2a9be5fe36a3082fd3e0f9" title="freeP4" alt="" coords="564,373,623,403"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#ace0a45aad803937290f5495906773bc4" title="freeEphemeralFunction" alt="" coords="855,400,1009,429"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#ac94cc1874ab0865db1dbbefd3886ba4a" title="sqlite3KeyInfoUnref" alt="" coords="864,453,1000,483"/>
+<area shape="rect" id="node34" href="$da/d6b/a02352.html#afeed84c3f344a833d15c7209265dc520" title="sqlite3ValueFree" alt="" coords="677,296,795,325"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="672,504,800,533"/>
+</map>

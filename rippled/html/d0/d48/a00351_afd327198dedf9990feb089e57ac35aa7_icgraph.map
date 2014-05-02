@@ -1,0 +1,6 @@
+<map id="beast::insight::Counter::increment" name="beast::insight::Counter::increment">
+<area shape="rect" id="node3" href="$d0/d48/a00351.html#a256456fee5ac60815206ce00aced51e7" title="beast::insight::Counter\l::operator++" alt="" coords="208,5,363,51"/>
+<area shape="rect" id="node5" href="$d0/d48/a00351.html#a52acbae281eea445151b5fa86d8dda80" title="beast::insight::Counter\l::operator+=" alt="" coords="208,74,363,121"/>
+<area shape="rect" id="node7" href="$d0/d48/a00351.html#a921de1c5408b13422d55520901125c88" title="beast::insight::Counter\l::operator&#45;&#45;" alt="" coords="208,143,363,190"/>
+<area shape="rect" id="node9" href="$d0/d48/a00351.html#a3ef9aa23cac8358e7b48311adcab878a" title="beast::insight::Counter\l::operator&#45;=" alt="" coords="208,213,363,259"/>
+</map>

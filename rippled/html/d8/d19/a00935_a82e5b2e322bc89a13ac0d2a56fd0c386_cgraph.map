@@ -1,0 +1,7 @@
+<map id="ripple::SiteFiles::ManagerImp::onStop" name="ripple::SiteFiles::ManagerImp::onStop">
+<area shape="rect" id="node3" href="$de/d5c/a01358.html#a240cdf671e9187b960a218d7ce2158a9" title="beast::ServiceQueueType\l::stop" alt="" coords="197,27,371,74"/>
+<area shape="rect" id="node5" href="$df/d10/a01357.html#aeb9d25b5c5807ca7a4a4cb61892da849" title="beast::ServiceQueueBase\l::stop" alt="" coords="420,27,593,74"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html#a4449697212c60a5da698b3b9ef0449a3" title="beast::Atomic::set" alt="" coords="667,5,795,35"/>
+<area shape="rect" id="node9" href="$de/d3c/a01809.html#a6497737035c8b878772c34c0d369d2b8" title="beast::ServiceQueueBase\l::Waiter::signal" alt="" coords="644,58,817,105"/>
+<area shape="rect" id="node11" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="867,58,1013,105"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="rocksdb::VersionEdit::GetLevel" name="rocksdb::VersionEdit::GetLevel">
+<area shape="rect" id="node3" href="$d2/d86/a01798.html#aa96a614beb016ddb66fa3fd0b2cc8a3f" title="rocksdb::VersionEdit\l::DecodeFrom" alt="" coords="199,127,340,174"/>
+<area shape="rect" id="node5" href="$d1/d42/a01800.html#a6a345ce36535de042e2e0d254ff66a5a" title="rocksdb::VersionSet\l::DumpManifest" alt="" coords="416,31,555,78"/>
+<area shape="rect" id="node9" href="$d1/d42/a01800.html#acf04defe0d794e6933785aad628ab9b6" title="rocksdb::VersionSet\l::Recover" alt="" coords="416,127,555,174"/>
+<area shape="rect" id="node20" href="$d4/d87/a03436.html#a091b0d8150b9a0492ab1e0c89073ece2" title="rocksdb::TestEncodeDecode" alt="" coords="391,223,580,252"/>
+<area shape="rect" id="node7" href="$dd/d20/a00939.html#a0a4996198d709bec7b49eec50ba36567" title="rocksdb::ManifestDumpCommand\l::DoCommand" alt="" coords="639,5,860,51"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a397a8fe5f365d028536a4f82449726b9" title="rocksdb::BM_LogAndApply" alt="" coords="660,75,839,104"/>
+<area shape="rect" id="node15" href="$d0/d58/a01230.html#a769cf9f08028648f2cb824dbbf695de7" title="rocksdb::ReduceDBLevelsCommand\l::GetOldNumOfLevels" alt="" coords="631,127,868,174"/>
+<area shape="rect" id="node17" href="$d0/d58/a01230.html#af2eb900c9cab82e8dffb16d90d070ae1" title="rocksdb::ReduceDBLevelsCommand\l::DoCommand" alt="" coords="919,157,1156,203"/>
+<area shape="rect" id="node13" href="$d9/de7/a02572.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1012,75,1063,104"/>
+<area shape="rect" id="node22" href="$d4/d87/a03436.html#ac5a6bffce5635ceed95b67f064b292cc" title="rocksdb::TEST" alt="" coords="695,248,804,277"/>
+</map>

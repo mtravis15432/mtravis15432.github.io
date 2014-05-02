@@ -1,0 +1,5 @@
+<map id="rocksdb::Comparator" name="rocksdb::Comparator">
+<area shape="rect" id="node3" href="$d9/d87/a00846.html" title="leveldb_comparator_t" alt="" coords="5,83,152,112"/>
+<area shape="rect" id="node5" href="$d0/d72/a00724.html" title="rocksdb::InternalKeyComparator" alt="" coords="176,83,387,112"/>
+<area shape="rect" id="node7" href="$d7/d47/a01668.html" title="rocksdb::TestKeyComparator" alt="" coords="411,83,603,112"/>
+</map>

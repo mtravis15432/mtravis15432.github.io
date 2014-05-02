@@ -1,0 +1,6 @@
+<map id="ripple::LocalTxsImp::can_remove" name="ripple::LocalTxsImp::can_remove">
+<area shape="rect" id="node3" href="$d2/d21/a00895.html#a25c6e4f02c65d4f19aef9b25a7d80928" title="ripple::LocalTx::getAccount" alt="" coords="189,5,371,35"/>
+<area shape="rect" id="node5" href="$d2/d21/a00895.html#a2a2759d079730c7d84a17fd865443205" title="ripple::LocalTx::getID" alt="" coords="207,59,353,88"/>
+<area shape="rect" id="node7" href="$d2/d21/a00895.html#a707901ceb5138be3adab403a9301044f" title="ripple::LocalTx::getSeq" alt="" coords="203,112,357,141"/>
+<area shape="rect" id="node9" href="$d2/d21/a00895.html#a17dc1713dd71c1caed07402d18976aa2" title="ripple::LocalTx::isExpired" alt="" coords="196,165,364,195"/>
+</map>

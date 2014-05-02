@@ -1,0 +1,8 @@
+<map id="beast::WindowsFileHelpers::getWindowsDriveType" name="beast::WindowsFileHelpers::getWindowsDriveType">
+<area shape="rect" id="node3" href="$dc/da7/a03404.html#ab2c6c251d37075053a9d260881e3d573" title="beast::WindowsFileHelpers\l::getDriveFromPath" alt="" coords="239,111,420,158"/>
+<area shape="rect" id="node5" href="$da/dc3/a00657.html#ac0753913dbc18b839c01d98c82dad228" title="beast::HeapBlock::calloc" alt="" coords="485,5,653,35"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#afffbb87ebdb0e55fda7d6e79ad22a1d9" title="beast::String::copyToUTF16" alt="" coords="476,59,663,88"/>
+<area shape="rect" id="node9" href="$d1/dd4/a00267.html#a49da73caa1f1a849b70ca0829d956576" title="beast::CharPointer\l_UTF16::getBytesRequiredFor" alt="" coords="469,111,669,158"/>
+<area shape="rect" id="node11" href="$d1/d88/a01578.html#a40c6fac1ac62b9bff95ccb438a8363cd" title="beast::String::getCharPointer" alt="" coords="475,181,664,211"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#a5f9e864d7e0850599b8ecf514c6f4359" title="beast::String::isNotEmpty" alt="" coords="483,235,656,264"/>
+</map>

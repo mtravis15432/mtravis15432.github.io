@@ -1,0 +1,9 @@
+<map id="rocksdb::UserKeyTablePropertiesCollector::Add" name="rocksdb::UserKeyTablePropertiesCollector::Add">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a5afec51a3f306b6f188a5af0c5d003ba" title="rocksdb::Status::Invalid\lArgument" alt="" coords="280,9,440,55"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#add1d5b59fe1243a2201201ab3a3fbdb2" title="rocksdb::ParseInternalKey" alt="" coords="272,101,448,131"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="500,5,660,35"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="511,59,649,88"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="497,112,663,141"/>
+<area shape="rect" id="node15" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="512,165,648,195"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="713,112,879,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rocksdb::SpecialEnv::NewWritableFile" name="rocksdb::SpecialEnv::NewWritableFile">
+<area shape="rect" id="node3" href="$de/d76/a00134.html#a3df03b47d7c561143fd1ac591207e2cf" title="rocksdb::port::AtomicPointer\l::Acquire_Load" alt="" coords="205,5,392,51"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc" title="rocksdb::Status::IOError" alt="" coords="217,75,380,104"/>
+<area shape="rect" id="node9" href="$db/db1/a00460.html#a2415186e0a399d70edabef9f477e4c47" title="rocksdb::Env::NewWritableFile" alt="" coords="197,128,400,157"/>
+<area shape="rect" id="node11" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="228,181,369,211"/>
+<area shape="rect" id="node14" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="231,235,367,264"/>
+<area shape="rect" id="node16" href="$d3/d5d/a00463.html#a412536aaca74e290242521f063910cdf" title="rocksdb::EnvWrapper\l::target" alt="" coords="225,287,372,334"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="448,128,608,157"/>
+</map>

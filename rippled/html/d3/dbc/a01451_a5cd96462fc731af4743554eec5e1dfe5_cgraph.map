@@ -1,0 +1,5 @@
+<map id="beast::detail::spooky_wrapper::append" name="beast::detail::spooky_wrapper::append">
+<area shape="rect" id="node3" href="$dd/d1c/a01452.html#a1a95761b21aa9d827ad9b62f56a30877" title="SpookyHash::Update" alt="" coords="197,13,344,43"/>
+<area shape="rect" id="node5" href="$dd/d1c/a01452.html#a749e6012af3d67884a323e227105e032" title="SpookyHash::Mix" alt="" coords="393,13,519,43"/>
+<area shape="rect" id="node7" href="$dd/d1c/a01452.html#a2b3b07af28a0b4f0f920fdb3a31a0c87" title="SpookyHash::Rot64" alt="" coords="569,13,708,43"/>
+</map>

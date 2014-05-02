@@ -1,0 +1,5 @@
+<map id="ripple::Ledger::getLedgerFeatureIndex" name="ripple::Ledger::getLedgerFeatureIndex">
+<area shape="rect" id="node3" href="$df/da9/a00263.html#a736a8c02fe308a9fc92bf621fe8b245d" title="ripple::ChangeTransactor\l::applyFeature" alt="" coords="219,5,387,51"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#abd33e3578e4f3f5adb537db26fffff42" title="ripple::Ledger::getLedger\lFeatures" alt="" coords="220,74,385,121"/>
+<area shape="rect" id="node5" href="$df/da9/a00263.html#a0673029ce2761d55cc05d75bc0b6b9e4" title="ripple::ChangeTransactor\l::doApply" alt="" coords="435,5,603,51"/>
+</map>

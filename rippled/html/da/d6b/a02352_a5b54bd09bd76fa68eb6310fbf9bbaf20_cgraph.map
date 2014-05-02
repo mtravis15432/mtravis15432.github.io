@@ -1,0 +1,24 @@
+<map id="pager_unlock" name="pager_unlock">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="211,59,301,88"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a8ac54f19421c76b5045a40b42d282c32" title="pagerUnlockDb" alt="" coords="200,165,312,195"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="460,112,561,141"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#ac0ec06e81b223a42295bd1a0182b1609" title="releaseAllSavepoints" alt="" coords="184,269,328,299"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="440,219,581,248"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="456,325,565,355"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="153,373,359,403"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#abc0da72cb8b8989cf8708b572fe5fef4" title="sqlite3OsUnfetch" alt="" coords="195,427,317,456"/>
+<area shape="rect" id="node40" href="$da/d6b/a02352.html#a2d0ec4393370b11b4db7d9836d38eb40" title="sqlite3WalEndReadTransaction" alt="" coords="153,480,359,509"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a51c915452a70527bce99483f8eac02b8" title="sqlite3BackupRestart" alt="" coords="437,5,584,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ae4bcea77d6c756c9ad6ef25739172928" title="sqlite3PcacheClear" alt="" coords="444,59,577,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="672,5,805,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#aa25da46a83609c408a14977a087af782" title="sqlite3PcacheTruncate" alt="" coords="661,59,816,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ac00d8abc5cdfaa4da090c03d2b24711c" title="sqlite3PcacheMakeClean" alt="" coords="864,59,1035,88"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#abeed5ab58c7f6b9f9683e39a53a5a8f7" title="pcacheRemoveFromDirtyList" alt="" coords="1083,32,1275,61"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a76530dde0f26366c0614d713daf9859c" title="pcacheUnpin" alt="" coords="1129,85,1228,115"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a7e90db4b3488e8f4a29705edcb8025fe" title="sqlite3OsUnlock" alt="" coords="452,165,569,195"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#a237bb8682b84ed24be164d4c57465182" title="sqlite3IsMemJournal" alt="" coords="440,272,581,301"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#a0ae58a14b40600fb21130cc4d595acc9" title="sqlite3WalEndWriteTransaction" alt="" coords="408,453,613,483"/>
+<area shape="rect" id="node48" href="$da/d6b/a02352.html#a766d6112d5beb2d9a4fb6e007b591514" title="walUnlockShared" alt="" coords="677,507,800,536"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#a7ef6fcadaaeb9b36d1b9eaaf7e8f3311" title="walUnlockExclusive" alt="" coords="669,453,808,483"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#a1832b805275450abac06bf8da21489f3" title="sqlite3OsShmLock" alt="" coords="884,480,1015,509"/>
+</map>

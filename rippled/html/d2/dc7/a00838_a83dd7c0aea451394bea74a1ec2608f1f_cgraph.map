@@ -1,0 +1,5 @@
+<map id="ripple::LedgerMasterImp::getEarliestFetch" name="ripple::LedgerMasterImp::getEarliestFetch">
+<area shape="rect" id="node3" href="$d2/dc7/a00838.html#af1a817b5ab306e769ce54b83da8805b4" title="ripple::LedgerMasterImp\l::getClosedLedger" alt="" coords="216,5,379,51"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="239,75,356,104"/>
+<area shape="rect" id="node5" href="$d3/d13/a00836.html#acb5998c7f7a284bb0398d7867a41b960" title="ripple::LedgerHolder::get" alt="" coords="428,13,591,43"/>
+</map>

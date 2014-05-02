@@ -1,0 +1,17 @@
+<map id="ripple::FeaturesImpl::getCreate" name="ripple::FeaturesImpl::getCreate">
+<area shape="rect" id="node3" href="$d5/db5/a00374.html#a2d9feb6cec0521fbfdfb40b49b861282" title="ripple::Database::endIterRows" alt="" coords="196,5,393,35"/>
+<area shape="rect" id="node5" href="$d5/db5/a00374.html#ae13874bae245fcea24edd3945ff16723" title="ripple::Database::executeSQL" alt="" coords="196,59,393,88"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="244,112,345,141"/>
+<area shape="rect" id="node11" href="$d5/db5/a00374.html#a76ed88c8f94b0c332d1d62bc844045ad" title="ripple::Database::getBigInt" alt="" coords="207,165,383,195"/>
+<area shape="rect" id="node15" href="$d6/db8/a00376.html#a9368476a90456c8f1256a53c239cc9a5" title="ripple::DatabaseCon\l::getDB" alt="" coords="224,218,365,265"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="232,287,357,334"/>
+<area shape="rect" id="node29" href="$da/d74/a00099.html#aa3469eee5e444e61eadeb12fcb7e1eee" title="ripple::Application\l::getWalletDB" alt="" coords="232,357,357,403"/>
+<area shape="rect" id="node31" href="$d5/db5/a00374.html#ab79c6f2e2ea71a94c02da740740ee934" title="ripple::Database::startIterRows" alt="" coords="193,427,396,456"/>
+<area shape="rect" id="node9" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="447,87,623,134"/>
+<area shape="rect" id="node13" href="$d5/db5/a00374.html#a5b7ed864f9f854446470c987b37ebecc" title="ripple::Database::getCol\lNumber" alt="" coords="453,157,616,203"/>
+<area shape="rect" id="node19" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="472,226,597,273"/>
+<area shape="rect" id="node23" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="460,296,609,325"/>
+<area shape="rect" id="node25" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="485,349,584,379"/>
+<area shape="rect" id="node21" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="673,235,823,264"/>
+<area shape="rect" id="node27" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="693,349,803,379"/>
+</map>

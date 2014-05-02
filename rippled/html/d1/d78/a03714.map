@@ -1,0 +1,16 @@
+<map id="rippled/src/beast/beast/insight/Group.h" name="rippled/src/beast/beast/insight/Group.h">
+<area shape="rect" id="node3" href="$df/df0/a02016.html" title="Collector.h" alt="" coords="419,101,504,131"/>
+<area shape="rect" id="node5" href="$d0/dfd/a02017.html" title="Counter.h" alt="" coords="328,179,406,208"/>
+<area shape="rect" id="node23" href="$df/d78/a02019.html" title="Event.h" alt="" coords="707,179,774,208"/>
+<area shape="rect" id="node33" href="$d8/d45/a02021.html" title="Gauge.h" alt="" coords="211,179,280,208"/>
+<area shape="rect" id="node40" href="$da/d3e/a02025.html" title="Hook.h" alt="" coords="430,179,494,208"/>
+<area shape="rect" id="node47" href="$d9/d1f/a02035.html" title="Meter.h" alt="" coords="71,179,138,208"/>
+<area shape="rect" id="node7" href="$d0/d48/a02014.html" title="Base.h" alt="" coords="268,256,330,285"/>
+<area shape="rect" id="node11" href="$da/d2d/a02018.html" title="CounterImpl.h" alt="" coords="455,256,559,285"/>
+<area shape="rect" id="node13" href="$de/d0a/a02015.html" title="BaseImpl.h" alt="" coords="463,333,551,363"/>
+<area shape="rect" id="node26" href="$dc/d62/a02020.html" title="EventImpl.h" alt="" coords="695,256,786,285"/>
+<area shape="rect" id="node29" href="$d0/d36/a01916.html" title="../chrono/chrono_util.h" alt="" coords="860,256,1010,285"/>
+<area shape="rect" id="node36" href="$db/dc2/a02022.html" title="GaugeImpl.h" alt="" coords="148,256,244,285"/>
+<area shape="rect" id="node43" href="$d9/dd6/a02026.html" title="HookImpl.h" alt="" coords="583,256,671,285"/>
+<area shape="rect" id="node51" href="$d7/db2/a02036.html" title="MeterImpl.h" alt="" coords="34,256,124,285"/>
+</map>

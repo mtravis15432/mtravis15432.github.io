@@ -1,0 +1,10 @@
+<map id="sqlite3PagerClearCache" name="sqlite3PagerClearCache">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="216,32,307,61"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a51c915452a70527bce99483f8eac02b8" title="sqlite3BackupRestart" alt="" coords="355,5,501,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ae4bcea77d6c756c9ad6ef25739172928" title="sqlite3PcacheClear" alt="" coords="361,59,495,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="560,5,693,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#aa25da46a83609c408a14977a087af782" title="sqlite3PcacheTruncate" alt="" coords="549,59,704,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ac00d8abc5cdfaa4da090c03d2b24711c" title="sqlite3PcacheMakeClean" alt="" coords="752,59,923,88"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#abeed5ab58c7f6b9f9683e39a53a5a8f7" title="pcacheRemoveFromDirtyList" alt="" coords="971,32,1163,61"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a76530dde0f26366c0614d713daf9859c" title="pcacheUnpin" alt="" coords="1017,85,1116,115"/>
+</map>

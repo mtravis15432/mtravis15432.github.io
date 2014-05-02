@@ -1,0 +1,8 @@
+<map id="ripple::operator&#45;" name="ripple::operator&#45;">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a51b1250bb795073f55330b7bdeed6ad7" title="ripple::STAmount::create\lFromInt64" alt="" coords="200,5,365,51"/>
+<area shape="rect" id="node7" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="209,74,356,121"/>
+<area shape="rect" id="node9" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="183,144,383,173"/>
+<area shape="rect" id="node11" href="$d2/d41/a01493.html#ab0b901062f0b7e67b0832d0601cd665e" title="ripple::STAmount::throwComparable" alt="" coords="167,197,399,227"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="457,13,649,43"/>
+<area shape="rect" id="node13" href="$d2/d41/a01493.html#a3cf020f0636f8cbc302a6261b9145c11" title="ripple::STAmount::isComparable" alt="" coords="448,197,659,227"/>
+</map>

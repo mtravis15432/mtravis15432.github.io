@@ -1,0 +1,6 @@
+<map id="ripple::RegularKeySetTransactor::calculateBaseFee" name="ripple::RegularKeySetTransactor::calculateBaseFee">
+<area shape="rect" id="node3" href="$d8/df7/a01711.html#af218e14bd594bc67343ec352a53076d5" title="ripple::Transactor\l::calculateBaseFee" alt="" coords="271,5,404,51"/>
+<area shape="rect" id="node7" href="$d4/d0e/a01272.html#a57f127faa6e0af4093b8397e368c2899" title="ripple::RippleAddress\l::getAccountID" alt="" coords="264,74,411,121"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="459,13,576,43"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a67af9cb9a9d5c158f9a56acde5f27e4e" title="ripple::Hash160" alt="" coords="461,83,573,112"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="beast::Result::ok" name="beast::Result::ok">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#ae76165aad1a577fa247c744977f30f61" title="beast::File::create" alt="" coords="436,19,561,48"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#ab2744411f150f2fae232942262e1c7a6" title="beast::File::createDirectory" alt="" coords="177,95,356,124"/>
+<area shape="rect" id="node11" href="$dc/d81/a01161.html#a7ebd48e9f1392308cc0476d3965584d9" title="beast::RandomAccessFile\l::nativeFlush" alt="" coords="179,194,355,241"/>
+<area shape="rect" id="node18" href="$dc/d81/a01161.html#a9f98545d72a4cafdb2a9f0b608f9c9f0" title="beast::RandomAccessFile\l::nativeOpen" alt="" coords="640,314,816,361"/>
+<area shape="rect" id="node25" href="$d4/d13/a01162.html#af0d0871ff761f6d32fb955ce10b5701d" title="beast::RandomAccessFile\l_test::testFile" alt="" coords="1088,467,1264,514"/>
+<area shape="rect" id="node40" href="$dc/d81/a01161.html#a748c517f24ce7204cc6fb2f84869c404" title="beast::RandomAccessFile\l::nativeRead" alt="" coords="179,314,355,361"/>
+<area shape="rect" id="node49" href="$dc/d81/a01161.html#a56e8083b424a24b09512519cc6263484" title="beast::RandomAccessFile\l::nativeSetPosition" alt="" coords="179,434,355,481"/>
+<area shape="rect" id="node51" href="$dc/d81/a01161.html#ac747ffde0caff402241c674384c041ff" title="beast::RandomAccessFile\l::setPosition" alt="" coords="411,434,587,481"/>
+<area shape="rect" id="node57" href="$dc/d81/a01161.html#a46f08eb72bbafd8906aefe0ac5cc2ec8" title="beast::RandomAccessFile\l::nativeWrite" alt="" coords="179,605,355,651"/>
+<area shape="rect" id="node59" href="$dc/d81/a01161.html#a643d65c4b73ec7b7142993b2c4997211" title="beast::RandomAccessFile\l::write" alt="" coords="411,579,587,626"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#ab976d35891a49b49da48809db42639bf" title="beast::File::copyDirectoryTo" alt="" coords="405,72,592,101"/>
+<area shape="rect" id="node13" href="$dc/d81/a01161.html#ab19b4b0f41ff6f26a06360799b59ae54" title="beast::RandomAccessFile\l::close" alt="" coords="411,194,587,241"/>
+<area shape="rect" id="node32" href="$dc/d81/a01161.html#a9ae1444e083f4d3e1d810543e64b8b39" title="beast::RandomAccessFile\l::flush" alt="" coords="411,125,587,171"/>
+<area shape="rect" id="node15" href="$dc/d81/a01161.html#a7aeddcfdba1999798cbb78d171ddcb89" title="beast::RandomAccessFile\l::nativeClose" alt="" coords="640,194,816,241"/>
+<area shape="rect" id="node20" href="$dc/d81/a01161.html#a96e2a03c1354749c3285f7a1ba3387a8" title="beast::RandomAccessFile\l::open" alt="" coords="864,314,1040,361"/>
+<area shape="rect" id="node30" href="$dc/d81/a01161.html#ab9e957ba93bb7b0a8e69bade513b32e8" title="beast::RandomAccessFile\l::~RandomAccessFile" alt="" coords="640,125,816,171"/>
+<area shape="rect" id="node22" href="$d5/df9/a01441.html#ad3c1f0f8b9cbe762d756b34b58c78acb" title="ripple::Validators\l::SourceFileImp::fetch" alt="" coords="1101,345,1251,391"/>
+<area shape="rect" id="node27" href="$d4/d13/a01162.html#a244cb33ba3821e59eaceec18472f1654" title="beast::RandomAccessFile\l_test::run" alt="" coords="1312,467,1488,514"/>
+<area shape="rect" id="node34" href="$dc/d81/a01161.html#a3da4af7881428cd5dc6b276f2c0f6274" title="beast::RandomAccessFile\l::nativeTruncate" alt="" coords="640,5,816,51"/>
+<area shape="rect" id="node36" href="$dc/d81/a01161.html#a3abfc8913bf396d55dcd5f372df5eab7" title="beast::RandomAccessFile\l::truncate" alt="" coords="864,35,1040,82"/>
+<area shape="rect" id="node42" href="$dc/d81/a01161.html#a34a010e900debd756433d0890edbe644" title="beast::RandomAccessFile\l::read" alt="" coords="411,339,587,386"/>
+<area shape="rect" id="node46" href="$d4/d13/a01162.html#a8d6f2e577cf5fa214963993c6c6d5191" title="beast::RandomAccessFile\l_test::readRecords" alt="" coords="640,434,816,481"/>
+<area shape="rect" id="node54" href="$d4/d13/a01162.html#a770ba5aaef2df499ee1ed8867160abd6" title="beast::RandomAccessFile\l_test::writeRecords" alt="" coords="640,554,816,601"/>
+</map>

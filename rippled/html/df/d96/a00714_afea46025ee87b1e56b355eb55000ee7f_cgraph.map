@@ -1,0 +1,5 @@
+<map id="beast::InputStream::readShort" name="beast::InputStream::readShort">
+<area shape="rect" id="node3" href="$d6/d08/a00244.html#a96655edc63445124a3ee1faf0bb4b0bd" title="beast::ByteOrder::little\lEndianShort" alt="" coords="188,5,340,51"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#ad7da4644c542ada52519049105cd12f4" title="beast::InputStream\l::read" alt="" coords="197,74,331,121"/>
+<area shape="rect" id="node5" href="$d6/d08/a00244.html#a1a93d1392f8b87ebc9289e0088187962" title="beast::ByteOrder::swap" alt="" coords="389,13,549,43"/>
+</map>

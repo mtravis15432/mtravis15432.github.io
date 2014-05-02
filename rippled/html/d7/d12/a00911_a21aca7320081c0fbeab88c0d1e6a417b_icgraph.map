@@ -1,0 +1,18 @@
+<map id="ripple::Validators::Logic::dirtyChosen" name="ripple::Validators::Logic::dirtyChosen">
+<area shape="rect" id="node3" href="$d7/d12/a00911.html#a1011f4fa815d844870977dcce9016da9" title="ripple::Validators\l::Logic::merge" alt="" coords="193,195,311,242"/>
+<area shape="rect" id="node33" href="$d7/d12/a00911.html#a079b8627a1880db8b384e7fed886560c" title="ripple::Validators\l::Logic::remove" alt="" coords="193,265,311,311"/>
+<area shape="rect" id="node5" href="$d7/d12/a00911.html#abc94ccd53b582416f8c2207c4912b804" title="ripple::Validators\l::Logic::addStatic" alt="" coords="361,91,484,138"/>
+<area shape="rect" id="node13" href="$d7/d12/a00911.html#a7fc10d23e527f4e29425b9b3dbb19251" title="ripple::Validators\l::Logic::add" alt="" coords="364,195,481,242"/>
+<area shape="rect" id="node25" href="$d7/d12/a00911.html#a20ac15d5414bb4f5be6d2988cce3a2fd" title="ripple::Validators\l::Logic::fetch" alt="" coords="364,265,481,311"/>
+<area shape="rect" id="node7" href="$dc/d2b/a00936.html#a9b13050eea255b09c0dd10a97e78e178" title="ripple::Validators\l::ManagerImp::addStaticSource" alt="" coords="535,74,740,121"/>
+<area shape="rect" id="node9" href="$dc/d2b/a00936.html#a3c4ed9cc0a861a504cde56b4213256c6" title="ripple::Validators\l::ManagerImp::addStrings" alt="" coords="801,5,972,51"/>
+<area shape="rect" id="node11" href="$dc/d2b/a00936.html#a2c75443590b7aa6d5af933bd65f9c247" title="ripple::Validators\l::ManagerImp::addFile" alt="" coords="811,74,963,121"/>
+<area shape="rect" id="node15" href="$dc/d2b/a00936.html#ae5341237cc724139bfb4d8f8128935a0" title="ripple::Validators\l::ManagerImp::addSource" alt="" coords="552,143,723,190"/>
+<area shape="rect" id="node19" href="$d9/dfb/a00913.html#a104b1888de589345045ca3e75c22b4a5" title="ripple::Validators\l::Logic_test::addSources" alt="" coords="555,213,720,259"/>
+<area shape="rect" id="node17" href="$dc/d2b/a00936.html#aacc0c4384f81b9c585b84e1dcc9c5c20" title="ripple::Validators\l::ManagerImp::addURL" alt="" coords="808,143,965,190"/>
+<area shape="rect" id="node21" href="$d9/dfb/a00913.html#ad779bfe8d6bb1d9921ebe6cc3fb7b5bb" title="ripple::Validators\l::Logic_test::testLogic" alt="" coords="812,213,961,259"/>
+<area shape="rect" id="node23" href="$d9/dfb/a00913.html#a6dcbb52d0f72b46b9629265b9004f103" title="ripple::Validators\l::Logic_test::run" alt="" coords="1037,213,1155,259"/>
+<area shape="rect" id="node27" href="$d7/d12/a00911.html#a5ba5b7e9a028822e9b2c219718fafb08" title="ripple::Validators\l::Logic::fetch_one" alt="" coords="575,282,700,329"/>
+<area shape="rect" id="node29" href="$dc/d2b/a00936.html#a87d30f67fe73cf919d554bc557771534" title="ripple::Validators\l::ManagerImp::checkSources" alt="" coords="791,282,983,329"/>
+<area shape="rect" id="node31" href="$dc/d2b/a00936.html#abe2f0e8721d1ebedf583b72450d9bb1a" title="ripple::Validators\l::ManagerImp::run" alt="" coords="1032,282,1160,329"/>
+</map>

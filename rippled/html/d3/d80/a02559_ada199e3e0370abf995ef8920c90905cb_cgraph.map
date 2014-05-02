@@ -1,0 +1,12 @@
+<map id="leveldb_writebatch_delete" name="leveldb_writebatch_delete">
+<area shape="rect" id="node3" href="$d2/dbd/a01844.html#a17803ddbf9875d6b0bbac1b310ae3846" title="rocksdb::WriteBatch\l::Delete" alt="" coords="184,74,325,121"/>
+<area shape="rect" id="node5" href="$da/d8c/a01845.html#a5d61953d919f082c48c4d4aada512004" title="rocksdb::WriteBatchInternal\l::SetCount" alt="" coords="373,5,557,51"/>
+<area shape="rect" id="node9" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="373,74,557,121"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#af1cdcde94bcaeced42cd5925a5827232" title="rocksdb::PutLengthPrefixed\lSlice" alt="" coords="375,158,556,205"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#aabc7ce45ae48e15b24a6756f9b4fd694" title="rocksdb::EncodeFixed32" alt="" coords="607,13,772,43"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="607,75,772,104"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#afe24fa7da1cd551af92134aa66f96183" title="rocksdb::PutVarint32" alt="" coords="617,128,761,157"/>
+<area shape="rect" id="node19" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="621,181,757,211"/>
+<area shape="rect" id="node21" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="620,235,759,264"/>
+<area shape="rect" id="node17" href="$d4/d87/a03436.html#a94c48680211f25845f5c35acd4b54ebb" title="rocksdb::EncodeVarint32" alt="" coords="821,128,989,157"/>
+</map>

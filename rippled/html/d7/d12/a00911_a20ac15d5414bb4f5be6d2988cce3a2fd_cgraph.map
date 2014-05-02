@@ -1,0 +1,12 @@
+<map id="ripple::Validators::Logic::fetch" name="ripple::Validators::Logic::fetch">
+<area shape="rect" id="node3" href="$d7/d12/a00911.html#a2277ab0782b946a471f6824d2f87e46a" title="ripple::Validators\l::Logic::checkChosen" alt="" coords="193,39,343,86"/>
+<area shape="rect" id="node9" href="$dc/dc8/a01695.html#a170014dab4272e994e53193f56e40557" title="beast::Time::getCurrentTime" alt="" coords="173,113,363,143"/>
+<area shape="rect" id="node15" href="$d7/d12/a00911.html#a1011f4fa815d844870977dcce9016da9" title="ripple::Validators\l::Logic::merge" alt="" coords="209,166,327,213"/>
+<area shape="rect" id="node19" href="$d5/d9d/a03343.html#a5e50025bd0ee2702179fa614b832c796" title="beast::asio::swap" alt="" coords="205,236,331,265"/>
+<area shape="rect" id="node21" href="$d7/d57/a01567.html#afe2797ce4254c4141d20d48177bfd250" title="ripple::Validators\l::Store::update" alt="" coords="209,289,327,335"/>
+<area shape="rect" id="node5" href="$d7/d12/a00911.html#accb43ae7a1fb578a1bc72c327ae5b63e" title="ripple::Validators\l::Logic::buildChosen" alt="" coords="424,5,565,51"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#ac444c25a50899592a578d53f4937f6c1" title="beast::String::fromNumber" alt="" coords="627,13,803,43"/>
+<area shape="rect" id="node11" href="$dc/dc8/a01695.html#aff456c2d50de704a62966989bfae617a" title="beast::Time::currentTime\lMillis" alt="" coords="411,74,579,121"/>
+<area shape="rect" id="node13" href="$dc/dc8/a01695.html#aff9996f82029ab6b747acef7bb75e745" title="beast::Time::Time" alt="" coords="431,144,559,173"/>
+<area shape="rect" id="node17" href="$d7/d12/a00911.html#a21aca7320081c0fbeab88c0d1e6a417b" title="ripple::Validators\l::Logic::dirtyChosen" alt="" coords="425,197,564,243"/>
+</map>

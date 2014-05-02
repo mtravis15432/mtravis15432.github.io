@@ -1,0 +1,13 @@
+var a01932 =
+[
+    [ "BEAST_COMPILER_CHECKS_SOCKET_OVERRIDES", "d8/d22/a01932.html#a8e8d8cb27d6ada47e8b860e595007f12", null ],
+    [ "BEAST_DISABLE_CONTRACT_CHECKS", "d8/d22/a01932.html#a123bfe6baaea319d9af70b03518094e1", null ],
+    [ "BEAST_DONT_AUTOLINK_TO_WIN32_LIBRARIES", "d8/d22/a01932.html#a87b4ead6bfd31e43e8840f10d6f20e7f", null ],
+    [ "BEAST_FORCE_DEBUG", "d8/d22/a01932.html#ab5a85b8518f5f774222c30c07f7399b0", null ],
+    [ "BEAST_INCLUDE_ZLIB_CODE", "d8/d22/a01932.html#aba022546af0deda46c189c259ac6d484", null ],
+    [ "BEAST_LOG_ASSERTIONS", "d8/d22/a01932.html#a98fa33966e0698030dc63e3b8058c8d8", null ],
+    [ "BEAST_SQLITE_FORCE_NDEBUG", "d8/d22/a01932.html#a21551d00fca7d4bc3eb154f578e6e6a5", null ],
+    [ "BEAST_STRING_UTF_TYPE", "d8/d22/a01932.html#aa89cb1c3b8a41e93acdd9137b947b1cb", null ],
+    [ "BEAST_USE_BOOST_FEATURES", "d8/d22/a01932.html#af24d9040602d357cb60f7ef12e7f37bb", null ],
+    [ "BEAST_ZLIB_INCLUDE_PATH", "d8/d22/a01932.html#a82d837aeee77c3e76eb290ad52401344", null ]
+];

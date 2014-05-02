@@ -1,0 +1,6 @@
+<map id="ripple::HTTP::ServerImpl::get_io_service" name="ripple::HTTP::ServerImpl::get_io_service">
+<area shape="rect" id="node3" href="$de/d6d/a01095.html#a288ecd28c5e4548acfc61b0d299a48d6" title="ripple::HTTP::Peer\l::close" alt="" coords="221,5,352,51"/>
+<area shape="rect" id="node5" href="$de/d6d/a01095.html#aa56560cf4a1b14adfb8db6b605fdb185" title="ripple::HTTP::Peer\l::detach" alt="" coords="221,74,352,121"/>
+<area shape="rect" id="node7" href="$de/d6d/a01095.html#a2667222063cd5b717717614640050b3c" title="ripple::HTTP::Peer\l::Peer" alt="" coords="221,143,352,190"/>
+<area shape="rect" id="node9" href="$de/d6d/a01095.html#a36222d119aa41ac9d0215a8d857d5718" title="ripple::HTTP::Peer\l::write" alt="" coords="221,213,352,259"/>
+</map>

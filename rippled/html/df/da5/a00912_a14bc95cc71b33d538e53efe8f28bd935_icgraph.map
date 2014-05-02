@@ -1,0 +1,6 @@
+<map id="ripple::PeerFinder::Logic::fixed" name="ripple::PeerFinder::Logic::fixed">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#a6463c9d5ecbdcb53951df8b8ce5b5906" title="ripple::PeerFinder\l::Logic::new_inbound_slot" alt="" coords="183,5,356,51"/>
+<area shape="rect" id="node7" href="$df/da5/a00912.html#a78080e25c0ac4e3fd5a3d58529f5c5f3" title="ripple::PeerFinder\l::Logic::new_outbound_slot" alt="" coords="179,74,360,121"/>
+<area shape="rect" id="node5" href="$d0/d5b/a00933.html#a09025a0728a3020a33be60dd4cbe2166" title="ripple::PeerFinder\l::ManagerImp::new_inbound_slot" alt="" coords="413,5,627,51"/>
+<area shape="rect" id="node9" href="$d0/d5b/a00933.html#ad5466752f0d8949cc02dce5aba12c4cc" title="ripple::PeerFinder\l::ManagerImp::new_outbound_slot" alt="" coords="409,74,631,121"/>
+</map>

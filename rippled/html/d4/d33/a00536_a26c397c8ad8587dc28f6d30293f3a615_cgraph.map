@@ -1,0 +1,5 @@
+<map id="beast::File::setCreationTime" name="beast::File::setCreationTime">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a60d073245a8ed30940e7edb793218d79" title="beast::File::setFileTimes\lInternal" alt="" coords="249,5,415,51"/>
+<area shape="rect" id="node7" href="$dc/dc8/a01695.html#a8be067a7fcef071a4b60e2a38ce0bdbb" title="beast::Time::toMilliseconds" alt="" coords="241,75,423,104"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="473,13,620,43"/>
+</map>

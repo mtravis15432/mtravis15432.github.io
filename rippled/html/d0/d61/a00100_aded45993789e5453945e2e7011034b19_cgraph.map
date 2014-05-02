@@ -1,0 +1,7 @@
+<map id="ripple::ApplicationImp::onStop" name="ripple::ApplicationImp::onStop">
+<area shape="rect" id="node3" href="$da/dbf/a00393.html#ac6fdca88a945cd6b0498a09b716539dc" title="beast::DeadlineTimer\l::cancel" alt="" coords="215,5,361,51"/>
+<area shape="rect" id="node5" href="$d4/d91/a00733.html#a3aacab2155a327714b711dc3dbc8c69c" title="beast::io_latency_probe\l::cancel" alt="" coords="208,74,368,121"/>
+<area shape="rect" id="node7" href="$d4/d91/a00733.html#adaee7525295db67f85573a6b73eff113" title="beast::io_latency_probe\l::cancel_async" alt="" coords="208,143,368,190"/>
+<area shape="rect" id="node9" href="$d2/d49/a01561.html#a32a3f86c14a870b4c8eefa77f9989a5e" title="beast::Stoppable::stopped" alt="" coords="201,213,375,243"/>
+<area shape="rect" id="node11" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="424,205,571,251"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ripple::PeerFinder::Logic::autoconnect" name="ripple::PeerFinder::Logic::autoconnect">
+<area shape="rect" id="node3" href="$de/dbc/a00249.html#a60c5148e30d51adb1ab0e19163db6d50" title="ripple::PeerFinder\l::Callback::connect" alt="" coords="208,5,341,51"/>
+<area shape="rect" id="node5" href="$de/de9/a00322.html#a01e36b0d0b73c04ac006f1b4789afa8c" title="ripple::PeerFinder\l::ConnectHandouts::full" alt="" coords="195,74,355,121"/>
+<area shape="rect" id="node7" href="$df/da5/a00912.html#afe7a05fc2c6102b6a78b0fe9045a70ae" title="ripple::PeerFinder\l::Logic::get_fixed" alt="" coords="213,143,336,190"/>
+<area shape="rect" id="node11" href="$d3/dff/a03422.html#af480ba527cfd40c1e623716653cfad4f" title="ripple::PeerFinder\l::handout" alt="" coords="213,213,336,259"/>
+<area shape="rect" id="node15" href="$de/de9/a00322.html#a77c9764a67af1b3801d212e574f34b2f" title="ripple::PeerFinder\l::ConnectHandouts::list" alt="" coords="195,282,355,329"/>
+<area shape="rect" id="node17" href="$df/da5/a00912.html#a844b841f0a5d42b8c226d38c7e8300ee" title="ripple::PeerFinder\l::Logic::squelch_slots" alt="" coords="200,351,349,398"/>
+<area shape="rect" id="node23" href="$df/da5/a00912.html#a25ad5bf43d580646bbfaed3334bedd77" title="ripple::PeerFinder\l::Logic::state" alt="" coords="213,421,336,467"/>
+<area shape="rect" id="node25" href="$de/de9/a00322.html#ac595a42feb950cb8f69addee27e7a304" title="ripple::PeerFinder\l::ConnectHandouts::try\l_insert" alt="" coords="196,491,353,555"/>
+<area shape="rect" id="node9" href="$d2/dee/a00049.html#aa0ede3addaa23c911268fd707042c92c" title="beast::abstract_clock::now" alt="" coords="403,152,581,181"/>
+<area shape="rect" id="node13" href="$d3/d65/a03423.html#ae583644b5afff423cccc94fb8c659250" title="ripple::PeerFinder\l::detail::handout_one" alt="" coords="421,213,563,259"/>
+<area shape="rect" id="node19" href="$d9/da4/a00078.html#a10a6445cc3b80d85638a83584ab2d7d5" title="beast::detail::aged\l_ordered_container::\linsert" alt="" coords="423,313,561,377"/>
+<area shape="rect" id="node21" href="$d9/da4/a00078.html#a24bc8b5a36c0441e48afec65577d115b" title="beast::detail::aged\l_ordered_container::touch" alt="" coords="407,401,577,447"/>
+</map>

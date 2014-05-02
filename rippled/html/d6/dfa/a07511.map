@@ -1,0 +1,6 @@
+<map id="ripple::SerializedTransaction" name="ripple::SerializedTransaction">
+<area shape="rect" id="node2" href="$de/d1a/a01559.html" title="ripple::STObject" alt="" coords="625,67,740,96"/>
+<area shape="rect" id="node4" href="$d7/d57/a01348.html" title="ripple::SerializedType" alt="" coords="335,5,481,35"/>
+<area shape="rect" id="node6" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; STObject \&gt;" alt="" coords="335,58,481,105"/>
+<area shape="rect" id="node10" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; SerializedTransaction \&gt;" alt="" coords="597,123,768,170"/>
+</map>

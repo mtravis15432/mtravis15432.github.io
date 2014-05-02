@@ -1,0 +1,5 @@
+<map id="ripple::LedgerMasterImp::tune" name="ripple::LedgerMasterImp::tune">
+<area shape="rect" id="node3" href="$dd/d70/a00835.html#a45d358b94342ad934f4739b78035ff99" title="ripple::LedgerHistory\l::tune" alt="" coords="217,39,359,86"/>
+<area shape="rect" id="node5" href="$dd/d55/a01638.html#a1397c8f83caf8c59a059ab869eaa7e50" title="ripple::TaggedCache\l::setTargetAge" alt="" coords="409,5,551,51"/>
+<area shape="rect" id="node7" href="$dd/d55/a01638.html#a2b0f99a8b2d0752fc37a54dea2b429cf" title="ripple::TaggedCache\l::setTargetSize" alt="" coords="409,74,551,121"/>
+</map>

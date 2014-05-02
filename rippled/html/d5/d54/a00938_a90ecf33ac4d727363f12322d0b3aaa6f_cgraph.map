@@ -1,0 +1,8 @@
+<map id="ripple::NodeStore::ManagerImp::ManagerImp" name="ripple::NodeStore::ManagerImp::ManagerImp">
+<area shape="rect" id="node3" href="$d5/d54/a00938.html#a23288cea8954ffc0a550b382a12ca08e" title="ripple::NodeStore::\lManagerImp::add_known\l_factories" alt="" coords="229,135,397,199"/>
+<area shape="rect" id="node5" href="$d5/d54/a00938.html#a06a220893ec5880e8c8890d3e466d1a8" title="ripple::NodeStore::\lManagerImp::add_factory" alt="" coords="445,5,616,51"/>
+<area shape="rect" id="node7" href="$d9/d2c/a03421.html#a7033ca0aa727380e52a7f16e57a616a2" title="ripple::NodeStore::\lmake_LevelDBFactory" alt="" coords="453,74,608,121"/>
+<area shape="rect" id="node9" href="$d9/d2c/a03421.html#a81d52369534b9b3634990d268a29649e" title="ripple::NodeStore::\lmake_MemoryFactory" alt="" coords="455,143,607,190"/>
+<area shape="rect" id="node11" href="$d9/d2c/a03421.html#a62abc39d5f12b82f256b45b489c1ac66" title="ripple::NodeStore::\lmake_NullFactory" alt="" coords="465,213,596,259"/>
+<area shape="rect" id="node13" href="$d9/d2c/a03421.html#ab066b897f4200e5d1331d46be6e58ce8" title="ripple::NodeStore::\lmake_RocksDBFactory" alt="" coords="449,282,612,329"/>
+</map>

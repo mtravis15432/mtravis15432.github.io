@@ -1,0 +1,13 @@
+<map id="ripple::Ledger::scaleFeeBase" name="ripple::Ledger::scaleFeeBase">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="283,13,384,43"/>
+<area shape="rect" id="node7" href="$da/d74/a00099.html#a426bdbb87f6dc2082cf6f418526901cb" title="ripple::Application\l::getFeeTrack" alt="" coords="271,66,396,113"/>
+<area shape="rect" id="node9" href="$dd/d94/a00888.html#a8a1c87f0df30b2b310d68d5e667d61ab" title="ripple::LoadFeeTrack\l::scaleFeeBase" alt="" coords="261,135,405,182"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#afef5a6b3d13ce1828e1fc3d2e53a1987" title="ripple::Ledger::updateFees" alt="" coords="245,205,421,235"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="471,5,647,51"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="500,152,617,181"/>
+<area shape="rect" id="node15" href="$dd/d5f/a00825.html#a70abcc7e26fb4288bfeb373a1e68dae5" title="ripple::Ledger::getASNode" alt="" coords="472,205,645,235"/>
+<area shape="rect" id="node17" href="$dd/d5f/a00825.html#a2bfc3d9cbd105badd97efbe5ccb7a855" title="ripple::Ledger::getLedger\lFeeIndex" alt="" coords="476,258,641,305"/>
+<area shape="rect" id="node19" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="700,223,815,270"/>
+<area shape="rect" id="node21" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="697,293,817,339"/>
+<area shape="rect" id="node23" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="867,293,981,339"/>
+</map>

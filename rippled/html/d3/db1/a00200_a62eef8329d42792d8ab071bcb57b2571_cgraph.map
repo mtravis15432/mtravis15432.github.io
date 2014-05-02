@@ -1,0 +1,7 @@
+<map id="rocksdb::BlobStore::CreateNewBucket" name="rocksdb::BlobStore::CreateNewBucket">
+<area shape="rect" id="node3" href="$d4/dbe/a00574.html#a67f91d2b4098b2a1faea324fb8fa310f" title="rocksdb::FreeList::Free" alt="" coords="227,5,384,35"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc" title="rocksdb::Status::IOError" alt="" coords="468,59,631,88"/>
+<area shape="rect" id="node12" href="$db/db1/a00460.html#a27ef07cf0f01fd7185d1dd9eda5d84a8" title="rocksdb::Env::NewRandomRWFile" alt="" coords="192,109,419,139"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="479,5,620,35"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="680,32,840,61"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="ripple::JobQueueImp::addJob" name="ripple::JobQueueImp::addJob">
+<area shape="rect" id="node3" href="$d2/d49/a01561.html#ac9e8f8db88a0ec9c9f616e55a220cc30" title="beast::Stoppable::areChildren\lStopped" alt="" coords="197,5,392,51"/>
+<area shape="rect" id="node5" href="$d7/db1/a01837.html#ada2a384162e674978cbf72259cb014b3" title="beast::Workers::getNumber\lOfThreads" alt="" coords="204,74,385,121"/>
+<area shape="rect" id="node7" href="$d2/d49/a01561.html#a7b437c5eddc1f6e6108a112e58517fce" title="beast::Stoppable::isStopped" alt="" coords="201,144,388,173"/>
+<area shape="rect" id="node9" href="$d2/d49/a01561.html#a7ca78fcebed5c6b8c9cd96bacb588785" title="beast::Stoppable::isStopping" alt="" coords="200,197,389,227"/>
+<area shape="rect" id="node19" href="$d3/d00/a00785.html#aaa507d7f1316a7fd7c5c06f606cd2ed5" title="ripple::JobTypeData\l::load" alt="" coords="225,250,364,297"/>
+<area shape="rect" id="node21" href="$d9/d00/a00784.html#a8a57dba5ad67a1594d008333032912a0" title="ripple::JobQueueImp\l::queueJob" alt="" coords="224,319,365,366"/>
+<area shape="rect" id="node39" href="$d9/d00/a00784.html#ad1db14703690bfe09e98a135c895a7b6" title="ripple::JobQueueImp\l::skipOnStop" alt="" coords="455,479,596,526"/>
+<area shape="rect" id="node11" href="$d9/dda/a01289.html#ad9cd49491da83c35da97c5314a5d6dc4" title="beast::RootStoppable\l::isStopping" alt="" coords="452,159,599,206"/>
+<area shape="rect" id="node13" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="677,167,805,196"/>
+<area shape="rect" id="node15" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="872,123,1037,170"/>
+<area shape="rect" id="node17" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="872,193,1037,239"/>
+<area shape="rect" id="node23" href="$da/d96/a00782.html#acb3036a2a8ab8bddc1a2bfbd2ebd697f" title="ripple::Job::getType" alt="" coords="457,357,593,387"/>
+<area shape="rect" id="node25" href="$d9/d00/a00784.html#ac4a243000c4ae7ddb098e2cd82ceee1b" title="ripple::JobQueueImp\l::getJobTypeData" alt="" coords="455,410,596,457"/>
+<area shape="rect" id="node27" href="$d9/d00/a00784.html#ae9465141aa97c71a1dbf82f44e0c63e6" title="ripple::JobQueueImp\l::getJobLimit" alt="" coords="455,287,596,334"/>
+<area shape="rect" id="node35" href="$d7/db1/a01837.html#ae98ad290c6bbb9079b40575a21315ce1" title="beast::Workers::addTask" alt="" coords="441,233,609,263"/>
+<area shape="rect" id="node29" href="$d9/d00/a00784.html#acd7984fd6d031121249572be3f300a8a" title="ripple::JobQueueImp\l::getJobTypes" alt="" coords="671,427,812,474"/>
+<area shape="rect" id="node31" href="$d0/d7d/a00786.html#a88dd6ca74cc4f83d86000d118afa74b4" title="ripple::JobTypeInfo\l::type" alt="" coords="675,358,808,405"/>
+<area shape="rect" id="node33" href="$d0/d7d/a00786.html#aa13804d322a89e387b92d858d9faab54" title="ripple::JobTypeInfo\l::limit" alt="" coords="675,289,808,335"/>
+<area shape="rect" id="node37" href="$db/ddf/a00164.html#a34a05aba236654589fe27946c112e641" title="beast::basic_semaphore\l::signal" alt="" coords="660,219,823,266"/>
+<area shape="rect" id="node43" href="$d0/d7d/a00786.html#a76a059ca460a9df51129d9c70733bde5" title="ripple::JobTypeInfo\l::skip" alt="" coords="675,497,808,543"/>
+</map>

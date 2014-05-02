@@ -1,0 +1,16 @@
+<map id="ripple::core::Quality::ceil_out" name="ripple::core::Quality::ceil_out">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a5a04a9b52239427b2faf80438dcda832" title="ripple::STAmount::divRound" alt="" coords="192,363,379,392"/>
+<area shape="rect" id="node21" href="$d2/d41/a01493.html#a789b3ee5edaf69eb840e57b4c7fc395e" title="ripple::STAmount::mulRound" alt="" coords="191,275,380,304"/>
+<area shape="rect" id="node34" href="$d5/d16/a01154.html#a8bd3f3b5222ed5426ca524ddbc703cf6" title="ripple::core::Quality\l::rate" alt="" coords="219,494,352,541"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="452,424,609,453"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="455,301,607,331"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="452,477,609,507"/>
+<area shape="rect" id="node11" href="$d2/d41/a01493.html#ab683af712f5bfcfa66c66f09f5a8399a" title="ripple::STAmount::canonicalize\lRound" alt="" coords="429,354,632,401"/>
+<area shape="rect" id="node13" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="441,248,620,277"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="468,178,593,225"/>
+<area shape="rect" id="node19" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="681,529,873,559"/>
+<area shape="rect" id="node15" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="691,248,864,277"/>
+<area shape="rect" id="node27" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="457,58,604,105"/>
+<area shape="rect" id="node29" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="431,5,631,35"/>
+<area shape="rect" id="node36" href="$d2/d41/a01493.html#a05d8d9a9e3e2fa2f6f6ced24bed4d224" title="ripple::STAmount::setRate" alt="" coords="443,581,619,611"/>
+</map>

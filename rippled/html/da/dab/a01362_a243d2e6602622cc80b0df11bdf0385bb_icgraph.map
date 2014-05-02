@@ -1,0 +1,18 @@
+<map id="beast::sqdb::session::rollback" name="beast::sqdb::session::rollback">
+<area shape="rect" id="node3" href="$df/d12/a01703.html#a76d7b734063ec771eeacee606ad35371" title="beast::sqdb::transaction\l::rollback" alt="" coords="197,213,360,259"/>
+<area shape="rect" id="node5" href="$df/d12/a01703.html#a789d69fbb61a16e737c7d2d03da747db" title="beast::sqdb::transaction\l::~transaction" alt="" coords="408,5,571,51"/>
+<area shape="rect" id="node7" href="$d9/d32/a01569.html#a48c4313530daba2f470198f53574b943" title="ripple::PeerFinder\l::StoreSqdb::save" alt="" coords="427,74,552,121"/>
+<area shape="rect" id="node9" href="$d9/d32/a01569.html#a1c4789d6bbb144d64d4d8552f5e9db8f" title="ripple::PeerFinder\l::StoreSqdb::update" alt="" coords="420,143,559,190"/>
+<area shape="rect" id="node17" href="$d9/d32/a01569.html#a3e589d1d9f9d48fd8518784f4923282c" title="ripple::PeerFinder\l::StoreSqdb::init" alt="" coords="428,213,551,259"/>
+<area shape="rect" id="node20" href="$da/daf/a01568.html#a2d89fd061f01446ca3bbd3da79c0f0eb" title="ripple::Validators\l::StoreSqdb::insert" alt="" coords="424,282,555,329"/>
+<area shape="rect" id="node22" href="$da/daf/a01568.html#af85db27dd474b81adcf838083945ea4e" title="ripple::Validators\l::StoreSqdb::update" alt="" coords="420,351,559,398"/>
+<area shape="rect" id="node24" href="$da/daf/a01568.html#a7de7a82dbaea36506c8a8a810c93ecd3" title="ripple::Validators\l::StoreSqdb::init" alt="" coords="431,421,548,467"/>
+<area shape="rect" id="node11" href="$d9/d32/a01569.html#a83b701888010a3464d583b666a784a1a" title="ripple::PeerFinder\l::StoreSqdb::open" alt="" coords="620,178,745,225"/>
+<area shape="rect" id="node13" href="$d0/d5b/a00933.html#af0a33d7d095f46b87e2e643824eb1136" title="ripple::PeerFinder\l::ManagerImp::init" alt="" coords="808,178,933,225"/>
+<area shape="rect" id="node15" href="$d0/d5b/a00933.html#a917354deda0578521ebc56109f8f7d7f" title="ripple::PeerFinder\l::ManagerImp::run" alt="" coords="995,178,1123,225"/>
+<area shape="rect" id="node26" href="$da/daf/a01568.html#a251f48cba3a7a20d83e9e09e42e64f5e" title="ripple::Validators\l::StoreSqdb::open" alt="" coords="620,421,745,467"/>
+<area shape="rect" id="node28" href="$d9/dfb/a00913.html#ad779bfe8d6bb1d9921ebe6cc3fb7b5bb" title="ripple::Validators\l::Logic_test::testLogic" alt="" coords="796,386,945,433"/>
+<area shape="rect" id="node32" href="$dc/d2b/a00936.html#a5e10589bd69e2ef0ab909cb21dd6ee3b" title="ripple::Validators\l::ManagerImp::init" alt="" coords="808,455,933,502"/>
+<area shape="rect" id="node30" href="$d9/dfb/a00913.html#a6dcbb52d0f72b46b9629265b9004f103" title="ripple::Validators\l::Logic_test::run" alt="" coords="1000,386,1117,433"/>
+<area shape="rect" id="node34" href="$dc/d2b/a00936.html#abe2f0e8721d1ebedf583b72450d9bb1a" title="ripple::Validators\l::ManagerImp::run" alt="" coords="995,455,1123,502"/>
+</map>

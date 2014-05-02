@@ -1,0 +1,8 @@
+<map id="ripple::NodeStore::ManagerImp::make_Database" name="ripple::NodeStore::ManagerImp::make_Database">
+<area shape="rect" id="node3" href="$d5/d54/a00938.html#ab1f491ae4fde78635a7a834ebfc039a5" title="ripple::NodeStore::\lManagerImp::make_Backend" alt="" coords="251,114,443,161"/>
+<area shape="rect" id="node11" href="$d9/dc8/a01593.html#a4098adedee296521fd7a7df75586c1cb" title="beast::StringPairArray\l::size" alt="" coords="272,187,421,234"/>
+<area shape="rect" id="node5" href="$d8/dc7/a00517.html#a923bcccd5852e9fea925ccb35366cb83" title="ripple::NodeStore::\lFactory::createInstance" alt="" coords="491,5,651,51"/>
+<area shape="rect" id="node7" href="$d5/d54/a00938.html#a7a7ce81490258c2be67ce3429162aeb7" title="ripple::NodeStore::\lManagerImp::find" alt="" coords="505,74,636,121"/>
+<area shape="rect" id="node9" href="$d5/d54/a00938.html#acfaf261e04f439d67e13b477e396ae00" title="ripple::NodeStore::\lManagerImp::missing\l_backend" alt="" coords="497,144,644,208"/>
+<area shape="rect" id="node13" href="$d9/d1b/a01583.html#a79ae01dc8942445936fc28142244087a" title="beast::StringArray\l::size" alt="" coords="508,231,633,278"/>
+</map>

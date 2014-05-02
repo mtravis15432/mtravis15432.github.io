@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$d3/d4f/a00761.html" title="beast::asio::detail\l::is_shared_handler\l\&lt; shared_handler\&lt; Signature \&gt;\&gt;" alt="" coords="141,5,349,69"/>
+<area shape="rect" id="node5" href="$d4/dfa/a00746.html" title="beast::detail::is_contiguous\l\&lt; std::array\&lt; T, N \&gt; \&gt;" alt="" coords="155,93,336,139"/>
+<area shape="rect" id="node7" href="$d5/d68/a00747.html" title="beast::detail::is_contiguous\l\&lt; std::basic_string\&lt; CharT,\l Traits, Alloc \&gt; \&gt;" alt="" coords="155,163,336,227"/>
+<area shape="rect" id="node9" href="$de/d3d/a00748.html" title="beast::detail::is_contiguous\l\&lt; std::vector\&lt; T, Alloc \&gt; \&gt;" alt="" coords="155,250,336,297"/>
+<area shape="rect" id="node11" href="$dc/dce/a00740.html" title="beast::is_aged_container\l\&lt; detail::aged_ordered\l_container\&lt; IsMulti, IsMap,\l Key, T, Duration, Compare,\l Allocator \&gt; \&gt;" alt="" coords="152,320,339,419"/>
+<area shape="rect" id="node13" href="$da/da3/a00741.html" title="beast::is_aged_container\l\&lt; detail::aged_unordered\l_container\&lt; IsMulti, IsMap,\l Key, T, Duration, Hash, KeyEqual,\l Allocator \&gt; \&gt;" alt="" coords="131,443,360,541"/>
+<area shape="rect" id="node15" href="$d9/db0/a00750.html" title="beast::is_contiguously\l_hashable\&lt; hash_append\l_tests::FastKey \&gt;" alt="" coords="160,565,331,629"/>
+<area shape="rect" id="node17" href="$da/d0a/a01526.html" title="beast::static_and\&lt;\&gt;" alt="" coords="176,653,315,683"/>
+<area shape="rect" id="node19" href="$d9/d77/a00756.html" title="boost::system::is_error\l_code_enum\&lt; beast::joyent\l::http_errno \&gt;" alt="" coords="155,707,336,771"/>
+<area shape="rect" id="node21" href="$d3/d95/a00757.html" title="boost::system::is_error\l_condition_enum\&lt; beast\l::joyent::http_errno \&gt;" alt="" coords="164,795,327,859"/>
+</map>

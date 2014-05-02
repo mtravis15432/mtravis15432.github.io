@@ -1,0 +1,8 @@
+<map id="rocksdb::DBImpl::BuildBatchGroup" name="rocksdb::DBImpl::BuildBatchGroup">
+<area shape="rect" id="node3" href="$da/d8c/a01845.html#a3e28aed1201077095cf66c5e242d1630" title="rocksdb::WriteBatchInternal\l::Append" alt="" coords="245,5,429,51"/>
+<area shape="rect" id="node7" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="667,35,851,82"/>
+<area shape="rect" id="node11" href="$da/d8c/a01845.html#a04c6bd515d35bda6ffa8ae21ab1e1478" title="rocksdb::WriteBatchInternal\l::ByteSize" alt="" coords="245,125,429,171"/>
+<area shape="rect" id="node14" href="$d0/d87/a03399.html#addb402f22cc191c3dc7f4325bb6f684e" title="beast.util.Iter.first" alt="" coords="276,195,399,224"/>
+<area shape="rect" id="node5" href="$d2/dbd/a01844.html#aab1bed53a5b803c151374a4a0788257a" title="rocksdb::WriteBatch\l::Count" alt="" coords="477,5,619,51"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="900,44,1065,73"/>
+</map>

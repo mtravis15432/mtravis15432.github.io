@@ -1,0 +1,38 @@
+<map id="ripple::LedgerMasterImp" name="ripple::LedgerMasterImp">
+<area shape="rect" id="node2" href="$d1/de6/a00837.html" title="ripple::LedgerMaster" alt="" coords="2020,193,2159,223"/>
+<area shape="rect" id="node4" href="$d2/d49/a01561.html" title="beast::Stoppable" alt="" coords="1343,119,1463,148"/>
+<area shape="rect" id="node12" href="$dd/d56/a00274.html" title="beast::Stoppable::Child" alt="" coords="1784,207,1941,236"/>
+<area shape="rect" id="node17" href="$d9/dda/a01289.html" title="beast::RootStoppable" alt="" coords="1789,92,1936,121"/>
+<area shape="rect" id="node84" href="$d8/d64/a00828.html" title="ripple::LedgerCleaner" alt="" coords="1791,317,1935,347"/>
+<area shape="rect" id="node6" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="928,32,1069,61"/>
+<area shape="rect" id="node8" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="373,231,520,260"/>
+<area shape="rect" id="node10" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,205,136,235"/>
+<area shape="rect" id="node21" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; Child \&gt;" alt="" coords="924,110,1073,157"/>
+<area shape="rect" id="node24" href="$d3/d08/a01018.html" title="beast::LockFreeStack\l\&lt; Element, Tag \&gt;::Node" alt="" coords="187,89,349,135"/>
+<area shape="rect" id="node87" href="$d9/db0/a01437.html" title="beast::PropertyStream\l::Source" alt="" coords="1327,307,1479,354"/>
+<area shape="rect" id="node27" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::LockFreeStack::Node * \&gt;" alt="" coords="544,46,723,93"/>
+<area shape="rect" id="node33" href="$d3/d13/a00836.html" title="ripple::LedgerHolder" alt="" coords="2213,1107,2352,1136"/>
+<area shape="rect" id="node35" href="$d3/d32/a01176.html" title="ripple::RangeSet" alt="" coords="2224,1160,2341,1189"/>
+<area shape="rect" id="node39" href="$d0/d3e/a00253.html" title="ripple::CanonicalTXSet" alt="" coords="2205,764,2360,793"/>
+<area shape="rect" id="node45" href="$da/db8/a00797.html" title="ripple::CanonicalTXSet::Key" alt="" coords="1309,692,1496,721"/>
+<area shape="rect" id="node47" href="$d0/d4e/a01741.html" title="ripple::uint256" alt="" coords="948,721,1049,751"/>
+<area shape="rect" id="node70" href="$d1/da7/a01709.html" title="ripple::TransactionMetaSet" alt="" coords="1313,447,1492,476"/>
+<area shape="rect" id="node49" href="$d7/d9a/a00152.html" title="base_uint256" alt="" coords="584,721,683,751"/>
+<area shape="rect" id="node54" href="$d9/dc5/a01705.html" title="ripple::TransactionEngine" alt="" coords="2199,575,2367,604"/>
+<area shape="rect" id="node56" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; TransactionEngine \&gt;" alt="" coords="1785,534,1940,581"/>
+<area shape="rect" id="node60" href="$df/d2e/a01737.html" title="ripple::uint160" alt="" coords="1812,604,1913,633"/>
+<area shape="rect" id="node62" href="$d7/d9a/a00152.html" title="base_uint160" alt="" coords="1353,639,1452,668"/>
+<area shape="rect" id="node64" href="$d0/d08/a00832.html" title="ripple::LedgerEntrySet" alt="" coords="1788,463,1937,492"/>
+<area shape="rect" id="node66" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; LedgerEntrySet \&gt;" alt="" coords="1329,377,1476,423"/>
+<area shape="rect" id="node74" href="$db/d1e/a01497.html" title="ripple::STArray" alt="" coords="944,403,1053,432"/>
+<area shape="rect" id="node79" href="$dc/d6e/a00833.html" title="ripple::LedgerEntrySetEntry" alt="" coords="908,533,1089,563"/>
+<area shape="rect" id="node90" title="STL class. " alt="" coords="959,871,1039,900"/>
+<area shape="rect" id="node107" href="$dd/d55/a01638.html" title="ripple::TaggedCache\l\&lt; LedgerIndex, std::\lpair\&lt; LedgerHash, LedgerHash \&gt; \&gt;" alt="" coords="1289,1055,1516,1119"/>
+<area shape="rect" id="node115" href="$dd/d55/a01638.html" title="ripple::TaggedCache\l\&lt; LedgerHash, Ledger \&gt;" alt="" coords="1321,985,1484,1031"/>
+<area shape="rect" id="node92" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="947,1207,1051,1236"/>
+<area shape="rect" id="node94" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="199,1184,337,1213"/>
+<area shape="rect" id="node96" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="556,1247,711,1276"/>
+<area shape="rect" id="node100" href="$dd/d70/a00835.html" title="ripple::LedgerHistory" alt="" coords="1792,931,1933,960"/>
+<area shape="rect" id="node109" href="$d2/dee/a00049.html" title="beast::abstract_clock\l\&lt; Duration \&gt;" alt="" coords="925,949,1072,995"/>
+<area shape="rect" id="node112" href="$d5/dc8/a01541.html" title="ripple::TaggedCache\l\&lt; Key, T, Hash, KeyEqual,\l Mutex \&gt;::Stats" alt="" coords="909,1068,1088,1132"/>
+</map>

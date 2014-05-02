@@ -1,0 +1,6 @@
+<map id="ripple::LedgerMasterImp::getPublishedLedgerAge" name="ripple::LedgerMasterImp::getPublishedLedgerAge">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="239,13,340,43"/>
+<area shape="rect" id="node7" href="$dd/dac/a01008.html#aeeadbf915d62f00319ce782da0990567" title="ripple::NetworkOPs\l::getCloseTimeNC" alt="" coords="221,66,357,113"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="227,135,352,182"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="407,5,583,51"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ripple::SerializerIterator::get256" name="ripple::SerializerIterator::get256">
+<area shape="rect" id="node3" href="$d9/dac/a01557.html#a6679eb577bea84554fa633d74f153641" title="ripple::STHash256::\lconstruct" alt="" coords="219,5,357,51"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#a6eae40a50498661ac9114218dceba2d7" title="ripple::Ledger::setRaw" alt="" coords="212,75,364,104"/>
+<area shape="rect" id="node5" href="$d9/dac/a01557.html#ad5705d6db57c22593f0d617327f7ad0e" title="ripple::STHash256::\ldeserialize" alt="" coords="417,5,556,51"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#aa6261552072b04431424e4ee96a9081b" title="ripple::STObject::makeDeserialized\lObject" alt="" coords="609,5,836,51"/>
+<area shape="rect" id="node9" href="$de/d1a/a01559.html#a6e4c27aedab5e7ad8921ccced42e39a7" title="ripple::STObject::set" alt="" coords="887,13,1028,43"/>
+<area shape="rect" id="node13" href="$dd/d5f/a00825.html#a5eb8e6438f726d32904946567fcd6544" title="ripple::Ledger::Ledger" alt="" coords="413,75,560,104"/>
+</map>

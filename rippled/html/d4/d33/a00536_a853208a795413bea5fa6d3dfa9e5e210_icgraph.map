@@ -1,0 +1,8 @@
+<map id="beast::File::hasWriteAccess" name="beast::File::hasWriteAccess">
+<area shape="rect" id="node4" href="$d4/d33/a00536.html#afdc3dee4b13ce720b9d56f712a7da9f3" title="beast::File::moveInternal" alt="" coords="241,63,407,92"/>
+<area shape="rect" id="node6" href="$d4/d33/a00536.html#a1189ca4bcc58e94cf6d3dbda3bf3136a" title="beast::File::moveFileTo" alt="" coords="457,63,615,92"/>
+<area shape="rect" id="node8" href="$d4/d49/a01643.html#aa751b12e6e0e453cd39c78a5603cd1a4" title="beast::TemporaryFile\l::overwriteTargetFileWithTemporary" alt="" coords="665,23,895,70"/>
+<area shape="rect" id="node14" href="$d4/d33/a00536.html#a7e51e0f19df1ad6841fb570bc56c98d8" title="beast::File::moveToTrash" alt="" coords="695,93,865,123"/>
+<area shape="rect" id="node10" href="$d4/d33/a00536.html#a05a70c6e6570aec32842e76c6d08a677" title="beast::File::replaceWithData" alt="" coords="945,5,1132,35"/>
+<area shape="rect" id="node12" href="$d4/d33/a00536.html#ae29d14b6f84ab267d820d2001db82d8f" title="beast::File::replaceWithText" alt="" coords="945,59,1132,88"/>
+</map>

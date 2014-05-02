@@ -1,0 +1,16 @@
+<map id="ripple::IoServicePool" name="ripple::IoServicePool">
+<area shape="rect" id="node34" href="$d9/d79/a01360.html" title="ripple::IoServicePool\l::ServiceThread" alt="" coords="1596,349,1737,395"/>
+<area shape="rect" id="node2" href="$d2/d49/a01561.html" title="beast::Stoppable" alt="" coords="1099,129,1219,159"/>
+<area shape="rect" id="node10" href="$dd/d56/a00274.html" title="beast::Stoppable::Child" alt="" coords="1329,177,1487,207"/>
+<area shape="rect" id="node15" href="$d9/dda/a01289.html" title="beast::RootStoppable" alt="" coords="1335,48,1481,77"/>
+<area shape="rect" id="node4" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="751,129,892,159"/>
+<area shape="rect" id="node6" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="748,247,895,276"/>
+<area shape="rect" id="node36" href="$d6/d53/a01688.html" title="beast::Thread" alt="" coords="1108,427,1209,456"/>
+<area shape="rect" id="node8" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,219,136,248"/>
+<area shape="rect" id="node19" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; Child \&gt;" alt="" coords="747,57,896,103"/>
+<area shape="rect" id="node22" href="$d3/d08/a01018.html" title="beast::LockFreeStack\l\&lt; Element, Tag \&gt;::Node" alt="" coords="187,161,349,207"/>
+<area shape="rect" id="node25" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::LockFreeStack::Node * \&gt;" alt="" coords="445,178,624,225"/>
+<area shape="rect" id="node41" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="743,431,900,460"/>
+<area shape="rect" id="node44" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="773,365,869,395"/>
+<area shape="rect" id="node46" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="449,365,620,395"/>
+</map>

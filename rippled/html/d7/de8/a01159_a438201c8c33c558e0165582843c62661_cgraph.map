@@ -1,0 +1,22 @@
+<map id="beast::Random_test::run" name="beast::Random_test::run">
+<area shape="rect" id="node3" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="261,83,408,130"/>
+<area shape="rect" id="node24" href="$d9/d42/a01156.html#a3fe4cf93af30da91f40e31640261145f" title="beast::Random::nextDouble" alt="" coords="243,153,427,183"/>
+<area shape="rect" id="node26" href="$d9/d42/a01156.html#aaa7eba6653fb57c634ecfefff0e3de33" title="beast::Random::nextInt" alt="" coords="521,200,679,229"/>
+<area shape="rect" id="node28" href="$d9/d42/a01156.html#a1dd850c1359b13df285b4eab81d1bd04" title="beast::Random::nextFloat" alt="" coords="248,257,421,287"/>
+<area shape="rect" id="node32" href="$d9/d42/a01156.html#a5a3eccaa760740a8c8ad014c8a676a84" title="beast::Random::setSeedRandomly" alt="" coords="221,315,448,344"/>
+<area shape="rect" id="node5" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="527,39,673,86"/>
+<area shape="rect" id="node17" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="527,109,673,155"/>
+<area shape="rect" id="node7" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="761,39,916,86"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="975,74,1129,121"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="975,5,1129,51"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1180,39,1335,86"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1180,109,1335,155"/>
+<area shape="rect" id="node19" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="761,109,916,155"/>
+<area shape="rect" id="node22" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="975,143,1129,190"/>
+<area shape="rect" id="node34" href="$d9/d42/a01156.html#a5c91d38b1e88321509492ac9fec3dec3" title="beast::Random::combineSeed" alt="" coords="501,253,699,283"/>
+<area shape="rect" id="node36" href="$dc/dc8/a01695.html#a72213ba0e3eff5f7067dd740922651f2" title="beast::Time::getMillisecond\lCounter" alt="" coords="509,306,691,353"/>
+<area shape="rect" id="node40" href="$dc/dc8/a01695.html#a8d8ae04e6a87738e1d6cc1bb47b98846" title="beast::Time::getHighResolution\lTicks" alt="" coords="497,375,703,422"/>
+<area shape="rect" id="node42" href="$dc/dc8/a01695.html#a4ad86019a426b4d4ca22a0d4e6e965bc" title="beast::Time::getHighResolution\lTicksPerSecond" alt="" coords="497,445,703,491"/>
+<area shape="rect" id="node44" href="$dc/dc8/a01695.html#aff456c2d50de704a62966989bfae617a" title="beast::Time::currentTime\lMillis" alt="" coords="516,514,684,561"/>
+<area shape="rect" id="node38" href="$d5/d83/a03337.html#ab9caefe6aa83608404ede7c32dbadda8" title="beast::beast_milliseconds\lSinceStartup" alt="" coords="752,306,925,353"/>
+</map>

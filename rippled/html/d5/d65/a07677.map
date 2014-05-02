@@ -1,0 +1,7 @@
+<map id="ripple::WSConnectionType&lt; endpoint_type &gt;" name="ripple::WSConnectionType&lt; endpoint_type &gt;">
+<area shape="rect" id="node2" href="$da/d5e/a01852.html" title="ripple::WSConnection" alt="" coords="792,105,941,135"/>
+<area shape="rect" id="node6" href="$d4/deb/a00710.html" title="ripple::InfoSub" alt="" coords="593,75,700,104"/>
+<area shape="rect" id="node8" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; InfoSub \&gt;" alt="" coords="305,62,452,109"/>
+<area shape="rect" id="node12" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; WSConnection \&gt;" alt="" coords="573,127,720,174"/>
+<area shape="rect" id="node16" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="581,197,712,227"/>
+</map>

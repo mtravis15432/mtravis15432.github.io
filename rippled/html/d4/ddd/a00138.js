@@ -1,0 +1,26 @@
+var a00138 =
+[
+    [ "AutoRollLogger", "d4/ddd/a00138.html#af13a5f87c65605b0125c559900c62316", null ],
+    [ "~AutoRollLogger", "d4/ddd/a00138.html#a10f57e9ae101bebce748909e25cd80a4", null ],
+    [ "GetLogFileSize", "d4/ddd/a00138.html#a58a7422ea5d1aa078593c45c7e041203", null ],
+    [ "GetStatus", "d4/ddd/a00138.html#aead46bb2ddf6612f13d795d9567eeac8", null ],
+    [ "LogExpired", "d4/ddd/a00138.html#a5334541834c82d5c61ab77be3bcfecd3", null ],
+    [ "Logv", "d4/ddd/a00138.html#a8315235fec76bdd1f4aae044b7c14c14", null ],
+    [ "ResetLogger", "d4/ddd/a00138.html#a5d70bb8527d8ac54dd920c00a039f9b0", null ],
+    [ "RollLogFile", "d4/ddd/a00138.html#a08f823d7b49f9ee43233ebb33dc3afee", null ],
+    [ "SetCallNowMicrosEveryNRecords", "d4/ddd/a00138.html#a989ff189e628fdf63315f69c05b995dc", null ],
+    [ "cached_now", "d4/ddd/a00138.html#a66fa62363c5d70b085641fda1063c6b7", null ],
+    [ "cached_now_access_count", "d4/ddd/a00138.html#ad0da5a47fa7a7c074e75c2f57c3e570f", null ],
+    [ "call_NowMicros_every_N_records_", "d4/ddd/a00138.html#a2f11cfd5f2ffea7d083ffe45ebd1d64b", null ],
+    [ "ctime_", "d4/ddd/a00138.html#ae542f57c59062a552711b3a399c56a35", null ],
+    [ "db_absolute_path_", "d4/ddd/a00138.html#af60319935a2715638c6a87491e3e1bc6", null ],
+    [ "db_log_dir_", "d4/ddd/a00138.html#a72269d08c496c032503ddc9998a56069", null ],
+    [ "dbname_", "d4/ddd/a00138.html#ad9fd530aa8b5cc0372d548ad388ab44d", null ],
+    [ "env_", "d4/ddd/a00138.html#af21c4236268a211ad610ac9c1427f3be", null ],
+    [ "kLogFileTimeToRoll", "d4/ddd/a00138.html#ac2ce104ec489ca64ad22a122bdf6db37", null ],
+    [ "kMaxLogFileSize", "d4/ddd/a00138.html#a4dcb574db6b0e20ab699dc421809b203", null ],
+    [ "log_fname_", "d4/ddd/a00138.html#ad8a2760ff07569097d719b0142d50ddb", null ],
+    [ "logger_", "d4/ddd/a00138.html#aec6a61414bf91bfb54ae75ce201836c7", null ],
+    [ "mutex_", "d4/ddd/a00138.html#a63aa3eba1e3e7155790293b303df8cb3", null ],
+    [ "status_", "d4/ddd/a00138.html#a280d46acb1a83cdf55daf9020a9a9ac6", null ]
+];

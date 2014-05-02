@@ -1,0 +1,9 @@
+<map id="ripple::PeerSet::newPeer" name="ripple::PeerSet::newPeer">
+<area shape="rect" id="node3" href="$d1/d3d/a01110.html#a8b4b615fe7df1614e209da5ef5e94d2a" title="ripple::PeerSet::peerHas" alt="" coords="221,148,387,177"/>
+<area shape="rect" id="node5" href="$dd/d85/a00702.html#a5108a46d0fc5c949956d9616d14a5f57" title="ripple::InboundLedger\l::addPeers" alt="" coords="457,74,604,121"/>
+<area shape="rect" id="node11" href="$d1/d3d/a01110.html#a92b545557843aac8eef76993db6f62bd" title="ripple::PeerSet::peerHasVoid" alt="" coords="436,148,625,177"/>
+<area shape="rect" id="node15" href="$d0/dbc/a01704.html#aff2883c1a530f0236fb22abca68ab83e" title="ripple::TransactionAcquire\l::onTimer" alt="" coords="444,201,617,247"/>
+<area shape="rect" id="node7" href="$dd/d85/a00702.html#a291eb601240f81e131f7a232f3eeeb71" title="ripple::InboundLedger\l::init" alt="" coords="696,5,843,51"/>
+<area shape="rect" id="node9" href="$dd/d85/a00702.html#a3365d49eb8fb372a956f1ae208330b7f" title="ripple::InboundLedger\l::onTimer" alt="" coords="696,74,843,121"/>
+<area shape="rect" id="node13" href="$d7/d5f/a00831.html#ad9e50e66c75d3156818c981d45d41aea" title="ripple::LedgerConsensusImp\l::peerHasSet" alt="" coords="676,143,863,190"/>
+</map>

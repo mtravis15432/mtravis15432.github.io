@@ -1,0 +1,12 @@
+<map id="http_parser_pause" name="http_parser_pause">
+<area shape="rect" id="node3" href="$d7/d98/a02003.html#a1d21926c4526a179aabbf3119a457425" title="pause_body_cb" alt="" coords="228,5,340,35"/>
+<area shape="rect" id="node5" href="$d7/d98/a02003.html#ab32f3e77b507ddbce9baa5b00b666fdc" title="pause_header_field_cb" alt="" coords="207,59,361,88"/>
+<area shape="rect" id="node7" href="$d7/d98/a02003.html#aa2685a4c295a76a8b2c99e1173f8722b" title="pause_header_value_cb" alt="" coords="203,112,365,141"/>
+<area shape="rect" id="node9" href="$d7/d98/a02003.html#a0ed41ab92968c4d8fee592376f9efc0a" title="pause_headers_complete_cb" alt="" coords="189,165,379,195"/>
+<area shape="rect" id="node11" href="$d7/d98/a02003.html#acc4335c7011cca00c132017a33be6bc5" title="pause_message_begin_cb" alt="" coords="196,219,372,248"/>
+<area shape="rect" id="node13" href="$d7/d98/a02003.html#adfb0d1f60bbf8f54994468be1a5e8353" title="pause_message_complete_cb" alt="" coords="185,272,383,301"/>
+<area shape="rect" id="node15" href="$d7/d98/a02003.html#aa0ca4e3423059073f4f7d0dc7148bf41" title="pause_request_url_cb" alt="" coords="209,325,359,355"/>
+<area shape="rect" id="node17" href="$d7/d98/a02003.html#a534f16f8d3965bcd1481ebe434ce6938" title="pause_response_status_cb" alt="" coords="193,379,375,408"/>
+<area shape="rect" id="node19" href="$d7/d98/a02003.html#a59f5ada5ef954aeb2e7a2eeb83b1effc" title="test_message_pause" alt="" coords="211,432,357,461"/>
+<area shape="rect" id="node21" href="$d7/d98/a02003.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="432,432,483,461"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ripple::STAmount::divide" name="ripple::STAmount::divide">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a547cf5be1bf2fdd7f7cd4cc076d77196" title="ripple::STAmount::divide" alt="" coords="219,112,384,141"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="451,5,608,35"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="453,59,605,88"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="451,112,608,141"/>
+<area shape="rect" id="node11" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="440,165,619,195"/>
+<area shape="rect" id="node15" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="433,219,625,248"/>
+<area shape="rect" id="node13" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="676,165,849,195"/>
+</map>

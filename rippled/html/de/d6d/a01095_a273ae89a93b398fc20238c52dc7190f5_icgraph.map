@@ -1,0 +1,9 @@
+<map id="ripple::HTTP::Peer::failed" name="ripple::HTTP::Peer::failed">
+<area shape="rect" id="node3" href="$de/d6d/a01095.html#a624cede1c41024e09312db02bd9adbd4" title="ripple::HTTP::Peer\l::handle_data_timer" alt="" coords="184,125,320,171"/>
+<area shape="rect" id="node9" href="$de/d6d/a01095.html#ad0bae3d2a7941e6ed8865f3b06f86e61" title="ripple::HTTP::Peer\l::handle_handshake" alt="" coords="571,185,709,231"/>
+<area shape="rect" id="node12" href="$de/d6d/a01095.html#a97db3c238ed12fc7831043c46e849bc2" title="ripple::HTTP::Peer\l::handle_read" alt="" coords="575,65,705,111"/>
+<area shape="rect" id="node17" href="$de/d6d/a01095.html#aca273f8e26373801ed96666780e3e05b" title="ripple::HTTP::Peer\l::handle_request_timer" alt="" coords="368,5,523,51"/>
+<area shape="rect" id="node20" href="$de/d6d/a01095.html#a5531fb223432c46c6c875340e6c93fd3" title="ripple::HTTP::Peer\l::handle_write" alt="" coords="187,245,317,291"/>
+<area shape="rect" id="node5" href="$de/d6d/a01095.html#a30abd2c4146c1e9ace5ee92b097571ae" title="ripple::HTTP::Peer\l::async_read_some" alt="" coords="377,125,513,171"/>
+<area shape="rect" id="node7" href="$de/d6d/a01095.html#ae8da3a80f3810371c829890d096f5b31" title="ripple::HTTP::Peer\l::handle_accept" alt="" coords="757,125,888,171"/>
+</map>

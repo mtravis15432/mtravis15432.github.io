@@ -1,0 +1,14 @@
+<map id="rocksdb::VersionSet::PickCompactionUniversal" name="rocksdb::VersionSet::PickCompactionUniversal">
+<area shape="rect" id="node3" href="$d1/d42/a01800.html#ae6adf63444a6a5f7dc4ad0bd751a0c13" title="rocksdb::VersionSet\l::LevelFileSummary" alt="" coords="285,146,424,193"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="551,405,647,435"/>
+<area shape="rect" id="node7" href="$d1/d42/a01800.html#ab1dc555d20916566e713d4ec5a623160" title="rocksdb::VersionSet\l::PickCompactionUniversalReadAmp" alt="" coords="236,215,473,262"/>
+<area shape="rect" id="node25" href="$d1/d42/a01800.html#aa2aed822db8d2f7096ef3aa1773bb946" title="rocksdb::VersionSet\l::PickCompactionUniversalSizeAmp" alt="" coords="237,285,472,331"/>
+<area shape="rect" id="node31" href="$d4/dd1/a01797.html#af720448137d10341732ca283eefe0bd2" title="rocksdb::Version::Ref" alt="" coords="280,405,429,435"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#aa3091bec2c625018fadb6aefef12b9ff" title="ripple::min" alt="" coords="557,112,640,141"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#a975c0f5f2493f00dbf15e444b085d785" title="ripple::max" alt="" coords="556,5,641,35"/>
+<area shape="rect" id="node14" href="$d4/d87/a03436.html#a79ca3fdf63c8d546b2365f8fee94734e" title="rocksdb::TotalFileSize" alt="" coords="523,59,675,88"/>
+<area shape="rect" id="node16" href="$d1/d42/a01800.html#a51725970659718a612480286843b0ad5" title="rocksdb::VersionSet\l::MaxFileSizeForLevel" alt="" coords="523,285,675,331"/>
+<area shape="rect" id="node18" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="724,285,863,331"/>
+<area shape="rect" id="node21" href="$d0/dbf/a03363.html#a5187fa615e47f5c845d5f1b4fc0cb527" title="beast::hash_metrics\l::detail::score" alt="" coords="529,215,668,262"/>
+<area shape="rect" id="node23" href="$d0/dbf/a03363.html#a75c05654caed31bf91b09dbc14e681d1" title="beast::hash_metrics\l::detail::sqr" alt="" coords="724,215,863,262"/>
+</map>

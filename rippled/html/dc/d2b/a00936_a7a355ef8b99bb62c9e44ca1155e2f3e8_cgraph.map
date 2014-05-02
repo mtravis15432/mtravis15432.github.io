@@ -1,0 +1,15 @@
+<map id="ripple::Validators::ManagerImp::receiveValidation" name="ripple::Validators::ManagerImp::receiveValidation">
+<area shape="rect" id="node3" href="$de/d5c/a01358.html#a3721e7a3b8b83293b7647c40d3bad10e" title="beast::ServiceQueueType\l::dispatch" alt="" coords="279,74,452,121"/>
+<area shape="rect" id="node13" href="$d2/d49/a01561.html#a7ca78fcebed5c6b8c9cd96bacb588785" title="beast::Stoppable::isStopping" alt="" coords="271,152,460,181"/>
+<area shape="rect" id="node23" href="$d7/d12/a00911.html#a4c330a8208a16887de2639698d8e9bbc" title="ripple::Validators\l::Logic::receiveValidation" alt="" coords="281,205,449,251"/>
+<area shape="rect" id="node27" href="$dd/d5d/a01325.html#aa49412b5ff28ce693c3455fb6e200359" title="beast::ScopedWrapperContext\l::wrap" alt="" coords="265,274,465,321"/>
+<area shape="rect" id="node5" href="$df/d10/a01357.html#a3c10f294ceb943aa4c4923a799eb97fc" title="beast::ServiceQueueBase\l::enqueue" alt="" coords="516,5,689,51"/>
+<area shape="rect" id="node11" href="$de/d5c/a01358.html#aa5def258e41cd1b706c627b85f248614" title="beast::ServiceQueueType\l::is_service_thread" alt="" coords="516,74,689,121"/>
+<area shape="rect" id="node7" href="$de/d3c/a01809.html#a6497737035c8b878772c34c0d369d2b8" title="beast::ServiceQueueBase\l::Waiter::signal" alt="" coords="740,5,913,51"/>
+<area shape="rect" id="node9" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="972,5,1119,51"/>
+<area shape="rect" id="node15" href="$d9/dda/a01289.html#ad9cd49491da83c35da97c5314a5d6dc4" title="beast::RootStoppable\l::isStopping" alt="" coords="529,143,676,190"/>
+<area shape="rect" id="node17" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="763,152,891,181"/>
+<area shape="rect" id="node19" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="963,109,1128,155"/>
+<area shape="rect" id="node21" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="963,178,1128,225"/>
+<area shape="rect" id="node25" href="$dd/db5/a00365.html#a5a4932587d19230c84de1d11e1ffc232" title="ripple::CycledSet::\linsert" alt="" coords="537,213,668,259"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ripple::NodeStore::LevelDBBackend::writeBatch" name="ripple::NodeStore::LevelDBBackend::writeBatch">
+<area shape="rect" id="node3" href="$dd/dd5/a00861.html#a502cdf8ada1f8759ab4747c5b03f08e3" title="ripple::NodeStore::\lLevelDBBackend::storeBatch" alt="" coords="248,109,443,155"/>
+<area shape="rect" id="node5" href="$de/df4/a00450.html#af168e5bddf805f34c09e254d1b078bfa" title="ripple::NodeStore::\lEncodedBlob::getData" alt="" coords="492,5,644,51"/>
+<area shape="rect" id="node9" href="$de/df4/a00450.html#a5e302b42921788cc860be6e51f759d76" title="ripple::NodeStore::\lEncodedBlob::getKey" alt="" coords="495,74,641,121"/>
+<area shape="rect" id="node11" href="$de/df4/a00450.html#a6a97ecaba4b7c8ded8f5ffcfa89536ec" title="ripple::NodeStore::\lEncodedBlob::getSize" alt="" coords="493,143,643,190"/>
+<area shape="rect" id="node13" href="$de/df4/a00450.html#a0b3db65e430e30d842ce88a4c2eb37df" title="ripple::NodeStore::\lEncodedBlob::prepare" alt="" coords="493,213,643,259"/>
+<area shape="rect" id="node7" href="$da/d45/a00961.html#ad492ba4c9db3b015ac799cbfe500ef3c" title="beast::MemoryBlock\l::getData" alt="" coords="707,74,848,121"/>
+<area shape="rect" id="node15" href="$da/d45/a00961.html#afa421c383bdc8e6528954b3ef0e004c7" title="beast::MemoryBlock\l::ensureSize" alt="" coords="707,178,848,225"/>
+<area shape="rect" id="node28" href="$d6/d08/a00244.html#ac4bab10972fc5ea6f84f567415380327" title="beast::ByteOrder::swapIf\lLittleEndian" alt="" coords="693,247,861,294"/>
+<area shape="rect" id="node17" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="911,178,1052,225"/>
+<area shape="rect" id="node19" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="1108,107,1287,136"/>
+<area shape="rect" id="node21" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="1109,160,1285,189"/>
+<area shape="rect" id="node23" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="1103,213,1292,243"/>
+<area shape="rect" id="node25" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="1140,267,1255,296"/>
+</map>

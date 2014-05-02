@@ -1,0 +1,19 @@
+<map id="rippled/src/ripple_overlay/impl" name="rippled/src/ripple_overlay/impl">
+<area shape="rect" id="node2" href="dir_21a596133fc95fc90dadf8c102766371.html" title="impl" alt="" coords="58,55,130,103"/>
+<area shape="rect" id="node3" href="dir_731f0ab9020046ee260ee6adbfaad3d1.html" title="api" alt="" coords="22,151,94,199"/>
+<area shape="rect" id="edge9" href="dir_000194_000108.html" title="3" alt="" coords="78,127,86,145"/>
+<area shape="rect" id="node4" href="dir_3cbe579b62fb3b558711662b2d28c275.html" title="beast" alt="" coords="81,343,153,391"/>
+<area shape="rect" id="edge11" href="dir_000194_000002.html" title="3" alt="" coords="121,316,129,333"/>
+<area shape="rect" id="node5" href="dir_cce4fc1292c2c40b73b4e82743233d0b.html" title="ripple" alt="" coords="81,439,153,487"/>
+<area shape="rect" id="edge13" href="dir_000194_000008.html" title="6" alt="" coords="79,411,87,428"/>
+<area shape="rect" id="node6" href="dir_207db89f4ead944cf6412d8e1438b426.html" title="ripple_data" alt="" coords="169,247,254,295"/>
+<area shape="rect" id="edge15" href="dir_000194_000186.html" title="1" alt="" coords="197,218,205,235"/>
+<area shape="rect" id="edge3" href="dir_000108_000002.html" title="6" alt="" coords="108,314,116,331"/>
+<area shape="rect" id="edge5" href="dir_000108_000008.html" title="6" alt="" coords="88,410,96,427"/>
+<area shape="rect" id="edge7" href="dir_000108_000186.html" title="1" alt="" coords="158,221,166,238"/>
+<area shape="rect" id="edge17" href="dir_000002_000008.html" title="3" alt="" coords="112,411,120,428"/>
+<area shape="rect" id="edge19" href="dir_000008_000002.html" title="40" alt="" coords="110,401,125,418"/>
+<area shape="rect" id="edge21" href="dir_000186_000002.html" title="9" alt="" coords="156,326,164,344"/>
+<area shape="rect" id="edge23" href="dir_000186_000008.html" title="4" alt="" coords="149,419,157,437"/>
+<area shape="rect" id="graph2" href="dir_3ae6fb7e6ffa4e35a110a229e65bbbdd.html" title="ripple_overlay" alt="" coords="44,16,146,113"/>
+</map>

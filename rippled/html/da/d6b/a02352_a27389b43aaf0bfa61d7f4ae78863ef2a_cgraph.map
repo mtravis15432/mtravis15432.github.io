@@ -1,0 +1,7 @@
+<map id="sqlite3VtabDisconnect" name="sqlite3VtabDisconnect">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="727,17,860,47"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="208,44,336,73"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="385,57,487,87"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="748,96,839,125"/>
+<area shape="rect" id="node12" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="536,69,677,99"/>
+</map>

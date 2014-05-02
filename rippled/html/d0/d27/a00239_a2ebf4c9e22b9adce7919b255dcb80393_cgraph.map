@@ -1,0 +1,19 @@
+<map id="rocksdb::VersionSet::Builder::Apply" name="rocksdb::VersionSet::Builder::Apply">
+<area shape="rect" id="node3" href="$d0/d27/a00239.html#a70c9fbc2ead82d8e2e4722161341eb49" title="rocksdb::VersionSet\l::Builder::CheckConsistency" alt="" coords="195,203,384,250"/>
+<area shape="rect" id="node41" href="$d0/d27/a00239.html#aa80eab37c10d6aecd296315cd0e210de" title="rocksdb::VersionSet\l::Builder::CheckConsistency\lForDeletes" alt="" coords="195,273,384,337"/>
+<area shape="rect" id="node5" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="435,143,573,190"/>
+<area shape="rect" id="node7" href="$d0/d72/a00724.html#a5a44464365280d5c9649746930e1aee8" title="rocksdb::InternalKeyComparator\l::Compare" alt="" coords="624,170,835,217"/>
+<area shape="rect" id="node25" href="$de/de6/a00723.html#a1f29087f48fd168fe431e4b884f5aed1" title="rocksdb::InternalKey\l::DebugString" alt="" coords="433,330,575,377"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#aab29434ed2c251eae44fdb498e4d8dcc" title="rocksdb::BumpPerfCount" alt="" coords="909,5,1077,35"/>
+<area shape="rect" id="node11" href="$d0/d61/a00302.html#a9fe800fa52b86a61b626a58f46a38f81" title="rocksdb::Comparator\l::Compare" alt="" coords="921,58,1065,105"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="1167,179,1305,208"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="911,232,1076,261"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#ae015f9b23bbadef7eb4e3796c2d4fb46" title="rocksdb::ExtractUserKey" alt="" coords="909,179,1077,208"/>
+<area shape="rect" id="node22" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="1168,360,1304,389"/>
+<area shape="rect" id="node17" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="1153,232,1319,261"/>
+<area shape="rect" id="node27" href="$d6/d80/a01076.html#a36870425cc00e160004d62bd6118a24d" title="rocksdb::ParsedInternalKey\l::DebugString" alt="" coords="639,470,820,517"/>
+<area shape="rect" id="node31" href="$d4/d87/a03436.html#a4bf89f1a48c96450ef0d88b5c9f0a1ec" title="rocksdb::EscapeString" alt="" coords="652,372,807,401"/>
+<area shape="rect" id="node36" href="$d4/d87/a03436.html#add1d5b59fe1243a2201201ab3a3fbdb2" title="rocksdb::ParseInternalKey" alt="" coords="641,296,817,325"/>
+<area shape="rect" id="node29" href="$de/daf/a01417.html#ac5faa24d39a613c0ce7965d2bd9cf958" title="rocksdb::Slice::ToString" alt="" coords="912,491,1075,520"/>
+<area shape="rect" id="node33" href="$d4/d87/a03436.html#abd1b2064e9379d3df8f49bcdd26d7de0" title="rocksdb::AppendEscapedStringTo" alt="" coords="884,437,1103,467"/>
+</map>

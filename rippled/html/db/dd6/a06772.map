@@ -1,0 +1,7 @@
+<map id="beast::detail::LeakChecked&lt; Object &gt;::LeakCounter" name="beast::detail::LeakChecked&lt; Object &gt;::LeakCounter">
+<area shape="rect" id="node2" href="$d3/db4/a00823.html" title="beast::detail::LeakChecked\lBase::LeakCounterBase" alt="" coords="213,201,395,247"/>
+<area shape="rect" id="node4" href="$d3/d08/a01018.html" title="beast::LockFreeStack\l\&lt; Element, Tag \&gt;::Node" alt="" coords="65,86,228,133"/>
+<area shape="rect" id="node8" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::LockFreeStack::Node * \&gt;" alt="" coords="5,201,184,247"/>
+<area shape="rect" id="node6" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="81,5,212,35"/>
+<area shape="rect" id="node11" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="252,95,393,124"/>
+</map>

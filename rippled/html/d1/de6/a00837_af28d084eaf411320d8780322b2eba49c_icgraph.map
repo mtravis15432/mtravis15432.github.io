@@ -1,0 +1,5 @@
+<map id="ripple::LedgerMaster::haveLedger" name="ripple::LedgerMaster::haveLedger">
+<area shape="rect" id="node3" href="$d7/ded/a01009.html#a734ad201c61554459b5bb61b749d36ef" title="ripple::NetworkOPsImp\l::haveLedger" alt="" coords="196,5,353,51"/>
+<area shape="rect" id="node5" href="$d7/ded/a01009.html#a38a0c652d21eacfc6dd3d9661070edd3" title="ripple::NetworkOPsImp\l::isValidated" alt="" coords="404,5,561,51"/>
+<area shape="rect" id="node7" href="$d7/ded/a01009.html#a4faff51264e4e78dcb275e2bfbf4be94" title="ripple::NetworkOPsImp\l::isValidated" alt="" coords="612,5,769,51"/>
+</map>

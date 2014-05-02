@@ -1,0 +1,33 @@
+<map id="ripple::SerializedType::getJson" name="ripple::SerializedType::getJson">
+<area shape="rect" id="node3" href="$d1/da7/a01709.html#a8f5d495f36895f6225912f2c285e7fbb" title="ripple::TransactionMetaSet\l::getAffectedAccounts" alt="" coords="200,271,379,318"/>
+<area shape="rect" id="node5" href="$de/d1a/a01559.html#a20e386b11943fda5fe9c67542e8f0e50" title="ripple::STObject::getJson" alt="" coords="204,341,375,371"/>
+<area shape="rect" id="node7" href="$dc/d54/a01344.html#a29e3a75fe6be5a5d8f68ac876c2af75f" title="ripple::SerializedLedger\lEntry::getJson" alt="" coords="441,39,599,86"/>
+<area shape="rect" id="node13" href="$d1/da7/a01709.html#adb4670610891dc230f08608feea68b66" title="ripple::TransactionMetaSet\l::getJson" alt="" coords="431,143,609,190"/>
+<area shape="rect" id="node30" href="$d9/de4/a01346.html#a436d1b0b2d422540cd39c117f5f6816d" title="ripple::SerializedTransaction\l::getJson" alt="" coords="427,333,613,379"/>
+<area shape="rect" id="node64" href="$de/d6c/a01349.html#ac2262561f87e4e65392a670740cc3b00" title="ripple::SerializedValidation\l::SerializedValidation" alt="" coords="433,402,607,449"/>
+<area shape="rect" id="node66" href="$d4/deb/a01345.html#ac2feb6b204ae6f75d870e6926edd6fcc" title="ripple::SerializedObject\l_test::testSerialization" alt="" coords="443,533,597,579"/>
+<area shape="rect" id="node9" href="$dc/d54/a01344.html#a1429f819041332a1f7fad9ba2569a216" title="ripple::SerializedLedger\lEntry::SerializedLedgerEntry" alt="" coords="664,5,851,51"/>
+<area shape="rect" id="node11" href="$dc/d54/a01344.html#a1af2315ff46883d5a5f1c5678477bec4" title="ripple::SerializedLedger\lEntry::duplicate" alt="" coords="919,5,1076,51"/>
+<area shape="rect" id="node15" href="$d0/d08/a00832.html#a1c980eea2da42b3f99d55d303c02db63" title="ripple::LedgerEntrySet\l::calcRawMeta" alt="" coords="683,74,832,121"/>
+<area shape="rect" id="node27" href="$d0/d08/a00832.html#a9a4e268d98bb70b5d8a41035164c890e" title="ripple::LedgerEntrySet\l::getJson" alt="" coords="683,143,832,190"/>
+<area shape="rect" id="node17" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="913,143,1081,190"/>
+<area shape="rect" id="node19" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="1169,39,1305,86"/>
+<area shape="rect" id="node21" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="1144,109,1331,155"/>
+<area shape="rect" id="node23" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="1156,178,1319,225"/>
+<area shape="rect" id="node25" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="1156,247,1319,294"/>
+<area shape="rect" id="node33" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="663,263,852,310"/>
+<area shape="rect" id="node35" href="$d9/de4/a01346.html#a2912cd993092a3b8e3ecc18e50fd0952" title="ripple::SerializedTransaction\l::getJson" alt="" coords="664,333,851,379"/>
+<area shape="rect" id="node37" href="$dd/d5f/a00825.html#a45b7144a95753bb232044004bc6a6459" title="ripple::Ledger::getJson" alt="" coords="680,403,835,432"/>
+<area shape="rect" id="node50" href="$df/d96/a01347.html#a8b34fe88feb28ef414568b1fd6e6b2a1" title="ripple::SerializedTransaction\l_test::run" alt="" coords="664,455,851,502"/>
+<area shape="rect" id="node52" href="$d7/ded/a01009.html#acd0b0453a98534dad9cfd1a0fa6bf780" title="ripple::NetworkOPsImp\l::transJson" alt="" coords="679,525,836,571"/>
+<area shape="rect" id="node39" href="$dd/d5f/a00825.html#aa12fcb916f777e37e5f5757f855c7b26" title="ripple::Ledger::addJson" alt="" coords="919,324,1076,353"/>
+<area shape="rect" id="node41" href="$dd/d5f/a00825.html#a861dabe9316edb3191693d9fa18a4956" title="ripple::Ledger::assertSane" alt="" coords="911,377,1084,407"/>
+<area shape="rect" id="node43" href="$dd/d5f/a00825.html#ae53bf5480c98b36a234e01de0f437845" title="ripple::Ledger::saveValidated\lLedger" alt="" coords="903,430,1092,477"/>
+<area shape="rect" id="node45" href="$dd/d5f/a00825.html#a84fb9cd4200c6cc8ae48bc9f0279f731" title="ripple::Ledger::pendSave\lValidated" alt="" coords="1383,421,1548,467"/>
+<area shape="rect" id="node47" href="$dd/d5f/a00825.html#a4ce86b946061155e228c9ea08f9d5bc9" title="ripple::Ledger::saveValidated\lLedgerAsync" alt="" coords="1143,450,1332,497"/>
+<area shape="rect" id="node54" href="$d7/ded/a01009.html#a810aca64ae42518e2e6506fbc8ba4569" title="ripple::NetworkOPsImp\l::pubAccountTransaction" alt="" coords="915,550,1080,597"/>
+<area shape="rect" id="node56" href="$d7/ded/a01009.html#ac395f76cb28cb933beab05c4d10d91e9" title="ripple::NetworkOPsImp\l::pubProposedTransaction" alt="" coords="1151,525,1324,571"/>
+<area shape="rect" id="node58" href="$d7/ded/a01009.html#a99f74527e0ad0e6550d3ba503644722e" title="ripple::NetworkOPsImp\l::pubValidatedTransaction" alt="" coords="1151,605,1324,651"/>
+<area shape="rect" id="node60" href="$d7/ded/a01009.html#a78a85046176bd8a4c348f02a501b14bf" title="ripple::NetworkOPsImp\l::pubLedger" alt="" coords="1387,605,1544,651"/>
+<area shape="rect" id="node68" href="$d4/deb/a01345.html#a95bc29e1936f2e7ed8ae3812ef08ea2f" title="ripple::SerializedObject\l_test::run" alt="" coords="680,594,835,641"/>
+</map>

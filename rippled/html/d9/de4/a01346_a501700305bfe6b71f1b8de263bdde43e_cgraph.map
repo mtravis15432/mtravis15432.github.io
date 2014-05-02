@@ -1,0 +1,7 @@
+<map id="ripple::SerializedTransaction::getTransactionID" name="ripple::SerializedTransaction::getTransactionID">
+<area shape="rect" id="node3" href="$de/d1a/a01559.html#a7a9cbb8d5e1266c782de1bb94998289e" title="ripple::STObject::getHash" alt="" coords="240,75,413,104"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a4f09dcca07217744f793fa7473e845fe" title="ripple::Serializer\l::add32" alt="" coords="477,5,592,51"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#a85c374b955de23e00242029cb0bd4f74" title="ripple::STObject::add" alt="" coords="463,75,607,104"/>
+<area shape="rect" id="node9" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="475,127,595,174"/>
+<area shape="rect" id="node11" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="656,127,771,174"/>
+</map>

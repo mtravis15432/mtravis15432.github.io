@@ -1,0 +1,18 @@
+<map id="rocksdb::MergeOperators::CreatePutOperator" name="rocksdb::MergeOperators::CreatePutOperator">
+<area shape="rect" id="node3" href="$db/dbf/a00975.html#af3a08bf18eb286c588d78341bd4b30fd" title="rocksdb::MergeOperators\l::CreateFromStringId" alt="" coords="227,18,395,65"/>
+<area shape="rect" id="node11" href="$db/d95/a00391.html#aa0269c5d7b00909396ec936cfec1eccb" title="rocksdb::DBTest::Current\lOptions" alt="" coords="225,101,396,147"/>
+<area shape="rect" id="node27" href="$d3/daa/a01577.html#abd8a7f61f0b14b85acd87a4d77a6e394" title="rocksdb::StressTest\l::Open" alt="" coords="241,197,380,243"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#ab8387daed213810058d1fc9541bdaacc" title="rocksdb::Benchmark\l::Open" alt="" coords="472,5,613,51"/>
+<area shape="rect" id="node7" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="715,13,888,43"/>
+<area shape="rect" id="node9" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1047,13,1097,43"/>
+<area shape="rect" id="node13" href="$db/d95/a00391.html#aca660d82786aaa8a4426cce89d0f3288" title="rocksdb::DBTest::Options\lForLogIterTest" alt="" coords="456,74,629,121"/>
+<area shape="rect" id="node15" href="$db/d95/a00391.html#aec8d2ea7e19d5417cf47fa3565d3bd67" title="rocksdb::DBTest::TryReopen" alt="" coords="447,144,639,173"/>
+<area shape="rect" id="node17" href="$db/d95/a00391.html#a21ea2025701f28a3c295db6a7e9bb881" title="rocksdb::DBTest::ChangeCompact\lOptions" alt="" coords="688,66,915,113"/>
+<area shape="rect" id="node19" href="$db/d95/a00391.html#ada9d4dceac67de38a2d6b39b1f4b42ba" title="rocksdb::DBTest::Destroy\lAndReopen" alt="" coords="715,135,888,182"/>
+<area shape="rect" id="node23" href="$db/d95/a00391.html#a4a0d18ad59d3d7d52993aad0e0bc99a0" title="rocksdb::DBTest::Reopen" alt="" coords="715,205,888,235"/>
+<area shape="rect" id="node21" href="$db/d95/a00391.html#a3761d111551d33530517a39f38f908d1" title="rocksdb::DBTest::ChangeOptions" alt="" coords="963,144,1181,173"/>
+<area shape="rect" id="node25" href="$db/d95/a00391.html#a509351e18607a06285412f6654253643" title="rocksdb::DBTest::DBTest" alt="" coords="985,205,1159,235"/>
+<area shape="rect" id="node29" href="$d3/daa/a01577.html#aeac9f55bde5a11da0fcc2c88465de0c6" title="rocksdb::StressTest\l::Reopen" alt="" coords="473,197,612,243"/>
+<area shape="rect" id="node31" href="$d3/daa/a01577.html#af7e726bf27e216787e7c331834ec6075" title="rocksdb::StressTest::Run" alt="" coords="457,267,628,296"/>
+<area shape="rect" id="node33" href="$d6/d50/a02694.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="776,267,827,296"/>
+</map>

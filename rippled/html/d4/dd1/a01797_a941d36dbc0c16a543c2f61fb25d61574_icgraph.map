@@ -1,0 +1,4 @@
+<map id="rocksdb::Version::ResetNextCompactionIndex" name="rocksdb::Version::ResetNextCompactionIndex">
+<area shape="rect" id="node3" href="$d9/d5e/a00295.html#af67d7d2ac0a2a9b7908e23033b705575" title="rocksdb::Compaction\l::ResetNextCompactionIndex" alt="" coords="245,5,440,51"/>
+<area shape="rect" id="node5" href="$d1/d42/a01800.html#a1fc1a928a1fe6381f942be6588ea697b" title="rocksdb::VersionSet\l::ReleaseCompactionFiles" alt="" coords="488,5,664,51"/>
+</map>

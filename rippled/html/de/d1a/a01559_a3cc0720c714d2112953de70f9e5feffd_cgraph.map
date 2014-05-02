@@ -1,0 +1,9 @@
+<map id="ripple::STObject::add" name="ripple::STObject::add">
+<area shape="rect" id="node3" href="$d7/d57/a01348.html#a366575938305cad5b67be9d0c593b0ae" title="ripple::SerializedType::add" alt="" coords="205,5,381,35"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a202efcc73c3a20d10cb770523ed1669f" title="ripple::Serializer\l::addFieldID" alt="" coords="435,79,549,126"/>
+<area shape="rect" id="node7" href="$d7/d57/a01348.html#a9b5e0531c5c623aabb63882aaea4ba3e" title="ripple::SerializedType\l::addFieldID" alt="" coords="220,109,367,155"/>
+<area shape="rect" id="node10" href="$d5/d83/a03337.html#afc5f5e8520bf9ec3abd1f92d066ef7b9" title="beast::field" alt="" coords="251,179,336,208"/>
+<area shape="rect" id="node12" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="220,231,367,278"/>
+<area shape="rect" id="node14" href="$d7/d57/a01348.html#a420d71c47a773cf368ab6d8e99152871" title="ripple::SerializedType\l::getSType" alt="" coords="220,301,367,347"/>
+<area shape="rect" id="node16" href="$d7/d81/a01365.html#aff06f4aa946412454846026af393a033" title="ripple::SField::shouldInclude" alt="" coords="200,371,387,400"/>
+</map>

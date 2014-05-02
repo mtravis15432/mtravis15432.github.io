@@ -1,0 +1,13 @@
+<map id="ripple::STObject::STObject" name="ripple::STObject::STObject">
+<area shape="rect" id="node3" href="$de/d1a/a01559.html#a965eac719cefd6f8e66ac3b6c2e1122a" title="ripple::STObject::set" alt="" coords="247,95,388,124"/>
+<area shape="rect" id="node14" href="$de/d1a/a01559.html#a5bf8c0333a83f8e6454f682e6650d481" title="ripple::STObject::setType" alt="" coords="232,233,403,263"/>
+<area shape="rect" id="node5" href="$d1/de7/a01434.html#a90dc4b66e21b0212025d3083e7f07265" title="ripple::SOTemplate\l::peek" alt="" coords="477,86,611,133"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#a4a1e3feabbdae3ed94499863fdfb0fc7" title="ripple::STObject::giveObject" alt="" coords="451,33,637,63"/>
+<area shape="rect" id="node9" href="$de/d1a/a01559.html#a6a6f89cd39ea8dca41e61ed75466ebfe" title="ripple::STObject::makeNon\lPresentObject" alt="" coords="455,155,633,202"/>
+<area shape="rect" id="node11" href="$de/d1a/a01559.html#aab6412ea582e6d5827fd262266a049f3" title="ripple::STObject::makeDefault\lObject" alt="" coords="687,65,884,111"/>
+<area shape="rect" id="node17" href="$d6/d55/a03345.html#a0c2702801662989ddf6b7bc819a3111e" title="beast::asio::InputParser\l::match" alt="" coords="464,225,624,271"/>
+<area shape="rect" id="node21" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="471,294,617,341"/>
+<area shape="rect" id="node23" href="$d7/d81/a01365.html#a460a1805036628a18f4fa0d4f8b46536" title="ripple::SField::getName" alt="" coords="465,364,623,393"/>
+<area shape="rect" id="node26" href="$d7/d81/a01365.html#aac7d519c71a9677432d25c96ec5a0650" title="ripple::SField::isDiscardable" alt="" coords="452,417,636,447"/>
+<area shape="rect" id="node19" href="$d2/dd6/a03414.html#a7378f09d8f10ef3ccbb2aeefe7ff41d3" title="Json::in" alt="" coords="752,233,819,263"/>
+</map>

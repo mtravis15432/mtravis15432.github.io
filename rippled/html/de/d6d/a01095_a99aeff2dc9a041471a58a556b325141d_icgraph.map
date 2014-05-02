@@ -1,0 +1,6 @@
+<map id="ripple::HTTP::Peer::get_socket" name="ripple::HTTP::Peer::get_socket">
+<area shape="rect" id="node3" href="$d2/de1/a00421.html#aa043e28c9343e708ed6b0775abb74830" title="ripple::HTTP::Door\l::async_accept" alt="" coords="185,74,316,121"/>
+<area shape="rect" id="node10" href="$de/d6d/a01095.html#a46c6a44bc924b7c510b1a3a47f30f46c" title="ripple::HTTP::Peer\l::remoteAddress" alt="" coords="185,143,316,190"/>
+<area shape="rect" id="node5" href="$d2/de1/a00421.html#a9f0c833a833c9c09a5fa31b2eca292d3" title="ripple::HTTP::Door\l::Door" alt="" coords="367,5,497,51"/>
+<area shape="rect" id="node7" href="$d2/de1/a00421.html#ae5d00fab66e3118301187584969eaf91" title="ripple::HTTP::Door\l::handle_accept" alt="" coords="367,74,497,121"/>
+</map>

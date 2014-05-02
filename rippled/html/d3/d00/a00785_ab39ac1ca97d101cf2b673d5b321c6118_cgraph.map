@@ -1,0 +1,7 @@
+<map id="ripple::JobTypeData::JobTypeData" name="ripple::JobTypeData::JobTypeData">
+<area shape="rect" id="node3" href="$d0/d7d/a00786.html#a7ec2132c61abda196a230467fabb9fcf" title="ripple::JobTypeInfo\l::getAverageLatency" alt="" coords="193,5,335,51"/>
+<area shape="rect" id="node5" href="$d0/d7d/a00786.html#ad054ef5a50ffe69daf5368f5edbf8157" title="ripple::JobTypeInfo\l::getPeakLatency" alt="" coords="197,74,331,121"/>
+<area shape="rect" id="node7" href="$d0/d7d/a00786.html#a964b799e7560f0b0744907bfda84e185" title="ripple::JobTypeInfo\l::name" alt="" coords="197,143,331,190"/>
+<area shape="rect" id="node9" href="$dc/d2c/a00893.html#aae570ed9df89fb691f850a49e17478d5" title="ripple::LoadMonitor\l::setTargetLatency" alt="" coords="199,213,329,259"/>
+<area shape="rect" id="node11" href="$d0/d7d/a00786.html#a5ac3e80a6d898a24d581b30b9ec6a6c2" title="ripple::JobTypeInfo\l::special" alt="" coords="197,282,331,329"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="ripple::InboundLedger::takeTxNode" name="ripple::InboundLedger::takeTxNode">
+<area shape="rect" id="node3" href="$dd/d85/a00702.html#a61ad111ca63d997473cb3e50f49de9eb" title="ripple::InboundLedger\l::done" alt="" coords="211,282,357,329"/>
+<area shape="rect" id="node37" href="$dd/d0c/a01368.html#a5a22ae464a102f5c457dafcf0306668b" title="ripple::SHAMapAddNode\l::incDuplicate" alt="" coords="200,351,368,398"/>
+<area shape="rect" id="node39" href="$dd/d0c/a01368.html#a506c09ab0f6c01827de75826a619b140" title="ripple::SHAMapAddNode\l::incInvalid" alt="" coords="200,421,368,467"/>
+<area shape="rect" id="node41" href="$dd/d0c/a01368.html#aeea6bf66b2738ce49762b3b2cc381e35" title="ripple::SHAMapAddNode\l::isGood" alt="" coords="200,490,368,537"/>
+<area shape="rect" id="node43" href="$d1/d3d/a01110.html#ad7733986159c48a56d6e5049817a7c66" title="ripple::PeerSet::progress" alt="" coords="201,560,367,589"/>
+<area shape="rect" id="node5" href="$dc/d0c/a00783.html#a0e6d017b056c57465c9d72f928e3271e" title="ripple::JobQueue::addJob" alt="" coords="423,5,593,35"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="687,52,788,81"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="439,213,577,259"/>
+<area shape="rect" id="node13" href="$da/d74/a00099.html#a860be08979e27d8c6f37f722f996ba6c" title="ripple::Application\l::getJobQueue" alt="" coords="445,282,571,329"/>
+<area shape="rect" id="node15" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="675,105,800,151"/>
+<area shape="rect" id="node17" href="$d1/d3d/a01110.html#ab8c318faf0a5092a8bda14936cfc3bda" title="ripple::PeerSet::isComplete" alt="" coords="417,352,599,381"/>
+<area shape="rect" id="node19" href="$d1/d3d/a01110.html#a227639419851af47d2619bfacc67f7c8" title="ripple::PeerSet::isFailed" alt="" coords="428,405,588,435"/>
+<area shape="rect" id="node21" href="$d9/d9d/a03417.html#afcbf2c80d4bd7d5166353ef118b8c073" title="ripple::LADispatch" alt="" coords="444,160,572,189"/>
+<area shape="rect" id="node29" href="$d8/d86/a00703.html#a48daec41c988b44faa74aa2bef97dcc7" title="ripple::InboundLedgers\l::logFailure" alt="" coords="432,458,584,505"/>
+<area shape="rect" id="node31" href="$d1/de6/a00837.html#ab51db6d41f7e2f639d4824052184afe0" title="ripple::LedgerMaster\l::storeLedger" alt="" coords="439,527,577,574"/>
+<area shape="rect" id="node33" href="$d1/d3d/a01110.html#a7710649f6c87a5f821f67078ece2d7e5" title="ripple::PeerSet::touch" alt="" coords="435,597,581,627"/>
+<area shape="rect" id="node9" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="876,43,1052,90"/>
+<area shape="rect" id="node23" href="$d1/de6/a00837.html#a07188a21ab02f9fd85914c40b10f4d67" title="ripple::LedgerMaster\l::checkAccept" alt="" coords="668,243,807,290"/>
+<area shape="rect" id="node27" href="$d1/de6/a00837.html#aa9fc2803ac02924b512a7f7712234563" title="ripple::LedgerMaster\l::tryAdvance" alt="" coords="668,174,807,221"/>
+<area shape="rect" id="node35" href="$d2/dee/a00049.html#aa0ede3addaa23c911268fd707042c92c" title="beast::abstract_clock::now" alt="" coords="648,597,827,627"/>
+</map>

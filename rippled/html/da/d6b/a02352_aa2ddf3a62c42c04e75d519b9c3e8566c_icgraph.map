@@ -1,0 +1,9 @@
+<map id="fileWriterWrite" name="fileWriterWrite">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a738d55beb6fd12bed8c8ccbf733bf698" title="fileWriterWriteVarint" alt="" coords="160,56,299,85"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a6cd71a52254df3740736535daa71d165" title="vdbeSorterListToPMA" alt="" coords="348,5,497,35"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#ae550fccf5d10c1ebec8de14cb5e423f0" title="sqlite3VdbeSorterRewind" alt="" coords="548,59,716,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a03d0b3c0c5b2f98934aeb39f8e332fae" title="sqlite3VdbeSorterWrite" alt="" coords="555,5,709,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="765,32,885,61"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="935,32,1020,61"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="1071,32,1161,61"/>
+</map>

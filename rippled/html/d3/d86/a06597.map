@@ -1,0 +1,10 @@
+<map id="beast::asio::TestPeerBasics" name="beast::asio::TestPeerBasics">
+<area shape="rect" id="node3" href="$de/df6/a01670.html" title="beast::asio::TestPeer" alt="" coords="256,56,403,85"/>
+<area shape="rect" id="node7" href="$dc/d42/a01674.html" title="beast::asio::TestPeerLogic" alt="" coords="240,152,419,181"/>
+<area shape="rect" id="node5" href="$d5/d83/a01680.html" title="beast::asio::TestPeerType\l\&lt; Logic, Details \&gt;" alt="" coords="468,5,644,51"/>
+<area shape="rect" id="node9" href="$db/d98/a01675.html" title="beast::asio::TestPeerLogic\lAsyncClient" alt="" coords="467,74,645,121"/>
+<area shape="rect" id="node11" href="$de/d3e/a01676.html" title="beast::asio::TestPeerLogic\lAsyncServer" alt="" coords="467,143,645,190"/>
+<area shape="rect" id="node13" href="$d6/d26/a01678.html" title="beast::asio::TestPeerLogic\lSyncClient" alt="" coords="467,213,645,259"/>
+<area shape="rect" id="node17" href="$d2/d34/a01679.html" title="beast::asio::TestPeerLogic\lSyncServer" alt="" coords="467,282,645,329"/>
+<area shape="rect" id="node15" href="$d2/d44/a01677.html" title="beast::asio::TestPeerLogic\lProxyClient" alt="" coords="693,213,872,259"/>
+</map>

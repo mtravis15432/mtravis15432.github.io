@@ -1,0 +1,8 @@
+<map id="ripple::LocalTxsImp" name="ripple::LocalTxsImp">
+<area shape="rect" id="node2" href="$da/dd6/a00896.html" title="ripple::LocalTxs" alt="" coords="5,401,120,431"/>
+<area shape="rect" id="node6" href="$d2/d21/a00895.html" title="ripple::LocalTx" alt="" coords="148,296,255,325"/>
+<area shape="rect" id="node8" href="$d4/d0e/a01272.html" title="ripple::RippleAddress" alt="" coords="48,200,195,229"/>
+<area shape="rect" id="node10" href="$d9/d39/a00257.html" title="ripple::CBase58Data" alt="" coords="51,120,192,149"/>
+<area shape="rect" id="node14" href="$d0/d4e/a01741.html" title="ripple::uint256" alt="" coords="219,200,320,229"/>
+<area shape="rect" id="node16" href="$d7/d9a/a00152.html" title="base_uint256" alt="" coords="220,120,319,149"/>
+</map>

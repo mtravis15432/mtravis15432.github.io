@@ -1,0 +1,31 @@
+<map id="ripple::Transactor" name="ripple::Transactor">
+<area shape="rect" id="node2" href="$d4/d0e/a01272.html" title="ripple::RippleAddress" alt="" coords="2311,33,2457,63"/>
+<area shape="rect" id="node4" href="$d9/d39/a00257.html" title="ripple::CBase58Data" alt="" coords="2001,17,2143,47"/>
+<area shape="rect" id="node8" href="$d2/d41/a01493.html" title="ripple::STAmount" alt="" coords="2323,116,2445,145"/>
+<area shape="rect" id="node10" href="$d7/d57/a01348.html" title="ripple::SerializedType" alt="" coords="919,216,1065,245"/>
+<area shape="rect" id="node41" href="$db/d1e/a01497.html" title="ripple::STArray" alt="" coords="1296,283,1405,312"/>
+<area shape="rect" id="node64" href="$de/d1a/a01559.html" title="ripple::STObject" alt="" coords="1293,472,1408,501"/>
+<area shape="rect" id="node12" href="$d7/d81/a01365.html" title="ripple::SField" alt="" coords="560,216,659,245"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="233,243,313,272"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="7,234,132,281"/>
+<area shape="rect" id="node20" href="$df/d2e/a01737.html" title="ripple::uint160" alt="" coords="2021,139,2123,168"/>
+<area shape="rect" id="node24" href="$d9/dc5/a01705.html" title="ripple::TransactionEngine" alt="" coords="2300,244,2468,273"/>
+<area shape="rect" id="node22" href="$d7/d9a/a00152.html" title="base_uint160" alt="" coords="1705,125,1804,155"/>
+<area shape="rect" id="node26" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; TransactionEngine \&gt;" alt="" coords="1995,202,2149,249"/>
+<area shape="rect" id="node31" href="$d0/d08/a00832.html" title="ripple::LedgerEntrySet" alt="" coords="1997,293,2147,323"/>
+<area shape="rect" id="node33" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; LedgerEntrySet \&gt;" alt="" coords="1681,247,1828,294"/>
+<area shape="rect" id="node37" href="$d1/da7/a01709.html" title="ripple::TransactionMetaSet" alt="" coords="1665,317,1844,347"/>
+<area shape="rect" id="node44" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; STArray \&gt;" alt="" coords="919,271,1065,318"/>
+<area shape="rect" id="node48" href="$d0/d4e/a01741.html" title="ripple::uint256" alt="" coords="1300,341,1401,371"/>
+<area shape="rect" id="node50" href="$d7/d9a/a00152.html" title="base_uint256" alt="" coords="943,341,1041,371"/>
+<area shape="rect" id="node54" href="$dc/d6e/a00833.html" title="ripple::LedgerEntrySetEntry" alt="" coords="1260,411,1441,440"/>
+<area shape="rect" id="node56" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; LedgerEntrySetEntry \&gt;" alt="" coords="909,394,1075,441"/>
+<area shape="rect" id="node62" href="$d9/de4/a01346.html" title="ripple::SerializedTransaction" alt="" coords="1661,472,1848,501"/>
+<area shape="rect" id="node67" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; STObject \&gt;" alt="" coords="919,463,1065,510"/>
+<area shape="rect" id="node71" href="$d1/de7/a01434.html" title="ripple::SOTemplate" alt="" coords="925,537,1059,567"/>
+<area shape="rect" id="node75" title="STL class. " alt="" coords="204,540,343,569"/>
+<area shape="rect" id="node81" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; SerializedTransaction \&gt;" alt="" coords="1265,555,1436,602"/>
+<area shape="rect" id="node85" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="2332,440,2436,469"/>
+<area shape="rect" id="node87" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="1685,531,1824,560"/>
+<area shape="rect" id="node89" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="1995,560,2149,589"/>
+</map>

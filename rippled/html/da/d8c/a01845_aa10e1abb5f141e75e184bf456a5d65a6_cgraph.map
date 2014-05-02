@@ -1,0 +1,21 @@
+<map id="rocksdb::WriteBatchInternal::InsertInto" name="rocksdb::WriteBatchInternal::InsertInto">
+<area shape="rect" id="node3" href="$d2/dbd/a01844.html#ac5f77d59bf05e77679fc2ad832e1ccdf" title="rocksdb::WriteBatch\l::Iterate" alt="" coords="259,349,400,395"/>
+<area shape="rect" id="node39" href="$da/d8c/a01845.html#a46b10bbe30119a1a8669a0bf82f9fd44" title="rocksdb::WriteBatchInternal\l::Sequence" alt="" coords="237,587,421,634"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="717,29,853,59"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="471,120,652,149"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="484,50,639,97"/>
+<area shape="rect" id="node14" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="487,227,636,256"/>
+<area shape="rect" id="node16" href="$d4/d14/a00608.html#aa9e3230dee01550f20209e37e264de29" title="rocksdb::WriteBatch\l::Handler::Continue" alt="" coords="491,279,632,326"/>
+<area shape="rect" id="node18" href="$d4/d87/a03436.html#adeae0144b8eaea4c370172d4f6edaf48" title="rocksdb::GetLengthPrefixed\lSlice" alt="" coords="469,349,653,395"/>
+<area shape="rect" id="node24" href="$d4/d14/a00608.html#ae1e8e46791974e57a5cb8608cb6babc6" title="rocksdb::WriteBatch\l::Handler::Put" alt="" coords="491,418,632,465"/>
+<area shape="rect" id="node26" href="$d4/d14/a00608.html#ab015aa14fd07a0dab2ac126d625cefe5" title="rocksdb::WriteBatch\l::Handler::Delete" alt="" coords="491,487,632,534"/>
+<area shape="rect" id="node28" href="$d4/d14/a00608.html#a92d9d1fadf09b9e16ec6cf26836d51bc" title="rocksdb::WriteBatch\l::Handler::Merge" alt="" coords="491,557,632,603"/>
+<area shape="rect" id="node30" href="$d4/d14/a00608.html#a300fbd355348c698d6aff650854dce5d" title="rocksdb::WriteBatch\l::Handler::LogData" alt="" coords="491,626,632,673"/>
+<area shape="rect" id="node32" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="469,695,653,742"/>
+<area shape="rect" id="node36" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="491,173,632,203"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="705,147,865,176"/>
+<area shape="rect" id="node20" href="$d4/d87/a03436.html#ad725181422bf6cf312bbea4b0b3c9d8c" title="rocksdb::GetVarint32Ptr" alt="" coords="704,357,867,387"/>
+<area shape="rect" id="node22" href="$d4/d87/a03436.html#ab1d1f511057be322e0d7b0d7ef489a14" title="rocksdb::GetVarint32PtrFallback" alt="" coords="917,357,1128,387"/>
+<area shape="rect" id="node34" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="703,735,868,764"/>
+<area shape="rect" id="node41" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="479,765,644,795"/>
+</map>

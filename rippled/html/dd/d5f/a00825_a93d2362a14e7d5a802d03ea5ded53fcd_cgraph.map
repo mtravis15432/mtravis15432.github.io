@@ -1,0 +1,13 @@
+<map id="ripple::Ledger::updateHash" name="ripple::Ledger::updateHash">
+<area shape="rect" id="node3" href="$da/d61/a01350.html#a4f09dcca07217744f793fa7473e845fe" title="ripple::Serializer\l::add32" alt="" coords="437,5,552,51"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a28ccdd7d5313e2cd6b8c9d610656b7b4" title="ripple::Ledger::addRaw" alt="" coords="233,117,388,147"/>
+<area shape="rect" id="node21" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="251,170,371,217"/>
+<area shape="rect" id="node25" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="236,240,385,269"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="437,74,552,121"/>
+<area shape="rect" id="node17" href="$da/d61/a01350.html#a253e724ffc3143dfd70bde767af71a7e" title="ripple::Serializer\l::add64" alt="" coords="437,143,552,190"/>
+<area shape="rect" id="node19" href="$da/d61/a01350.html#a0344fccc7552038b51568aa4f93fca4e" title="ripple::Serializer\l::add8" alt="" coords="437,213,552,259"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="611,43,736,90"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="600,113,747,143"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="796,83,945,112"/>
+<area shape="rect" id="node23" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="437,282,552,329"/>
+</map>

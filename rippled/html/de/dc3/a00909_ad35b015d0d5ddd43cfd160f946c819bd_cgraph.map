@@ -1,0 +1,5 @@
+<map id="ripple::Resource::Logic::balance" name="ripple::Resource::Logic::balance">
+<area shape="rect" id="node3" href="$da/d65/a00458.html#ad0809294e8ca913ca859b312d608af7e" title="ripple::Resource::Entry\l::balance" alt="" coords="212,5,367,51"/>
+<area shape="rect" id="node7" href="$d2/dee/a00049.html#ae8a34dde26bed08c9a6dbb59f0e9abd1" title="beast::abstract_clock\l::elapsed" alt="" coords="216,74,363,121"/>
+<area shape="rect" id="node5" href="$d9/da1/a00396.html#a2039bdb6177cbe58bd2d402f4f3b14e1" title="ripple::DecayingSample\l::value" alt="" coords="416,5,576,51"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SpookyHash::ShortMix" name="SpookyHash::ShortMix">
+<area shape="rect" id="node3" href="$dd/d1c/a01452.html#af9b11a6c6092014a571c337db7a0dac8" title="SpookyHash::Short" alt="" coords="211,113,347,143"/>
+<area shape="rect" id="node5" href="$dd/d1c/a01452.html#ae37b93d6c4386e1879cec667ab6c103e" title="SpookyHash::Final" alt="" coords="407,83,540,112"/>
+<area shape="rect" id="node11" href="$dd/d1c/a01452.html#a9d8973d46becbc8036c458fae3efc3a5" title="SpookyHash::Hash128" alt="" coords="395,144,552,173"/>
+<area shape="rect" id="node7" href="$d3/da3/a01450.html#a70ba47e3042a6fb5ee9954d2cb1d1ec3" title="beast::hash_append\l_tests::spooky::size_t" alt="" coords="601,5,751,51"/>
+<area shape="rect" id="node9" href="$d3/dbc/a01451.html#aeffcb5c6a5792f8667e4199b30d41868" title="beast::detail::spooky\l_wrapper::size_t" alt="" coords="605,74,747,121"/>
+<area shape="rect" id="node13" href="$dd/d1c/a01452.html#aae6f9aae5a81751e1b2f6a77b21192fd" title="SpookyHash::Hash32" alt="" coords="601,144,751,173"/>
+<area shape="rect" id="node15" href="$dd/d1c/a01452.html#acabbc1948064bffaf1c7ed4e78cc1a30" title="SpookyHash::Hash64" alt="" coords="601,197,751,227"/>
+</map>

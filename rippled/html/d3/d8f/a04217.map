@@ -1,0 +1,16 @@
+<map id="rippled/src/ripple/common/seconds_clock.h" name="rippled/src/ripple/common/seconds_clock.h">
+<area shape="rect" id="node3" href="$db/df2/a02551.html" title="rippled/src/ripple\l/resource/ripple_resource.cpp" alt="" coords="5,102,197,149"/>
+<area shape="rect" id="node5" href="$d8/dbd/a03008.html" title="rippled/src/ripple\l_app/ripple_app.cpp" alt="" coords="221,102,360,149"/>
+<area shape="rect" id="node7" href="$d6/d97/a03011.html" title="rippled/src/ripple\l_app/ripple_app_pt2.cpp" alt="" coords="384,102,547,149"/>
+<area shape="rect" id="node9" href="$d1/db3/a03013.html" title="rippled/src/ripple\l_app/ripple_app_pt4.cpp" alt="" coords="571,102,733,149"/>
+<area shape="rect" id="node11" href="$df/d3a/a03014.html" title="rippled/src/ripple\l_app/ripple_app_pt5.cpp" alt="" coords="757,102,920,149"/>
+<area shape="rect" id="node13" href="$de/d1e/a03015.html" title="rippled/src/ripple\l_app/ripple_app_pt6.cpp" alt="" coords="944,102,1107,149"/>
+<area shape="rect" id="node15" href="$d0/d9d/a03016.html" title="rippled/src/ripple\l_app/ripple_app_pt7.cpp" alt="" coords="1131,102,1293,149"/>
+<area shape="rect" id="node17" href="$d4/dbc/a03159.html" title="rippled/src/ripple\l_core/nodestore/NodeStore.cpp" alt="" coords="1317,102,1523,149"/>
+<area shape="rect" id="node21" href="$d9/de5/a03240.html" title="rippled/src/ripple\l_overlay/impl/OverlayImpl.h" alt="" coords="1553,102,1737,149"/>
+<area shape="rect" id="node19" href="$d7/d19/a03166.html" title="rippled/src/ripple\l_core/ripple_core.cpp" alt="" coords="1343,198,1489,245"/>
+<area shape="rect" id="node23" href="$db/d5f/a03239.html" title="rippled/src/ripple\l_overlay/impl/OverlayImpl.cpp" alt="" coords="1443,294,1640,341"/>
+<area shape="rect" id="node27" href="$d6/d19/a03242.html" title="rippled/src/ripple\l_overlay/impl/PeerDoor.h" alt="" coords="1564,198,1732,245"/>
+<area shape="rect" id="node30" href="$dc/dc7/a03241.html" title="rippled/src/ripple\l_overlay/impl/PeerDoor.cpp" alt="" coords="1664,294,1845,341"/>
+<area shape="rect" id="node25" href="$d1/dfa/a03244.html" title="rippled/src/ripple\l_overlay/ripple_overlay.cpp" alt="" coords="1559,390,1737,437"/>
+</map>

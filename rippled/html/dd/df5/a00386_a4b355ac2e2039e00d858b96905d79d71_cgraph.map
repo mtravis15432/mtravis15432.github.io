@@ -1,0 +1,16 @@
+<map id="rocksdb::DBImpl::Merge" name="rocksdb::DBImpl::Merge">
+<area shape="rect" id="node3" href="$d8/ddd/a00380.html#af6702472d68f092ade92c1eb8a6c0300" title="rocksdb::DB::Merge" alt="" coords="251,144,389,173"/>
+<area shape="rect" id="node27" href="$d0/db9/a01552.html#affd56b266e377f34a3b2e3d525a9d8c8" title="rocksdb::Status::NotSupported" alt="" coords="219,197,421,227"/>
+<area shape="rect" id="node5" href="$d2/dbd/a01844.html#ab2c611e4e5d774ecd115082bce617e7a" title="rocksdb::WriteBatch\l::Merge" alt="" coords="479,74,620,121"/>
+<area shape="rect" id="node25" href="$d8/ddd/a00380.html#ad5d37a09e90d0c22c9a0adca87267ebc" title="rocksdb::DB::Write" alt="" coords="483,144,616,173"/>
+<area shape="rect" id="node7" href="$da/d8c/a01845.html#a5d61953d919f082c48c4d4aada512004" title="rocksdb::WriteBatchInternal\l::SetCount" alt="" coords="677,5,861,51"/>
+<area shape="rect" id="node11" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="677,74,861,121"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#af1cdcde94bcaeced42cd5925a5827232" title="rocksdb::PutLengthPrefixed\lSlice" alt="" coords="679,162,860,209"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#aabc7ce45ae48e15b24a6756f9b4fd694" title="rocksdb::EncodeFixed32" alt="" coords="911,13,1076,43"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="911,75,1076,104"/>
+<area shape="rect" id="node17" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="924,128,1063,157"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#afe24fa7da1cd551af92134aa66f96183" title="rocksdb::PutVarint32" alt="" coords="921,181,1065,211"/>
+<area shape="rect" id="node23" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="925,235,1061,264"/>
+<area shape="rect" id="node21" href="$d4/d87/a03436.html#a94c48680211f25845f5c35acd4b54ebb" title="rocksdb::EncodeVarint32" alt="" coords="1125,181,1293,211"/>
+<area shape="rect" id="node29" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="469,197,629,227"/>
+</map>

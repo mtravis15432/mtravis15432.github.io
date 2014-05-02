@@ -1,0 +1,4 @@
+<map id="beast::InputStream::readInt64BigEndian" name="beast::InputStream::readInt64BigEndian">
+<area shape="rect" id="node3" href="$df/d96/a00714.html#ad7da4644c542ada52519049105cd12f4" title="beast::InputStream\l::read" alt="" coords="215,5,348,51"/>
+<area shape="rect" id="node5" href="$d6/d08/a00244.html#ac4bab10972fc5ea6f84f567415380327" title="beast::ByteOrder::swapIf\lLittleEndian" alt="" coords="197,74,365,121"/>
+</map>

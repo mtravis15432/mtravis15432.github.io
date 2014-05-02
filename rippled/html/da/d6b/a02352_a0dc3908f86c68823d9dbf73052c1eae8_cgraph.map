@@ -1,0 +1,11 @@
+<map id="sqlite3RowSetNext" name="sqlite3RowSetNext">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a0deaa1609255a6b68bea834f2804c2bd" title="rowSetToList" alt="" coords="209,44,308,73"/>
+<area shape="rect" id="node12" href="$da/d6b/a02352.html#ae153de0cd969511a607e26deeca80342" title="sqlite3RowSetClear" alt="" coords="189,124,328,153"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a154fb709b5c28252a29eee58b0ea9e64" title="rowSetEntryMerge" alt="" coords="555,5,685,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a823870013b6d8873031d0df6889658c9" title="rowSetEntrySort" alt="" coords="380,31,497,60"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a10ff20b05c5de1099db94712c4560698" title="rowSetTreeToList" alt="" coords="376,84,501,113"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="388,137,489,167"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="761,99,852,128"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="740,164,873,193"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="549,137,691,167"/>
+</map>

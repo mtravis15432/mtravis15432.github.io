@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node3" href="$da/d28/a02705.html#ac9ffd93066bf37fd1c3c49a02438d3e9" title="cleanupDir" alt="" coords="128,63,211,92"/>
+<area shape="rect" id="node5" href="$da/d28/a02705.html#a3b2714dee6e3c7559e6abf8492ffbad5" title="db1" alt="" coords="356,5,399,35"/>
+<area shape="rect" id="node7" href="$da/d28/a02705.html#aa930cfb909636c190526ebbd7e9553ea" title="startServer" alt="" coords="127,220,212,249"/>
+<area shape="rect" id="node9" href="$da/d28/a02705.html#af2132b2bc8319a3cbbc0975e25f38159" title="testDBClientProxy" alt="" coords="104,167,235,196"/>
+<area shape="rect" id="node11" href="$d3/d45/a00382.html#a75e32b19e069b48d078d8e69300408bd" title="rocksdb::DBClientProxy::get" alt="" coords="283,373,472,403"/>
+<area shape="rect" id="node22" href="$d3/d45/a00382.html#a82d19e6d82682a4dbfa362f53779c679" title="rocksdb::DBClientProxy::put" alt="" coords="283,251,472,280"/>
+<area shape="rect" id="node25" href="$d3/d45/a00382.html#a8de60ab3d2ee8f1d7a145e5de04cfabe" title="rocksdb::DBClientProxy\l::scan" alt="" coords="296,303,459,350"/>
+<area shape="rect" id="node30" href="$d3/d45/a00382.html#ae674e20537756b3efaa20945bfca87eb" title="rocksdb::DBClientProxy\l::create" alt="" coords="296,58,459,105"/>
+<area shape="rect" id="node32" href="$d3/d45/a00382.html#a18e8e94cd6dcdfab5dc100b78a0de559" title="rocksdb::DBClientProxy\l::connect" alt="" coords="296,127,459,174"/>
+<area shape="rect" id="node36" href="$d0/d87/a03399.html#addb402f22cc191c3dc7f4325bb6f684e" title="beast.util.Iter.first" alt="" coords="316,197,439,227"/>
+<area shape="rect" id="node13" href="$d3/d45/a00382.html#a8eed1fc3e862bf2fc9718a1f668e6eb0" title="rocksdb::DBClientProxy\l::getHandle" alt="" coords="520,250,683,297"/>
+<area shape="rect" id="node17" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="532,373,671,403"/>
+<area shape="rect" id="node19" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="533,320,669,349"/>
+<area shape="rect" id="node15" href="$d3/d45/a00382.html#a3310c0268aea0a664a52c66f5ec34790" title="rocksdb::DBClientProxy\l::open" alt="" coords="731,250,893,297"/>
+<area shape="rect" id="node34" href="$d3/d45/a00382.html#a5423e79e5b8941b109a37705e28cc124" title="rocksdb::DBClientProxy\l::cleanUp" alt="" coords="520,127,683,174"/>
+</map>

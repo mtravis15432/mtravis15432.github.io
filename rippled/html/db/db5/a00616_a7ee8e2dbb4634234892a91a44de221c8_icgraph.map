@@ -1,0 +1,5 @@
+<map id="beast::asio::HandshakeDetectorType::getLogic" name="beast::asio::HandshakeDetectorType::getLogic">
+<area shape="rect" id="node3" href="$df/dcd/a00127.html#a935283a5afd2401c1ce9ca93fae2e60e" title="ripple::MultiSocketType\l::AsyncOp::async_handshake" alt="" coords="264,74,461,121"/>
+<area shape="rect" id="node5" href="$df/dcd/a00127.html#a388b7cee2c402e1f8676650cd4534bb8" title="ripple::MultiSocketType\l::AsyncOp::start" alt="" coords="515,5,672,51"/>
+<area shape="rect" id="node7" href="$df/dcd/a00127.html#a69d1bdd6f7bcbbac6f804e5fbec4f9f1" title="ripple::MultiSocketType\l::AsyncOp::on_complete" alt="" coords="511,74,676,121"/>
+</map>

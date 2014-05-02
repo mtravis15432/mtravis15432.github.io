@@ -1,0 +1,33 @@
+<map id="ripple::STAmount::getExponent" name="ripple::STAmount::getExponent">
+<area shape="rect" id="node3" href="$da/d73/a01090.html#a7ad4cccf4a91ff162dc862e5222cf0c6" title="ripple::PaymentTransactor\l::doApply" alt="" coords="735,5,908,51"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#ad04578f94f5fcc11e1086f59c9afe238" title="ripple::STAmount::getRate" alt="" coords="260,335,436,364"/>
+<area shape="rect" id="node7" href="$dd/df1/a01082.html#ad7f1409fb27036b1a817f9765e89fe20" title="ripple::Pathfinder\l::filterPaths" alt="" coords="761,175,881,222"/>
+<area shape="rect" id="node39" href="$d4/d10/a01278.html#a107939b944d2f17c47515e5711ab4d2e" title="ripple::RippleCalc\l::calcNodeRipple" alt="" coords="519,295,644,342"/>
+<area shape="rect" id="node45" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="1145,295,1271,342"/>
+<area shape="rect" id="node53" href="$d4/d10/a01278.html#a922f80d22daaecefd09acb0b9a5f0c05" title="ripple::RippleCalc\l::rippleCalc" alt="" coords="519,115,644,162"/>
+<area shape="rect" id="node59" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="487,415,676,462"/>
+<area shape="rect" id="node61" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="727,434,916,481"/>
+<area shape="rect" id="node64" href="$d6/d51/a01494.html#a7d53f62917a26abd5902c55ee2bb46f4" title="ripple::STAmount_test\l::testCustomCurrency" alt="" coords="505,485,657,531"/>
+<area shape="rect" id="node68" href="$d6/d51/a01494.html#a3c8744063e578e4dd37e38cf175016df" title="ripple::STAmount_test\l::testArithmetic" alt="" coords="505,554,657,601"/>
+<area shape="rect" id="node71" href="$d6/d51/a01494.html#ac6113e34f1b2fd3aee49d3dc0ec72f90" title="ripple::STAmount_test\l::testUnderflow" alt="" coords="505,623,657,670"/>
+<area shape="rect" id="node9" href="$dd/df1/a01082.html#a7a1f0030b743b25f47fa956c93b3982f" title="ripple::Pathfinder\l::findPaths" alt="" coords="968,175,1088,222"/>
+<area shape="rect" id="node11" href="$dc/d8c/a01297.html#a36006720757cc56e9cbd52d1517b909c" title="ripple::RPCHandler\l::doRipplePathFind" alt="" coords="1141,165,1275,211"/>
+<area shape="rect" id="node35" href="$d6/d9a/a01083.html#a8aea98f3185e3734842e76cb275cb466" title="ripple::PathRequest\l::doUpdate" alt="" coords="1140,75,1276,122"/>
+<area shape="rect" id="node13" href="$dc/d8c/a01297.html#a120877dbbbbb7b6fa1214d28480b728e" title="ripple::RPCHandler\l::doCommand" alt="" coords="1328,165,1461,211"/>
+<area shape="rect" id="node15" href="$dc/d8c/a01297.html#a1cd91f081ddb5435c1a768c2501e3ea4" title="ripple::RPCHandler\l::doRpcCommand" alt="" coords="1520,95,1653,142"/>
+<area shape="rect" id="node25" href="$da/d5e/a01852.html#ac90aaad2778619d5e2af96248465963d" title="ripple::WSConnection\l::invokeCommand" alt="" coords="1512,165,1661,211"/>
+<area shape="rect" id="node27" href="$d9/d9d/a03417.html#a3c77be68a5194379a6bffadc1ff283e7" title="ripple::startServer" alt="" coords="1524,235,1649,264"/>
+<area shape="rect" id="node17" href="$d6/d07/a01303.html#a7e0ce39f199a893ba0122aa6612c8f02" title="ripple::RPCServerHandler\l::processRequest" alt="" coords="1716,117,1889,163"/>
+<area shape="rect" id="node23" href="$d8/d38/a01299.html#a336553b822ce152d8da5b9888ef0b80d" title="ripple::RPCHTTPServerImp\l::processRequest" alt="" coords="1711,47,1895,94"/>
+<area shape="rect" id="node19" href="$d8/d38/a01299.html#ab146ddf2c60287acdc093f382f4839eb" title="ripple::RPCHTTPServerImp\l::processSession" alt="" coords="1945,117,2129,163"/>
+<area shape="rect" id="node21" href="$d8/d38/a01299.html#a19d94b89eb7a1c0a5f5185dabd6689c7" title="ripple::RPCHTTPServerImp\l::onRequest" alt="" coords="2180,117,2364,163"/>
+<area shape="rect" id="node29" href="$d9/d9d/a03417.html#a73f08af4dabdb8c1145b44e08e9407aa" title="ripple::run" alt="" coords="1764,235,1841,264"/>
+<area shape="rect" id="node31" href="$d1/d03/a02560.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2012,261,2063,291"/>
+<area shape="rect" id="node33" href="$d4/d87/a03436.html#a2dee4cfaee0b03b858a52104feed97a9" title="rocksdb::TEST" alt="" coords="1983,208,2092,237"/>
+<area shape="rect" id="node37" href="$d6/d9a/a01083.html#aee6fed19ff00abfc2ef583942082e9aa" title="ripple::PathRequest\l::doCreate" alt="" coords="1327,75,1463,122"/>
+<area shape="rect" id="node41" href="$d4/d10/a01278.html#a7e6910b02e5b449803cb1f8f42043bad" title="ripple::RippleCalc\l::calcNodeAccountFwd" alt="" coords="743,365,900,411"/>
+<area shape="rect" id="node47" href="$d4/d10/a01278.html#a0bbad2f18bb1bb43ac14bd085b3bd843" title="ripple::RippleCalc\l::calcNodeAccountRev" alt="" coords="743,295,900,342"/>
+<area shape="rect" id="node43" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="965,365,1091,411"/>
+<area shape="rect" id="node49" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="965,295,1091,342"/>
+<area shape="rect" id="node66" href="$d6/d51/a01494.html#a2fed37e27754e534db456868751ba2eb" title="ripple::STAmount_test::run" alt="" coords="732,563,911,592"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="ripple::logTimedCall" name="ripple::logTimedCall">
+<area shape="rect" id="node3" href="$d1/d42/a03419.html#a9a97aad78df924041ea01905eb205a16" title="ripple::detail::cleanElapsed" alt="" coords="211,92,389,121"/>
+<area shape="rect" id="node7" href="$d6/df3/a03349.html#abdd89d9d0ea34d6d18eaeab17ed8f4f0" title="beast::Debug::getSourceLocation" alt="" coords="192,180,408,209"/>
+<area shape="rect" id="node33" href="$d5/d83/a03337.html#a32e219c28cdced0135c63d538f2de8c3" title="beast::measureFunctionCallTime" alt="" coords="193,259,407,288"/>
+<area shape="rect" id="node5" href="$d0/d36/a01916.html#aba3df647217b8160158687b86f5923e9" title="floor" alt="" coords="537,75,583,104"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#ac444c25a50899592a578d53f4937f6c1" title="beast::String::fromNumber" alt="" coords="472,197,648,227"/>
+<area shape="rect" id="node11" href="$d6/df3/a03349.html#aa7c395bfb9f4dbdb23a88c950242c0b2" title="beast::Debug::getFileName\lFromPath" alt="" coords="469,127,651,174"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#ac964e99361851027f5df041e2ff21084" title="beast::String::lastIndex\lOfChar" alt="" coords="735,127,892,174"/>
+<area shape="rect" id="node19" href="$d1/d88/a01578.html#aaca49bb1ee479cbc8a488c8be4b919f8" title="beast::String::replaceCharacter" alt="" coords="712,75,915,104"/>
+<area shape="rect" id="node30" href="$d1/d88/a01578.html#a51b6c08a63652de5e8c66517483fa2b9" title="beast::String::substring" alt="" coords="735,197,892,227"/>
+<area shape="rect" id="node15" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="973,119,1136,166"/>
+<area shape="rect" id="node17" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="989,189,1120,235"/>
+<area shape="rect" id="node22" href="$da/de2/a01585.html#aa013f6eb176e47cccfb4f2ba8eaf14e2" title="beast::StringCreationHelper\l::write" alt="" coords="964,50,1145,97"/>
+<area shape="rect" id="node24" href="$d5/d83/a03337.html#ac6268cb2bd8387df60a94804204c45d8" title="beast::addBytesToPointer" alt="" coords="1205,5,1379,35"/>
+<area shape="rect" id="node26" href="$d5/d83/a03337.html#a850600d8d5274c00146bd55444cc1e82" title="beast::bmax" alt="" coords="1245,59,1339,88"/>
+<area shape="rect" id="node28" href="$d5/d42/a00269.html#ab20c2d63badda5d0de9005dedfdb4144" title="beast::CharPointer\l_UTF8::getBytesRequiredFor" alt="" coords="1196,111,1388,158"/>
+<area shape="rect" id="node35" href="$dc/dc8/a01695.html#a8d8ae04e6a87738e1d6cc1bb47b98846" title="beast::Time::getHighResolution\lTicks" alt="" coords="457,319,663,366"/>
+<area shape="rect" id="node37" href="$dc/dc8/a01695.html#ae091047bf659ede589b1803efac91ee5" title="beast::Time::highResolution\lTicksToSeconds" alt="" coords="468,250,652,297"/>
+</map>

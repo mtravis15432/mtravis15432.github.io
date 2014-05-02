@@ -1,0 +1,6 @@
+<map id="rocksdb::VersionSet::GetMetadataForFile" name="rocksdb::VersionSet::GetMetadataForFile">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a415510a7cc15542538c80c790d2bb4af" title="rocksdb::Status::NotFound" alt="" coords="200,5,379,35"/>
+<area shape="rect" id="node7" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="220,58,359,105"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="219,128,360,157"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="427,67,587,96"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::HTTP::Door::handle_accept" name="ripple::HTTP::Door::handle_accept">
+<area shape="rect" id="node3" href="$d2/de1/a00421.html#aa043e28c9343e708ed6b0775abb74830" title="ripple::HTTP::Door\l::async_accept" alt="" coords="205,5,336,51"/>
+<area shape="rect" id="node8" href="$d7/dc4/a01354.html#a4eb4d60bbd47e8fddb26f38de50f4e65" title="ripple::HTTP::ServerImpl\l::journal" alt="" coords="188,74,353,121"/>
+<area shape="rect" id="node5" href="$de/d6d/a01095.html#a99aeff2dc9a041471a58a556b325141d" title="ripple::HTTP::Peer\l::get_socket" alt="" coords="403,5,533,51"/>
+</map>

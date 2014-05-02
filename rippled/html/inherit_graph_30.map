@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$d1/d84/a00052.html" title="beast::asio::abstract\l_socket" alt="" coords="152,97,293,143"/>
+<area shape="rect" id="node5" href="$d8/dd0/a01430.html" title="beast::asio::socket\l_wrapper\&lt; Object \&gt;" alt="" coords="371,5,507,51"/>
+<area shape="rect" id="node7" href="$da/d0a/a00993.html" title="ripple::MultiSocket" alt="" coords="373,75,504,104"/>
+<area shape="rect" id="node13" href="$d8/dd0/a01430.html" title="beast::asio::socket\l_wrapper\&lt; acceptor_type &amp; \&gt;" alt="" coords="341,127,536,174"/>
+<area shape="rect" id="node15" href="$d8/dd0/a01430.html" title="beast::asio::socket\l_wrapper\&lt; socket_type &amp; \&gt;" alt="" coords="348,197,529,243"/>
+<area shape="rect" id="node9" href="$d0/d28/a00997.html" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;" alt="" coords="585,31,743,78"/>
+<area shape="rect" id="node11" href="$d0/d28/a00997.html" title="ripple::MultiSocketType\l\&lt; StreamSocket \&gt;" alt="" coords="585,101,743,147"/>
+</map>

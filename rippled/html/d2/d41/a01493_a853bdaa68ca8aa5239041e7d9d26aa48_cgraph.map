@@ -1,0 +1,9 @@
+<map id="ripple::STAmount::currencyFromString" name="ripple::STAmount::currencyFromString">
+<area shape="rect" id="node3" href="$da/d61/a01350.html#af9f127e708de4849795bdab51f2a4c78" title="ripple::Serializer\l::addZeros" alt="" coords="240,25,355,71"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a0da8709f6817b4f400f80e788c0505d1" title="ripple::base_uint::\lSetHex" alt="" coords="235,113,360,159"/>
+<area shape="rect" id="node15" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="409,181,559,211"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="427,5,541,51"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="411,75,557,104"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="409,128,559,157"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="609,75,759,104"/>
+</map>

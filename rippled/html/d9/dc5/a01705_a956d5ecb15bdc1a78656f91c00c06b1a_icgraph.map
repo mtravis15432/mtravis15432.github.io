@@ -1,0 +1,5 @@
+<map id="ripple::TransactionEngine::setLedger" name="ripple::TransactionEngine::setLedger">
+<area shape="rect" id="node3" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="224,5,387,51"/>
+<area shape="rect" id="node5" href="$d2/dc7/a00838.html#a340c1c668d233c98f5ac0e3a62533b6c" title="ripple::LedgerMasterImp\l::pushLedger" alt="" coords="224,74,387,121"/>
+<area shape="rect" id="node7" href="$d2/dc7/a00838.html#a6fde97247627301874e756267c2b7abf" title="ripple::LedgerMasterImp\l::switchLedgers" alt="" coords="224,143,387,190"/>
+</map>

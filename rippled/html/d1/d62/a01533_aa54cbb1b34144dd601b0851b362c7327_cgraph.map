@@ -1,0 +1,6 @@
+<map id="beast::AtExitHook::Manager::StaticDestructor::~StaticDestructor" name="beast::AtExitHook::Manager::StaticDestructor::~StaticDestructor">
+<area shape="rect" id="node3" href="$dd/d38/a00928.html#a43f74b49aeaa1ecf951b3638c9d02933" title="beast::AtExitHook::\lManager::doStaticDetruction" alt="" coords="231,39,417,86"/>
+<area shape="rect" id="node9" href="$dd/d38/a00928.html#a1f9e417b2daccfd9ee6af1b35c2e8cd0" title="beast::AtExitHook::\lManager::get" alt="" coords="256,109,392,155"/>
+<area shape="rect" id="node5" href="$d0/d7e/a00770.html#abe0c9e99cadc586711810f4e3264a5cd" title="beast::AtExitHook::\lItem::hook" alt="" coords="468,5,604,51"/>
+<area shape="rect" id="node7" href="$d9/d47/a00129.html#a1a6c887c5cfbcb49d7ffa234472c87f4" title="beast::AtExitHook::\lonExit" alt="" coords="468,74,604,121"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sqlite3BtreeCursor" name="sqlite3BtreeCursor">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a9830bfee9b343086d4443618b13ad4fd" title="btreeCursor" alt="" coords="203,5,293,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="187,112,309,141"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="185,59,311,88"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="368,5,480,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="545,109,679,139"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="361,59,487,88"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="368,163,480,192"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="536,163,688,192"/>
+</map>

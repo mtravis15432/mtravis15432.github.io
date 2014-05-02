@@ -1,0 +1,6 @@
+<map id="beast::Time::getWeekdayName" name="beast::Time::getWeekdayName">
+<area shape="rect" id="node3" href="$dc/dc8/a01695.html#afc1da169e4c528c3e20a2cfae1cdb4e8" title="beast::Time::getDayOfWeek" alt="" coords="261,32,451,61"/>
+<area shape="rect" id="node5" href="$de/d11/a03387.html#a5506e2798415ba377b05f247702f762f" title="beast::TimeHelpers\l::millisToLocal" alt="" coords="499,23,635,70"/>
+<area shape="rect" id="node7" href="$dc/dc8/a01695.html#a8be067a7fcef071a4b60e2a38ce0bdbb" title="beast::Time::toMilliseconds" alt="" coords="684,5,865,35"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a710cd17b4a1aa058cb94c61e6dbdbb84" title="beast::zerostruct" alt="" coords="715,59,835,88"/>
+</map>

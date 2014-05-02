@@ -1,0 +1,16 @@
+<map id="ripple::RPCHandler::doProofCreate" name="ripple::RPCHandler::doProofCreate">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="247,13,348,43"/>
+<area shape="rect" id="node7" href="$db/db2/a01143.html#a70343675b9fe0e04b633fd21c0d6a679" title="ripple::ProofOfWorkFactory\l::getProof" alt="" coords="207,66,388,113"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#adb34cc74f6b7c6e4532b6ff0f4929ecf" title="ripple::Application\l::getProofOfWorkFactory" alt="" coords="213,135,381,182"/>
+<area shape="rect" id="node11" href="$de/df6/a01141.html#a7426c5a81ad07fd334a049e69653834a" title="ripple::ProofOfWork\l::getToken" alt="" coords="229,205,365,251"/>
+<area shape="rect" id="node13" href="$d2/d9b/a03429.html#a3f2a31e585bbecb3af3740d34d7df15f" title="ripple::RPC::invalid\l_field_error" alt="" coords="231,274,364,321"/>
+<area shape="rect" id="node27" href="$d6/d27/a01781.html#a196defba501d70ea2b6793afb04108e3" title="Return true if the object has a member named key. " alt="" coords="220,344,375,373"/>
+<area shape="rect" id="node29" href="$db/db2/a01143.html#a94ecd3a9cd4577bf74a9468580b25360" title="ripple::ProofOfWorkFactory::New" alt="" coords="189,397,405,427"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="455,5,631,51"/>
+<area shape="rect" id="node15" href="$d2/d9b/a03429.html#a5b6ce0616f6995340f4dd846660c3749" title="ripple::RPC::make_param\l_error" alt="" coords="456,239,629,286"/>
+<area shape="rect" id="node25" href="$d2/d9b/a03429.html#a9f5e626e438381329d8b9ef18fe26636" title="ripple::RPC::object\l_field_message" alt="" coords="476,309,609,355"/>
+<area shape="rect" id="node17" href="$d2/d9b/a03429.html#a2cd6200f6709780fcf1dd26ec9cd2866" title="ripple::RPC::make_error" alt="" coords="680,248,843,277"/>
+<area shape="rect" id="node19" href="$d2/d9b/a03429.html#ac4c846c6043b4afa966f4f35790fe303" title="ripple::RPC::inject\l_error" alt="" coords="892,239,1020,286"/>
+<area shape="rect" id="node21" href="$d2/d9b/a03429.html#aa6dc5b7a225869afb02c82d035352e7d" title="ripple::RPC::get_error_info" alt="" coords="1071,248,1247,277"/>
+<area shape="rect" id="node23" href="$dc/d8e/a00473.html#aec1914e37aa6e639af71985d7abfb52f" title="ripple::RPC::detail\l::ErrorCategory::get" alt="" coords="1297,239,1433,286"/>
+</map>

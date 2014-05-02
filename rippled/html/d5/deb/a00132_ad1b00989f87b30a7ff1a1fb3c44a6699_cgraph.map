@@ -1,0 +1,19 @@
+<map id="beast::Atomic_test::testInteger" name="beast::Atomic_test::testInteger">
+<area shape="rect" id="node3" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="188,109,335,155"/>
+<area shape="rect" id="node24" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="197,221,325,251"/>
+<area shape="rect" id="node30" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="188,275,335,304"/>
+<area shape="rect" id="node36" href="$d7/d06/a00131.html#a4449697212c60a5da698b3b9ef0449a3" title="beast::Atomic::set" alt="" coords="197,328,325,357"/>
+<area shape="rect" id="node5" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="404,39,551,86"/>
+<area shape="rect" id="node17" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="404,109,551,155"/>
+<area shape="rect" id="node7" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="624,39,779,86"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="833,74,988,121"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="833,5,988,51"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1039,39,1193,86"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1039,109,1193,155"/>
+<area shape="rect" id="node19" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="624,109,779,155"/>
+<area shape="rect" id="node22" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="833,143,988,190"/>
+<area shape="rect" id="node26" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="395,178,560,225"/>
+<area shape="rect" id="node28" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="395,247,560,294"/>
+<area shape="rect" id="node32" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="384,317,571,347"/>
+<area shape="rect" id="node34" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="619,309,784,355"/>
+</map>

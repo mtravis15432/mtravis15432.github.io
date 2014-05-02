@@ -1,0 +1,12 @@
+<map id="rocksdb::DBImpl::InstallCompactionResults" name="rocksdb::DBImpl::InstallCompactionResults">
+<area shape="rect" id="node3" href="$d2/d86/a01798.html#a62a14d8606dbc1d557b6e3bb55c617dd" title="rocksdb::VersionEdit\l::AddFile" alt="" coords="228,5,369,51"/>
+<area shape="rect" id="node5" href="$d9/d5e/a00295.html#a34f2d63bc992cde8c8d327f10be1b58a" title="rocksdb::Compaction\l::AddInputDeletions" alt="" coords="225,74,372,121"/>
+<area shape="rect" id="node9" href="$d9/d9a/a00998.html#adc55e4555301d02ced0ec883bc6cd4f6" title="rocksdb::port::Mutex\l::AssertHeld" alt="" coords="228,143,369,190"/>
+<area shape="rect" id="node11" href="$d9/d5e/a00295.html#a7bcdee632345fcfc238ed97309936291" title="rocksdb::Compaction\l::edit" alt="" coords="225,213,372,259"/>
+<area shape="rect" id="node13" href="$d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc" title="rocksdb::Status::IOError" alt="" coords="217,283,380,312"/>
+<area shape="rect" id="node17" href="$d9/d5e/a00295.html#ac2973e8fa4631c42de42b3d343e62989" title="rocksdb::Compaction\l::level" alt="" coords="225,335,372,382"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="251,405,347,435"/>
+<area shape="rect" id="node21" href="$d9/d5e/a00295.html#ae0e14955026684df1c7e261dc31fcb70" title="rocksdb::Compaction\l::num_input_files" alt="" coords="225,458,372,505"/>
+<area shape="rect" id="node7" href="$d2/d86/a01798.html#a9808f90e0c3ec496be67fc62cac0bd8f" title="rocksdb::VersionEdit\l::DeleteFile" alt="" coords="439,74,580,121"/>
+<area shape="rect" id="node15" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="429,283,589,312"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="sqlite3VdbeLinkSubProgram" name="sqlite3VdbeLinkSubProgram">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a463cea5aaaf388b560b206570a0022fc" title="codeRowTrigger" alt="" coords="240,56,357,85"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a69626ef20b540d1a2b19cf56f3f45689" title="getRowTrigger" alt="" coords="405,120,512,149"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#ad92829f9001bcf89a0299dad5a48acd4" title="sqlite3CodeRowTriggerDirect" alt="" coords="561,120,753,149"/>
+<area shape="rect" id="node43" href="$da/d6b/a02352.html#acace8e99e37ae5e84ea03c65e820c540" title="sqlite3TriggerColmask" alt="" coords="807,213,959,243"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a37f21393c74de4d01b16761ee9abacd9" title="sqlite3CodeRowTrigger" alt="" coords="804,107,961,136"/>
+<area shape="rect" id="node39" href="$da/d6b/a02352.html#a39159bd1623724946c22355ba7f3ef90" title="sqlite3FkActions" alt="" coords="824,160,941,189"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a2c76cbf3027fc18fdbb8cb4cd96b77d9" title="sqlite3GenerateRowDelete" alt="" coords="1011,160,1189,189"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#a5b17c9c2000bae6bdff8e6be48d7dc2b" title="sqlite3Insert" alt="" coords="1480,104,1573,133"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="1476,160,1577,189"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="1260,315,1388,344"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#aef639c1e6a0c0a67ca6e7690ad931bd2" title="sqlite3GenerateConstraint\lChecks" alt="" coords="1237,93,1411,139"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a120801f59d9281d201d2ff4b2606836e" title="codeTriggerProgram" alt="" coords="1643,159,1781,188"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#a1218c6fc74e89152ceaa4760e82f5ef9" title="sqlite3FkDropTable" alt="" coords="1460,264,1593,293"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="1829,239,1912,268"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#a5534f77364b5568783c0e50db3c9defb" title="sqlite3DropTable" alt="" coords="1652,264,1772,293"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#a90682707dee89aba38039bf7848c09d4" title="sqlite3Parser" alt="" coords="1960,239,2059,268"/>
+</map>

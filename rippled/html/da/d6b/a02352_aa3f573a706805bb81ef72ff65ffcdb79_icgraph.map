@@ -1,0 +1,34 @@
+<map id="pcache1FreePage" name="pcache1FreePage">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a984a14dae7f8f146ca82b94f587a1389" title="pcache1EnforceMaxPage" alt="" coords="181,339,352,368"/>
+<area shape="rect" id="node65" href="$da/d6b/a02352.html#a745bc37e2a945b10e6b23a6fe6c35411" title="pcache1Fetch" alt="" coords="215,469,319,499"/>
+<area shape="rect" id="node68" href="$da/d6b/a02352.html#a95d9a0e421b47a80bd282a8b68929210" title="pcache1TruncateUnsafe" alt="" coords="185,416,348,445"/>
+<area shape="rect" id="node74" href="$da/d6b/a02352.html#a5f9a5ef3862388dc0b104f9efea3f8c5" title="pcache1Unpin" alt="" coords="215,523,319,552"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a071ef90a5e389826abcea7883ff2cd05" title="pcache1Cachesize" alt="" coords="400,260,533,289"/>
+<area shape="rect" id="node59" href="$da/d6b/a02352.html#af128220dedcda78a71f3283ece247258" title="pcache1Destroy" alt="" coords="408,367,525,396"/>
+<area shape="rect" id="node62" href="$da/d6b/a02352.html#a7f62f5f6d03ab88020fa8e2ab80ca38e" title="pcache1Shrink" alt="" coords="413,313,520,343"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a91974afe7709a742451438556ee0c70c" title="sqlite3PCacheSetDefault" alt="" coords="583,393,751,423"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a2902c61ddc88bea002c4d69fe4052b1f" title="sqlite3PcacheInitialize" alt="" coords="952,340,1104,369"/>
+<area shape="rect" id="node50" href="$d1/db9/a02353.html#a74ad420b6f26bc06a04ff6ecec8a8c91" title="sqlite3_config" alt="" coords="801,393,903,423"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#ab0c0ee2d5d4cf8b28e9572296a8861df" title="sqlite3_initialize" alt="" coords="1317,368,1432,397"/>
+<area shape="rect" id="node13" href="$da/df6/a01454.html#ae7366713775c2ab1db4925d8909a024b" title="beast::sqdb::session\l::Sqlite3::Sqlite3" alt="" coords="1495,5,1636,51"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#ac201a26de3dfa1d6deb8069eb8d95627" title="sqlite3_vfs_find" alt="" coords="1509,75,1621,104"/>
+<area shape="rect" id="node17" href="$d1/db9/a02353.html#a7184b289ccd4c4c7200589137d88c4ae" title="sqlite3_vfs_register" alt="" coords="1499,128,1632,157"/>
+<area shape="rect" id="node19" href="$d1/db9/a02353.html#aa3f89418cd18e99596435c958b29b650" title="sqlite3_mutex_alloc" alt="" coords="1497,181,1633,211"/>
+<area shape="rect" id="node21" href="$d1/db9/a02353.html#ab37b3a4d1652e3acb2c43d1252e6b852" title="sqlite3_soft_heap_limit64" alt="" coords="1481,235,1649,264"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#a510e31845345737f17d86ce0b2328356" title="sqlite3_malloc" alt="" coords="1513,288,1617,317"/>
+<area shape="rect" id="node25" href="$d1/db9/a02353.html#a627f0eeface58024ef47403d8cc76b35" title="sqlite3_realloc" alt="" coords="1513,341,1617,371"/>
+<area shape="rect" id="node27" href="$d1/db9/a02353.html#ac240de67ddf003828f16a6d9dd3fa3ca" title="sqlite3_vmprintf" alt="" coords="1508,395,1623,424"/>
+<area shape="rect" id="node29" href="$d1/db9/a02353.html#a9533933e57f7ccbb48c32041ce3a8862" title="sqlite3_mprintf" alt="" coords="1512,448,1619,477"/>
+<area shape="rect" id="node31" href="$d1/db9/a02353.html#a85a95b45e94f6bcd52aa39b6acdb36d7" title="sqlite3_auto_extension" alt="" coords="1488,501,1643,531"/>
+<area shape="rect" id="node33" href="$d1/db9/a02353.html#ac33f4064ae6690cada7bdc89e8153ffc" title="sqlite3_reset_auto\l_extension" alt="" coords="1501,554,1629,601"/>
+<area shape="rect" id="node39" href="$d1/db9/a02353.html#a3260341c2ef82787acca48414a1d03a1" title="sqlite3_complete16" alt="" coords="1499,624,1632,653"/>
+<area shape="rect" id="node41" href="$da/d6b/a02352.html#a6a9c3bc3a64234e863413f41db473758" title="openDatabase" alt="" coords="1512,677,1619,707"/>
+<area shape="rect" id="node45" href="$d1/db9/a02353.html#adbc401bb96713f32e553db32f6f3ca33" title="sqlite3_open16" alt="" coords="1705,729,1815,759"/>
+<area shape="rect" id="node35" href="$d1/db9/a02353.html#aeaf9947fe863ba3d3aca061475e3af2e" title="sqlite3_shutdown" alt="" coords="1699,563,1821,592"/>
+<area shape="rect" id="node37" href="$da/df6/a01454.html#a547ac6bfe8f798eea7e1e3944360d012" title="beast::sqdb::session\l::Sqlite3::~Sqlite3" alt="" coords="1871,554,2012,601"/>
+<area shape="rect" id="node43" href="$d1/db9/a02353.html#a97ba966ed1acc38409786258268f5f71" title="sqlite3_open" alt="" coords="1713,623,1807,652"/>
+<area shape="rect" id="node47" href="$d1/db9/a02353.html#a140fe275b6975dc867cea50a65a217c4" title="sqlite3_open_v2" alt="" coords="1703,676,1817,705"/>
+<area shape="rect" id="node52" href="$da/d6b/a02352.html#a162fbfd727e92c5f8f72625b5ff62549" title="sqlite3MemSetDefault" alt="" coords="953,393,1103,423"/>
+<area shape="rect" id="node54" href="$da/d6b/a02352.html#a9e06f9e7cad0d83ce80ab493c9533552" title="sqlite3MallocInit" alt="" coords="1153,393,1268,423"/>
+<area shape="rect" id="node70" href="$da/d6b/a02352.html#ab21c5f71467aa7cfe1d1da105ecab289" title="pcache1Truncate" alt="" coords="405,420,528,449"/>
+</map>

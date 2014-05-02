@@ -1,0 +1,8 @@
+<map id="beast::ScopedPointer::release" name="beast::ScopedPointer::release">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a529eb36a3b30af874c124f051b72da8a" title="beast::File::createInput\lStream" alt="" coords="207,43,361,90"/>
+<area shape="rect" id="node9" href="$d4/d33/a00536.html#a03f32caab150394bb96aa40c3e0369ab" title="beast::File::createOutput\lStream" alt="" coords="201,113,367,159"/>
+<area shape="rect" id="node11" href="$d2/d68/a01295.html#a9f7f45ad7ade56b3e97c2ac630ca9a19" title="ripple::RPCDoor::New" alt="" coords="208,183,360,212"/>
+<area shape="rect" id="node5" href="$d3/d87/a00539.html#a1a1e8feccdc99ab2b6dc201b61c972a4" title="beast::FileInputSource\l::createInputStream" alt="" coords="419,5,571,51"/>
+<area shape="rect" id="node7" href="$d3/d87/a00539.html#a0681a32b10b201a910407c3d265da0d6" title="beast::FileInputSource\l::createInputStreamFor" alt="" coords="417,74,572,121"/>
+<area shape="rect" id="node13" href="$d0/d61/a00100.html#a0c3f15a3c50547ecb0a40f5824465774" title="ripple::ApplicationImp\l::setup" alt="" coords="421,174,568,221"/>
+</map>

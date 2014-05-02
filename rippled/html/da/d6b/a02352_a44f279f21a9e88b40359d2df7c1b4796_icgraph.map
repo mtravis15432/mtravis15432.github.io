@@ -1,0 +1,13 @@
+<map id="columnNullValue" name="columnNullValue">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a3cff107b1379611ef486ef2f925eb129" title="columnMem" alt="" coords="173,245,267,275"/>
+<area shape="rect" id="node5" href="$d1/db9/a02353.html#a4e4ed7d779580336885fbee879d4a823" title="sqlite3_column_blob" alt="" coords="327,5,465,35"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#a001421375b25195e3f80871dcb1be172" title="sqlite3_column_bytes" alt="" coords="323,59,469,88"/>
+<area shape="rect" id="node9" href="$d1/db9/a02353.html#ac861525fa4d70b48a46eabaa75130439" title="sqlite3_column_bytes16" alt="" coords="315,112,477,141"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#a368632d32e55eaa325cb7272effffaba" title="sqlite3_column_double" alt="" coords="319,165,473,195"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#a6bd16f5b3266f473e37e8e3d4ebb4290" title="sqlite3_column_int" alt="" coords="331,219,461,248"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#a39f0c222a27bd9c4cb73d07e9e48ffe6" title="sqlite3_column_int64" alt="" coords="324,272,468,301"/>
+<area shape="rect" id="node17" href="$d1/db9/a02353.html#a2f04c4c4fcf17f6e866236cce8c0d426" title="sqlite3_column_text" alt="" coords="327,325,465,355"/>
+<area shape="rect" id="node19" href="$d1/db9/a02353.html#acd2186d1b5bf3662be539d0763dd3eb9" title="sqlite3_column_text16" alt="" coords="320,379,472,408"/>
+<area shape="rect" id="node21" href="$d1/db9/a02353.html#a384086b220821bc71e9a3f900773a25d" title="sqlite3_column_type" alt="" coords="325,432,467,461"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#aeb00abfab0594466db8edcf96c320fda" title="sqlite3_column_value" alt="" coords="323,485,469,515"/>
+</map>

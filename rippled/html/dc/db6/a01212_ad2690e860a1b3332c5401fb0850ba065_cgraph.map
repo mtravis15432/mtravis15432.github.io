@@ -1,0 +1,11 @@
+<map id="Json::Reader::readComment" name="Json::Reader::readComment">
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#aaea3bd62d12ffb6117a61476c0685049" title="Json::Reader::addComment" alt="" coords="245,36,432,65"/>
+<area shape="rect" id="node13" href="$d2/dd6/a03414.html#a4d6ab0f651348832e5cc49b577a854d2" title="Json::containsNewLine" alt="" coords="260,89,417,119"/>
+<area shape="rect" id="node15" href="$dc/db6/a01212.html#ab61eb61333cc9ec3afe785663a53ce90" title="Json::Reader::getNextChar" alt="" coords="481,201,663,231"/>
+<area shape="rect" id="node17" href="$dc/db6/a01212.html#a6716ef6290b0f469efaf8d379c357967" title="Json::Reader::readCppStyle\lComment" alt="" coords="245,193,432,239"/>
+<area shape="rect" id="node20" href="$dc/db6/a01212.html#ae0ffe796abdc3c5851589ee500e28c79" title="Json::Reader::readCStyle\lComment" alt="" coords="252,262,425,309"/>
+<area shape="rect" id="node5" href="$d6/d27/a01781.html#a29f3a30f7e5d3af6f38d57999bf5b480" title="Comments must be //... or /* ... */. " alt="" coords="485,36,659,65"/>
+<area shape="rect" id="node7" href="$d4/d5b/a00294.html#a7ee273d42f033e237e15017dcee1bcc5" title="Json::Value::CommentInfo\l::setComment" alt="" coords="712,27,891,74"/>
+<area shape="rect" id="node9" href="$d2/dd6/a03414.html#a55c29a5375e53382368f928692bd2d4d" title="Json::valueAllocator" alt="" coords="941,5,1080,35"/>
+<area shape="rect" id="node11" href="$dd/dec/a01782.html#aa75c50f08bab7db386673ab355668c99" title="Json::ValueAllocator\l::releaseStringValue" alt="" coords="940,58,1081,105"/>
+</map>

@@ -1,0 +1,38 @@
+var a01552 =
+[
+    [ "Code", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416d", [
+      [ "kOk", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416dabc1604d140358cb4355cf19cfd866fb2", null ],
+      [ "kNotFound", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416dad7bfa3499988086fe2f1ccb3c2add09b", null ],
+      [ "kCorruption", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416da681956261ff97335ce496e38691207e7", null ],
+      [ "kNotSupported", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416da1dad9e1da0a8044d7acf5426605ea9ba", null ],
+      [ "kInvalidArgument", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416da68b50fb97a2d00025fea9dc690aa884e", null ],
+      [ "kIOError", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416daa8ccc5e95bd41e77882930d051ae8f03", null ],
+      [ "kMergeInProgress", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416dad2e3871b3a9ae306a91440f62732fb18", null ],
+      [ "kIncomplete", "d0/db9/a01552.html#a674f0382df1070a302a38eed9be0416dac0e5094e7788a3eb41c2068d8ee6f9a3", null ]
+    ] ],
+    [ "Status", "d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864", null ],
+    [ "~Status", "d0/db9/a01552.html#aee3c65741c24cf88b350c904e616e00d", null ],
+    [ "Status", "d0/db9/a01552.html#a3a35e6356b999e337c19c64fa3d97b3f", null ],
+    [ "Status", "d0/db9/a01552.html#a389e2961abe595f2d5c63bf6e8e8d803", null ],
+    [ "code", "d0/db9/a01552.html#a6679d2e36279094844a67acbb3cc3e5c", null ],
+    [ "CopyState", "d0/db9/a01552.html#a66a729575242dea7a063bf936d7d64c8", null ],
+    [ "Corruption", "d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d", null ],
+    [ "Incomplete", "d0/db9/a01552.html#a223ccba0dce26cd4539d6fd2c28ae364", null ],
+    [ "InvalidArgument", "d0/db9/a01552.html#a5afec51a3f306b6f188a5af0c5d003ba", null ],
+    [ "IOError", "d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc", null ],
+    [ "IsCorruption", "d0/db9/a01552.html#a79cb3dac4a4a48c91ce454f34a2299bb", null ],
+    [ "IsIncomplete", "d0/db9/a01552.html#a9f3da4da8b93493a77914422c648a977", null ],
+    [ "IsInvalidArgument", "d0/db9/a01552.html#ac531de858509a3587de1d7bc2e69404f", null ],
+    [ "IsIOError", "d0/db9/a01552.html#a02f70b039349a83f3cc40a34dd958d2c", null ],
+    [ "IsMergeInProgress", "d0/db9/a01552.html#adf9c2b80d52e927e63ca2bd97bf42f9a", null ],
+    [ "IsNotFound", "d0/db9/a01552.html#ac6c469e9064f786f2adcc0a9ad328d8b", null ],
+    [ "IsNotSupported", "d0/db9/a01552.html#a256fcc4d2c151f3acca32910a2094426", null ],
+    [ "MergeInProgress", "d0/db9/a01552.html#ae68d506384bf32b72c7db619eaeb508a", null ],
+    [ "NotFound", "d0/db9/a01552.html#a415510a7cc15542538c80c790d2bb4af", null ],
+    [ "NotSupported", "d0/db9/a01552.html#affd56b266e377f34a3b2e3d525a9d8c8", null ],
+    [ "OK", "d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00", null ],
+    [ "ok", "d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425", null ],
+    [ "operator=", "d0/db9/a01552.html#add8fd985a98112e486c69653e0ac0f53", null ],
+    [ "ToString", "d0/db9/a01552.html#ac02bdc6723705072a10111a99b4ca17c", null ],
+    [ "state_", "d0/db9/a01552.html#a7ad69c66104af7b492c0b1a29b17b5ff", null ]
+];

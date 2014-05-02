@@ -1,0 +1,24 @@
+<map id="rocksdb::log::Reader::ReadPhysicalRecord" name="rocksdb::log::Reader::ReadPhysicalRecord">
+<area shape="rect" id="node3" href="$de/daf/a01417.html#a8f740f146e792dc89409f8402a61ad04" title="rocksdb::Slice::clear" alt="" coords="224,5,365,35"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="225,59,364,88"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="1735,269,1900,299"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="227,163,363,192"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="444,197,599,243"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="677,264,813,293"/>
+<area shape="rect" id="node15" href="$d5/d54/a01213.html#a7db406791cb13477c816733858ea1e51" title="rocksdb::log::Reader\l::ReportCorruption" alt="" coords="224,367,365,414"/>
+<area shape="rect" id="node17" href="$d5/d54/a01213.html#a49fd67047e3128cc471e7c31c5db6f9c" title="rocksdb::log::Reader\l::ReportDrop" alt="" coords="451,317,592,363"/>
+<area shape="rect" id="node28" href="$d7/db0/a03467.html#a8c50508656b8faef53619a2d4097eaf0" title="rocksdb::crc32c::Unmask" alt="" coords="209,437,380,467"/>
+<area shape="rect" id="node30" href="$d7/db0/a03467.html#a90a67ab6517f594a989c6cb4f3ff67f9" title="rocksdb::crc32c::Value" alt="" coords="217,491,372,520"/>
+<area shape="rect" id="node22" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="431,387,612,416"/>
+<area shape="rect" id="node20" href="$d7/d04/a01246.html#a3489a71709b9f8a459daf7761fc8658e" title="rocksdb::log::Reader\l::Reporter::Corruption" alt="" coords="672,317,819,363"/>
+<area shape="rect" id="node24" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="665,387,825,416"/>
+<area shape="rect" id="node32" href="$d7/db0/a03467.html#aba0a720f8204028aa9b0f78f969d5f97" title="rocksdb::crc32c::Extend" alt="" coords="440,479,603,508"/>
+<area shape="rect" id="node34" href="$d7/db0/a03467.html#a174fe9c8cf3cb558b7accfdc10c6c04c" title="rocksdb::crc32c::CRC32" alt="" coords="663,465,828,495"/>
+<area shape="rect" id="node36" href="$d7/db0/a03467.html#aeb8537c518a4a8ac7e1d8f8ac1c6bb63" title="rocksdb::crc32c::Choose\l_CRC32" alt="" coords="877,386,1045,433"/>
+<area shape="rect" id="node38" href="$d7/db0/a03467.html#ab6bf1f9041f7859fe1aae6312f650115" title="rocksdb::crc32c::Fast\l_CRC32" alt="" coords="1107,299,1256,346"/>
+<area shape="rect" id="node45" href="$d7/db0/a03467.html#aabbb4470a0a8566fff676e40a5c3a491" title="rocksdb::crc32c::Slow\l_CRC32" alt="" coords="1317,330,1469,377"/>
+<area shape="rect" id="node50" href="$d7/db0/a03467.html#a6abc7c8ed18979f0e12fcfb6460f9285" title="rocksdb::crc32c::isSSE42" alt="" coords="1095,420,1268,449"/>
+<area shape="rect" id="node40" href="$d7/db0/a03467.html#aa5eeccea7be6cc99acab7223cc1c7baf" title="rocksdb::crc32c::LE\l_LOAD64" alt="" coords="1324,261,1463,307"/>
+<area shape="rect" id="node42" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="1519,269,1684,299"/>
+<area shape="rect" id="node47" href="$d7/db0/a03467.html#a72b216c9d4dfeeaea89e2410eec06ff9" title="rocksdb::crc32c::LE\l_LOAD32" alt="" coords="1532,326,1671,373"/>
+</map>

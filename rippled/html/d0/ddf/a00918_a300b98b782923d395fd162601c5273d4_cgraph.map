@@ -1,0 +1,20 @@
+<map id="rocksdb::log::LogTest::WriteInitialOffsetLog" name="rocksdb::log::LogTest::WriteInitialOffsetLog">
+<area shape="rect" id="node3" href="$d0/ddf/a00918.html#aa0b722fb0da16a3fc99003e367c14c27" title="rocksdb::log::LogTest\l::Write" alt="" coords="204,143,351,190"/>
+<area shape="rect" id="node5" href="$da/d18/a01850.html#a38f817406010aa11b3e9ece52425cae2" title="rocksdb::log::Writer\l::AddRecord" alt="" coords="400,143,536,190"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="589,68,728,97"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="591,121,727,151"/>
+<area shape="rect" id="node11" href="$da/d18/a01850.html#aa1a71db57537317c5621593b04750216" title="rocksdb::log::Writer\l::EmitPhysicalRecord" alt="" coords="584,174,733,221"/>
+<area shape="rect" id="node39" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="797,243,933,272"/>
+<area shape="rect" id="node13" href="$d7/db0/a03467.html#aba0a720f8204028aa9b0f78f969d5f97" title="rocksdb::crc32c::Extend" alt="" coords="784,83,947,112"/>
+<area shape="rect" id="node35" href="$d7/db0/a03467.html#a878557cbe7e1259455691fa1eb7b2743" title="rocksdb::crc32c::Mask" alt="" coords="788,136,943,165"/>
+<area shape="rect" id="node37" href="$d4/d87/a03436.html#aabc7ce45ae48e15b24a6756f9b4fd694" title="rocksdb::EncodeFixed32" alt="" coords="783,189,948,219"/>
+<area shape="rect" id="node15" href="$d7/db0/a03467.html#a174fe9c8cf3cb558b7accfdc10c6c04c" title="rocksdb::crc32c::CRC32" alt="" coords="999,83,1164,112"/>
+<area shape="rect" id="node17" href="$d7/db0/a03467.html#aeb8537c518a4a8ac7e1d8f8ac1c6bb63" title="rocksdb::crc32c::Choose\l_CRC32" alt="" coords="1213,74,1381,121"/>
+<area shape="rect" id="node19" href="$d7/db0/a03467.html#ab6bf1f9041f7859fe1aae6312f650115" title="rocksdb::crc32c::Fast\l_CRC32" alt="" coords="1443,14,1592,61"/>
+<area shape="rect" id="node27" href="$d7/db0/a03467.html#aabbb4470a0a8566fff676e40a5c3a491" title="rocksdb::crc32c::Slow\l_CRC32" alt="" coords="1653,74,1805,121"/>
+<area shape="rect" id="node32" href="$d7/db0/a03467.html#a6abc7c8ed18979f0e12fcfb6460f9285" title="rocksdb::crc32c::isSSE42" alt="" coords="1431,135,1604,164"/>
+<area shape="rect" id="node21" href="$d7/db0/a03467.html#aa5eeccea7be6cc99acab7223cc1c7baf" title="rocksdb::crc32c::LE\l_LOAD64" alt="" coords="1660,5,1799,51"/>
+<area shape="rect" id="node23" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="1855,16,2020,45"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="2071,48,2236,77"/>
+<area shape="rect" id="node29" href="$d7/db0/a03467.html#a72b216c9d4dfeeaea89e2410eec06ff9" title="rocksdb::crc32c::LE\l_LOAD32" alt="" coords="1868,70,2007,117"/>
+</map>

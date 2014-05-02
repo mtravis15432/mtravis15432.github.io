@@ -1,0 +1,4 @@
+<map id="rocksdb::log::LogTest::WriteInitialOffsetLog" name="rocksdb::log::LogTest::WriteInitialOffsetLog">
+<area shape="rect" id="node3" href="$d0/ddf/a00918.html#a9214c65a9609b8dead5640c80d44d3fe" title="rocksdb::log::LogTest\l::CheckInitialOffsetRecord" alt="" coords="215,5,391,51"/>
+<area shape="rect" id="node5" href="$d0/ddf/a00918.html#aabb9e723514342bcd2b572efbefe980f" title="rocksdb::log::LogTest\l::CheckOffsetPastEndReturns\lNoRecords" alt="" coords="203,75,403,139"/>
+</map>

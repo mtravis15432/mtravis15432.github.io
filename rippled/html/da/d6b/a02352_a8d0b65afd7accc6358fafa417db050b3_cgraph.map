@@ -1,0 +1,13 @@
+<map id="sqlite3VdbeDeletePriorOpcode" name="sqlite3VdbeDeletePriorOpcode">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a807e82d6627750b2fa4685812da68a9d" title="sqlite3VdbeChangeToNoop" alt="" coords="253,109,435,139"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#aa1ec8debef2a9be5fe36a3082fd3e0f9" title="freeP4" alt="" coords="484,109,543,139"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#ace0a45aad803937290f5495906773bc4" title="freeEphemeralFunction" alt="" coords="775,5,929,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="985,136,1087,165"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#ac94cc1874ab0865db1dbbefd3886ba4a" title="sqlite3KeyInfoUnref" alt="" coords="784,109,920,139"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#afeed84c3f344a833d15c7209265dc520" title="sqlite3ValueFree" alt="" coords="597,161,715,191"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="592,240,720,269"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1348,97,1439,127"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1327,163,1460,192"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1136,136,1277,165"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="769,213,935,243"/>
+</map>

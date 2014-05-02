@@ -1,0 +1,10 @@
+<map id="sqlite3PutVarint" name="sqlite3PutVarint">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a738d55beb6fd12bed8c8ccbf733bf698" title="fileWriterWriteVarint" alt="" coords="168,31,307,60"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a2a9729decac0f85ff5dfce13e4bfc076" title="sqlite3PutVarint32" alt="" coords="173,84,301,113"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#ae550fccf5d10c1ebec8de14cb5e423f0" title="sqlite3VdbeSorterRewind" alt="" coords="556,5,724,35"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a6cd71a52254df3740736535daa71d165" title="vdbeSorterListToPMA" alt="" coords="356,57,505,87"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="773,32,893,61"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="943,32,1028,61"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="1079,32,1169,61"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a03d0b3c0c5b2f98934aeb39f8e332fae" title="sqlite3VdbeSorterWrite" alt="" coords="563,59,717,88"/>
+</map>

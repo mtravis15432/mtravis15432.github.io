@@ -1,0 +1,11 @@
+<map id="ripple::UniqueNodeList" name="ripple::UniqueNodeList">
+<area shape="rect" id="node2" href="$d2/d49/a01561.html" title="beast::Stoppable" alt="" coords="1144,133,1264,162"/>
+<area shape="rect" id="node10" href="$dd/d56/a00274.html" title="beast::Stoppable::Child" alt="" coords="1375,79,1532,109"/>
+<area shape="rect" id="node15" href="$d9/dda/a01289.html" title="beast::RootStoppable" alt="" coords="1380,219,1527,249"/>
+<area shape="rect" id="node4" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="880,238,1021,267"/>
+<area shape="rect" id="node6" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="373,139,520,169"/>
+<area shape="rect" id="node8" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,46,136,75"/>
+<area shape="rect" id="node19" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; Child \&gt;" alt="" coords="876,21,1025,68"/>
+<area shape="rect" id="node22" href="$d3/d08/a01018.html" title="beast::LockFreeStack\l\&lt; Element, Tag \&gt;::Node" alt="" coords="187,37,349,84"/>
+<area shape="rect" id="node25" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::LockFreeStack::Node * \&gt;" alt="" coords="544,71,723,117"/>
+</map>

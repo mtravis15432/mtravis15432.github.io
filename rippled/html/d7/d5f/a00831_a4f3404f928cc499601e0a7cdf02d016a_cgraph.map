@@ -1,0 +1,12 @@
+<map id="ripple::LedgerConsensusImp::takeInitialPosition" name="ripple::LedgerConsensusImp::takeInitialPosition">
+<area shape="rect" id="node3" href="$d0/d2a/a00531.html#a967ec65cbf9ccc9d5bfdbc058d84e686" title="ripple::FeatureTable\l::doVoting" alt="" coords="289,5,425,51"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="307,75,408,104"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="299,128,416,157"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#a58504b1cd16de88b0f8ac0b3428cbe5f" title="ripple::Application\l::getFeatureTable" alt="" coords="295,181,420,227"/>
+<area shape="rect" id="node13" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="295,250,420,297"/>
+<area shape="rect" id="node15" href="$dd/d5f/a00825.html#a5069b7b79a71a9cc1b861f806d8b2922" title="ripple::Ledger::getParentHash" alt="" coords="260,320,455,349"/>
+<area shape="rect" id="node17" href="$dd/d5f/a00825.html#a0d92626cff8b9026b2b8487658ab49ae" title="ripple::Ledger::hasTransaction" alt="" coords="259,373,456,403"/>
+<area shape="rect" id="node19" href="$dd/d5f/a00825.html#a0702586ea0604f4d38af3b927728773d" title="ripple::Ledger::peekTransactionMap" alt="" coords="243,427,472,456"/>
+<area shape="rect" id="node21" href="$d1/de6/a00837.html#a9e5a001c4c490f9210a91a95084ba070" title="ripple::LedgerMaster\l::setBuildingLedger" alt="" coords="288,479,427,526"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="521,66,697,113"/>
+</map>

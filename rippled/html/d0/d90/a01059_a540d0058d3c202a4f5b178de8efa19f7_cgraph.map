@@ -1,0 +1,25 @@
+<map id="ripple::OrderBookIterator::nextOffer" name="ripple::OrderBookIterator::nextOffer">
+<area shape="rect" id="node3" href="$df/d24/a00217.html#ac839d7e9343a3bba0e229c582400c9ff" title="ripple::BookDirIterator\l::getOfferIterator" alt="" coords="237,109,387,155"/>
+<area shape="rect" id="node17" href="$df/d24/a00217.html#aa2f2ded379961e8d2e8947d6d6d03123" title="ripple::BookDirIterator\l::nextDirectory" alt="" coords="237,207,387,254"/>
+<area shape="rect" id="node29" href="$d4/dbc/a00414.html#afb66bbf56a58c5196dac086794f2e428" title="ripple::DirectoryEntryIterator\l::nextEntry" alt="" coords="219,349,405,395"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="467,93,592,139"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="1061,237,1187,283"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="667,59,816,88"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="692,5,791,35"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1247,276,1396,305"/>
+<area shape="rect" id="node15" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="885,5,995,35"/>
+<area shape="rect" id="node19" href="$d0/d08/a00832.html#ad13594cf847a6c56ef479ee44ae3c329" title="ripple::LedgerEntrySet\l::entryCache" alt="" coords="667,369,816,415"/>
+<area shape="rect" id="node22" href="$d0/d08/a00832.html#a3c62f65b6d801fa3008ff179c988a3ed" title="ripple::LedgerEntrySet\l::getNextLedgerIndex" alt="" coords="455,162,604,209"/>
+<area shape="rect" id="node26" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="877,222,1003,269"/>
+<area shape="rect" id="node24" href="$d7/d9a/a00152.html#a3fa11a064a87fe4e970f00d661287dd2" title="ripple::base_uint::\lisNonZero" alt="" coords="679,162,804,209"/>
+<area shape="rect" id="node31" href="$d0/d08/a00832.html#aba4c47da1bc84e37cc5c52f3797494e0" title="ripple::LedgerEntrySet\l::dirNext" alt="" coords="455,438,604,485"/>
+<area shape="rect" id="node52" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="667,577,816,607"/>
+<area shape="rect" id="node34" href="$dd/d5f/a00825.html#a0d50fe89b5f50adf3cea06fdb94a03b5" title="ripple::Ledger::getDirNode\lIndex" alt="" coords="655,438,828,485"/>
+<area shape="rect" id="node50" href="$db/d51/a01603.html#ac1d1c102b952d362e77c419487110ec2" title="ripple::STVector256\l::peekValue" alt="" coords="673,507,809,554"/>
+<area shape="rect" id="node36" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="883,507,997,554"/>
+<area shape="rect" id="node38" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="883,298,997,345"/>
+<area shape="rect" id="node44" href="$da/d61/a01350.html#a253e724ffc3143dfd70bde767af71a7e" title="ripple::Serializer\l::add64" alt="" coords="883,369,997,415"/>
+<area shape="rect" id="node46" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="880,438,1000,485"/>
+<area shape="rect" id="node41" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1051,307,1197,336"/>
+<area shape="rect" id="node48" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="1067,438,1181,485"/>
+</map>

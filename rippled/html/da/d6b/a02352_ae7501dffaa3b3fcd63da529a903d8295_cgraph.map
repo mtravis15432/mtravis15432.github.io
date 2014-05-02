@@ -1,0 +1,9 @@
+<map id="sqlite3BtreeSetPagerFlags" name="sqlite3BtreeSetPagerFlags">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="612,63,745,93"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="244,91,367,121"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="243,38,368,67"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a6c4fa8208b09ece55d1ac8394c564d27" title="sqlite3PagerSetFlags" alt="" coords="232,145,379,174"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="435,142,547,171"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="428,38,553,67"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="603,142,755,171"/>
+</map>

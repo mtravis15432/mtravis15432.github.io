@@ -1,0 +1,18 @@
+<map id="createTableStmt" name="createTableStmt">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a1d0035919a365c7abc831b80215f58a3" title="identLength" alt="" coords="201,5,289,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a74ea2521c5fe1faf0e631d19acfc8fb7" title="identPut" alt="" coords="211,59,280,88"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#ad3b6641027549ec6634f6239256676bd" title="sqlite3AffinityType" alt="" coords="180,112,311,141"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="175,165,316,195"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="192,219,299,248"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a16398c184960984d2f079c417d70c14f" title="sqlite3KeywordCode" alt="" coords="367,59,508,88"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#aa955bae98c47221b815579359b52335c" title="keywordCode" alt="" coords="568,59,669,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="383,112,492,141"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="729,151,863,180"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="388,229,487,259"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="559,256,679,285"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="737,204,855,233"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="912,283,1043,312"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="731,308,861,337"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="735,361,857,391"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="736,415,856,444"/>
+</map>

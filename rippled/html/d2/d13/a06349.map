@@ -1,0 +1,9 @@
+<map id="beast::SharedSingleton&lt; Object &gt;" name="beast::SharedSingleton&lt; Object &gt;">
+<area shape="rect" id="node8" href="$d6/db3/a00130.html" title="beast::AtExitMemberHook\l\&lt; beast::SharedSingleton \&gt;" alt="" coords="249,331,431,378"/>
+<area shape="rect" id="node4" href="$d9/d40/a01387.html" title="beast::SharedObject" alt="" coords="289,95,431,124"/>
+<area shape="rect" id="node6" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="295,5,425,35"/>
+<area shape="rect" id="node10" href="$d9/d47/a00129.html" title="beast::AtExitHook" alt="" coords="167,225,295,255"/>
+<area shape="rect" id="node12" href="$d0/d7e/a00770.html" title="beast::AtExitHook::Item" alt="" coords="63,340,225,369"/>
+<area shape="rect" id="node14" href="$d3/d50/a00882.html" title="List\&lt;Item\&gt;::Node" alt="" coords="20,225,143,255"/>
+<area shape="rect" id="node16" href="$d3/d50/a00882.html" title="beast::detail::ListNode\l\&lt; T, Tag \&gt;" alt="" coords="5,86,157,133"/>
+</map>

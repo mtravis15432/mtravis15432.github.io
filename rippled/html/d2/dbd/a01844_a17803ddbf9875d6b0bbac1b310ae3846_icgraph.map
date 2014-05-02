@@ -1,0 +1,29 @@
+<map id="rocksdb::WriteBatch::Delete" name="rocksdb::WriteBatch::Delete">
+<area shape="rect" id="node3" href="$d8/ddd/a00380.html#a6571e7ad4dfe25184e076fc3a937007a" title="rocksdb::DB::Delete" alt="" coords="213,239,355,268"/>
+<area shape="rect" id="node38" href="$d8/d64/a00181.html#a89b6fd41dbd0d7e0fd9824af76fbf091" title="rocksdb::Benchmark\l::DeleteMany" alt="" coords="213,651,355,698"/>
+<area shape="rect" id="node46" href="$d8/d64/a00181.html#acaf98d79ccb13014a0343fed4599414c" title="rocksdb::Benchmark\l::DoDelete" alt="" coords="213,513,355,559"/>
+<area shape="rect" id="node54" href="$d5/d95/a02625.html#a593cea62db6cf16cbcdfc3668493d277" title="leveldb_writebatch\l_delete" alt="" coords="219,443,349,490"/>
+<area shape="rect" id="node57" href="$df/dba/a01726.html#a0623e911b9ceb63a7df1ee8fbef4ad72" title="rocksdb::TtlTest::MakePut\lWriteBatch" alt="" coords="196,582,372,629"/>
+<area shape="rect" id="node59" href="$d3/daa/a01577.html#a66ead39d0fcb2a275ade836e56c3f7f1" title="rocksdb::StressTest\l::MultiDelete" alt="" coords="215,374,353,421"/>
+<area shape="rect" id="node62" href="$d4/d87/a03436.html#af3f8099ea88931aa9d7159da42932152" title="rocksdb::TEST" alt="" coords="229,721,339,751"/>
+<area shape="rect" id="node5" href="$d4/d27/a00392.html#aaa7adfb3364aafd0a930eba182bef785" title="rocksdb::DBWithTTL\l::Delete" alt="" coords="447,261,591,307"/>
+<area shape="rect" id="node15" href="$dd/df5/a00386.html#a5d5efdb5c1e9ec19aebcb0d76208ffe5" title="rocksdb::DBImpl::Delete" alt="" coords="436,32,601,61"/>
+<area shape="rect" id="node21" href="$db/d95/a00391.html#a45351b937bfcf6812f72f470843bf697" title="rocksdb::DBTest::Delete" alt="" coords="436,85,601,115"/>
+<area shape="rect" id="node23" href="$d0/dc7/a01402.html#a5f2deb65a2ddb598250643bacb98f90d" title="rocksdb::SimpleTableDBTest\l::Delete" alt="" coords="423,138,615,185"/>
+<area shape="rect" id="node25" href="$d4/d21/a00987.html#a9855601dde7415250b1202827c922746" title="rocksdb::ModelDB::Delete" alt="" coords="431,208,607,237"/>
+<area shape="rect" id="node32" href="$d5/d95/a02625.html#a3878ffaf68a4addb31266ac81ce8c36f" title="leveldb_delete" alt="" coords="467,331,571,360"/>
+<area shape="rect" id="node36" href="$d3/daa/a01577.html#af55a36a036e7348d3442400c050df2ee" title="rocksdb::StressTest\l::OperateDb" alt="" coords="449,383,588,430"/>
+<area shape="rect" id="node7" href="$d4/d27/a00392.html#a71ac4f9595315bfea87e163bc9206585" title="rocksdb::DBWithTTL\l::Write" alt="" coords="680,261,824,307"/>
+<area shape="rect" id="node9" href="$d4/d27/a00392.html#aecac9535709b5dd7617d950ffc14da49" title="rocksdb::DBWithTTL::Put" alt="" coords="888,331,1061,360"/>
+<area shape="rect" id="node12" href="$d4/d27/a00392.html#a7c23011ce3a37e5d9683c10ab88640f4" title="rocksdb::DBWithTTL\l::Merge" alt="" coords="903,261,1047,307"/>
+<area shape="rect" id="node17" href="$d3/dc9/a00355.html#a0394d51fe796dc41b560f93c3936a845" title="Counters::remove" alt="" coords="689,59,815,88"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#ac6ef9d1e4162be93428d033486a1741a" title="rocksdb::TEST" alt="" coords="697,5,807,35"/>
+<area shape="rect" id="node27" href="$d4/d87/a03436.html#a4e8b2803616c617002bd6812ef1af230" title="rocksdb::TEST" alt="" coords="920,208,1029,237"/>
+<area shape="rect" id="node29" href="$d4/d21/a00987.html#a21e950d94ac928ac7b1d1ba6f3018017" title="rocksdb::ModelDB::Write" alt="" coords="668,208,836,237"/>
+<area shape="rect" id="node34" href="$d1/d03/a02560.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="727,392,777,421"/>
+<area shape="rect" id="node40" href="$d8/d64/a00181.html#aa19482ee168f1ab9b9b59cb1fc7ca532" title="rocksdb::Benchmark\l::RandomWithVerify" alt="" coords="448,651,589,698"/>
+<area shape="rect" id="node42" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="665,591,839,620"/>
+<area shape="rect" id="node44" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="949,591,1000,620"/>
+<area shape="rect" id="node48" href="$d8/d64/a00181.html#a69dfe0c58db2870eaf97f49cc3f65135" title="rocksdb::Benchmark\l::DeleteRandom" alt="" coords="448,582,589,629"/>
+<area shape="rect" id="node51" href="$d8/d64/a00181.html#a09a98d5941fc226af2b098c3ead4c459" title="rocksdb::Benchmark\l::DeleteSeq" alt="" coords="448,513,589,559"/>
+</map>

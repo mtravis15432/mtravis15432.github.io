@@ -1,0 +1,10 @@
+<map id="ripple::MultiSocketType::AsyncOp::on_complete" name="ripple::MultiSocketType::AsyncOp::on_complete">
+<area shape="rect" id="node3" href="$df/dcd/a00127.html#a935283a5afd2401c1ce9ca93fae2e60e" title="ripple::MultiSocketType\l::AsyncOp::async_handshake" alt="" coords="221,213,419,259"/>
+<area shape="rect" id="node5" href="$db/db5/a00616.html#a868af1e2ef8372112345020f2da8575e" title="beast::asio::HandshakeDetector\lType::async_detect" alt="" coords="467,5,677,51"/>
+<area shape="rect" id="node7" href="$dd/dc0/a00611.html#a8646da519bdcfa05157d9fe1ac4ff18d" title="beast::asio::HandshakeDetect\lLogic::finished" alt="" coords="473,74,671,121"/>
+<area shape="rect" id="node9" href="$d0/d8d/a00612.html#a2a1db782125007a6bfe67ebe7499c4fe" title="beast::asio::HandshakeDetect\lLogicPROXY::getInfo" alt="" coords="473,143,671,190"/>
+<area shape="rect" id="node11" href="$db/db5/a00616.html#a7ee8e2dbb4634234892a91a44de221c8" title="beast::asio::HandshakeDetector\lType::getLogic" alt="" coords="467,213,677,259"/>
+<area shape="rect" id="node14" href="$df/dcd/a00127.html#accff7a55f57de1c0827f044ba7fe3d2e" title="ripple::MultiSocketType\l::AsyncOp::on_final" alt="" coords="493,282,651,329"/>
+<area shape="rect" id="node16" href="$dd/dc0/a00611.html#a43f8ad1e791225847b31b7df3d4991fd" title="beast::asio::HandshakeDetect\lLogic::success" alt="" coords="473,351,671,398"/>
+<area shape="rect" id="node18" href="$d5/d9d/a03343.html#af6e663f43fc6f0e7c631aa9b675ca292" title="beast::asio::wrap_handler" alt="" coords="487,421,657,451"/>
+</map>

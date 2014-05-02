@@ -1,0 +1,16 @@
+<map id="ripple::Ledger::setAccepted" name="ripple::Ledger::setAccepted">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#aeadbdb41f4d267981aeeeb0e8db8469f" title="ripple::Ledger::roundCloseTime" alt="" coords="235,39,437,68"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a172f6f42a968787e26bc1f2cff970675" title="ripple::Ledger::setImmutable" alt="" coords="243,92,429,121"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#a93d2362a14e7d5a802d03ea5ded53fcd" title="ripple::Ledger::updateHash" alt="" coords="485,92,664,121"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="716,13,865,43"/>
+<area shape="rect" id="node11" href="$da/d61/a01350.html#a4f09dcca07217744f793fa7473e845fe" title="ripple::Serializer\l::add32" alt="" coords="917,5,1032,51"/>
+<area shape="rect" id="node13" href="$dd/d5f/a00825.html#a28ccdd7d5313e2cd6b8c9d610656b7b4" title="ripple::Ledger::addRaw" alt="" coords="713,117,868,147"/>
+<area shape="rect" id="node29" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="731,209,851,255"/>
+<area shape="rect" id="node15" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="917,74,1032,121"/>
+<area shape="rect" id="node25" href="$da/d61/a01350.html#a253e724ffc3143dfd70bde767af71a7e" title="ripple::Serializer\l::add64" alt="" coords="917,143,1032,190"/>
+<area shape="rect" id="node27" href="$da/d61/a01350.html#a0344fccc7552038b51568aa4f93fca4e" title="ripple::Serializer\l::add8" alt="" coords="917,213,1032,259"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="1091,43,1216,90"/>
+<area shape="rect" id="node21" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1080,113,1227,143"/>
+<area shape="rect" id="node19" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1276,83,1425,112"/>
+<area shape="rect" id="node31" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="917,282,1032,329"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rocksdb::AutoRollLoggerTest::RollLogFileBySizeTest" name="rocksdb::AutoRollLoggerTest::RollLogFileBySizeTest">
+<area shape="rect" id="node3" href="$d4/ddd/a00138.html#a58a7422ea5d1aa078593c45c7e041203" title="rocksdb::AutoRollLogger\l::GetLogFileSize" alt="" coords="245,5,411,51"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a94920e503ad06b753ea3ff879a5a14d3" title="rocksdb::LogMessage" alt="" coords="253,75,403,104"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="460,75,556,104"/>
+</map>

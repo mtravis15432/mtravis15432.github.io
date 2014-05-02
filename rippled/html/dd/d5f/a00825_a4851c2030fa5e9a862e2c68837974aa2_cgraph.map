@@ -1,0 +1,9 @@
+<map id="ripple::Ledger::getBaseFee" name="ripple::Ledger::getBaseFee">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#afef5a6b3d13ce1828e1fc3d2e53a1987" title="ripple::Ledger::updateFees" alt="" coords="232,59,408,88"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="485,5,603,35"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#a70abcc7e26fb4288bfeb373a1e68dae5" title="ripple::Ledger::getASNode" alt="" coords="457,59,631,88"/>
+<area shape="rect" id="node9" href="$dd/d5f/a00825.html#a2bfc3d9cbd105badd97efbe5ccb7a855" title="ripple::Ledger::getLedger\lFeeIndex" alt="" coords="461,111,627,158"/>
+<area shape="rect" id="node11" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="684,77,799,123"/>
+<area shape="rect" id="node13" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="681,146,801,193"/>
+<area shape="rect" id="node15" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="851,146,965,193"/>
+</map>

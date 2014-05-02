@@ -1,0 +1,8 @@
+<map id="beast::FileSearchPath::addPath" name="beast::FileSearchPath::addPath">
+<area shape="rect" id="node3" href="$dc/d2b/a00546.html#a9a6dcc8878bb4dc690c575f589e55e19" title="beast::FileSearchPath\l::addIfNotAlreadyThere" alt="" coords="205,27,363,74"/>
+<area shape="rect" id="node13" href="$dc/d2b/a00546.html#a966b7642acaf74af46b963a567bb54fc" title="beast::FileSearchPath\l::getNumPaths" alt="" coords="209,97,359,143"/>
+<area shape="rect" id="node5" href="$dc/d2b/a00546.html#ab6fc0b615ae8750d44a342c52c02caf9" title="beast::FileSearchPath::add" alt="" coords="412,36,591,65"/>
+<area shape="rect" id="node11" href="$d9/d1b/a01583.html#a79ae01dc8942445936fc28142244087a" title="beast::StringArray\l::size" alt="" coords="439,93,564,139"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#a3a1b6608cad33bede2b440a5acf6f0f2" title="beast::File::getFullPathName" alt="" coords="640,5,832,35"/>
+<area shape="rect" id="node9" href="$d9/d1b/a01583.html#a9576b476737c6fdc70d99a9c0aaf21b6" title="beast::StringArray\l::insert" alt="" coords="673,58,799,105"/>
+</map>

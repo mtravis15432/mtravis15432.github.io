@@ -1,0 +1,6 @@
+<map id="ripple::HTTP::ServerImpl::stopping" name="ripple::HTTP::ServerImpl::stopping">
+<area shape="rect" id="node3" href="$d7/dc4/a01354.html#a36be9088913bb282cc5b05ccf7774b49" title="ripple::HTTP::ServerImpl\l::handle_update" alt="" coords="223,14,388,61"/>
+<area shape="rect" id="node9" href="$d7/dc4/a01354.html#a69a7deed82ebc0ca3cc63c5343b15539" title="ripple::HTTP::ServerImpl\l::stop" alt="" coords="655,74,820,121"/>
+<area shape="rect" id="node5" href="$d7/dc4/a01354.html#ae6c0d00e8d3672639437345e0dd07d9d" title="ripple::HTTP::ServerImpl\l::update" alt="" coords="439,14,604,61"/>
+<area shape="rect" id="node7" href="$d7/dc4/a01354.html#a25d8ef23e2279aa79af347461127e10a" title="ripple::HTTP::ServerImpl\l::setPorts" alt="" coords="655,5,820,51"/>
+</map>

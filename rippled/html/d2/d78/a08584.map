@@ -1,0 +1,22 @@
+<map id="rocksdb::SimpleTableIterator" name="rocksdb::SimpleTableIterator">
+<area shape="rect" id="node2" href="$d2/d02/a00777.html" title="rocksdb::Iterator" alt="" coords="1728,59,1845,88"/>
+<area shape="rect" id="node4" href="$d0/dcd/a00280.html" title="rocksdb::Iterator::\lCleanup" alt="" coords="1409,46,1535,93"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html" title="rocksdb::Status" alt="" coords="1072,128,1187,157"/>
+<area shape="rect" id="node13" href="$d3/d07/a01241.html" title="rocksdb::SimpleTableReader::Rep" alt="" coords="1361,200,1583,229"/>
+<area shape="rect" id="node9" href="$d4/d1a/a01405.html" title="rocksdb::SimpleTableReader" alt="" coords="1692,183,1881,212"/>
+<area shape="rect" id="node11" href="$d0/da4/a01631.html" title="rocksdb::TableReader" alt="" coords="1397,253,1547,283"/>
+<area shape="rect" id="node16" href="$d5/d5f/a00461.html" title="rocksdb::EnvOptions" alt="" coords="1057,248,1201,277"/>
+<area shape="rect" id="node20" href="$da/d20/a01160.html" title="rocksdb::RandomAccessFile" alt="" coords="652,309,841,339"/>
+<area shape="rect" id="node22" href="$dd/d57/a01054.html" title="rocksdb::Options" alt="" coords="687,627,807,656"/>
+<area shape="rect" id="node36" href="$dd/de9/a00552.html" title="rocksdb::FilterPolicy" alt="" coords="271,595,412,624"/>
+<area shape="rect" id="node38" href="$d9/d0d/a00298.html" title="rocksdb::CompactionOptions\lUniversal" alt="" coords="247,647,436,694"/>
+<area shape="rect" id="node40" href="$d1/d67/a00310.html" title="rocksdb::CompressionOptions" alt="" coords="243,717,440,747"/>
+<area shape="rect" id="node42" href="$db/db1/a00460.html" title="rocksdb::Env" alt="" coords="292,771,391,800"/>
+<area shape="rect" id="node44" title="STL class. " alt="" coords="301,163,381,192"/>
+<area shape="rect" id="node58" href="$dd/deb/a01628.html" title="rocksdb::TableProperties" alt="" coords="1047,188,1212,217"/>
+<area shape="rect" id="node46" title="STL class. " alt="" coords="7,154,132,201"/>
+<area shape="rect" id="node50" href="$d0/d7d/a01419.html" title="rocksdb::SliceTransform" alt="" coords="260,1000,423,1029"/>
+<area shape="rect" id="node52" href="$db/d7b/a00296.html" title="rocksdb::CompactionFilter" alt="" coords="255,1053,428,1083"/>
+<area shape="rect" id="node54" href="$d0/d61/a00302.html" title="rocksdb::Comparator" alt="" coords="269,824,413,853"/>
+<area shape="rect" id="node64" href="$de/daf/a01417.html" title="rocksdb::Slice" alt="" coords="1735,236,1839,265"/>
+</map>

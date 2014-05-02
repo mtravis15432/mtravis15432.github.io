@@ -1,0 +1,8 @@
+<map id="ripple::Validators::ReceivedValidation" name="ripple::Validators::ReceivedValidation">
+<area shape="rect" id="node2" href="$d2/d74/a00697.html" title="ripple::IdentifierType\l\&lt; RipplePublicKeyTraits \&gt;" alt="" coords="508,63,681,110"/>
+<area shape="rect" id="node6" href="$dd/d18/a01284.html" title="ripple::RipplePublicKeyTraits" alt="" coords="209,75,399,104"/>
+<area shape="rect" id="node8" href="$d0/d65/a00360.html" title="ripple::CryptoIdentifier\l\&lt; 33, 28, true \&gt;" alt="" coords="7,66,156,113"/>
+<area shape="rect" id="node10" href="$d2/d74/a00697.html" title="ripple::IdentifierType\l\&lt; RippleLedgerHashTraits \&gt;" alt="" coords="501,133,688,179"/>
+<area shape="rect" id="node14" href="$d8/d0d/a01280.html" title="ripple::RippleLedgerHash\lTraits" alt="" coords="220,201,388,247"/>
+<area shape="rect" id="node16" href="$da/de3/a01398.html" title="ripple::SimpleIdentifier\l\&lt; 32 \&gt;" alt="" coords="7,201,156,247"/>
+</map>

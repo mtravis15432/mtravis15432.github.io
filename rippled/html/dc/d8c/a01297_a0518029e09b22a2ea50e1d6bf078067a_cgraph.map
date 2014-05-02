@@ -1,0 +1,5 @@
+<map id="ripple::RPCHandler::doLedgerAccept" name="ripple::RPCHandler::doLedgerAccept">
+<area shape="rect" id="node3" href="$dd/dac/a01008.html#a704309dea2e57a15a3301a02537fb2ae" title="ripple::NetworkOPs\l::acceptLedger" alt="" coords="193,5,329,51"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="203,75,320,104"/>
+<area shape="rect" id="node7" href="$dd/dac/a01008.html#a09715bbe77ad8adb155444580383dc43" title="ripple::NetworkOPs\l::getCurrentLedgerID" alt="" coords="189,127,333,174"/>
+</map>

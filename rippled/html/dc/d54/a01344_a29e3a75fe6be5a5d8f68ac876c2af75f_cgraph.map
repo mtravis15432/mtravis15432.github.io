@@ -1,0 +1,15 @@
+<map id="ripple::SerializedLedgerEntry::getJson" name="ripple::SerializedLedgerEntry::getJson">
+<area shape="rect" id="node3" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="233,93,359,139"/>
+<area shape="rect" id="node15" href="$de/d1a/a01559.html#a20e386b11943fda5fe9c67542e8f0e50" title="ripple::STObject::getJson" alt="" coords="211,289,381,319"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="448,5,573,51"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="436,75,585,104"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="461,128,560,157"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="641,13,791,43"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="661,128,771,157"/>
+<area shape="rect" id="node17" href="$d7/d57/a01348.html#a420d71c47a773cf368ab6d8e99152871" title="ripple::SerializedType\l::getSType" alt="" coords="437,181,584,227"/>
+<area shape="rect" id="node19" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="437,250,584,297"/>
+<area shape="rect" id="node21" href="$d7/d81/a01365.html#afcf28e489ecd5c0453e86e4d134afa45" title="ripple::SField::hasName" alt="" coords="429,320,592,349"/>
+<area shape="rect" id="node23" href="$d7/d57/a01348.html#af1869902e1ff733f983ee59b686894eb" title="ripple::SerializedType\l::getJson" alt="" coords="437,373,584,419"/>
+<area shape="rect" id="node27" href="$d7/d57/a01348.html#a933443458635aa9598529a530326af66" title="ripple::SerializedType\l::getName" alt="" coords="437,442,584,489"/>
+<area shape="rect" id="node25" href="$d7/d57/a01348.html#a7d77514b5e009bccd4de10303851a022" title="ripple::SerializedType\l::getText" alt="" coords="643,373,789,419"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="beast::asio::HTTPClientType::Session::handle_resolve" name="beast::asio::HTTPClientType::Session::handle_resolve">
+<area shape="rect" id="node3" href="$d2/d1f/a01361.html#a3794c98fc52ca83331b47f86f51cb49a" title="beast::asio::HTTPClientType\l::Session::failed" alt="" coords="1449,211,1641,258"/>
+<area shape="rect" id="node7" href="$d2/d1f/a01361.html#ab80a77112983e74005f16060b0ff6626" title="beast::asio::HTTPClientType\l::Session::handle_connect" alt="" coords="245,235,437,282"/>
+<area shape="rect" id="node37" href="$d5/d9d/a03343.html#af6e663f43fc6f0e7c631aa9b675ca292" title="beast::asio::wrap_handler" alt="" coords="1219,738,1389,768"/>
+<area shape="rect" id="node5" href="$d2/d1f/a01361.html#a7efe097ae125e99a001051abd4ff7f5a" title="beast::asio::HTTPClientType\l::Session::cancel_all" alt="" coords="1691,308,1883,355"/>
+<area shape="rect" id="node10" href="$d2/d1f/a01361.html#ae96990d89fc1f77c945a5d8671cfde19" title="beast::asio::HTTPClientType\l::Session::handle_handshake" alt="" coords="487,266,679,312"/>
+<area shape="rect" id="node57" href="$d1/dab/a01767.html#a51c2d6f1a290baf66d7bc347f6023e01" title="beast::URL::scheme" alt="" coords="512,213,653,242"/>
+<area shape="rect" id="node12" href="$d2/d1f/a01361.html#ab070024548b2945d97a25da99e246b19" title="beast::asio::HTTPClientType\l::Session::async_read_some" alt="" coords="728,478,920,524"/>
+<area shape="rect" id="node41" href="$d2/d1f/a01361.html#a9226311e76f0e6f65d75965c285265b8" title="beast::asio::HTTPClientType\l::Session::handle_write" alt="" coords="968,214,1160,260"/>
+<area shape="rect" id="node44" href="$d1/dab/a01767.html#addb2de3298b53c878d7634d81e8e34e0" title="beast::URL::host" alt="" coords="763,170,885,200"/>
+<area shape="rect" id="node46" href="$d1/dab/a01767.html#a0c18bb7ba3ded7ddaec654acb6a993cc" title="beast::URL::path" alt="" coords="763,274,885,304"/>
+<area shape="rect" id="node48" href="$d3/db4/a00684.html#a7477b0bc24a1d2440aa7b27ee88743bf" title="beast::asio::HTTPClientType\l::stringBuffer" alt="" coords="728,100,920,147"/>
+<area shape="rect" id="node14" href="$da/d45/a00961.html#ad492ba4c9db3b015ac799cbfe500ef3c" title="beast::MemoryBlock\l::getData" alt="" coords="1233,668,1375,715"/>
+<area shape="rect" id="node16" href="$da/d45/a00961.html#a8aa3eee25fc5d0599c960b705d5ddced" title="beast::MemoryBlock\l::getSize" alt="" coords="993,568,1135,615"/>
+<area shape="rect" id="node18" href="$d2/d1f/a01361.html#a3f37565984ae37f1aceadb563b05c6ff" title="beast::asio::HTTPClientType\l::Session::handle_read" alt="" coords="968,448,1160,495"/>
+<area shape="rect" id="node21" href="$d6/dd3/a00688.html#a9e443c039a8ef51cbd6c2926538adcd5" title="beast::HTTPParser::\lerror" alt="" coords="1233,530,1375,576"/>
+<area shape="rect" id="node24" href="$d6/dd3/a00688.html#accceb4e0f9b77a2aaf16fb4462bc5089" title="beast::HTTPParser::\lfinished" alt="" coords="1233,322,1375,368"/>
+<area shape="rect" id="node27" href="$d2/d1f/a01361.html#afef578ef9e7af62f1ee9a69aa53895ee" title="beast::asio::HTTPClientType\l::Session::handle_shutdown" alt="" coords="1208,599,1400,646"/>
+<area shape="rect" id="node33" href="$d6/dd3/a00688.html#a6f3ced0234093b7123460029104c5a72" title="beast::HTTPParser::\lprocess" alt="" coords="1233,391,1375,438"/>
+<area shape="rect" id="node35" href="$d6/dd3/a00688.html#ae0b13f8c513b69d06bfe71780ad1fa1c" title="beast::HTTPParser::\lprocess_eof" alt="" coords="1233,460,1375,507"/>
+<area shape="rect" id="node30" href="$da/d3a/a00694.html#aa5b04e89527328ddcc9da71212d128c7" title="beast::HTTPResponseParser\l::response" alt="" coords="1448,599,1643,646"/>
+<area shape="rect" id="node50" href="$d1/d88/a01578.html#a40c6fac1ac62b9bff95ccb438a8363cd" title="beast::String::getCharPointer" alt="" coords="969,161,1159,190"/>
+<area shape="rect" id="node52" href="$d1/d88/a01578.html#a0f26ba48e146890e3ea290b726679810" title="beast::String::length" alt="" coords="995,108,1133,137"/>
+<area shape="rect" id="node54" href="$d5/d42/a00269.html#a46bd4590bbb4c1324dd621fa54d94652" title="beast::CharPointer\l_UTF8::length" alt="" coords="1239,100,1369,147"/>
+</map>

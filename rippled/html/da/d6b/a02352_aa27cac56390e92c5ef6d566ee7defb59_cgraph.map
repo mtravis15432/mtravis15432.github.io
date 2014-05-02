@@ -1,0 +1,11 @@
+<map id="pageReinit" name="pageReinit">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="179,135,277,164"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="775,84,908,113"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a48e879a6d20f06f27390973ab8d59bd7" title="sqlite3PagerGetExtra" alt="" coords="385,213,532,243"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a02362e6744d4431e328d760bef635a19" title="sqlite3PagerPageRefcount" alt="" coords="140,317,316,347"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a6c95c9aac1c8a00490e36674f43e76ec" title="cellSizePtr" alt="" coords="416,5,501,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#acb168e46383706f31cefd555da235eae" title="decodeFlags" alt="" coords="615,109,711,139"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a9dd340e56fb4b7fad4df339595b8d8a2" title="sqlite3PagerGetData" alt="" coords="388,160,529,189"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a1eba22ca0ddf563de0b29c64551c759f" title="btreeParseCellPtr" alt="" coords="600,5,725,35"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a4010b85eb18d6cc834f0f9ced4f6a274" title="sqlite3PcachePageRefcount" alt="" coords="365,317,552,347"/>
+</map>

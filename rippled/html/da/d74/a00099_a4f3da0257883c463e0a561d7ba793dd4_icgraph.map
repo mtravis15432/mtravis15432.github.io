@@ -1,0 +1,23 @@
+<map id="ripple::Application::getValidations" name="ripple::Application::getValidations">
+<area shape="rect" id="node3" href="$d7/d5f/a00831.html#a6ba19bf5453dc0ae0faf92362a4d18b9" title="ripple::LedgerConsensusImp\l::accept" alt="" coords="180,78,367,125"/>
+<area shape="rect" id="node7" href="$d2/dc7/a00838.html#afef5d9e765e612499355e2b1caa27a91" title="ripple::LedgerMasterImp\l::checkAccept" alt="" coords="429,339,592,386"/>
+<area shape="rect" id="node9" href="$d7/ded/a01009.html#ad72f54405ed9b8219022e8c2b7796c98" title="ripple::NetworkOPsImp\l::checkLastClosedLedger" alt="" coords="188,147,359,194"/>
+<area shape="rect" id="node28" href="$d7/d5f/a00831.html#a69ec0de2646aae917b8c87b6768abc65" title="ripple::LedgerConsensusImp\l::checkLCL" alt="" coords="180,267,367,314"/>
+<area shape="rect" id="node30" href="$d7/d5f/a00831.html#a7e82d48ecf0f4851a528ad4a9770d475" title="ripple::LedgerConsensusImp\l::checkOurValidation" alt="" coords="180,337,367,383"/>
+<area shape="rect" id="node32" href="$d2/dc7/a00838.html#a054ed0eb590140ee5d25d8efc609a6a1" title="ripple::LedgerMasterImp\l::consensusBuilt" alt="" coords="429,541,592,587"/>
+<area shape="rect" id="node34" href="$d1/d0b/a00529.html#a57b6fb9ac67f3860ebbd276aa8619657" title="ripple::FeaturesImpl\l::doVoting" alt="" coords="205,475,341,522"/>
+<area shape="rect" id="node36" href="$db/d44/a00533.html#ac54a8f4c6c9368557ca36302197f79e7" title="ripple::FeeVoteImpl\l::doVoting" alt="" coords="207,545,340,591"/>
+<area shape="rect" id="node38" href="$d2/dc7/a00838.html#a25f5cc7afe62b8844d2036e89a485996" title="ripple::LedgerMasterImp\l::getNeededValidations" alt="" coords="192,406,355,453"/>
+<area shape="rect" id="node42" href="$d7/d5f/a00831.html#a57c11b80ae8f601629ad05df912e54ce" title="ripple::LedgerConsensusImp\l::haveConsensus" alt="" coords="180,665,367,711"/>
+<area shape="rect" id="node44" href="$d7/ded/a01009.html#aefd56f27d9f1c729d604adee94861224" title="ripple::NetworkOPsImp\l::recvValidation" alt="" coords="195,734,352,781"/>
+<area shape="rect" id="node46" href="$d7/d5f/a00831.html#ad90ce0b98c645274d2e595afdca51262" title="ripple::LedgerConsensusImp\l::statePreClose" alt="" coords="180,803,367,850"/>
+<area shape="rect" id="node5" href="$d7/d5f/a00831.html#a5d2d8edb361ed4c7d18a944cf03a9b18" title="ripple::LedgerConsensusImp\l::beginAccept" alt="" coords="417,78,604,125"/>
+<area shape="rect" id="node11" href="$d7/ded/a01009.html#a6a3776d980baee062b961c0195bc43be" title="ripple::NetworkOPsImp\l::tryStartConsensus" alt="" coords="432,203,589,250"/>
+<area shape="rect" id="node17" href="$d7/ded/a01009.html#ac929d58ce61af6b87922103bf3da3039" title="ripple::NetworkOPsImp\l::haveConsensusObject" alt="" coords="656,143,819,190"/>
+<area shape="rect" id="node13" href="$d7/ded/a01009.html#adb95084185570756c8a39ba0e32fb3ed" title="ripple::NetworkOPsImp\l::processHeartbeatTimer" alt="" coords="655,247,820,294"/>
+<area shape="rect" id="node15" href="$d7/ded/a01009.html#ab8272588ee692e125af4d7841af32618" title="ripple::NetworkOPsImp\l::onDeadlineTimer" alt="" coords="876,282,1033,329"/>
+<area shape="rect" id="node19" href="$d7/ded/a01009.html#a27090d36556b8665cbd908efa99e2a05" title="ripple::NetworkOPsImp\l::getConsensusLCL" alt="" coords="876,74,1033,121"/>
+<area shape="rect" id="node21" href="$d7/ded/a01009.html#a148e1e8d0c5128ee48e0206cdeb5e2a0" title="ripple::NetworkOPsImp\l::processTrustedProposal" alt="" coords="869,143,1040,190"/>
+<area shape="rect" id="node23" href="$d7/ded/a01009.html#a7fc7ee8501f9d95df97583cabf3b4771" title="ripple::NetworkOPsImp\l::getTXMap" alt="" coords="876,213,1033,259"/>
+<area shape="rect" id="node25" href="$d7/ded/a01009.html#aff24b82af590d1db837231ad0125eee4" title="ripple::NetworkOPsImp\l::mapComplete" alt="" coords="876,5,1033,51"/>
+</map>

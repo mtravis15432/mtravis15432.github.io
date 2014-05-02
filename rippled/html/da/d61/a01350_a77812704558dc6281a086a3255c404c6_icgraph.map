@@ -1,0 +1,5 @@
+<map id="ripple::Serializer::getSHA256" name="ripple::Serializer::getSHA256">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#aba5061ac61b1b53b08fc9b9862d94e8e" title="ripple::Ledger::getNicknameHash" alt="" coords="168,36,384,65"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#ace5eee617f04c1262d37620f0e2171e6" title="ripple::Ledger::getNickname" alt="" coords="433,5,617,35"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#a055292628691e27d80cbfe87d30a9ba0" title="ripple::Ledger::getNickname\lState" alt="" coords="433,58,617,105"/>
+</map>

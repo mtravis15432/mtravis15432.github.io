@@ -1,0 +1,9 @@
+<map id="beast::getAddressDifference" name="beast::getAddressDifference">
+<area shape="rect" id="node3" href="$d1/d88/a01578.html#a12dc1322feaf591e62841966f67fd52b" title="beast::String::appendChar\lPointer" alt="" coords="244,39,417,86"/>
+<area shape="rect" id="node7" href="$d3/dcc/a00264.html#a4b5d0a21b17905ea9d6500bd5daff2ed" title="beast::CharacterFunctions\l::copyWithDestByteLimit" alt="" coords="243,143,419,190"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#a8ee3a649670f50d078065276a94e0846" title="beast::File::getRelative\lPathFrom" alt="" coords="496,5,653,51"/>
+<area shape="rect" id="node9" href="$d5/d35/a00266.html#af3c38008b303e7bc02b97ce8451a8e40" title="beast::CharPointer\l_ASCII::writeWithDestByteLimit" alt="" coords="469,74,680,121"/>
+<area shape="rect" id="node11" href="$d1/dd4/a00267.html#a46adf4c7d64c967d9f38dd81ceb70b90" title="beast::CharPointer\l_UTF16::writeWithDestByteLimit" alt="" coords="468,143,681,190"/>
+<area shape="rect" id="node13" href="$db/d12/a00268.html#a67b8215aa012071d1de2296b643a2d2c" title="beast::CharPointer\l_UTF32::writeWithDestByteLimit" alt="" coords="468,213,681,259"/>
+<area shape="rect" id="node15" href="$d5/d42/a00269.html#af1372c4700f1da26cdf4a2e3fa17fd25" title="beast::CharPointer\l_UTF8::writeWithDestByteLimit" alt="" coords="471,282,679,329"/>
+</map>

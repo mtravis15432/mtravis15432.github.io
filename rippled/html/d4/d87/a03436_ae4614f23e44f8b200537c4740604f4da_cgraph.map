@@ -1,0 +1,13 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#abf1a86e8c774d69a4b96ef44c5ca19c0" title="rocksdb::CreateLoggerFrom\lOptions" alt="" coords="165,226,349,273"/>
+<area shape="rect" id="node5" href="$db/db1/a00460.html#abb8c5907cacfd71bb223be17c4741a47" title="rocksdb::Env::CreateDir" alt="" coords="420,5,583,35"/>
+<area shape="rect" id="node7" href="$db/db1/a00460.html#a85e9d22dff053a1ada591614b4ae2994" title="rocksdb::Env::GetAbsolutePath" alt="" coords="399,59,604,88"/>
+<area shape="rect" id="node9" href="$d4/ddd/a00138.html#aead46bb2ddf6612f13d795d9567eeac8" title="rocksdb::AutoRollLogger\l::GetStatus" alt="" coords="419,111,584,158"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a66013ddb5a08a0535b9b77571ef21800" title="rocksdb::InfoLogFileName" alt="" coords="415,181,588,211"/>
+<area shape="rect" id="node15" href="$db/db1/a00460.html#aa95f36590fd6a28f78fcd419fc3692c9" title="rocksdb::Env::NewLogger" alt="" coords="415,235,588,264"/>
+<area shape="rect" id="node17" href="$db/db1/a00460.html#a20e69bbefe7d92b92a2f33100cf251b7" title="rocksdb::Env::NowMicros" alt="" coords="415,288,588,317"/>
+<area shape="rect" id="node19" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="433,341,569,371"/>
+<area shape="rect" id="node21" href="$d4/d87/a03436.html#adc2e965ec8cbd712595feeea5a662f7a" title="rocksdb::OldInfoLogFileName" alt="" coords="404,395,599,424"/>
+<area shape="rect" id="node24" href="$db/db1/a00460.html#a8dc0848695f4b55193ee01ffb9ad24b8" title="rocksdb::Env::RenameFile" alt="" coords="413,448,589,477"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a6fee7f5c78b001613702bc29ad22e0df" title="rocksdb::FlattenPath" alt="" coords="655,288,796,317"/>
+</map>

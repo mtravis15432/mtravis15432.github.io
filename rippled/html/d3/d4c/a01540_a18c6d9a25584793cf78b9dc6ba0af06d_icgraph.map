@@ -1,0 +1,14 @@
+<map id="rocksdb::Stats::AddBytes" name="rocksdb::Stats::AddBytes">
+<area shape="rect" id="node3" href="$d8/d64/a00181.html#a4d0cbb8f5263dc548934c6d24284bfc5" title="rocksdb::Benchmark\l::Crc32c" alt="" coords="429,5,571,51"/>
+<area shape="rect" id="node9" href="$d8/d64/a00181.html#ab0567ca257cea3b9446c6572e4e00cf3" title="rocksdb::Benchmark\l::DoWrite" alt="" coords="231,165,372,211"/>
+<area shape="rect" id="node20" href="$d8/d64/a00181.html#a3fc58e4d4e1fcdf9f486e097cf6c70d9" title="rocksdb::Benchmark\l::ReadReverse" alt="" coords="429,282,571,329"/>
+<area shape="rect" id="node23" href="$d8/d64/a00181.html#aca99531cb8e09a75a4caf69665e29a6b" title="rocksdb::Benchmark\l::ReadSequential" alt="" coords="231,305,372,351"/>
+<area shape="rect" id="node26" href="$d8/d64/a00181.html#af85e5fee5a637d733ea54d28cb7ce515" title="rocksdb::Benchmark\l::SnappyCompress" alt="" coords="231,374,372,421"/>
+<area shape="rect" id="node29" href="$d8/d64/a00181.html#a7e55c2861afc247443cd451e32757e4d" title="rocksdb::Benchmark\l::SnappyUncompress" alt="" coords="228,443,375,490"/>
+<area shape="rect" id="node32" href="$d8/d64/a00181.html#aa176749fae881f38d18e2c5742ad3e71" title="rocksdb::Benchmark\l::WriteFromStdin" alt="" coords="231,513,372,559"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="625,291,799,320"/>
+<area shape="rect" id="node7" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="848,291,899,320"/>
+<area shape="rect" id="node11" href="$d8/d64/a00181.html#a4601e8522c484545f12e20f392adca85" title="rocksdb::Benchmark\l::WriteSeq" alt="" coords="429,74,571,121"/>
+<area shape="rect" id="node14" href="$d8/d64/a00181.html#a5f742eccea590df29a184b9e09f52f31" title="rocksdb::Benchmark\l::WriteRandom" alt="" coords="429,143,571,190"/>
+<area shape="rect" id="node17" href="$d8/d64/a00181.html#a33943169aea11d9be25397f58d2b1fe9" title="rocksdb::Benchmark\l::WriteUniqueRandom" alt="" coords="425,213,575,259"/>
+</map>

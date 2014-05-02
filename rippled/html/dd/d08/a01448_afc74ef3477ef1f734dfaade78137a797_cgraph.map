@@ -1,0 +1,5 @@
+<map id="rocksdb::SpecialEnv::NewRandomAccessFile" name="rocksdb::SpecialEnv::NewRandomAccessFile">
+<area shape="rect" id="node3" href="$db/db1/a00460.html#a6e6619074ecb6b5ba4e4a23ffb2e4974" title="rocksdb::Env::NewRandomAccessFile" alt="" coords="224,5,472,35"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="280,59,416,88"/>
+<area shape="rect" id="node7" href="$d3/d5d/a00463.html#a412536aaca74e290242521f063910cdf" title="rocksdb::EnvWrapper\l::target" alt="" coords="275,111,421,158"/>
+</map>

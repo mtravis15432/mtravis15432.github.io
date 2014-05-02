@@ -1,0 +1,9 @@
+<map id="beast::TemporaryFile::deleteTemporaryFile" name="beast::TemporaryFile::deleteTemporaryFile">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a5cd8ce5409d6975129a235e84c053a26" title="beast::File::deleteFile" alt="" coords="203,60,349,89"/>
+<area shape="rect" id="node16" href="$d6/d53/a01688.html#a55db77995760cf1a29a154ae57dc9d8d" title="beast::Thread::sleep" alt="" coords="205,113,347,143"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#add6f39f75f82fd84d132a70e668e32a3" title="beast::File::exists" alt="" coords="412,8,537,37"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="613,59,760,88"/>
+<area shape="rect" id="node11" href="$d4/d33/a00536.html#a087e5760e6671f26e708dcae6674f872" title="beast::File::isDirectory" alt="" coords="397,112,552,141"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#a5f9e864d7e0850599b8ecf514c6f4359" title="beast::String::isNotEmpty" alt="" coords="600,5,773,35"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#adac6dac4898ce30d950e6e253fa47162" title="beast::String::isEmpty" alt="" coords="611,112,763,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ripple::logTimedDestroy" name="ripple::logTimedDestroy">
+<area shape="rect" id="node3" href="$d1/d42/a03419.html#a9a97aad78df924041ea01905eb205a16" title="ripple::detail::cleanElapsed" alt="" coords="213,5,392,35"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="255,59,351,88"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#ab603412403d9fc616a28a7fa9f7774b4" title="ripple::timedDestroy" alt="" coords="233,112,372,141"/>
+<area shape="rect" id="node5" href="$d0/d36/a01916.html#aba3df647217b8160158687b86f5923e9" title="floor" alt="" coords="521,5,567,35"/>
+<area shape="rect" id="node11" href="$dc/dc8/a01695.html#a8d8ae04e6a87738e1d6cc1bb47b98846" title="beast::Time::getHighResolution\lTicks" alt="" coords="441,81,647,127"/>
+<area shape="rect" id="node13" href="$dc/dc8/a01695.html#ae091047bf659ede589b1803efac91ee5" title="beast::Time::highResolution\lTicksToSeconds" alt="" coords="452,150,636,197"/>
+</map>

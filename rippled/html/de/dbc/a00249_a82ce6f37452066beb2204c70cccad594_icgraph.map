@@ -1,0 +1,8 @@
+<map id="ripple::PeerFinder::Callback::send" name="ripple::PeerFinder::Callback::send">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#a6c5e6fdf989681f64976a19cb9f594dc" title="ripple::PeerFinder\l::Logic::broadcast" alt="" coords="180,5,305,51"/>
+<area shape="rect" id="node9" href="$df/da5/a00912.html#a743a434a6133a8032548175093fb78e0" title="ripple::PeerFinder\l::Logic::redirect" alt="" coords="181,74,304,121"/>
+<area shape="rect" id="node5" href="$df/da5/a00912.html#a8b21581187efd17c2b4660f74d4fbbc6" title="ripple::PeerFinder\l::Logic::periodicActivity" alt="" coords="356,5,513,51"/>
+<area shape="rect" id="node7" href="$d0/d5b/a00933.html#a7fbd188cedd1e8e63c8191e01da77540" title="ripple::PeerFinder\l::ManagerImp::onDeadlineTimer" alt="" coords="563,5,771,51"/>
+<area shape="rect" id="node11" href="$df/da5/a00912.html#a23691aa2fc1bf978bec5dfae7510f556" title="ripple::PeerFinder\l::Logic::on_handshake" alt="" coords="359,74,511,121"/>
+<area shape="rect" id="node13" href="$d0/d5b/a00933.html#a821aed96cad550e2e952e914ecc0b318" title="ripple::PeerFinder\l::ManagerImp::on_handshake" alt="" coords="569,74,764,121"/>
+</map>

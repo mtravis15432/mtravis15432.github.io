@@ -1,0 +1,11 @@
+<map id="ripple::JobQueueImp::onChildrenStopped" name="ripple::JobQueueImp::onChildrenStopped">
+<area shape="rect" id="node3" href="$d9/d00/a00784.html#ad06cbbc8ba098656e424cca4eb7cb87a" title="ripple::JobQueueImp\l::checkStopped" alt="" coords="199,66,340,113"/>
+<area shape="rect" id="node5" href="$d2/d49/a01561.html#ac9e8f8db88a0ec9c9f616e55a220cc30" title="beast::Stoppable::areChildren\lStopped" alt="" coords="389,5,584,51"/>
+<area shape="rect" id="node7" href="$d2/d49/a01561.html#a7ca78fcebed5c6b8c9cd96bacb588785" title="beast::Stoppable::isStopping" alt="" coords="392,75,581,104"/>
+<area shape="rect" id="node17" href="$d2/d49/a01561.html#a32a3f86c14a870b4c8eefa77f9989a5e" title="beast::Stoppable::stopped" alt="" coords="400,132,573,161"/>
+<area shape="rect" id="node9" href="$d9/dda/a01289.html#ad9cd49491da83c35da97c5314a5d6dc4" title="beast::RootStoppable\l::isStopping" alt="" coords="633,62,780,109"/>
+<area shape="rect" id="node11" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="831,71,959,100"/>
+<area shape="rect" id="node13" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="1008,27,1173,74"/>
+<area shape="rect" id="node15" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="1008,97,1173,143"/>
+<area shape="rect" id="node19" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="633,131,780,178"/>
+</map>

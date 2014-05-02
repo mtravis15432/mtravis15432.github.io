@@ -1,0 +1,6 @@
+<map id="beast::CharacterFunctions::compare" name="beast::CharacterFunctions::compare">
+<area shape="rect" id="node3" href="$d5/d35/a00266.html#ac0654382700c9538814bf5eeafe4b918" title="beast::CharPointer\l_ASCII::compare" alt="" coords="229,5,360,51"/>
+<area shape="rect" id="node5" href="$db/d12/a00268.html#ab01c4173582d5f9f680fb9cc5b5bcbb6" title="beast::CharPointer\l_UTF32::compare" alt="" coords="229,74,360,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#a6a6e19a519e8623eaeb85a10a8827e10" title="beast::CharPointer\l_UTF16::compare" alt="" coords="229,143,360,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a9042e3182c6382f105cc6b4288dab228" title="beast::CharPointer\l_UTF8::compare" alt="" coords="229,213,360,259"/>
+</map>

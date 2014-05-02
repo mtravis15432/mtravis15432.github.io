@@ -1,0 +1,20 @@
+<map id="rippled/src/beast/modules/beast_asio/protocol/HandshakeDetector.h" name="rippled/src/beast/modules/beast_asio/protocol/HandshakeDetector.h">
+<area shape="rect" id="node3" href="$de/dca/a01907.html" title="../../../beast/boost\l/get_pointer.h" alt="" coords="129,118,255,165"/>
+<area shape="rect" id="node7" href="$d8/d3a/a01869.html" title="../../../beast/asio\l/bind_handler.h" alt="" coords="673,118,791,165"/>
+<area shape="rect" id="node34" href="$d2/dd7/a01902.html" title="../../../beast/asio\l/wrap_handler.h" alt="" coords="345,118,463,165"/>
+<area shape="rect" id="node41" href="$de/d23/a01876.html" title="../../../beast/asio\l/placeholders.h" alt="" coords="852,118,969,165"/>
+<area shape="rect" id="node44" href="$d9/d63/a01896.html" title="../../../beast/asio\l/shared_handler.h" alt="" coords="1031,118,1156,165"/>
+<area shape="rect" id="node17" href="$d4/dae/a01994.html" title="../cxx14/type_traits.h" alt="" coords="863,309,1007,339"/>
+<area shape="rect" id="node27" href="$d3/dd8/a01995.html" title="../cxx14/utility.h" alt="" coords="724,309,839,339"/>
+<area shape="rect" id="node19" href="$dc/d67/a01989.html" title="config.h" alt="" coords="803,387,869,416"/>
+<area shape="rect" id="node46" href="$d0/dde/a01924.html" title="../Config.h" alt="" coords="1629,223,1712,252"/>
+<area shape="rect" id="node65" href="$d3/da9/a02131.html" title="../utility/is_call\l_possible.h" alt="" coords="1040,214,1147,261"/>
+<area shape="rect" id="node73" href="$db/ddd/a02136.html" title="../utility/noexcept.h" alt="" coords="1379,223,1512,252"/>
+<area shape="rect" id="node48" href="$d5/dba/a01940.html" title="config/SelectCompilerConfig.h" alt="" coords="1899,309,2096,339"/>
+<area shape="rect" id="node50" href="$d3/d28/a02147.html" title="Version.h" alt="" coords="2120,309,2197,339"/>
+<area shape="rect" id="node52" href="$d4/d25/a01939.html" title="config/PlatformConfig.h" alt="" coords="1108,387,1265,416"/>
+<area shape="rect" id="node54" href="$d5/d31/a01931.html" title="config/CompilerConfig.h" alt="" coords="1224,309,1387,339"/>
+<area shape="rect" id="node59" href="$df/dd8/a01943.html" title="config/StandardConfig.h" alt="" coords="1411,309,1573,339"/>
+<area shape="rect" id="node61" href="$d8/d22/a01932.html" title="config/ConfigCheck.h" alt="" coords="1597,309,1744,339"/>
+<area shape="rect" id="node63" href="$db/da1/a01944.html" title="config/Suffix.h" alt="" coords="1768,309,1875,339"/>
+</map>

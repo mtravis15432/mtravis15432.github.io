@@ -1,0 +1,14 @@
+<map id="beast::Workers::~Workers" name="beast::Workers::~Workers">
+<area shape="rect" id="node3" href="$d7/db1/a01837.html#a43b702e1f19d652bca80bcdb0a2f8e78" title="beast::Workers::deleteWorkers" alt="" coords="229,33,432,63"/>
+<area shape="rect" id="node7" href="$d7/db1/a01837.html#a3ee6b9b2365d9436d68494b54d1b4dda" title="beast::Workers::pauseAll\lThreadsAndWait" alt="" coords="247,125,415,171"/>
+<area shape="rect" id="node5" href="$d2/d79/a00898.html#a44838c45182d814925a53245e4010365" title="beast::LockFreeStack\l::pop_front" alt="" coords="497,5,647,51"/>
+<area shape="rect" id="node9" href="$d7/db1/a01837.html#a2afc6c18a9d33106d9e40dcaa0984c1d" title="beast::Workers::setNumber\lOfThreads" alt="" coords="481,74,663,121"/>
+<area shape="rect" id="node17" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="499,143,645,190"/>
+<area shape="rect" id="node19" href="$d7/db1/a01837.html#a5df0f05e49fd34292fb12ffc6ddc0738" title="beast::Workers::numberOf\lCurrentlyRunningTasks" alt="" coords="484,213,660,259"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="724,83,865,112"/>
+<area shape="rect" id="node15" href="$db/ddf/a00164.html#a34a05aba236654589fe27946c112e641" title="beast::basic_semaphore\l::signal" alt="" coords="713,135,876,182"/>
+<area shape="rect" id="node13" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="935,74,1081,121"/>
+<area shape="rect" id="node21" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="731,221,859,251"/>
+<area shape="rect" id="node23" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="925,178,1091,225"/>
+<area shape="rect" id="node25" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="925,247,1091,294"/>
+</map>

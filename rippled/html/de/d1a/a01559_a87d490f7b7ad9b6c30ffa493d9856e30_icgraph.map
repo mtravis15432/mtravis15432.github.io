@@ -1,0 +1,5 @@
+<map id="ripple::STObject::getText" name="ripple::STObject::getText">
+<area shape="rect" id="node3" href="$d9/de4/a01346.html#ae464a7d6f067a8d06604c0143a1f6616" title="ripple::SerializedTransaction\l::getText" alt="" coords="221,5,408,51"/>
+<area shape="rect" id="node5" href="$dc/d54/a01344.html#abed9093fce517394c648fd14294fa45a" title="ripple::SerializedLedger\lEntry::getText" alt="" coords="236,74,393,121"/>
+<area shape="rect" id="node7" href="$db/d1e/a01497.html#af3105def64a8de82fc779af68fa1c103" title="ripple::STArray::getText" alt="" coords="235,144,395,173"/>
+</map>

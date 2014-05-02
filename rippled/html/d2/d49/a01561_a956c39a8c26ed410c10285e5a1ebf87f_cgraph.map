@@ -1,0 +1,8 @@
+<map id="beast::Stoppable::Stoppable" name="beast::Stoppable::Stoppable">
+<area shape="rect" id="node3" href="$d2/d49/a01561.html#a7ca78fcebed5c6b8c9cd96bacb588785" title="beast::Stoppable::isStopping" alt="" coords="240,48,429,77"/>
+<area shape="rect" id="node13" href="$d2/d79/a00898.html#a20607ac776197f6e80db524e13737750" title="beast::LockFreeStack\l::push_front" alt="" coords="260,101,409,147"/>
+<area shape="rect" id="node5" href="$d9/dda/a01289.html#ad9cd49491da83c35da97c5314a5d6dc4" title="beast::RootStoppable\l::isStopping" alt="" coords="479,39,625,86"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="676,48,804,77"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="853,5,1019,51"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="853,74,1019,121"/>
+</map>

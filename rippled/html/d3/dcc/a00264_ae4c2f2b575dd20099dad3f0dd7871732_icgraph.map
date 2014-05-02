@@ -1,0 +1,6 @@
+<map id="beast::CharacterFunctions::isUpperCase" name="beast::CharacterFunctions::isUpperCase">
+<area shape="rect" id="node3" href="$db/d12/a00268.html#a121f99d141389b20adc9113a2181ab7a" title="beast::CharPointer\l_UTF32::isUpperCase" alt="" coords="231,5,383,51"/>
+<area shape="rect" id="node5" href="$d5/d35/a00266.html#afe110f505182f2668b4e5a1955707152" title="beast::CharPointer\l_ASCII::isUpperCase" alt="" coords="232,74,381,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#abc3ed700dddee894ce1eddbc14b5d1e2" title="beast::CharPointer\l_UTF16::isUpperCase" alt="" coords="231,143,383,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a6c02ba52cf450f53d592082f8f8db0d8" title="beast::CharPointer\l_UTF8::isUpperCase" alt="" coords="233,213,380,259"/>
+</map>

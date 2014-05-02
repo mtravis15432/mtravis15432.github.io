@@ -1,0 +1,12 @@
+<map id="dup8bytes" name="dup8bytes">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="137,51,279,80"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a6cb1b36e2823fc3eff25dc162f71f28b" title="sqlite3VdbeDb" alt="" coords="155,104,261,133"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="647,5,780,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="328,84,427,113"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="476,111,596,140"/>
+<area shape="rect" id="node12" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="655,59,772,88"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="829,137,960,167"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="648,163,779,192"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="652,216,775,245"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="653,269,773,299"/>
+</map>

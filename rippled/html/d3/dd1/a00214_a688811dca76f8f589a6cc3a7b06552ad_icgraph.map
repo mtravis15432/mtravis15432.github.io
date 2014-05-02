@@ -1,0 +1,18 @@
+<map id="rocksdb::BlockHandle::offset" name="rocksdb::BlockHandle::offset">
+<area shape="rect" id="node3" href="$d1/d72/a00204.html#a3f9750acdb61d91cee84a899a06833d9" title="rocksdb::BlockBasedTable\l::ApproximateOffsetOf" alt="" coords="220,5,399,51"/>
+<area shape="rect" id="node5" href="$d1/d72/a00204.html#a126ccdb4087483cbac9c6002ce12f2b4" title="rocksdb::BlockBasedTable::Get" alt="" coords="207,75,412,104"/>
+<area shape="rect" id="node9" href="$d5/d13/a00205.html#a292ffbbe3ea47acf0200aca1d06d59e5" title="rocksdb::BlockBasedTable\lBuilder::InsertBlockInCache" alt="" coords="217,127,401,174"/>
+<area shape="rect" id="node25" href="$d1/d72/a00204.html#ad11544b58b57f5f4101b7b533e72b82c" title="rocksdb::BlockBasedTable\l::PrefixMayMatch" alt="" coords="220,266,399,313"/>
+<area shape="rect" id="node29" href="$d4/d87/a03436.html#a919492fb44a56d7850431363c59bb00c" title="rocksdb::ReadBlockContents" alt="" coords="213,340,405,369"/>
+<area shape="rect" id="node35" href="$d3/dd1/a00214.html#a4c58548621bf5047ab2e4bc70cb1ffbd" title="rocksdb::BlockHandle\l::set_offset" alt="" coords="235,197,384,243"/>
+<area shape="rect" id="node7" href="$d1/d72/a00204.html#a17c2fe017efd1f4d86717a7c4bdb137a" title="rocksdb::BlockBasedTable\l::TEST_KeyInCache" alt="" coords="461,66,640,113"/>
+<area shape="rect" id="node11" href="$d5/d13/a00205.html#a84688d8f7fbf98695f659df0a8c79067" title="rocksdb::BlockBasedTable\lBuilder::WriteRawBlock" alt="" coords="461,163,640,210"/>
+<area shape="rect" id="node13" href="$d5/d13/a00205.html#a65b51df5a1db4d3edb40dc899695645a" title="rocksdb::BlockBasedTable\lBuilder::Finish" alt="" coords="1141,179,1320,226"/>
+<area shape="rect" id="node15" href="$d5/d13/a00205.html#a21adb5bd50f73319816e00c2053b086b" title="rocksdb::BlockBasedTable\lBuilder::WriteBlock" alt="" coords="688,194,867,241"/>
+<area shape="rect" id="node18" href="$d5/d13/a00205.html#a50643b05cc02a873b2e9f6d6e6a4340b" title="rocksdb::BlockBasedTable\lBuilder::Flush" alt="" coords="915,245,1093,291"/>
+<area shape="rect" id="node20" href="$d5/d13/a00205.html#ac2c7b37bdf2016f493ee3544972ad050" title="rocksdb::BlockBasedTable\lBuilder::Add" alt="" coords="1141,249,1320,295"/>
+<area shape="rect" id="node22" href="$d5/df1/a00206.html#ad8f7daa8b01397c3bc0bae0d93395133" title="rocksdb::BlockBasedTable\lConstructor::FinishImpl" alt="" coords="1368,249,1547,295"/>
+<area shape="rect" id="node27" href="$d1/d72/a00204.html#a572f3e033d55cd348f12da867374dcde" title="rocksdb::BlockBasedTable\l::NewIterator" alt="" coords="461,262,640,309"/>
+<area shape="rect" id="node31" href="$d1/d72/a00204.html#a0475bbc1a76c6f3b3c527ff286549bd9" title="rocksdb::BlockBasedTable\l::ReadFilter" alt="" coords="461,331,640,378"/>
+<area shape="rect" id="node33" href="$d1/d72/a00204.html#aa3ad7f92e43689ccd93c26812b8e5235" title="rocksdb::BlockBasedTable\l::ReadProperties" alt="" coords="461,401,640,447"/>
+</map>

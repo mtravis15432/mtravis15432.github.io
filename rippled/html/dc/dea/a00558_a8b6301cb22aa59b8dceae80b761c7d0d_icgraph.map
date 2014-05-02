@@ -1,0 +1,6 @@
+<map id="ripple::MultiSocket::Flag::set" name="ripple::MultiSocket::Flag::set">
+<area shape="rect" id="node3" href="$d0/d28/a00997.html#a642936a5895aba6b5ae735e71b26afa1" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::initHandshake" alt="" coords="184,5,405,51"/>
+<area shape="rect" id="node5" href="$d0/d28/a00997.html#a04966ff7865d29d85f0a19cd8f0b2157" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::initState" alt="" coords="201,74,388,121"/>
+<area shape="rect" id="node7" href="$d0/d28/a00997.html#ae234bc7b8faee46217394d5446285907" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::is\l_client" alt="" coords="216,144,373,208"/>
+<area shape="rect" id="node9" href="$d0/d28/a00997.html#a107a3831350488d4e8b668315bd7d777" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::is\l_server" alt="" coords="216,232,373,296"/>
+</map>

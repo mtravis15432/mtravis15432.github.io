@@ -1,0 +1,11 @@
+<map id="beast::FileOutputStream::failedToOpen" name="beast::FileOutputStream::failedToOpen">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a943271a47b771fd2e0f7da9a32ddf0a4" title="beast::File::appendText" alt="" coords="647,5,804,35"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#aef49f67624d359bde93859684e35da7b" title="beast::File::copyInternal" alt="" coords="219,57,381,87"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#ae29d14b6f84ab267d820d2001db82d8f" title="beast::File::replaceWithText" alt="" coords="1135,36,1321,65"/>
+<area shape="rect" id="node9" href="$d4/d33/a00536.html#a9a4d08ab162aa1539ba1637950087c74" title="beast::File::copyFileTo" alt="" coords="436,57,591,87"/>
+<area shape="rect" id="node11" href="$d4/d33/a00536.html#afdc3dee4b13ce720b9d56f712a7da9f3" title="beast::File::moveInternal" alt="" coords="431,111,596,140"/>
+<area shape="rect" id="node13" href="$d4/d33/a00536.html#a1189ca4bcc58e94cf6d3dbda3bf3136a" title="beast::File::moveFileTo" alt="" coords="647,111,804,140"/>
+<area shape="rect" id="node15" href="$d4/d33/a00536.html#a7e51e0f19df1ad6841fb570bc56c98d8" title="beast::File::moveToTrash" alt="" coords="884,57,1055,87"/>
+<area shape="rect" id="node17" href="$d4/d49/a01643.html#aa751b12e6e0e453cd39c78a5603cd1a4" title="beast::TemporaryFile\l::overwriteTargetFileWithTemporary" alt="" coords="855,110,1084,157"/>
+<area shape="rect" id="node19" href="$d4/d33/a00536.html#a05a70c6e6570aec32842e76c6d08a677" title="beast::File::replaceWithData" alt="" coords="1135,119,1321,148"/>
+</map>

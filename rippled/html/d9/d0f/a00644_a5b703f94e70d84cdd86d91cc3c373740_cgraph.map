@@ -1,0 +1,8 @@
+<map id="beast::hash_append_test::measure_hashes" name="beast::hash_append_test::measure_hashes">
+<area shape="rect" id="node3" href="$de/dce/a03362.html#af228474d00ffece5259513861b753621" title="beast::hash_metrics\l::collision_factor" alt="" coords="215,5,353,51"/>
+<area shape="rect" id="node5" href="$de/dce/a03362.html#a065cb3ced50b90617006aadea5f1f016" title="beast::hash_metrics\l::distribution_factor" alt="" coords="215,74,353,121"/>
+<area shape="rect" id="node7" href="$de/dce/a03362.html#a00454f24f1c707789cc0374479109041" title="beast::hash_metrics\l::windowed_score" alt="" coords="215,143,353,190"/>
+<area shape="rect" id="node9" href="$d0/dbf/a03363.html#a63802239c2ee5dbc331c642c1da6aa7f" title="beast::hash_metrics\l::detail::window" alt="" coords="404,109,543,155"/>
+<area shape="rect" id="node11" href="$d0/dbf/a03363.html#a5187fa615e47f5c845d5f1b4fc0cb527" title="beast::hash_metrics\l::detail::score" alt="" coords="404,178,543,225"/>
+<area shape="rect" id="node13" href="$d0/dbf/a03363.html#a75c05654caed31bf91b09dbc14e681d1" title="beast::hash_metrics\l::detail::sqr" alt="" coords="593,178,732,225"/>
+</map>

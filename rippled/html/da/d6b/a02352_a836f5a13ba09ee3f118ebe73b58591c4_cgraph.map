@@ -1,0 +1,24 @@
+<map id="subjournalPage" name="subjournalPage">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#aa2e9bb02bb6975d83ec875f0792792f0" title="addToSavepointBitvecs" alt="" coords="165,137,325,167"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#a69f445a04e423a1eaf24a2b9f035b427" title="openSubJournal" alt="" coords="188,204,303,233"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#a07fb7c067274e7abc0a9ea2d3ffed616" title="pageInJournal" alt="" coords="195,257,296,287"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="195,311,296,340"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="401,376,508,405"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#a5db7813c01a178a634f0dcd6e7766ed6" title="write32bits" alt="" coords="203,415,288,444"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a1f3c6d64d5d889e451d6725b1eb458be" title="sqlite3BitvecSet" alt="" coords="396,137,513,167"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="595,137,731,167"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="791,137,913,167"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="963,137,1061,167"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="1111,137,1231,167"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1281,5,1415,35"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1283,59,1413,88"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1464,85,1595,115"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1287,163,1409,192"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1288,216,1408,245"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1289,269,1407,299"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#aebcb4ac28e13fcb66454bb555327c331" title="pagerOpentemp" alt="" coords="397,191,512,220"/>
+<area shape="rect" id="node34" href="$da/d6b/a02352.html#ad464be0cdcbcfad82c33db47ba916bf4" title="sqlite3MemJournalOpen" alt="" coords="373,244,536,273"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="609,191,716,220"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#a467faa8c56423e1d71f1edcdf788ea01" title="sqlite3MemJournalSize" alt="" coords="584,244,741,273"/>
+<area shape="rect" id="node40" href="$da/d6b/a02352.html#ab08693a5ff8d1b759eb50dc307ee910f" title="sqlite3BitvecTest" alt="" coords="393,297,516,327"/>
+</map>

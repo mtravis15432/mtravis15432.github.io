@@ -1,0 +1,9 @@
+<map id="beast::ServiceQueueBase::wait" name="beast::ServiceQueueBase::wait">
+<area shape="rect" id="node3" href="$df/d10/a01357.html#a80aebdbbf1411cea054bb20c67e366bb" title="beast::ServiceQueueBase\l::new_waiter" alt="" coords="231,5,404,51"/>
+<area shape="rect" id="node5" href="$df/d10/a01357.html#a0cbc7a82a131ad449af0de18f7f76e4f" title="beast::ServiceQueueBase\l::stopped" alt="" coords="231,74,404,121"/>
+<area shape="rect" id="node13" href="$de/d3c/a01809.html#ac5c3f1123afdbb39e3cccd9f34a74e11" title="beast::ServiceQueueBase\l::Waiter::wait" alt="" coords="231,143,404,190"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="463,83,591,112"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="648,39,813,86"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="648,109,813,155"/>
+<area shape="rect" id="node15" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="453,143,600,190"/>
+</map>

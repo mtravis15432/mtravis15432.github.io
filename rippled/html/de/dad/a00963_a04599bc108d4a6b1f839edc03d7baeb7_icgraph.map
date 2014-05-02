@@ -1,0 +1,5 @@
+<map id="beast::MemoryOutputStream::preallocate" name="beast::MemoryOutputStream::preallocate">
+<area shape="rect" id="node3" href="$de/dad/a00963.html#acb048eb12aa1104a6af38447da75c4af" title="beast::MemoryOutputStream\l::writeFromInputStream" alt="" coords="247,5,436,51"/>
+<area shape="rect" id="node5" href="$df/d96/a00714.html#a386792eae8cf4273464058597b69929e" title="beast::InputStream\l::readIntoMemoryBlock" alt="" coords="485,5,643,51"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#aceba75948d504dd1cd2e1e2cacd0a49d" title="beast::File::loadFileAsData" alt="" coords="692,13,871,43"/>
+</map>

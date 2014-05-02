@@ -1,0 +1,10 @@
+<map id="beast::RandomAccessFile::nativeClose" name="beast::RandomAccessFile::nativeClose">
+<area shape="rect" id="node3" href="$dc/d81/a01161.html#ab19b4b0f41ff6f26a06360799b59ae54" title="beast::RandomAccessFile\l::close" alt="" coords="229,41,405,87"/>
+<area shape="rect" id="node5" href="$dc/d81/a01161.html#a07bae5684c94c72e71cae2f1cbde894a" title="beast::RandomAccessFile\l::isOpen" alt="" coords="685,5,861,51"/>
+<area shape="rect" id="node18" href="$d4/d33/a00536.html#a6239d45b521fe72b5d691456cf72b69c" title="beast::File::nonexistent" alt="" coords="239,115,396,144"/>
+<area shape="rect" id="node8" href="$dc/d81/a01161.html#a7ebd48e9f1392308cc0476d3965584d9" title="beast::RandomAccessFile\l::nativeFlush" alt="" coords="453,66,629,113"/>
+<area shape="rect" id="node11" href="$d9/de7/a01257.html#a564d5ce775dabd861f475dcc1cfc4ab7" title="beast::Result::ok" alt="" coords="712,75,835,104"/>
+<area shape="rect" id="node15" href="$d4/d33/a00536.html#a3a1b6608cad33bede2b440a5acf6f0f2" title="beast::File::getFullPathName" alt="" coords="677,128,869,157"/>
+<area shape="rect" id="node13" href="$d9/de7/a01257.html#acb75803e2914f94d988b1abd2eabc968" title="beast::Result::Result" alt="" coords="917,75,1064,104"/>
+<area shape="rect" id="node20" href="$d0/daa/a01029.html#a910b7576fa5b93a3608915e883a1271c" title="beast::NonexistentHolder\l::getInstance" alt="" coords="456,135,627,182"/>
+</map>

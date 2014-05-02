@@ -1,0 +1,7 @@
+<map id="rocksdb::RandomKey" name="rocksdb::RandomKey">
+<area shape="rect" id="node3" href="$d9/d25/a01157.html#a88fb23b5587fabe455a1839c94f01aa4" title="rocksdb::Random::OneIn" alt="" coords="437,5,605,35"/>
+<area shape="rect" id="node7" href="$db/db8/a03471.html#a9bb04c26a8a6079b48c596cc2615079c" title="rocksdb::test::RandomKey" alt="" coords="204,44,383,73"/>
+<area shape="rect" id="node9" href="$d9/d25/a01157.html#a71e653793b2f7189d61dcbc263ece2ed" title="rocksdb::Random::Uniform" alt="" coords="432,84,611,113"/>
+<area shape="rect" id="node12" href="$d9/d25/a01157.html#a47728314f2d1fbb85efd24061ad6eb9a" title="rocksdb::Random::Skewed" alt="" coords="204,148,383,177"/>
+<area shape="rect" id="node5" href="$d9/d25/a01157.html#a520efcab691df60bc48d1fe7251f1cd5" title="rocksdb::Random::Next" alt="" coords="660,45,820,75"/>
+</map>

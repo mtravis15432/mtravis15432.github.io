@@ -1,0 +1,7 @@
+<map id="ripple::JobQueueImp::getJobLimit" name="ripple::JobQueueImp::getJobLimit">
+<area shape="rect" id="node3" href="$d9/d00/a00784.html#a498e20ce1164d7644a3b1825ac02f139" title="ripple::JobQueueImp\l::finishJob" alt="" coords="199,5,340,51"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#af0da188dd4f823fe083e7bc522d20dfe" title="ripple::JobQueueImp\l::getNextJob" alt="" coords="199,74,340,121"/>
+<area shape="rect" id="node10" href="$d9/d00/a00784.html#a8a57dba5ad67a1594d008333032912a0" title="ripple::JobQueueImp\l::queueJob" alt="" coords="199,143,340,190"/>
+<area shape="rect" id="node5" href="$d9/d00/a00784.html#a7666704c0d51e837f890bd5df81dfa03" title="ripple::JobQueueImp\l::processTask" alt="" coords="391,39,532,86"/>
+<area shape="rect" id="node12" href="$d9/d00/a00784.html#ac2e75f069b3c1ebeb9e9edce0606cad5" title="ripple::JobQueueImp\l::addJob" alt="" coords="391,143,532,190"/>
+</map>

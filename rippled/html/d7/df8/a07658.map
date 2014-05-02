@@ -1,0 +1,13 @@
+<map id="ripple::TransactionMaster" name="ripple::TransactionMaster">
+<area shape="rect" id="node4" href="$dd/d55/a01638.html" title="ripple::TaggedCache\l\&lt; ripple::uint256, ripple\l::Transaction \&gt;" alt="" coords="803,96,957,160"/>
+<area shape="rect" id="node6" href="$d2/dee/a00049.html" title="beast::abstract_clock\l\&lt; Duration \&gt;" alt="" coords="508,5,655,51"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="541,75,621,104"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="255,51,380,98"/>
+<area shape="rect" id="node12" href="$d5/dc8/a01541.html" title="ripple::TaggedCache\l\&lt; Key, T, Hash, KeyEqual,\l Mutex \&gt;::Stats" alt="" coords="492,128,671,192"/>
+<area shape="rect" id="node14" href="$d4/d2f/a00582.html" title="beast::insight::Gauge" alt="" coords="244,121,391,151"/>
+<area shape="rect" id="node16" href="$d0/d4a/a00147.html" title="beast::insight::Base" alt="" coords="5,148,144,177"/>
+<area shape="rect" id="node18" href="$d0/d5c/a00668.html" title="beast::insight::Hook" alt="" coords="248,175,387,204"/>
+<area shape="rect" id="node21" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="529,231,633,260"/>
+<area shape="rect" id="node23" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="5,263,144,292"/>
+<area shape="rect" id="node25" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="240,324,395,353"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pcache1Cachesize" name="pcache1Cachesize">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a984a14dae7f8f146ca82b94f587a1389" title="pcache1EnforceMaxPage" alt="" coords="187,56,357,86"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="636,56,769,86"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a8c56f8763581386fa892a46f77c8d684" title="pcache1PinPage" alt="" coords="436,30,556,59"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a1b58eae8a9fe64c0c817a74a2ac7ad41" title="pcache1RemoveFromHash" alt="" coords="405,83,587,112"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="433,136,559,166"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#a283e764f60afec3ed4995402b6604ceb" title="pcache1Free" alt="" coords="655,136,751,166"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="821,110,941,139"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="820,163,943,192"/>
+</map>

@@ -1,0 +1,28 @@
+var a01059 =
+[
+    [ "OrderBookIterator", "d0/d90/a01059.html#a71085c1895f860c6810690e826799e44", null ],
+    [ "addJson", "d0/d90/a01059.html#a08df060567739df6dc5f83055bccf9fe", null ],
+    [ "firstOffer", "d0/d90/a01059.html#a87d22587d3bcbe1b34c881ac78077cc7", null ],
+    [ "firstOfferInDir", "d0/d90/a01059.html#ac24546bee6f78fa90846749291f432eb", null ],
+    [ "getCurrentDirectory", "d0/d90/a01059.html#a0c5e62c3cb60862cd4b3ae9b03bd48cb", null ],
+    [ "getCurrentIndex", "d0/d90/a01059.html#aab5e5874ea393933c43577b4beeafb94", null ],
+    [ "getCurrentOffer", "d0/d90/a01059.html#a0295ad70173455fbd50cd303eeed53fa", null ],
+    [ "getCurrentQuality", "d0/d90/a01059.html#ab590db303d683f8ccda5fd4076ebd64e", null ],
+    [ "getCurrentRate", "d0/d90/a01059.html#a4174f57196a46e589b11efb73d75f4e8", null ],
+    [ "nextDir", "d0/d90/a01059.html#ae0cc25067ea5841c19ddc0d51ddfc675", null ],
+    [ "nextOffer", "d0/d90/a01059.html#a540d0058d3c202a4f5b178de8efa19f7", null ],
+    [ "nextOfferInDir", "d0/d90/a01059.html#a1eec0c3e961a9199369afadb5b73d041", null ],
+    [ "operator!=", "d0/d90/a01059.html#aab002703874587992c616b5ac3974273", null ],
+    [ "operator=", "d0/d90/a01059.html#ac305938af22ec316b6e4cd5923d220f4", null ],
+    [ "operator==", "d0/d90/a01059.html#a9375037b6ac240503e2881e8ac0fe044", null ],
+    [ "peekDirectoryEntryIterator", "d0/d90/a01059.html#a94d92e4492f007f7bac3dcaf874aa771", null ],
+    [ "peekDirectoryEntryIterator", "d0/d90/a01059.html#a5cae80f40b5cb7311eff2f548ba6043c", null ],
+    [ "peekDirIterator", "d0/d90/a01059.html#a9d5019d8860599f60e7d20c3ead18cbf", null ],
+    [ "peekDirIterator", "d0/d90/a01059.html#ae5883664fb7f8edf861189d5ab54a7fd", null ],
+    [ "peekEntrySet", "d0/d90/a01059.html#a491be394cf1906c7ac80ce2e9341329f", null ],
+    [ "rewind", "d0/d90/a01059.html#acdd03776b3a8e11b2160cd46a6d4fbce", null ],
+    [ "setJson", "d0/d90/a01059.html#a2d16a116917812a49d1e2203291d216a", null ],
+    [ "mDirectoryIterator", "d0/d90/a01059.html#adc010ef4af0b65d5191200c795298231", null ],
+    [ "mEntrySet", "d0/d90/a01059.html#a26936d0683f9893ee09497a8ee69f00a", null ],
+    [ "mOfferIterator", "d0/d90/a01059.html#a02f3fcde3e9e8fdcd55770b0a3120f58", null ]
+];

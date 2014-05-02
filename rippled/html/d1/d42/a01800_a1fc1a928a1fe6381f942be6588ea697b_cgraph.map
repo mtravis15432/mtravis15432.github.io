@@ -1,0 +1,7 @@
+<map id="rocksdb::VersionSet::ReleaseCompactionFiles" name="rocksdb::VersionSet::ReleaseCompactionFiles">
+<area shape="rect" id="node3" href="$d9/d5e/a00295.html#ac2973e8fa4631c42de42b3d343e62989" title="rocksdb::Compaction\l::level" alt="" coords="253,5,400,51"/>
+<area shape="rect" id="node5" href="$d9/d5e/a00295.html#a11fbf1653e0ebe7db8c6e709de649557" title="rocksdb::Compaction\l::MarkFilesBeingCompacted" alt="" coords="233,74,420,121"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="259,144,395,173"/>
+<area shape="rect" id="node9" href="$d9/d5e/a00295.html#af67d7d2ac0a2a9b7908e23033b705575" title="rocksdb::Compaction\l::ResetNextCompactionIndex" alt="" coords="229,197,424,243"/>
+<area shape="rect" id="node11" href="$d4/dd1/a01797.html#a941d36dbc0c16a543c2f61fb25d61574" title="rocksdb::Version::ResetNext\lCompactionIndex" alt="" coords="473,197,663,243"/>
+</map>

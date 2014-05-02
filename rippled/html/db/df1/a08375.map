@@ -1,0 +1,25 @@
+<map id="ripple::TestOverlay::ConnectionType&lt; Config &gt;" name="ripple::TestOverlay::ConnectionType&lt; Config &gt;">
+<area shape="rect" id="node2" href="$d3/db8/a00316.html" title="ripple::Config" alt="" coords="2285,361,2384,391"/>
+<area shape="rect" id="node4" href="$d4/d0e/a01272.html" title="ripple::RippleAddress" alt="" coords="1899,93,2045,123"/>
+<area shape="rect" id="node6" href="$d9/d39/a00257.html" title="ripple::CBase58Data" alt="" coords="1596,77,1737,107"/>
+<area shape="rect" id="node10" href="$d4/d33/a00536.html" title="beast::File" alt="" coords="741,269,824,299"/>
+<area shape="rect" id="node12" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="268,249,364,279"/>
+<area shape="rect" id="node46" href="$da/dc3/a00657.html" title="beast::HeapBlock\&lt; beast\l::String \&gt;" alt="" coords="535,193,705,239"/>
+<area shape="rect" id="node14" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="5,249,176,279"/>
+<area shape="rect" id="node17" href="$d6/d27/a01781.html" title="Represents a JSON value. " alt="" coords="1927,361,2017,391"/>
+<area shape="rect" id="node20" href="$d4/d5b/a00294.html" title="Json::Value::CommentInfo" alt="" coords="1577,341,1756,371"/>
+<area shape="rect" id="node22" href="$d7/d10/a01785.html" title="Json::Value::ValueHolder" alt="" coords="1581,395,1752,424"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="1251,395,1373,424"/>
+<area shape="rect" id="node30" href="$d9/dc8/a01593.html" title="beast::StringPairArray" alt="" coords="1897,208,2047,237"/>
+<area shape="rect" id="node34" href="$d9/d1b/a01583.html" title="beast::StringArray" alt="" coords="1604,208,1729,237"/>
+<area shape="rect" id="node38" href="$d4/d81/a00110.html" title="beast::Array\&lt; beast\l::String \&gt;" alt="" coords="1244,199,1380,246"/>
+<area shape="rect" id="node40" href="$dd/d6d/a00111.html" title="beast::ArrayAllocationBase\l\&lt; beast::String, DummyCriticalSection \&gt;" alt="" coords="848,193,1107,239"/>
+<area shape="rect" id="node42" href="$d4/d53/a00429.html" title="beast::DummyCriticalSection" alt="" coords="524,136,716,165"/>
+<area shape="rect" id="node44" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="251,151,381,180"/>
+<area shape="rect" id="node50" title="STL class. " alt="" coords="1627,635,1707,664"/>
+<area shape="rect" id="node52" title="STL class. " alt="" coords="1249,626,1375,673"/>
+<area shape="rect" id="node56" href="$da/dc3/a00453.html" title="beast::IP::Endpoint" alt="" coords="1600,755,1733,784"/>
+<area shape="rect" id="node58" href="$de/de1/a00065.html" title="beast::IP::Address" alt="" coords="1247,755,1377,784"/>
+<area shape="rect" id="node60" href="$d9/db3/a00066.html" title="beast::IP::AddressV4" alt="" coords="904,728,1051,757"/>
+<area shape="rect" id="node62" href="$dc/ddf/a00067.html" title="beast::IP::AddressV6" alt="" coords="904,781,1051,811"/>
+</map>

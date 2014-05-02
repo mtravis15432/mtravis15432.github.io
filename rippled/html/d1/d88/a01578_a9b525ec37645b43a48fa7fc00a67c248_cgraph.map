@@ -1,0 +1,8 @@
+<map id="beast::String::replaceSection" name="beast::String::replaceSection">
+<area shape="rect" id="node3" href="$d5/d42/a00269.html#a22dc4e5a4812972962b8aff6e444ac3f" title="beast::CharPointer\l_UTF8::findTerminatingNull" alt="" coords="481,5,663,51"/>
+<area shape="rect" id="node7" href="$d5/d42/a00269.html#afa073c637688484a66df219d7ce1600b" title="beast::CharPointer\l_UTF8::getAddress" alt="" coords="504,86,640,133"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#a6e9121487178004a4ad3b8369a9b4922" title="beast::String::getByteOffset\lOfEnd" alt="" coords="247,51,431,98"/>
+<area shape="rect" id="node13" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="273,171,404,218"/>
+<area shape="rect" id="node15" href="$d5/d42/a00269.html#af7cde137bd24b395dd3dce5ca6b0191e" title="beast::CharPointer\l_UTF8::writeNull" alt="" coords="273,241,404,287"/>
+<area shape="rect" id="node5" href="$d5/d42/a00269.html#aeeb8795d4c3b4225521bb5c357a5d0b1" title="beast::CharPointer\l_UTF8::CharPointer_UTF8" alt="" coords="712,5,891,51"/>
+</map>

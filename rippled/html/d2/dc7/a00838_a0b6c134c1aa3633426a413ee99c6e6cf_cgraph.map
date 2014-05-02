@@ -1,0 +1,18 @@
+<map id="ripple::LedgerMasterImp::updatePaths" name="ripple::LedgerMasterImp::updatePaths">
+<area shape="rect" id="node3" href="$d3/d13/a00836.html#a87cfd83ef66929c86ce7a0cf6050c02c" title="ripple::LedgerHolder\l::empty" alt="" coords="247,5,385,51"/>
+<area shape="rect" id="node5" href="$d8/d86/a00703.html#a6f59efd378b35314541b4d5c76cd905a" title="ripple::InboundLedgers\l::findCreate" alt="" coords="240,74,392,121"/>
+<area shape="rect" id="node7" href="$d3/d13/a00836.html#acb5998c7f7a284bb0398d7867a41b960" title="ripple::LedgerHolder::get" alt="" coords="235,144,397,173"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="485,380,587,409"/>
+<area shape="rect" id="node13" href="$da/d96/a00782.html#a1b3e7432fc6096252741938e05ee3135" title="ripple::Job::getCancelCallback" alt="" coords="216,248,416,277"/>
+<area shape="rect" id="node15" href="$dd/dac/a01008.html#aeeadbf915d62f00319ce782da0990567" title="ripple::NetworkOPs\l::getCloseTimeNC" alt="" coords="248,301,384,347"/>
+<area shape="rect" id="node17" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="257,371,375,400"/>
+<area shape="rect" id="node19" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="247,423,385,470"/>
+<area shape="rect" id="node21" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="253,493,379,539"/>
+<area shape="rect" id="node23" href="$da/d74/a00099.html#a5368183e92fc6cd7a985295d258ec892" title="ripple::Application\l::getPathRequests" alt="" coords="251,562,381,609"/>
+<area shape="rect" id="node25" href="$da/d96/a00782.html#a871bab7c19f3bc9e4c6b0780276fde5b" title="ripple::Job::shouldCancel" alt="" coords="232,632,400,661"/>
+<area shape="rect" id="node27" href="$da/d93/a01084.html#a12e05e9a990cbd8927fcc5b710987089" title="ripple::PathRequests\l::updateAll" alt="" coords="244,685,388,731"/>
+<area shape="rect" id="node11" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="657,371,833,418"/>
+<area shape="rect" id="node30" href="$da/d93/a01084.html#a164386fea7cfb04118b4fec9ae02d567" title="ripple::PathRequests\l::getLineCache" alt="" coords="464,615,608,662"/>
+<area shape="rect" id="node32" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="473,685,599,731"/>
+<area shape="rect" id="node34" href="$d1/de6/a00837.html#af917115a5a13970c48e756c0d50aa0ae" title="ripple::LedgerMaster\l::isNewPathRequest" alt="" coords="465,754,607,801"/>
+</map>

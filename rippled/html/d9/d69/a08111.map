@@ -1,0 +1,12 @@
+<map id="ripple::PeerFinder::ConnectHandouts" name="ripple::PeerFinder::ConnectHandouts">
+<area shape="rect" id="node4" href="$da/dc3/a00453.html" title="beast::IP::Endpoint" alt="" coords="759,59,892,88"/>
+<area shape="rect" id="node6" href="$de/de1/a00065.html" title="beast::IP::Address" alt="" coords="467,59,597,88"/>
+<area shape="rect" id="node8" href="$d9/db3/a00066.html" title="beast::IP::AddressV4" alt="" coords="163,5,309,35"/>
+<area shape="rect" id="node10" href="$dc/ddf/a00067.html" title="beast::IP::AddressV6" alt="" coords="163,59,309,88"/>
+<area shape="rect" id="node12" href="$d9/da4/a00078.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;" alt="" coords="1049,120,1204,219"/>
+<area shape="rect" id="node14" href="$da/de0/a00317.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::config_t" alt="" coords="748,120,903,219"/>
+<area shape="rect" id="node16" href="$d4/dfd/a00810.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::KeyValueCompare" alt="" coords="429,120,635,219"/>
+<area shape="rect" id="node18" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; Compare \&gt;" alt="" coords="131,111,341,158"/>
+<area shape="rect" id="node24" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; ElementAllocator \&gt;" alt="" coords="427,242,637,289"/>
+<area shape="rect" id="node28" href="$dc/d28/a00276.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::chronological_t" alt="" coords="733,243,917,341"/>
+</map>

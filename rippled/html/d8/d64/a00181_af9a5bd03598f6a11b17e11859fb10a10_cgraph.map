@@ -1,0 +1,7 @@
+<map id="rocksdb::Benchmark::MultiGetRandom" name="rocksdb::Benchmark::MultiGetRandom">
+<area shape="rect" id="node3" href="$d8/d64/a00181.html#adc083dd10167a976dfac08fe2dfd2f1f" title="rocksdb::Benchmark\l::GenerateKeyFromInt" alt="" coords="227,5,376,51"/>
+<area shape="rect" id="node5" href="$d8/ddd/a00380.html#a09ad7c62dfe7e8739732d37041d058f9" title="rocksdb::DB::GetSnapshot" alt="" coords="212,75,391,104"/>
+<area shape="rect" id="node7" href="$d8/ddd/a00380.html#a951924bc05418ecee8b162fe19344ed4" title="rocksdb::DB::MultiGet" alt="" coords="225,128,377,157"/>
+<area shape="rect" id="node9" href="$df/db5/a01158.html#a9704e30d369bf425cfc544cd2bb947f2" title="rocksdb::Random64::Next" alt="" coords="215,181,388,211"/>
+<area shape="rect" id="node11" href="$d8/ddd/a00380.html#aedefaa4497eb584a45a818c0f05aff9b" title="rocksdb::DB::ReleaseSnapshot" alt="" coords="199,235,404,264"/>
+</map>

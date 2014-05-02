@@ -1,0 +1,6 @@
+<map id="beast::CharacterFunctions::indexOfCharIgnoreCase" name="beast::CharacterFunctions::indexOfCharIgnoreCase">
+<area shape="rect" id="node3" href="$db/d12/a00268.html#a97c61f206993fe38aa3fdd003f6bc6c1" title="beast::CharPointer\l_UTF32::indexOf" alt="" coords="229,5,360,51"/>
+<area shape="rect" id="node5" href="$d5/d35/a00266.html#aaa250ef471db13bad153827ecf24da11" title="beast::CharPointer\l_ASCII::indexOf" alt="" coords="229,74,360,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#ab224a692d2c4aa82c67dfa0a689594c9" title="beast::CharPointer\l_UTF16::indexOf" alt="" coords="229,143,360,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a579d6060c635c8d6f00c440f22d81ef9" title="beast::CharPointer\l_UTF8::indexOf" alt="" coords="229,213,360,259"/>
+</map>

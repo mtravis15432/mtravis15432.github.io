@@ -1,0 +1,5 @@
+<map id="ripple::Application::getLoadManager" name="ripple::Application::getLoadManager">
+<area shape="rect" id="node3" href="$d7/ded/a01009.html#adb95084185570756c8a39ba0e32fb3ed" title="ripple::NetworkOPsImp\l::processHeartbeatTimer" alt="" coords="185,5,351,51"/>
+<area shape="rect" id="node7" href="$d0/d61/a00100.html#adfadeaa99292dadc83781c1077b4b4a2" title="ripple::ApplicationImp::run" alt="" coords="181,75,355,104"/>
+<area shape="rect" id="node5" href="$d7/ded/a01009.html#ab8272588ee692e125af4d7841af32618" title="ripple::NetworkOPsImp\l::onDeadlineTimer" alt="" coords="404,5,561,51"/>
+</map>

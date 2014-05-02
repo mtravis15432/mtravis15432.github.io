@@ -1,0 +1,5 @@
+<map id="ripple::LedgerMasterImp::storeLedger" name="ripple::LedgerMasterImp::storeLedger">
+<area shape="rect" id="node3" href="$dd/d70/a00835.html#ae34b301afcb6775938c3cca3bcd2ff9b" title="ripple::LedgerHistory\l::addLedger" alt="" coords="217,39,359,86"/>
+<area shape="rect" id="node5" href="$dd/d55/a01638.html#a6b9d410c1a62349ee3452f4d66c6c751" title="ripple::TaggedCache\l::canonicalize" alt="" coords="409,5,551,51"/>
+<area shape="rect" id="node7" href="$dd/d55/a01638.html#abf9dcf9333193cda6edfdf88f6351c97" title="ripple::TaggedCache\l::peekMutex" alt="" coords="409,74,551,121"/>
+</map>

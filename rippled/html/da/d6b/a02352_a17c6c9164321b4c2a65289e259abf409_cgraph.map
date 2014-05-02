@@ -1,0 +1,7 @@
+<map id="unixLock" name="unixLock">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a7b96b9e451b820cf5061400544842387" title="sqliteErrorFromPosixError" alt="" coords="129,5,300,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acd88d7bdc7f79108edc83ac379d3181f" title="unixEnterMutex" alt="" coords="159,59,271,88"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a0f54f8c3ccab69b612496aa857e49a1b" title="unixFileLock" alt="" coords="168,112,261,141"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#acd189e7befeaa8d370808bcb6c22f339" title="unixLeaveMutex" alt="" coords="156,165,273,195"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="349,112,475,141"/>
+</map>

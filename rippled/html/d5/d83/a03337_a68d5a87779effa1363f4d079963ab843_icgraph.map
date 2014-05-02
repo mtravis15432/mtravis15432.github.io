@@ -1,0 +1,15 @@
+<map id="beast::numElementsInArray" name="beast::numElementsInArray">
+<area shape="rect" id="node3" href="$d4/d56/a01042.html#a6a9b5f33b220284207f96805bbec4e0e" title="beast::NumberToStringConverters\l::createFromDouble" alt="" coords="237,5,459,51"/>
+<area shape="rect" id="node7" href="$d4/d56/a01042.html#a3abd88ef2938c66c70582b80b7a81e35" title="beast::NumberToStringConverters\l::createFromInteger" alt="" coords="237,74,459,121"/>
+<area shape="rect" id="node11" href="$dc/da7/a03404.html#a1357a32e05f9c602ee45fafa7d0752e8" title="beast::WindowsFileHelpers\l::getModuleFileName" alt="" coords="257,143,439,190"/>
+<area shape="rect" id="node13" href="$dc/da7/a03404.html#a47a07e182fcbab5ea1508404bd56358b" title="beast::WindowsFileHelpers\l::getResultForLastError" alt="" coords="257,213,439,259"/>
+<area shape="rect" id="node15" href="$dd/dda/a01621.html#ae9068a2762a91511af6972265f3920ef" title="beast::SystemStats\l::getStackBacktrace" alt="" coords="277,282,419,329"/>
+<area shape="rect" id="node19" href="$d5/d3e/a01139.html#a2cca8fa1972339dcb0cc883b038597df" title="beast::Process::openDocument" alt="" coords="245,352,451,381"/>
+<area shape="rect" id="node23" href="$d1/d88/a01578.html#a3c5cbd3b246245a8921374d49d6a5c4c" title="beast::String::operator+=" alt="" coords="265,405,431,435"/>
+<area shape="rect" id="node25" href="$d5/deb/a00132.html#acb2624c409769ec8480fe5681a21d2c9" title="beast::Atomic_test::run" alt="" coords="269,459,427,488"/>
+<area shape="rect" id="node27" href="$dd/dda/a01621.html#a261630e9ca6dd5bc8169d6da1fb2233b" title="beast::SystemStats\l::setApplicationCrashHandler" alt="" coords="252,511,444,558"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#a74d9595477d1249a41f3391997e8487c" title="beast::String::fromNumber" alt="" coords="509,13,685,43"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#ab90d0c3996ec8bb963898e6909bd4003" title="beast::String::fromNumber" alt="" coords="509,83,685,112"/>
+<area shape="rect" id="node17" href="$d8/d14/a00522.html#a6d670aa941710f069c5e0a34d45dcec5" title="beast::FatalError::\lFatalError" alt="" coords="535,282,660,329"/>
+<area shape="rect" id="node21" href="$d4/d33/a00536.html#a4854c9dbc046424c675b5385a0245bcb" title="beast::File::startAsProcess" alt="" coords="507,352,688,381"/>
+</map>

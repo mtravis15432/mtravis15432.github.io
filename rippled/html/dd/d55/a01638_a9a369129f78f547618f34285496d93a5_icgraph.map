@@ -1,0 +1,5 @@
+<map id="ripple::TaggedCache::getCacheSize" name="ripple::TaggedCache::getCacheSize">
+<area shape="rect" id="node3" href="$dd/d55/a01638.html#a52f015e6ddfe4cdc10db116218ee0ea6" title="ripple::TaggedCache\l\&lt; LedgerIndex, std::\lpair\&lt; LedgerHash, LedgerHash\l \&gt; \&gt;::collect_metrics" alt="" coords="197,5,400,86"/>
+<area shape="rect" id="node5" href="$d7/ded/a01009.html#a784d6624cfe72b3bba31a6d50553b44a" title="ripple::NetworkOPsImp\l::getFetchSize" alt="" coords="220,109,377,155"/>
+<area shape="rect" id="node7" href="$d7/ded/a01009.html#a356932367043b41df75358206d0b5b36" title="ripple::NetworkOPsImp\l::getServerInfo" alt="" coords="220,178,377,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="beast::HeapBlock::calloc" name="beast::HeapBlock::calloc">
+<area shape="rect" id="node3" href="$dc/da7/a03404.html#ab2c6c251d37075053a9d260881e3d573" title="beast::WindowsFileHelpers\l::getDriveFromPath" alt="" coords="223,74,404,121"/>
+<area shape="rect" id="node9" href="$dd/dda/a01621.html#ae9068a2762a91511af6972265f3920ef" title="beast::SystemStats\l::getStackBacktrace" alt="" coords="243,143,384,190"/>
+<area shape="rect" id="node5" href="$dc/da7/a03404.html#ada25bd6d34ec5968a716e5d985d7da44" title="beast::WindowsFileHelpers\l::getDiskSpaceInfo" alt="" coords="455,5,636,51"/>
+<area shape="rect" id="node7" href="$dc/da7/a03404.html#a6e9a91f449e838a2b529ce6e933b545a" title="beast::WindowsFileHelpers\l::getWindowsDriveType" alt="" coords="455,74,636,121"/>
+<area shape="rect" id="node11" href="$d8/d14/a00522.html#a6d670aa941710f069c5e0a34d45dcec5" title="beast::FatalError::\lFatalError" alt="" coords="483,143,608,190"/>
+</map>

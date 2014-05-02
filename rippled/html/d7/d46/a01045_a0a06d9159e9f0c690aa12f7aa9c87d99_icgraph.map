@@ -1,0 +1,5 @@
+<map id="ripple::core::Offer::account" name="ripple::core::Offer::account">
+<area shape="rect" id="node3" href="$de/d14/a01640.html#a4b55fba486df9d29a010377872fc7e5d" title="ripple::core::Taker\l::fill" alt="" coords="196,5,321,51"/>
+<area shape="rect" id="node5" href="$de/d14/a01640.html#ab965c98d5a0e895f412f65b1724038b2" title="ripple::core::Taker\l::process" alt="" coords="196,74,321,121"/>
+<area shape="rect" id="node7" href="$d0/d22/a01049.html#a1e73441cbdbd8cfcc418bd1bb6beff57" title="ripple::core::OfferStream\l::step" alt="" coords="176,143,341,190"/>
+</map>

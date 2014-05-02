@@ -1,0 +1,17 @@
+<map id="beast::unit_test::recorder" name="beast::unit_test::recorder">
+<area shape="rect" id="node2" href="$d2/d4c/a01307.html" title="beast::unit_test::runner" alt="" coords="417,1347,572,1376"/>
+<area shape="rect" id="node4" href="$db/dfd/a01576.html" title="beast::unit_test::runner\l::stream_t" alt="" coords="507,1443,661,1490"/>
+<area shape="rect" id="node6" href="$d1/db7/a00157.html" title="abstract_ostream" alt="" coords="600,1347,723,1376"/>
+<area shape="rect" id="node9" href="$d7/d73/a01266.html" title="beast::unit_test::results" alt="" coords="177,1347,335,1376"/>
+<area shape="rect" id="node11" href="$d8/d23/a00326.html" title="beast::const_container\l\&lt; std::vector\&lt; suite_results \&gt; \&gt;" alt="" coords="127,1249,332,1295"/>
+<area shape="rect" id="node15" href="$d5/d84/a01612.html" title="beast::unit_test::suite\l_results" alt="" coords="260,1019,407,1066"/>
+<area shape="rect" id="node17" href="$d8/d23/a00326.html" title="beast::const_container\l\&lt; std::vector\&lt; case_results \&gt; \&gt;" alt="" coords="127,921,332,967"/>
+<area shape="rect" id="node21" href="$d4/d04/a00255.html" title="beast::unit_test::case\l_results" alt="" coords="47,710,193,757"/>
+<area shape="rect" id="node23" href="$d4/d1c/a00903.html" title="beast::unit_test::case\l_results::log_t" alt="" coords="173,523,320,570"/>
+<area shape="rect" id="node25" href="$d8/d23/a00326.html" title="beast::const_container\l\&lt; std::vector\&lt; std::string \&gt; \&gt;" alt="" coords="160,379,349,426"/>
+<area shape="rect" id="node29" title="STL class. " alt="" coords="156,104,236,133"/>
+<area shape="rect" id="node40" href="$d3/d3e/a01644.html" title="beast::unit_test::case\l_results::test" alt="" coords="56,201,203,247"/>
+<area shape="rect" id="node31" title="STL class. " alt="" coords="133,6,259,53"/>
+<area shape="rect" id="node34" href="$df/d5a/a01681.html" title="beast::unit_test::case\l_results::tests_t" alt="" coords="47,595,193,642"/>
+<area shape="rect" id="node36" href="$d8/d23/a00326.html" title="beast::const_container\l\&lt; std::vector\&lt; test \&gt; \&gt;" alt="" coords="43,451,197,498"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::PeerFinder::RedirectHandouts::list" name="ripple::PeerFinder::RedirectHandouts::list">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#a743a434a6133a8032548175093fb78e0" title="ripple::PeerFinder\l::Logic::redirect" alt="" coords="215,5,337,51"/>
+<area shape="rect" id="node5" href="$df/da5/a00912.html#a23691aa2fc1bf978bec5dfae7510f556" title="ripple::PeerFinder\l::Logic::on_handshake" alt="" coords="388,5,540,51"/>
+<area shape="rect" id="node7" href="$d0/d5b/a00933.html#a821aed96cad550e2e952e914ecc0b318" title="ripple::PeerFinder\l::ManagerImp::on_handshake" alt="" coords="589,5,784,51"/>
+</map>

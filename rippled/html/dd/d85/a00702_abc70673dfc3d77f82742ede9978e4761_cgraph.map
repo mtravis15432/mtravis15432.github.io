@@ -1,0 +1,6 @@
+<map id="ripple::InboundLedger::~InboundLedger" name="ripple::InboundLedger::~InboundLedger">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="227,13,328,43"/>
+<area shape="rect" id="node7" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="208,66,347,113"/>
+<area shape="rect" id="node9" href="$d8/d86/a00703.html#a0ac4872cdad9682c0e02da3e1f8ed672" title="ripple::InboundLedgers\l::gotStaleData" alt="" coords="201,135,353,182"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="404,5,580,51"/>
+</map>

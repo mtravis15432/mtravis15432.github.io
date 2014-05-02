@@ -1,0 +1,5 @@
+<map id="ripple::Transaction::sharedTransaction" name="ripple::Transaction::sharedTransaction">
+<area shape="rect" id="node3" href="$de/d05/a01702.html#a0b1ca022f5e975d95c241ccff47261b9" title="ripple::Transaction\l::convertToTransactions" alt="" coords="208,5,371,51"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a121947527421ef303df338fca17f8083" title="ripple::Ledger::getTransaction" alt="" coords="192,75,387,104"/>
+<area shape="rect" id="node7" href="$d7/ded/a01009.html#a20ac0a06c2870e5d087e35f7dd2f768c" title="ripple::NetworkOPsImp\l::submitTransactionSync" alt="" coords="207,127,372,174"/>
+</map>

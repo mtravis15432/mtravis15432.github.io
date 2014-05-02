@@ -1,0 +1,6 @@
+<map id="rocksdb::DBImpl::CreateArchivalDirectory" name="rocksdb::DBImpl::CreateArchivalDirectory">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a546d3e2e5c3b4aa8ee9828c7b519d501" title="rocksdb::ArchivalDirectory" alt="" coords="269,5,445,35"/>
+<area shape="rect" id="node5" href="$db/db1/a00460.html#a52a10880d70d77d1dcad9f2fb20ce171" title="rocksdb::Env::CreateDirIf\lMissing" alt="" coords="272,58,443,105"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="287,128,428,157"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="493,128,653,157"/>
+</map>

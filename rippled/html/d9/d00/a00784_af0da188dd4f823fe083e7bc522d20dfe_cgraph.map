@@ -1,0 +1,8 @@
+<map id="ripple::JobQueueImp::getNextJob" name="ripple::JobQueueImp::getNextJob">
+<area shape="rect" id="node3" href="$d9/d00/a00784.html#ae9465141aa97c71a1dbf82f44e0c63e6" title="ripple::JobQueueImp\l::getJobLimit" alt="" coords="199,39,340,86"/>
+<area shape="rect" id="node11" href="$d9/d00/a00784.html#ac4a243000c4ae7ddb098e2cd82ceee1b" title="ripple::JobQueueImp\l::getJobTypeData" alt="" coords="199,109,340,155"/>
+<area shape="rect" id="node13" href="$d3/d00/a00785.html#a5f125acd3cc60ddbec4c8717cec5bbcf" title="ripple::JobTypeData\l::type" alt="" coords="200,178,339,225"/>
+<area shape="rect" id="node5" href="$d9/d00/a00784.html#acd7984fd6d031121249572be3f300a8a" title="ripple::JobQueueImp\l::getJobTypes" alt="" coords="391,5,532,51"/>
+<area shape="rect" id="node7" href="$d0/d7d/a00786.html#aa13804d322a89e387b92d858d9faab54" title="ripple::JobTypeInfo\l::limit" alt="" coords="395,74,528,121"/>
+<area shape="rect" id="node9" href="$d0/d7d/a00786.html#a88dd6ca74cc4f83d86000d118afa74b4" title="ripple::JobTypeInfo\l::type" alt="" coords="395,161,528,207"/>
+</map>

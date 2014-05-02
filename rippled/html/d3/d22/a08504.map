@@ -1,0 +1,8 @@
+<map id="rocksdb::DBImpl::Writer" name="rocksdb::DBImpl::Writer">
+<area shape="rect" id="node2" href="$d0/db9/a01552.html" title="rocksdb::Status" alt="" coords="5,200,120,229"/>
+<area shape="rect" id="node4" href="$d2/dbd/a01844.html" title="rocksdb::WriteBatch" alt="" coords="144,200,285,229"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="175,104,255,133"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="152,6,277,53"/>
+<area shape="rect" id="node10" href="$d0/d39/a00314.html" title="rocksdb::port::CondVar" alt="" coords="309,200,467,229"/>
+<area shape="rect" id="node12" href="$d9/d9a/a00998.html" title="rocksdb::port::Mutex" alt="" coords="317,104,459,133"/>
+</map>

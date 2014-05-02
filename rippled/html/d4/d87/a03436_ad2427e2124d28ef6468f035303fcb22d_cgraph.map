@@ -1,0 +1,6 @@
+<map id="rocksdb::GetVarint32" name="rocksdb::GetVarint32">
+<area shape="rect" id="node3" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="212,5,351,35"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#ad725181422bf6cf312bbea4b0b3c9d8c" title="rocksdb::GetVarint32Ptr" alt="" coords="200,59,363,88"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="213,112,349,141"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#ab1d1f511057be322e0d7b0d7ef489a14" title="rocksdb::GetVarint32PtrFallback" alt="" coords="411,59,621,88"/>
+</map>

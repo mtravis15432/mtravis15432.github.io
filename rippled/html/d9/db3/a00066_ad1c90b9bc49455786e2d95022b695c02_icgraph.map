@@ -1,0 +1,8 @@
+<map id="beast::IP::AddressV4::AddressV4" name="beast::IP::AddressV4::AddressV4">
+<area shape="rect" id="node3" href="$d9/db3/a00066.html#a9de0342847ca66ad4e9fca0ba82ff72c" title="beast::IP::AddressV4::any" alt="" coords="200,5,376,35"/>
+<area shape="rect" id="node5" href="$d9/db3/a00066.html#a734faac5be1cf9255325785e91d0109c" title="beast::IP::AddressV4\l::broadcast" alt="" coords="215,58,361,105"/>
+<area shape="rect" id="node7" href="$d9/db3/a00066.html#a4544c71f77c45463d6b69733eef789cf" title="beast::IP::AddressV4\l::loopback" alt="" coords="215,127,361,174"/>
+<area shape="rect" id="node9" href="$d9/db3/a00066.html#a178833f2a8224b3f580e4976ed627cc0" title="beast::IP::AddressV4\l::netmask" alt="" coords="215,197,361,243"/>
+<area shape="rect" id="node11" href="$d9/db3/a00066.html#ae9526d70e30886c3d64daded24cfc6a9" title="beast::IP::AddressV4\l::broadcast" alt="" coords="424,162,571,209"/>
+<area shape="rect" id="node13" href="$d9/db3/a00066.html#adf1bfe6161221ba675b4d81ad4602b3f" title="beast::IP::AddressV4\l::netmask" alt="" coords="424,231,571,278"/>
+</map>

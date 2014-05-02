@@ -1,0 +1,15 @@
+<map id="sqlite3FixSelect" name="sqlite3FixSelect">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="1139,212,1267,241"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#aed02a32694f2649d2f9161fb324f12ed" title="sqlite3FixExpr" alt="" coords="169,292,273,321"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#a9c31e335e9b8ad784d990d0c9db3139d" title="sqlite3FixTriggerStep" alt="" coords="500,343,644,372"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#aef21c9fd3fd3e1ac1caad71d55ee867a" title="sqlite3FixSrcList" alt="" coords="328,152,445,181"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="1317,135,1400,164"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a90682707dee89aba38039bf7848c09d4" title="sqlite3Parser" alt="" coords="1448,135,1547,164"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="724,267,857,296"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#ae7c3574b349cf7cde71c2ee904060b92" title="sqlite3FixExprList" alt="" coords="324,368,449,397"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#a8dbe5e590ab6c58a8c45f34f7c81e825" title="sqlite3CreateIndex" alt="" coords="507,131,637,160"/>
+<area shape="rect" id="node37" href="$da/d6b/a02352.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="1136,5,1269,35"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#a0d41effc4e4a0ba740429a08f6747313" title="convertToWithoutRowidTable" alt="" coords="693,161,888,191"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#af2b0672c3379d2a7d927d210ae0ade62" title="sqlite3AddPrimaryKey" alt="" coords="937,109,1087,139"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#a7b5f2c66c0f0b6f819d970ca389768b0" title="sqlite3EndTable" alt="" coords="955,163,1069,192"/>
+</map>

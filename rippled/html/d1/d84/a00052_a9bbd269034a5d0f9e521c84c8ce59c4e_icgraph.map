@@ -1,0 +1,19 @@
+<map id="beast::asio::abstract_socket::get_io_service" name="beast::asio::abstract_socket::get_io_service">
+<area shape="rect" id="node3" href="$d1/d84/a00052.html#afadcc0a6cd50b5e151f977e9665c7bbc" title="beast::asio::abstract\l_socket::async_accept" alt="" coords="228,73,385,119"/>
+<area shape="rect" id="node5" href="$d1/d84/a00052.html#a1ff467f3aade54ef576b4e3ae8c24340" title="beast::asio::abstract\l_socket::async_handshake" alt="" coords="905,310,1087,357"/>
+<area shape="rect" id="node11" href="$d1/d84/a00052.html#a55265f26bcef89abba4afc125789ab9f" title="beast::asio::abstract\l_socket::async_read_some" alt="" coords="216,142,397,189"/>
+<area shape="rect" id="node15" href="$d1/d84/a00052.html#aa561a81bfea6e8d5d1693526f2f3b7cc" title="beast::asio::abstract\l_socket::async_shutdown" alt="" coords="220,211,393,258"/>
+<area shape="rect" id="node35" href="$d1/d84/a00052.html#a1d7dc82148e6ca2c62ce68727bf483b7" title="beast::asio::abstract\l_socket::async_write_some" alt="" coords="215,374,399,421"/>
+<area shape="rect" id="node7" href="$db/d98/a01675.html#a82f2ae6c0a2789674696a165d4fa454e" title="beast::asio::TestPeerLogic\lAsyncClient::on_connect_async" alt="" coords="1403,235,1613,282"/>
+<area shape="rect" id="node9" href="$de/d3e/a01676.html#a8601477aa6269124849cc945502296d6" title="beast::asio::TestPeerLogic\lAsyncServer::on_connect_async" alt="" coords="1140,243,1353,290"/>
+<area shape="rect" id="node13" href="$d0/d28/a00997.html#ac2e1b88e0cb2b8c123122cb19fc8f272" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::async\l_read_some" alt="" coords="451,5,624,69"/>
+<area shape="rect" id="node17" href="$d0/d28/a00997.html#a1e2469ee76ec5466ba79e2ae188fae18" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::async\l_shutdown" alt="" coords="451,163,624,227"/>
+<area shape="rect" id="node19" href="$db/d98/a01675.html#a759cd2fa3d57209c020c8d499d097bf1" title="beast::asio::TestPeerLogic\lAsyncClient::on_read_final" alt="" coords="448,93,627,139"/>
+<area shape="rect" id="node28" href="$de/d3e/a01676.html#a3022dd7de9b3d5e3391cefbad75c533c" title="beast::asio::TestPeerLogic\lAsyncServer::on_write" alt="" coords="448,250,627,297"/>
+<area shape="rect" id="node21" href="$db/d98/a01675.html#acf6b9cf80546421578be5084fe466bd8" title="beast::asio::TestPeerLogic\lAsyncClient::on_read" alt="" coords="675,113,853,159"/>
+<area shape="rect" id="node23" href="$db/d98/a01675.html#a29a39d3254649790041d86fa866f1d4f" title="beast::asio::TestPeerLogic\lAsyncClient::on_write" alt="" coords="907,151,1085,198"/>
+<area shape="rect" id="node25" href="$db/d98/a01675.html#a757c6d9bf5e0554637fe5a170077b7ae" title="beast::asio::TestPeerLogic\lAsyncClient::on_handshake" alt="" coords="1155,163,1339,210"/>
+<area shape="rect" id="node30" href="$de/d3e/a01676.html#ab586b661549f5978735be443bc11e99d" title="beast::asio::TestPeerLogic\lAsyncServer::on_read" alt="" coords="675,246,853,293"/>
+<area shape="rect" id="node32" href="$de/d3e/a01676.html#aa1a4e9982dbb8df83ea6ff0f40ebccc3" title="beast::asio::TestPeerLogic\lAsyncServer::on_handshake" alt="" coords="901,241,1091,287"/>
+<area shape="rect" id="node37" href="$d0/d28/a00997.html#af41444a1a5805f9aa8e3351e5414b281" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::async\l_write_some" alt="" coords="451,371,624,435"/>
+</map>

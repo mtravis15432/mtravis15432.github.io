@@ -1,0 +1,18 @@
+<map id="ripple::Ledger::ownerDirDescriber" name="ripple::Ledger::ownerDirDescriber">
+<area shape="rect" id="node3" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="1276,47,1465,94"/>
+<area shape="rect" id="node5" href="$d0/d08/a00832.html#a97e303072f41199f21de517301636565" title="ripple::LedgerEntrySet\l::trustCreate" alt="" coords="215,181,364,227"/>
+<area shape="rect" id="node7" href="$d0/d08/a00832.html#abd9ab6f5925fa3f9434e3f44e9ab217e" title="ripple::LedgerEntrySet\l::rippleCredit" alt="" coords="425,181,575,227"/>
+<area shape="rect" id="node37" href="$da/d0e/a01720.html#a2b9fb48a88531be86cd60b350564c7aa" title="ripple::TrustSetTransactor\l::doApply" alt="" coords="413,250,587,297"/>
+<area shape="rect" id="node9" href="$d0/d08/a00832.html#a0ffde547dd05d6b0816345b9a5123942" title="ripple::LedgerEntrySet\l::rippleSend" alt="" coords="636,181,785,227"/>
+<area shape="rect" id="node30" href="$d4/d10/a01278.html#a7e6910b02e5b449803cb1f8f42043bad" title="ripple::RippleCalc\l::calcNodeAccountFwd" alt="" coords="1052,319,1209,366"/>
+<area shape="rect" id="node11" href="$d0/d08/a00832.html#adb4c10b0043957922ce2b5b5abd67549" title="ripple::LedgerEntrySet\l::accountSend" alt="" coords="836,181,985,227"/>
+<area shape="rect" id="node13" href="$de/d14/a01640.html#ab965c98d5a0e895f412f65b1724038b2" title="ripple::core::Taker\l::process" alt="" coords="1068,42,1193,89"/>
+<area shape="rect" id="node15" href="$d4/d10/a01278.html#ab61998a5e167691b67a1cc512e5e85a0" title="ripple::RippleCalc\l::calcNodeDeliverRev" alt="" coords="1056,181,1205,227"/>
+<area shape="rect" id="node23" href="$d4/d10/a01278.html#a592be0b1094c005d596044230caac6d4" title="ripple::RippleCalc\l::calcNodeDeliverFwd" alt="" coords="1056,250,1205,297"/>
+<area shape="rect" id="node33" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="1036,111,1225,158"/>
+<area shape="rect" id="node17" href="$d4/d10/a01278.html#acddbc756a6f92ec497a6d5806d356f14" title="ripple::RippleCalc\l::calcNodeOfferRev" alt="" coords="1301,181,1440,227"/>
+<area shape="rect" id="node19" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="1515,181,1640,227"/>
+<area shape="rect" id="node21" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="1688,215,1813,262"/>
+<area shape="rect" id="node25" href="$d4/d10/a01278.html#ac9666accf2ed1b2e9b58674645349eec" title="ripple::RippleCalc\l::calcNodeOfferFwd" alt="" coords="1301,250,1440,297"/>
+<area shape="rect" id="node27" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="1515,250,1640,297"/>
+</map>

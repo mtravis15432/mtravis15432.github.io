@@ -1,0 +1,8 @@
+<map id="rocksdb::log::TEST" name="rocksdb::log::TEST">
+<area shape="rect" id="node3" href="$db/db5/a03468.html#ab2465e89dc1eaed01f9b566ab4542bd2" title="rocksdb::log::RandomSkewed\lString" alt="" coords="189,50,387,97"/>
+<area shape="rect" id="node5" href="$db/db5/a03468.html#aa277b2bd8e5b9d75752babcb30f029a4" title="rocksdb::log::BigString" alt="" coords="448,5,603,35"/>
+<area shape="rect" id="node7" href="$db/db5/a03468.html#a8ce3617b83a672e4d6768ccdabd0df2b" title="rocksdb::log::NumberString" alt="" coords="435,59,616,88"/>
+<area shape="rect" id="node9" href="$d9/d25/a01157.html#a47728314f2d1fbb85efd24061ad6eb9a" title="rocksdb::Random::Skewed" alt="" coords="436,112,615,141"/>
+<area shape="rect" id="node11" href="$d9/d25/a01157.html#a71e653793b2f7189d61dcbc263ece2ed" title="rocksdb::Random::Uniform" alt="" coords="664,112,843,141"/>
+<area shape="rect" id="node13" href="$d9/d25/a01157.html#a520efcab691df60bc48d1fe7251f1cd5" title="rocksdb::Random::Next" alt="" coords="892,112,1052,141"/>
+</map>

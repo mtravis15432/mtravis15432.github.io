@@ -1,0 +1,8 @@
+<map id="beast::RandomAccessFile::nativeTruncate" name="beast::RandomAccessFile::nativeTruncate">
+<area shape="rect" id="node3" href="$dc/d81/a01161.html#a9ae1444e083f4d3e1d810543e64b8b39" title="beast::RandomAccessFile\l::flush" alt="" coords="229,51,405,98"/>
+<area shape="rect" id="node9" href="$dc/d81/a01161.html#a07bae5684c94c72e71cae2f1cbde894a" title="beast::RandomAccessFile\l::isOpen" alt="" coords="685,111,861,158"/>
+<area shape="rect" id="node5" href="$dc/d81/a01161.html#a7ebd48e9f1392308cc0476d3965584d9" title="beast::RandomAccessFile\l::nativeFlush" alt="" coords="453,51,629,98"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#a3a1b6608cad33bede2b440a5acf6f0f2" title="beast::File::getFullPathName" alt="" coords="677,5,869,35"/>
+<area shape="rect" id="node11" href="$d9/de7/a01257.html#a564d5ce775dabd861f475dcc1cfc4ab7" title="beast::Result::ok" alt="" coords="712,59,835,88"/>
+<area shape="rect" id="node13" href="$d9/de7/a01257.html#acb75803e2914f94d988b1abd2eabc968" title="beast::Result::Result" alt="" coords="917,59,1064,88"/>
+</map>

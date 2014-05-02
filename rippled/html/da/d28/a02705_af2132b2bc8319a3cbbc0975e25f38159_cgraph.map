@@ -1,0 +1,14 @@
+<map id="testDBClientProxy" name="testDBClientProxy">
+<area shape="rect" id="node3" href="$d3/d45/a00382.html#a18e8e94cd6dcdfab5dc100b78a0de559" title="rocksdb::DBClientProxy\l::connect" alt="" coords="197,5,360,51"/>
+<area shape="rect" id="node7" href="$d3/d45/a00382.html#ae674e20537756b3efaa20945bfca87eb" title="rocksdb::DBClientProxy\l::create" alt="" coords="197,74,360,121"/>
+<area shape="rect" id="node9" href="$da/d28/a02705.html#a3b2714dee6e3c7559e6abf8492ffbad5" title="db1" alt="" coords="257,144,300,173"/>
+<area shape="rect" id="node11" href="$d0/d87/a03399.html#addb402f22cc191c3dc7f4325bb6f684e" title="beast.util.Iter.first" alt="" coords="217,197,340,227"/>
+<area shape="rect" id="node13" href="$d3/d45/a00382.html#a75e32b19e069b48d078d8e69300408bd" title="rocksdb::DBClientProxy::get" alt="" coords="184,373,373,403"/>
+<area shape="rect" id="node23" href="$d3/d45/a00382.html#a82d19e6d82682a4dbfa362f53779c679" title="rocksdb::DBClientProxy::put" alt="" coords="184,251,373,280"/>
+<area shape="rect" id="node26" href="$d3/d45/a00382.html#a8de60ab3d2ee8f1d7a145e5de04cfabe" title="rocksdb::DBClientProxy\l::scan" alt="" coords="197,303,360,350"/>
+<area shape="rect" id="node5" href="$d3/d45/a00382.html#a5423e79e5b8941b109a37705e28cc124" title="rocksdb::DBClientProxy\l::cleanUp" alt="" coords="421,5,584,51"/>
+<area shape="rect" id="node15" href="$d3/d45/a00382.html#a8eed1fc3e862bf2fc9718a1f668e6eb0" title="rocksdb::DBClientProxy\l::getHandle" alt="" coords="421,250,584,297"/>
+<area shape="rect" id="node19" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="433,320,572,349"/>
+<area shape="rect" id="node21" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="435,373,571,403"/>
+<area shape="rect" id="node17" href="$d3/d45/a00382.html#a3310c0268aea0a664a52c66f5ec34790" title="rocksdb::DBClientProxy\l::open" alt="" coords="632,250,795,297"/>
+</map>

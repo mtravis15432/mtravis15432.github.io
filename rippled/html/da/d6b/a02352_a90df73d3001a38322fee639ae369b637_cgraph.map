@@ -1,0 +1,8 @@
+<map id="localtimeOffset" name="localtimeOffset">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#aeeefea84c7c62565ee8e5491f39c0bc4" title="computeJD" alt="" coords="527,5,615,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#aaa0f11071766258d0a6bd58c98a5cfa4" title="computeYMD_HMS" alt="" coords="165,44,304,73"/>
+<area shape="rect" id="node12" href="$da/d6b/a02352.html#a1cd1d1cf8d386ab8c12e96557cd47c20" title="osLocaltime" alt="" coords="189,124,280,153"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a13e9c62b28e0545b79e18f6c020ee51b" title="computeHMS" alt="" coords="364,31,465,60"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a5bd5a8651c26bd9c9e84482fc7b82321" title="computeYMD" alt="" coords="364,84,465,113"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="352,137,477,167"/>
+</map>

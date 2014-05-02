@@ -1,0 +1,8 @@
+<map id="sqlite3TransferBindings" name="sqlite3TransferBindings">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a6c01f0d847f3ea4846a85198b6201ffc" title="sqlite3VdbeMemMove" alt="" coords="215,5,364,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="972,17,1105,47"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="415,44,580,73"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="631,57,732,87"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="993,96,1084,125"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="781,69,923,99"/>
+</map>

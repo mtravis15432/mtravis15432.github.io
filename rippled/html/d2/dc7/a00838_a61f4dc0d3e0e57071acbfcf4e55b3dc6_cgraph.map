@@ -1,0 +1,7 @@
+<map id="ripple::LedgerMasterImp::setValidLedger" name="ripple::LedgerMasterImp::setValidLedger">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="248,13,349,43"/>
+<area shape="rect" id="node7" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="236,66,361,113"/>
+<area shape="rect" id="node9" href="$d3/d13/a00836.html#a4a8651dad58eadc278ad8db27acaa0af" title="ripple::LedgerHolder::set" alt="" coords="217,136,380,165"/>
+<area shape="rect" id="node11" href="$dd/dac/a01008.html#ad949d9ad4920e206419e5dc4abc272d5" title="ripple::NetworkOPs\l::updateLocalTx" alt="" coords="231,189,367,235"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="431,5,607,51"/>
+</map>

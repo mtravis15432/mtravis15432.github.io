@@ -1,0 +1,5 @@
+<map id="rocksdb::DBTest::Destroy" name="rocksdb::DBTest::Destroy">
+<area shape="rect" id="node3" href="$db/d95/a00391.html#a21ea2025701f28a3c295db6a7e9bb881" title="rocksdb::DBTest::ChangeCompact\lOptions" alt="" coords="229,5,456,51"/>
+<area shape="rect" id="node5" href="$db/d95/a00391.html#a3761d111551d33530517a39f38f908d1" title="rocksdb::DBTest::ChangeOptions" alt="" coords="504,104,723,133"/>
+<area shape="rect" id="node7" href="$db/d95/a00391.html#ada9d4dceac67de38a2d6b39b1f4b42ba" title="rocksdb::DBTest::Destroy\lAndReopen" alt="" coords="256,125,429,171"/>
+</map>

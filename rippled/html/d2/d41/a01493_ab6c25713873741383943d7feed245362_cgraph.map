@@ -1,0 +1,5 @@
+<map id="ripple::STAmount::operator&gt;" name="ripple::STAmount::operator&gt;">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a8ce0d67134d414cec8e66e9ef48d3c8e" title="ripple::STAmount::compare" alt="" coords="267,5,448,35"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#ab0b901062f0b7e67b0832d0601cd665e" title="ripple::STAmount::throwComparable" alt="" coords="241,59,473,88"/>
+<area shape="rect" id="node7" href="$d2/d41/a01493.html#a3cf020f0636f8cbc302a6261b9145c11" title="ripple::STAmount::isComparable" alt="" coords="523,59,733,88"/>
+</map>

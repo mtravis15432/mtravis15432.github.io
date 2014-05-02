@@ -1,0 +1,7 @@
+<map id="ripple::InfoSub" name="ripple::InfoSub">
+<area shape="rect" id="node7" href="$dc/d9e/a01305.html" title="ripple::RPCSub" alt="" coords="23,275,135,304"/>
+<area shape="rect" id="node11" href="$da/d5e/a01852.html" title="ripple::WSConnection" alt="" coords="171,275,320,304"/>
+<area shape="rect" id="node2" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; InfoSub \&gt;" alt="" coords="83,102,229,149"/>
+<area shape="rect" id="node9" href="$d7/d8c/a01306.html" title="ripple::RPCSubImp" alt="" coords="5,361,139,391"/>
+<area shape="rect" id="node13" href="$db/d6b/a01853.html" title="ripple::WSConnectionType\l\&lt; endpoint_type \&gt;" alt="" coords="163,353,341,399"/>
+</map>

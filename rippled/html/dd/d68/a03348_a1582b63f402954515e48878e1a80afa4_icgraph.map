@@ -1,0 +1,6 @@
+<map id="beast::BSDStatsHelpers::getDmesgInfo" name="beast::BSDStatsHelpers::getDmesgInfo">
+<area shape="rect" id="node3" href="$dd/dda/a01621.html#a8f83c389e1878e0bca580be5e756233c" title="beast::SystemStats\l::getCpuSpeedInMegaherz" alt="" coords="223,5,399,51"/>
+<area shape="rect" id="node5" href="$dd/dda/a01621.html#ab7f26c10d81fd1b83c51d1a862fc2b5d" title="beast::SystemStats\l::getCpuVendor" alt="" coords="241,74,380,121"/>
+<area shape="rect" id="node7" href="$df/df1/a00357.html#ac227907afca1f3ed607de7c2554f86de" title="beast::CPUInformation\l::initialise" alt="" coords="233,143,388,190"/>
+<area shape="rect" id="node9" href="$df/df1/a00357.html#aa4f635cfeb7e227a1f79cab4ee7a14c8" title="beast::CPUInformation\l::CPUInformation" alt="" coords="449,143,604,190"/>
+</map>

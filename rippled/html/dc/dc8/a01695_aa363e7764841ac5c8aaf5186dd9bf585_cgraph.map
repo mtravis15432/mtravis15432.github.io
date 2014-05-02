@@ -1,0 +1,9 @@
+<map id="beast::Time::formatted" name="beast::Time::formatted">
+<area shape="rect" id="node3" href="$de/d11/a03387.html#ae3faf3c1cdbf1dfc4e309143ae9cb812" title="beast::TimeHelpers\l::formatString" alt="" coords="208,81,344,127"/>
+<area shape="rect" id="node11" href="$de/d11/a03387.html#a5506e2798415ba377b05f247702f762f" title="beast::TimeHelpers\l::millisToLocal" alt="" coords="208,173,344,219"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="411,5,557,35"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#aca5ef8a717c8aa073bfcbafb3743c021" title="beast::String::toWideChar\lPointer" alt="" coords="397,58,571,105"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#a1ceebfd5b7e825c6b8dcdc38d3237547" title="beast::String::toUTF32" alt="" coords="407,128,561,157"/>
+<area shape="rect" id="node13" href="$dc/dc8/a01695.html#a8be067a7fcef071a4b60e2a38ce0bdbb" title="beast::Time::toMilliseconds" alt="" coords="393,181,575,211"/>
+<area shape="rect" id="node15" href="$d5/d83/a03337.html#a710cd17b4a1aa058cb94c61e6dbdbb84" title="beast::zerostruct" alt="" coords="424,235,544,264"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ripple::Validators::Logic::ledgerClosed" name="ripple::Validators::Logic::ledgerClosed">
+<area shape="rect" id="node3" href="$dd/db5/a00365.html#a5a4932587d19230c84de1d11e1ffc232" title="ripple::CycledSet::\linsert" alt="" coords="217,5,348,51"/>
+<area shape="rect" id="node5" href="$d5/df4/a01779.html#a5cac6436ff0294fbd8c8bab20d03d4b9" title="ripple::Validators\l::Validator::ledgerClosed" alt="" coords="200,74,365,121"/>
+<area shape="rect" id="node7" href="$dc/d59/a00364.html#aa7239aafafd0b723eec0fd9fd9c62fe5" title="ripple::Validators\l::CycledMap::insert" alt="" coords="413,39,549,86"/>
+<area shape="rect" id="node9" href="$d5/df4/a01779.html#ae83e9731b44f09bcc3657cf1949a707e" title="ripple::Validators\l::Validator::count" alt="" coords="421,109,541,155"/>
+<area shape="rect" id="node11" href="$dc/d59/a00364.html#ab4ee995207806334904ecc138c8b35c8" title="ripple::Validators\l::CycledMap::front" alt="" coords="599,74,729,121"/>
+<area shape="rect" id="node13" href="$dc/d59/a00364.html#adc09630d95c14a4546a5d18b15eb67d0" title="ripple::Validators\l::CycledMap::back" alt="" coords="599,143,729,190"/>
+</map>

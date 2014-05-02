@@ -1,0 +1,6 @@
+<map id="rocksdb::VersionSet::SizeBeingCompacted" name="rocksdb::VersionSet::SizeBeingCompacted">
+<area shape="rect" id="node3" href="$d9/d5e/a00295.html#a31e5be150c385f6df320ee7f7daf7a9a" title="rocksdb::Compaction\l::input" alt="" coords="211,5,357,51"/>
+<area shape="rect" id="node5" href="$d9/d5e/a00295.html#ac2973e8fa4631c42de42b3d343e62989" title="rocksdb::Compaction\l::level" alt="" coords="211,74,357,121"/>
+<area shape="rect" id="node7" href="$d9/d5e/a00295.html#ae0e14955026684df1c7e261dc31fcb70" title="rocksdb::Compaction\l::num_input_files" alt="" coords="211,143,357,190"/>
+<area shape="rect" id="node9" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="215,213,353,259"/>
+</map>

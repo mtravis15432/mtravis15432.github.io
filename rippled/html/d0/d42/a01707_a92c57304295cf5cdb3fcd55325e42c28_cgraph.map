@@ -1,0 +1,11 @@
+<map id="rocksdb::TransactionLogIteratorImpl::OpenLogFile" name="rocksdb::TransactionLogIteratorImpl::OpenLogFile">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#ae2353d93f3d1d9aaff4f7373f738fdc6" title="rocksdb::ArchivedLogFileName" alt="" coords="268,5,471,35"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc" title="rocksdb::Status::IOError" alt="" coords="288,112,451,141"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#ad2e1157820fce4ccbfc1846e12be2477" title="rocksdb::LogFileName" alt="" coords="293,59,445,88"/>
+<area shape="rect" id="node14" href="$d8/d0a/a00904.html#ac512eef738c0f09c8f019607937e2153" title="rocksdb::LogFile::LogNumber" alt="" coords="273,165,465,195"/>
+<area shape="rect" id="node16" href="$db/db1/a00460.html#af2eb6650bd551549c4f6f66ce0e51de3" title="rocksdb::Env::NewSequentialFile" alt="" coords="261,219,477,248"/>
+<area shape="rect" id="node18" href="$d0/d42/a01707.html#a71a04ce106c8f40998e36b2256ea2d42" title="rocksdb::TransactionLogIterator\lImpl::status" alt="" coords="267,271,472,318"/>
+<area shape="rect" id="node20" href="$d8/d0a/a00904.html#a680e4dd110f67560c473f4a8f66a595f" title="rocksdb::LogFile::Type" alt="" coords="292,341,447,371"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a645cac7eafed2fae5df45e8483f8fbaf" title="rocksdb::MakeFileName" alt="" coords="527,32,689,61"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="528,112,688,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="beast::UnsignedInteger::toCalcType" name="beast::UnsignedInteger::toCalcType">
+<area shape="rect" id="node3" href="$de/df3/a00185.html#afffd0a19bc57b1ef55940b1681ceb435" title="beast::BinaryEncoding\l::decode" alt="" coords="212,5,364,51"/>
+<area shape="rect" id="node9" href="$de/df3/a00185.html#a661b3b8c4b78d21acb428fd4192babd6" title="beast::BinaryEncoding\l::encode" alt="" coords="212,74,364,121"/>
+<area shape="rect" id="node5" href="$d8/d00/a00186.html#af359adddbb6b8f742ff4eca8d49f48b2" title="beast::BinaryEncoding\l_test::testBase64Bytes" alt="" coords="415,74,572,121"/>
+<area shape="rect" id="node7" href="$d8/d00/a00186.html#a01d415fb6543e5ae0375423098b85cda" title="beast::BinaryEncoding\l_test::testEncode" alt="" coords="417,5,569,51"/>
+<area shape="rect" id="node11" href="$d8/d00/a00186.html#a0409d60ca9614e72deeae3db133f44ba" title="beast::BinaryEncoding\l_test::testBase16" alt="" coords="417,143,569,190"/>
+</map>

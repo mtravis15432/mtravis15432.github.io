@@ -1,0 +1,6 @@
+<map id="pause_headers_complete_cb" name="pause_headers_complete_cb">
+<area shape="rect" id="node3" href="$d7/d98/a02003.html#a782f85dbb74cf7091466e413f4c0edf8" title="headers_complete_cb" alt="" coords="245,5,395,35"/>
+<area shape="rect" id="node9" href="$d8/d24/a02001.html#ab67d625ad2fe1623825eec73e18817de" title="http_parser_pause" alt="" coords="256,59,384,88"/>
+<area shape="rect" id="node5" href="$d8/d24/a02001.html#abefaa63b2505a6d38f96fc782c41d111" title="http_should_keep_alive" alt="" coords="444,5,601,35"/>
+<area shape="rect" id="node7" href="$d8/d24/a02001.html#a55b76c7f4422dba1cbb2d8af509d727f" title="http_message_needs_eof" alt="" coords="651,5,821,35"/>
+</map>

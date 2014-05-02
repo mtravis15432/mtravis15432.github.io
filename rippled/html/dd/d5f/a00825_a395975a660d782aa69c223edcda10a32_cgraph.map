@@ -1,0 +1,9 @@
+<map id="ripple::Ledger::getNickname" name="ripple::Ledger::getNickname">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a72341e4d97235207bcf2f8f1525ff831" title="ripple::Ledger::getASNodeI" alt="" coords="240,109,419,139"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#ad939572bf4fe2a241301ed9bd1a0da60" title="ripple::Ledger::getSLEi" alt="" coords="467,109,621,139"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="691,13,792,43"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#a84b5eb8859011f37e158ab86c29caa06" title="ripple::Application\l::getSLECache" alt="" coords="679,66,804,113"/>
+<area shape="rect" id="node13" href="$dd/d55/a01638.html#a2c709f3115377eeca448ef32acfb9ee0" title="ripple::TaggedCache\l::fetch" alt="" coords="671,135,812,182"/>
+<area shape="rect" id="node15" href="$dd/d55/a01638.html#a6b9d410c1a62349ee3452f4d66c6c751" title="ripple::TaggedCache\l::canonicalize" alt="" coords="671,205,812,251"/>
+<area shape="rect" id="node9" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="863,5,1039,51"/>
+</map>

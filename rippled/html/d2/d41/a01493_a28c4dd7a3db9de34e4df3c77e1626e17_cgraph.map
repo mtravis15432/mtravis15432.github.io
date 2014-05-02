@@ -1,0 +1,15 @@
+<map id="ripple::STAmount::mulRound" name="ripple::STAmount::mulRound">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a61429db7fed5872fca90d726f3088325" title="ripple::STAmount::getCurrency" alt="" coords="245,136,448,165"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#ac88b3e8c68c4fbda4e493471be3f074c" title="ripple::STAmount::getIssuer" alt="" coords="255,189,439,219"/>
+<area shape="rect" id="node7" href="$d2/d41/a01493.html#a789b3ee5edaf69eb840e57b4c7fc395e" title="ripple::STAmount::mulRound" alt="" coords="252,243,441,272"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="519,5,676,35"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="521,59,673,88"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="519,112,676,141"/>
+<area shape="rect" id="node15" href="$d2/d41/a01493.html#ab683af712f5bfcfa66c66f09f5a8399a" title="ripple::STAmount::canonicalize\lRound" alt="" coords="496,165,699,211"/>
+<area shape="rect" id="node17" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="524,234,671,281"/>
+<area shape="rect" id="node19" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="497,304,697,333"/>
+<area shape="rect" id="node21" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="508,357,687,387"/>
+<area shape="rect" id="node25" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="535,410,660,457"/>
+<area shape="rect" id="node27" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="501,480,693,509"/>
+<area shape="rect" id="node23" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="748,357,921,387"/>
+</map>

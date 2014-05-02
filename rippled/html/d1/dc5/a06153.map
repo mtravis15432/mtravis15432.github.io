@@ -1,0 +1,7 @@
+<map id="beast::ThreadLocalValue&lt; Type &gt;" name="beast::ThreadLocalValue&lt; Type &gt;">
+<area shape="rect" id="node2" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="11,115,141,144"/>
+<area shape="rect" id="node4" href="$d2/d95/a01449.html" title="beast::SpinLock" alt="" coords="269,169,384,199"/>
+<area shape="rect" id="node11" href="$d0/ddd/a01044.html" title="beast::ThreadLocalValue\l\&lt; Type \&gt;::ObjectHolder" alt="" coords="244,46,409,93"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="5,185,147,215"/>
+<area shape="rect" id="node9" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::ThreadLocalValue::ObjectHolder * \&gt;" alt="" coords="497,46,735,93"/>
+</map>

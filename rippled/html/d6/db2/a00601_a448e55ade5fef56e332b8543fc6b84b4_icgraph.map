@@ -1,0 +1,7 @@
+<map id="beast::insight::detail::GroupImp::name" name="beast::insight::detail::GroupImp::name">
+<area shape="rect" id="node3" href="$d6/db2/a00601.html#a8a9988f6dc8367593efda80d45f13f9a" title="beast::insight::detail\l::GroupImp::make_name" alt="" coords="193,109,359,155"/>
+<area shape="rect" id="node5" href="$d6/db2/a00601.html#a86d8d8c41484073d7dc15123bebb111c" title="beast::insight::detail\l::GroupImp::make_counter" alt="" coords="409,5,585,51"/>
+<area shape="rect" id="node7" href="$d6/db2/a00601.html#acf19b5425ead1796e604d591d177f4c5" title="beast::insight::detail\l::GroupImp::make_event" alt="" coords="415,74,580,121"/>
+<area shape="rect" id="node9" href="$d6/db2/a00601.html#a1f76c41894b27545fafe7528f11d6580" title="beast::insight::detail\l::GroupImp::make_gauge" alt="" coords="413,143,581,190"/>
+<area shape="rect" id="node11" href="$d6/db2/a00601.html#a5bb8a5ab95a32e48675a2bd6733fffe0" title="beast::insight::detail\l::GroupImp::make_meter" alt="" coords="415,213,580,259"/>
+</map>

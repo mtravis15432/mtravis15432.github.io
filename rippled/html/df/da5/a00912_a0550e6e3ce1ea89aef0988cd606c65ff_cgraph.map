@@ -1,0 +1,14 @@
+<map id="ripple::PeerFinder::Logic::preprocess" name="ripple::PeerFinder::Logic::preprocess">
+<area shape="rect" id="node3" href="$da/dc3/a00453.html#a41d744f4c8d5888f8d5aa25da5e100bf" title="beast::IP::Endpoint\l::address" alt="" coords="204,5,337,51"/>
+<area shape="rect" id="node5" href="$da/dc3/a00453.html#add6bd9801623765536e19ec1ad0f8011" title="beast::IP::Endpoint\l::at_port" alt="" coords="204,74,337,121"/>
+<area shape="rect" id="node9" href="$df/da5/a00912.html#a1b5f23516dd752bfdf5e8ba52aa05e10" title="ripple::PeerFinder\l::Logic::is_valid_address" alt="" coords="188,143,353,190"/>
+<area shape="rect" id="node25" href="$da/dc3/a00453.html#ad34a025ff522a7e45e18ee58f2a9eab6" title="beast::IP::Endpoint\l::port" alt="" coords="420,205,553,251"/>
+<area shape="rect" id="node7" href="$da/dc3/a00453.html#a25e623f726dbda92789f51cce520b3b1" title="beast::IP::Endpoint\l::Endpoint" alt="" coords="420,29,553,75"/>
+<area shape="rect" id="node11" href="$d2/d7f/a03369.html#a0a2f19c5d2d5c88d53996c2df2d3eaf0" title="beast::IP::is_public" alt="" coords="420,99,553,128"/>
+<area shape="rect" id="node23" href="$d2/d7f/a03369.html#ab56ae9d3b6003bad39bea158b35d8d67" title="beast::IP::is_unspecified" alt="" coords="404,152,569,181"/>
+<area shape="rect" id="node13" href="$d9/db3/a00066.html#a9151824ddc4a9a6886c10054d8f53d7c" title="beast::IP::AddressV4\l::broadcast" alt="" coords="623,29,769,75"/>
+<area shape="rect" id="node17" href="$d2/d7f/a03369.html#a5ccebc5994566542ca44793961dbd324" title="beast::IP::is_multicast" alt="" coords="620,99,772,128"/>
+<area shape="rect" id="node19" href="$d2/d7f/a03369.html#a25de154b027e488d8e4be8362e6b6927" title="beast::IP::is_private" alt="" coords="627,152,765,181"/>
+<area shape="rect" id="node15" href="$d9/db3/a00066.html#ad1c90b9bc49455786e2d95022b695c02" title="beast::IP::AddressV4\l::AddressV4" alt="" coords="824,29,971,75"/>
+<area shape="rect" id="node21" href="$d2/d7f/a03369.html#abe52052bf8ee760f14bdf9c06e398212" title="beast::IP::is_loopback" alt="" coords="821,152,973,181"/>
+</map>

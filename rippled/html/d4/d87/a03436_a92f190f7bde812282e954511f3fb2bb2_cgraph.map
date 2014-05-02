@@ -1,0 +1,19 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d2/dbd/a01844.html#a17803ddbf9875d6b0bbac1b310ae3846" title="rocksdb::WriteBatch\l::Delete" alt="" coords="180,138,321,185"/>
+<area shape="rect" id="node23" href="$d4/d87/a03436.html#aa56ddc036cb417cc42098d7b1742a43f" title="rocksdb::ExpectRecords" alt="" coords="168,273,333,303"/>
+<area shape="rect" id="node35" href="$d2/dbd/a01844.html#ade37e4f14b7b0d1471365e5a7d85b678" title="rocksdb::WriteBatch::Put" alt="" coords="167,85,335,115"/>
+<area shape="rect" id="node5" href="$da/d8c/a01845.html#a5d61953d919f082c48c4d4aada512004" title="rocksdb::WriteBatchInternal\l::SetCount" alt="" coords="384,7,568,54"/>
+<area shape="rect" id="node9" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="384,77,568,123"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#af1cdcde94bcaeced42cd5925a5827232" title="rocksdb::PutLengthPrefixed\lSlice" alt="" coords="385,146,567,193"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#aabc7ce45ae48e15b24a6756f9b4fd694" title="rocksdb::EncodeFixed32" alt="" coords="637,5,803,35"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="637,59,803,88"/>
+<area shape="rect" id="node15" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="651,165,789,195"/>
+<area shape="rect" id="node17" href="$d4/d87/a03436.html#afe24fa7da1cd551af92134aa66f96183" title="rocksdb::PutVarint32" alt="" coords="648,219,792,248"/>
+<area shape="rect" id="node21" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="652,112,788,141"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#a94c48680211f25845f5c35acd4b54ebb" title="rocksdb::EncodeVarint32" alt="" coords="872,219,1040,248"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#a889b5ea655bdaf92a410271a80aaa113" title="rocksdb::ReadRecords" alt="" coords="399,349,553,379"/>
+<area shape="rect" id="node27" href="$db/dbe/a01706.html#a10bcfd9c9a00bdd7e5fd80e765ec8242" title="rocksdb::TransactionLogIterator\l::GetBatch" alt="" coords="617,479,823,526"/>
+<area shape="rect" id="node29" href="$db/dbe/a01706.html#a6055689c7f0fa7f87fc5be036eb2a00e" title="rocksdb::TransactionLogIterator\l::Next" alt="" coords="617,271,823,318"/>
+<area shape="rect" id="node31" href="$db/dbe/a01706.html#a5ec1a9b846562af9b5ac775b3855d654" title="rocksdb::TransactionLogIterator\l::status" alt="" coords="617,341,823,387"/>
+<area shape="rect" id="node33" href="$db/dbe/a01706.html#abf49d190ae6319233225f904a75ee916" title="rocksdb::TransactionLogIterator\l::Valid" alt="" coords="617,410,823,457"/>
+</map>

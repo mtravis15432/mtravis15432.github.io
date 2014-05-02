@@ -1,0 +1,5 @@
+<map id="beast::HTTPVersion::toString" name="beast::HTTPVersion::toString">
+<area shape="rect" id="node3" href="$d1/d88/a01578.html#ac444c25a50899592a578d53f4937f6c1" title="beast::String::fromNumber" alt="" coords="195,5,371,35"/>
+<area shape="rect" id="node5" href="$d5/d5b/a00695.html#a24189369d0f8506db30697fb485e1d2a" title="beast::HTTPVersion\l::vmajor" alt="" coords="212,58,353,105"/>
+<area shape="rect" id="node7" href="$d5/d5b/a00695.html#af8daf19b2857bd0318f4f4c385b6ce6f" title="beast::HTTPVersion\l::vminor" alt="" coords="212,127,353,174"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="beast::MemoryBlock::setSize" name="beast::MemoryBlock::setSize">
+<area shape="rect" id="node3" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="204,5,383,35"/>
+<area shape="rect" id="node5" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="205,59,381,88"/>
+<area shape="rect" id="node7" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="199,112,388,141"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="236,165,351,195"/>
+</map>

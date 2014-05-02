@@ -1,0 +1,10 @@
+<map id="ripple::getHTTPHeaderTimestamp" name="ripple::getHTTPHeaderTimestamp">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a86972e94e7de14d06e741ea27c4e1113" title="ripple::HTTPReply" alt="" coords="275,133,405,163"/>
+<area shape="rect" id="node5" href="$d8/d38/a01299.html#a986b2ab3a1b06884e97fe737908dd116" title="ripple::RPCHTTPServerImp\l::createResponse" alt="" coords="455,5,639,51"/>
+<area shape="rect" id="node7" href="$d8/d38/a01299.html#a336553b822ce152d8da5b9888ef0b80d" title="ripple::RPCHTTPServerImp\l::processRequest" alt="" coords="689,47,873,94"/>
+<area shape="rect" id="node10" href="$d6/d07/a01303.html#ab651caeaa50c54e660d2f64ab34f1e74" title="ripple::RPCServerHandler\l::createResponse" alt="" coords="460,125,633,171"/>
+<area shape="rect" id="node12" href="$d6/d07/a01303.html#a7e0ce39f199a893ba0122aa6612c8f02" title="ripple::RPCServerHandler\l::processRequest" alt="" coords="695,142,868,189"/>
+<area shape="rect" id="node19" href="$d9/d9d/a03417.html#a8064facc1ad75156e7ea92473033d1cf" title="ripple::ErrorReply" alt="" coords="485,245,608,275"/>
+<area shape="rect" id="node14" href="$d8/d38/a01299.html#ab146ddf2c60287acdc093f382f4839eb" title="ripple::RPCHTTPServerImp\l::processSession" alt="" coords="924,142,1108,189"/>
+<area shape="rect" id="node16" href="$d8/d38/a01299.html#a19d94b89eb7a1c0a5f5185dabd6689c7" title="ripple::RPCHTTPServerImp\l::onRequest" alt="" coords="1159,142,1343,189"/>
+</map>

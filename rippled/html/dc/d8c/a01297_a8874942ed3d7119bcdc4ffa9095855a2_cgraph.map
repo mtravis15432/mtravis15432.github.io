@@ -1,0 +1,11 @@
+<map id="ripple::RPCHandler::doLedgerClosed" name="ripple::RPCHandler::doLedgerClosed">
+<area shape="rect" id="node3" href="$dd/dac/a01008.html#ae64b1cdb74a13158f113f7bd207f47e1" title="ripple::NetworkOPs\l::getClosedLedgerHash" alt="" coords="191,5,348,51"/>
+<area shape="rect" id="node5" href="$dd/dac/a01008.html#a8f0c68feb0111f68ce7a41f39cd68dea" title="ripple::NetworkOPs\l::getLedgerID" alt="" coords="201,74,337,121"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#ad19bda12f3725584ac179f2e091e30d7" title="ripple::base_uint::\lToString" alt="" coords="207,143,332,190"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="397,143,523,190"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="583,82,708,129"/>
+<area shape="rect" id="node15" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="571,152,720,181"/>
+<area shape="rect" id="node17" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="596,205,695,235"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="769,91,919,120"/>
+<area shape="rect" id="node19" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="789,205,899,235"/>
+</map>

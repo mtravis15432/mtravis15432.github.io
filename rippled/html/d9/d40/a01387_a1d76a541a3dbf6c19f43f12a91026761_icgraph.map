@@ -1,0 +1,4 @@
+<map id="beast::SharedObject::incReferenceCount" name="beast::SharedObject::incReferenceCount">
+<area shape="rect" id="node3" href="$d0/d36/a01388.html#ab819ea0acdb7f80d65f99a5884c6fc8a" title="beast::SharedPtr\&lt; beast\l::SharedSingleton\&lt; beast\l::sqdb::session::Sqlite3\l \&gt; \&gt;::acquire" alt="" coords="207,5,375,86"/>
+<area shape="rect" id="node5" href="$d0/d95/a01389.html#a7af028f669bc6ca37ee21d45fbefeac6" title="beast::SharedSingleton\l\&lt; beast::sqdb::session\l::Sqlite3 \&gt;::SharedSingleton" alt="" coords="199,109,383,173"/>
+</map>

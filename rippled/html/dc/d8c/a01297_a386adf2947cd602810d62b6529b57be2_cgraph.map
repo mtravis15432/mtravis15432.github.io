@@ -1,0 +1,51 @@
+<map id="ripple::RPCHandler::doBookOffers" name="ripple::RPCHandler::doBookOffers">
+<area shape="rect" id="node3" href="$d6/d27/a01781.html#a03ee3d5df576640c93ba683f140828bd" title="Json::Value::asString" alt="" coords="432,195,579,224"/>
+<area shape="rect" id="node5" href="$d6/d27/a01781.html#a2019d1bd296b89356c1b0da5970c918c" title="Json::Value::asUInt" alt="" coords="211,1157,349,1187"/>
+<area shape="rect" id="node7" href="$d2/d41/a01493.html#a853bdaa68ca8aa5239041e7d9d26aa48" title="ripple::STAmount::currency\lFromString" alt="" coords="189,95,371,142"/>
+<area shape="rect" id="node22" href="$d2/d9b/a03429.html#aa63398ec847d01de9d9af3598e3e2325" title="ripple::RPC::expected\l_field_error" alt="" coords="205,1450,355,1497"/>
+<area shape="rect" id="node26" href="$d2/d9b/a03429.html#a2cd6200f6709780fcf1dd26ec9cd2866" title="ripple::RPC::make_error" alt="" coords="648,1263,811,1292"/>
+<area shape="rect" id="node32" href="$d4/d0e/a01272.html#a57f127faa6e0af4093b8397e368c2899" title="ripple::RippleAddress\l::getAccountID" alt="" coords="432,1609,579,1655"/>
+<area shape="rect" id="node36" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="455,248,556,277"/>
+<area shape="rect" id="node40" href="$dd/dac/a01008.html#aa6425494b52cece6f613d6209f838a75" title="ripple::NetworkOPs\l::getBookPage" alt="" coords="212,1759,348,1806"/>
+<area shape="rect" id="node42" href="$d2/d9b/a03429.html#a3f2a31e585bbecb3af3740d34d7df15f" title="ripple::RPC::invalid\l_field_error" alt="" coords="213,1381,347,1427"/>
+<area shape="rect" id="node47" href="$d9/d9d/a03417.html#af05e7e2d7ac8fe3394e3e0e0e704114f" title="ripple::is_not_xrp" alt="" coords="220,1880,340,1909"/>
+<area shape="rect" id="node49" href="$d9/d9d/a03417.html#a7fb2062f52484bea8aafb24a914d0b0c" title="ripple::is_xrp" alt="" coords="457,1855,553,1884"/>
+<area shape="rect" id="node52" href="$d6/d27/a01781.html#aec4f74ef7b776b1d9c8a10fc3bb4add5" title="Json::Value::isIntegral" alt="" coords="653,1131,805,1160"/>
+<area shape="rect" id="node54" href="$d6/d27/a01781.html#a196defba501d70ea2b6793afb04108e3" title="Return true if the object has a member named key. " alt="" coords="428,301,583,331"/>
+<area shape="rect" id="node56" href="$d2/d41/a01493.html#a41a925f05a7bb7c9aae2108f133c47f4" title="ripple::STAmount::issuer\lFromString" alt="" coords="197,1639,363,1686"/>
+<area shape="rect" id="node58" href="$d4/d0e/a01272.html#ad33487a0716edddfc083c5a0fd68bbc9" title="ripple::RippleAddress\l::setAccountID" alt="" coords="432,1689,579,1735"/>
+<area shape="rect" id="node63" href="$d2/d9b/a03429.html#af3a6bc618176e419fcd4659850e35258" title="ripple::RPC::lookupLedger" alt="" coords="193,627,367,656"/>
+<area shape="rect" id="node70" href="$d7/db0/a03467.html#a90a67ab6517f594a989c6cb4f3ff67f9" title="rocksdb::crc32c::Value" alt="" coords="428,355,583,384"/>
+<area shape="rect" id="node99" href="$d2/d9b/a03429.html#aec2e1163b39a450d3917af9dd15b0f06" title="ripple::RPC::missing\l_field_error" alt="" coords="209,1519,351,1566"/>
+<area shape="rect" id="node104" href="$d9/d9d/a03417.html#acd8e926f5888c883f6d6283a95b10388" title="ripple::neutral_issuer" alt="" coords="209,1933,351,1963"/>
+<area shape="rect" id="node106" href="$d2/d9b/a03429.html#a97b09da785b1944b7b1964eeff97a43b" title="ripple::RPC::object\l_field_error" alt="" coords="213,1311,347,1358"/>
+<area shape="rect" id="node110" href="$d9/d9d/a03417.html#ab114d40490d1a6a0ab2fa6053167d461" title="ripple::rpcError" alt="" coords="676,1209,783,1239"/>
+<area shape="rect" id="node115" href="$d9/d9d/a03417.html#afc5028d7a0b33282ae238c1a14d07aaa" title="ripple::xrp_issuer" alt="" coords="220,1987,340,2016"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="655,76,804,105"/>
+<area shape="rect" id="node11" href="$da/d61/a01350.html#af9f127e708de4849795bdab51f2a4c78" title="ripple::Serializer\l::addZeros" alt="" coords="448,5,563,51"/>
+<area shape="rect" id="node15" href="$d7/d9a/a00152.html#a0da8709f6817b4f400f80e788c0505d1" title="ripple::base_uint::\lSetHex" alt="" coords="443,125,568,171"/>
+<area shape="rect" id="node13" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="672,5,787,51"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="656,185,803,215"/>
+<area shape="rect" id="node19" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="655,132,804,161"/>
+<area shape="rect" id="node24" href="$d2/d9b/a03429.html#a5b6ce0616f6995340f4dd846660c3749" title="ripple::RPC::make_param\l_error" alt="" coords="419,1381,592,1427"/>
+<area shape="rect" id="node30" href="$d2/d9b/a03429.html#a7bad76b302b3dcc91dd60c10830d0968" title="ripple::RPC::expected\l_field_message" alt="" coords="431,1450,580,1497"/>
+<area shape="rect" id="node28" href="$d2/d9b/a03429.html#ac4c846c6043b4afa966f4f35790fe303" title="ripple::RPC::inject\l_error" alt="" coords="868,1227,996,1274"/>
+<area shape="rect" id="node34" href="$d9/d9d/a03417.html#a67af9cb9a9d5c158f9a56acde5f27e4e" title="ripple::Hash160" alt="" coords="673,1617,785,1647"/>
+<area shape="rect" id="node38" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="641,239,817,286"/>
+<area shape="rect" id="node45" href="$d2/d9b/a03429.html#a9f5e626e438381329d8b9ef18fe26636" title="ripple::RPC::object\l_field_message" alt="" coords="439,1311,572,1358"/>
+<area shape="rect" id="node60" href="$d9/d39/a00257.html#a47491f73d2b42a10e3f72172ced83c3d" title="ripple::CBase58Data\l::SetString" alt="" coords="659,1689,800,1735"/>
+<area shape="rect" id="node65" href="$d6/d27/a01781.html#aff2e3a2e9fd5db5469588ab7b501d4db" title="Json::Value::get" alt="" coords="447,547,564,576"/>
+<area shape="rect" id="node68" href="$d6/d27/a01781.html#ab3425a081214e9740a658fc953e8ab8e" title="Number of values in array or object. " alt="" coords="444,600,567,629"/>
+<area shape="rect" id="node74" href="$d6/d27/a01781.html#a06c01d7c1e8151a5844b595ab00f46c7" title="Json::Value::isString" alt="" coords="435,653,576,683"/>
+<area shape="rect" id="node78" href="$d6/d27/a01781.html#a8ce848900e2e8fa23a41fcc2c1409fab" title="Json::Value::isNumeric" alt="" coords="427,1107,584,1136"/>
+<area shape="rect" id="node81" href="$d6/d27/a01781.html#ac786e35b860b1d700cb3d3e56dd6a235" title="Json::Value::asInt" alt="" coords="441,707,569,736"/>
+<area shape="rect" id="node83" href="$dd/dac/a01008.html#a2797139168b2d6c069aa1f0c51bc327a" title="ripple::NetworkOPs\l::getLedgerByHash" alt="" coords="437,759,573,806"/>
+<area shape="rect" id="node85" href="$dd/dac/a01008.html#aa4a081f49bdf9ea42446691c34ceed79" title="ripple::NetworkOPs\l::getCurrentLedger" alt="" coords="437,829,573,875"/>
+<area shape="rect" id="node88" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="443,898,568,945"/>
+<area shape="rect" id="node90" href="$d1/de6/a00837.html#a439b582f2ef508ec1712b50c42c11a39" title="ripple::LedgerMaster\l::getClosedLedger" alt="" coords="436,967,575,1014"/>
+<area shape="rect" id="node92" href="$dd/dac/a01008.html#a3b147c209d1201adb03d478f148af4a1" title="ripple::NetworkOPs\l::getValidatedLedger" alt="" coords="435,1037,576,1083"/>
+<area shape="rect" id="node94" href="$dd/dac/a01008.html#a7615c0320aa25da4c77d806afe9c5c0e" title="ripple::NetworkOPs\l::getLedgerBySeq" alt="" coords="437,407,573,454"/>
+<area shape="rect" id="node96" href="$d7/d9a/a00152.html#ad19bda12f3725584ac179f2e091e30d7" title="ripple::base_uint::\lToString" alt="" coords="443,477,568,523"/>
+<area shape="rect" id="node72" href="$d7/db0/a03467.html#aba0a720f8204028aa9b0f78f969d5f97" title="rocksdb::crc32c::Extend" alt="" coords="648,355,811,384"/>
+<area shape="rect" id="node102" href="$d2/d9b/a03429.html#a5d5937b3d78d931333b1c278e13e23b2" title="ripple::RPC::missing\l_field_message" alt="" coords="435,1519,576,1566"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rocksdb::Block::NewIterator" name="rocksdb::Block::NewIterator">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="484,5,665,35"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#abf92c452806fb54068f27e6034878f16" title="rocksdb::NewEmptyIterator" alt="" coords="247,57,428,87"/>
+<area shape="rect" id="node12" href="$d4/d87/a03436.html#a7b03495439285fb3fb42a3208b01a3d7" title="rocksdb::NewErrorIterator" alt="" coords="252,111,423,140"/>
+<area shape="rect" id="node14" href="$db/d53/a00202.html#aa3e3be368e63d2ca0e5f8db39ae1f458" title="rocksdb::Block::NumRestarts" alt="" coords="240,164,435,193"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="715,32,875,61"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="504,59,645,88"/>
+<area shape="rect" id="node16" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="492,164,657,193"/>
+</map>

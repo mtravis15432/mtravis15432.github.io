@@ -1,0 +1,6 @@
+<map id="walLimitSize" name="walLimitSize">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="149,5,320,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="155,59,315,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="173,112,296,141"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ab14e17fc93b09d52b42c433c47eb3b68" title="sqlite3OsTruncate" alt="" coords="171,165,299,195"/>
+</map>

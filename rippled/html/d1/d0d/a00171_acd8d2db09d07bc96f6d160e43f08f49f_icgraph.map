@@ -1,0 +1,5 @@
+<map id="ripple::TestOverlay::BasicPeer::peer" name="ripple::TestOverlay::BasicPeer::peer">
+<area shape="rect" id="node3" href="$d1/d0d/a00171.html#a586d49babcf11c73ac0aebe3518405bf" title="ripple::TestOverlay\l::BasicPeer\&lt; Peer, Message\l \&gt;::connect" alt="" coords="188,5,377,69"/>
+<area shape="rect" id="node5" href="$d1/d0d/a00171.html#a311a8309037e1ef3d2e5c320f2000acf" title="ripple::TestOverlay\l::BasicPeer\&lt; Peer, Message\l \&gt;::disconnect" alt="" coords="188,93,377,157"/>
+<area shape="rect" id="node7" href="$d1/d0d/a00171.html#a08955829f692f55338e53e94f4069a5d" title="ripple::TestOverlay\l::BasicPeer\&lt; Peer, Message\l \&gt;::~BasicPeer" alt="" coords="188,181,377,245"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="beast::asio::TestPeerType::finished" name="beast::asio::TestPeerType::finished">
+<area shape="rect" id="node3" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="249,5,396,51"/>
+<area shape="rect" id="node5" href="$d2/d7b/a01672.html#ac6d46a1d3535ac9bfed338aaf347f5b9" title="beast::asio::TestPeerBasics\l::unexpected" alt="" coords="229,74,416,121"/>
+<area shape="rect" id="node7" href="$d2/d7b/a01672.html#a7017f7246480173765fb139c7533bd2e" title="beast::asio::TestPeerBasics\l::expected" alt="" coords="464,74,651,121"/>
+<area shape="rect" id="node9" href="$d2/d7b/a01672.html#a40e044785edb9475f9f2874b54e3823c" title="beast::asio::TestPeerBasics\l::breakpoint" alt="" coords="699,39,885,86"/>
+<area shape="rect" id="node11" href="$d2/d7b/a01672.html#aec926a89d6f67e3419b4589461a7dfdb" title="beast::asio::TestPeerBasics\l::make_error" alt="" coords="699,109,885,155"/>
+<area shape="rect" id="node13" href="$d2/d7b/a01672.html#ab788c0bb1ebddd1ee5b07a113ae8c6b3" title="beast::asio::TestPeerBasics\l::test_category" alt="" coords="933,109,1120,155"/>
+</map>

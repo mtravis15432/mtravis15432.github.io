@@ -1,0 +1,6 @@
+<map id="beast::OutputStream::writeByte" name="beast::OutputStream::writeByte">
+<area shape="rect" id="node3" href="$d5/d83/a03337.html#af705b7433a38b73267eefe349c7bd8b6" title="beast::operator\&lt;\&lt;" alt="" coords="207,5,332,35"/>
+<area shape="rect" id="node5" href="$d4/d8a/a01062.html#a8994cd2b652d2c55beff00007fe35c4b" title="beast::OutputStream\l::writeBool" alt="" coords="199,58,340,105"/>
+<area shape="rect" id="node7" href="$d4/d8a/a01062.html#a1410fd8acb844fe9fd9d44eaab5f0dcb" title="beast::OutputStream\l::writeRepeatedByte" alt="" coords="199,127,340,174"/>
+<area shape="rect" id="node9" href="$d2/ddf/a00544.html#a96aaf512da7560634fb54b4bde0f60da" title="beast::FileOutputStream\l::writeRepeatedByte" alt="" coords="391,127,553,174"/>
+</map>

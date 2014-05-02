@@ -1,0 +1,23 @@
+<map id="beast::IP::is_private" name="beast::IP::is_private">
+<area shape="rect" id="node3" href="$d2/d7f/a03369.html#add9a8c02dc97dce0e0676c662b697f45" title="beast::IP::is_private" alt="" coords="192,5,331,35"/>
+<area shape="rect" id="node5" href="$d2/d7f/a03369.html#a0a2f19c5d2d5c88d53996c2df2d3eaf0" title="beast::IP::is_public" alt="" coords="195,113,328,143"/>
+<area shape="rect" id="node9" href="$dd/db2/a00737.html#a855c946db3f09c43255dc6a68395300b" title="beast::IP::IPEndpoint\l_test::testEndpoint" alt="" coords="389,43,536,90"/>
+<area shape="rect" id="node7" href="$d2/d7f/a03369.html#a922e4a59054d077b1343add8c5fb75c5" title="beast::IP::is_public" alt="" coords="396,113,529,143"/>
+<area shape="rect" id="node13" href="$df/da5/a00912.html#a1b5f23516dd752bfdf5e8ba52aa05e10" title="ripple::PeerFinder\l::Logic::is_valid_address" alt="" coords="380,166,545,213"/>
+<area shape="rect" id="node21" href="$de/dc3/a00909.html#ae042b42fdaaaef24d818453fa50b0373" title="ripple::Resource::Logic\l::isWhitelisted" alt="" coords="385,267,540,314"/>
+<area shape="rect" id="node11" href="$dd/db2/a00737.html#aac2bd0664066630a7529217dc36733c7" title="beast::IP::IPEndpoint\l_test::run" alt="" coords="603,43,749,90"/>
+<area shape="rect" id="node15" href="$df/da5/a00912.html#a0550e6e3ce1ea89aef0988cd606c65ff" title="ripple::PeerFinder\l::Logic::preprocess" alt="" coords="609,139,743,186"/>
+<area shape="rect" id="node17" href="$df/da5/a00912.html#ae96fe37bd8810bfe2c3e96962f57027b" title="ripple::PeerFinder\l::Logic::on_endpoints" alt="" coords="824,107,971,154"/>
+<area shape="rect" id="node19" href="$d0/d5b/a00933.html#ab41b799d78f788021ae24c965c67676b" title="ripple::PeerFinder\l::ManagerImp::on_endpoints" alt="" coords="1037,103,1224,150"/>
+<area shape="rect" id="node23" href="$de/dc3/a00909.html#a07e2eb5c8d4175cf0a4a85f509376b53" title="ripple::Resource::Logic\l::newInboundEndpoint" alt="" coords="599,267,753,314"/>
+<area shape="rect" id="node44" href="$de/dc3/a00909.html#abf0d7be081d45a0837aec71f69263514" title="ripple::Resource::Logic\l::newOutboundEndpoint" alt="" coords="596,371,756,418"/>
+<area shape="rect" id="node25" href="$d8/dbb/a00932.html#a12c9044348ca8f226ecbe96e0d6bac80" title="ripple::Resource::Manager\l_test::testDrop" alt="" coords="1044,173,1217,219"/>
+<area shape="rect" id="node29" href="$d8/dbb/a00932.html#a36baa3cfae639bf8406b1059affa785b" title="ripple::Resource::Manager\l_test::testCharges" alt="" coords="811,233,984,279"/>
+<area shape="rect" id="node32" href="$de/dc3/a00909.html#a195a4c392e8d5d8880a7c8b09a16b0f2" title="ripple::Resource::Logic\l::importConsumers" alt="" coords="820,302,975,349"/>
+<area shape="rect" id="node42" href="$d0/df0/a00934.html#a3cf30ffa8e7062ce4cfd9a26a0e2e1c3" title="ripple::Resource::Manager\lImp::newInboundEndpoint" alt="" coords="811,371,984,418"/>
+<area shape="rect" id="node27" href="$d8/dbb/a00932.html#a904104c2a738cca57c8c2a4214e0956d" title="ripple::Resource::Manager\l_test::run" alt="" coords="1273,263,1447,310"/>
+<area shape="rect" id="node34" href="$d8/dbb/a00932.html#ad67f5a6314af7b367272a4a90fcc5d9f" title="ripple::Resource::Manager\l_test::testImports" alt="" coords="1044,293,1217,339"/>
+<area shape="rect" id="node37" href="$d8/dbb/a00932.html#a823244ff2c76d31112e0abfd20504b61" title="ripple::Resource::Manager\l_test::testImport" alt="" coords="1044,362,1217,409"/>
+<area shape="rect" id="node40" href="$d0/df0/a00934.html#ad3c7af7e9455bc4970c207c9ae76a9a7" title="ripple::Resource::Manager\lImp::importConsumers" alt="" coords="1044,431,1217,478"/>
+<area shape="rect" id="node46" href="$d0/df0/a00934.html#ad950ec18e1da44ad93a213eed2eb5079" title="ripple::Resource::Manager\lImp::newOutboundEndpoint" alt="" coords="807,441,988,487"/>
+</map>

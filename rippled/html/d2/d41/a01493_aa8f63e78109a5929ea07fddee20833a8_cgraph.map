@@ -1,0 +1,8 @@
+<map id="ripple::STAmount::addRound" name="ripple::STAmount::addRound">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#ab683af712f5bfcfa66c66f09f5a8399a" title="ripple::STAmount::canonicalize\lRound" alt="" coords="261,5,464,51"/>
+<area shape="rect" id="node5" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="289,74,436,121"/>
+<area shape="rect" id="node7" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="263,144,463,173"/>
+<area shape="rect" id="node9" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="267,197,459,227"/>
+<area shape="rect" id="node11" href="$d2/d41/a01493.html#ab0b901062f0b7e67b0832d0601cd665e" title="ripple::STAmount::throwComparable" alt="" coords="247,251,479,280"/>
+<area shape="rect" id="node13" href="$d2/d41/a01493.html#a3cf020f0636f8cbc302a6261b9145c11" title="ripple::STAmount::isComparable" alt="" coords="528,251,739,280"/>
+</map>

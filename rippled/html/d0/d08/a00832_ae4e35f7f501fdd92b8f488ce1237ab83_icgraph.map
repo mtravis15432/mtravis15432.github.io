@@ -1,0 +1,12 @@
+<map id="ripple::LedgerEntrySet::accountHolds" name="ripple::LedgerEntrySet::accountHolds">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#ae736ed965650c098f9d572bc157b00c0" title="ripple::LedgerEntrySet\l::accountFunds" alt="" coords="211,116,360,163"/>
+<area shape="rect" id="node17" href="$d4/d10/a01278.html#a7e6910b02e5b449803cb1f8f42043bad" title="ripple::RippleCalc\l::calcNodeAccountFwd" alt="" coords="207,211,364,258"/>
+<area shape="rect" id="node23" href="$d7/ded/a01009.html#adcd0f5c06951e3eb74ba81f2006d6216" title="ripple::NetworkOPsImp\l::getBookPage" alt="" coords="207,280,364,327"/>
+<area shape="rect" id="node5" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="895,52,1084,99"/>
+<area shape="rect" id="node7" href="$de/d14/a01640.html#a52880886eeea7fcd4b11de2e39e80f76" title="ripple::core::Taker\l::funds" alt="" coords="447,47,572,94"/>
+<area shape="rect" id="node11" href="$d5/de7/a01048.html#ad23ce85477cc840bf3d7a8210a31d1d9" title="ripple::OfferCreateTransactor\l::isValidOffer" alt="" coords="415,116,604,163"/>
+<area shape="rect" id="node13" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="655,116,844,163"/>
+<area shape="rect" id="node9" href="$de/d14/a01640.html#a75564fa09f369032f150696132b03299" title="ripple::core::Taker\l::done" alt="" coords="687,47,812,94"/>
+<area shape="rect" id="node19" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="447,236,572,283"/>
+<area shape="rect" id="node21" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="687,236,812,283"/>
+</map>

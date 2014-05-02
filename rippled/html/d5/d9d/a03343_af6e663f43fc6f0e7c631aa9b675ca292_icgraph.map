@@ -1,0 +1,18 @@
+<map id="beast::asio::wrap_handler" name="beast::asio::wrap_handler">
+<area shape="rect" id="node3" href="$db/db5/a00616.html#a868af1e2ef8372112345020f2da8575e" title="beast::asio::HandshakeDetector\lType\&lt; next_layer_type, beast\l::asio::HandshakeDetectLogicPROXY\l \&gt;::async_detect" alt="" coords="224,5,469,86"/>
+<area shape="rect" id="node5" href="$df/dcd/a00127.html#a935283a5afd2401c1ce9ca93fae2e60e" title="ripple::MultiSocketType\l::AsyncOp::async_handshake" alt="" coords="248,159,445,206"/>
+<area shape="rect" id="node7" href="$df/dcd/a00127.html#a388b7cee2c402e1f8676650cd4534bb8" title="ripple::MultiSocketType\l::AsyncOp::start" alt="" coords="544,90,701,137"/>
+<area shape="rect" id="node12" href="$d1/d88/a00128.html#ab3869ebc8ea5f831818b6c1164f9e84c" title="beast::asio::HandshakeDetector\lType::AsyncOp::async_read_some" alt="" coords="233,266,460,313"/>
+<area shape="rect" id="node18" href="$d2/d1f/a01361.html#ab070024548b2945d97a25da99e246b19" title="beast::asio::HTTPClientType\l::Session::async_read_some" alt="" coords="251,386,443,433"/>
+<area shape="rect" id="node20" href="$d2/d1f/a01361.html#ae96990d89fc1f77c945a5d8671cfde19" title="beast::asio::HTTPClientType\l::Session::handle_handshake" alt="" coords="527,367,719,414"/>
+<area shape="rect" id="node22" href="$d2/d1f/a01361.html#ab80a77112983e74005f16060b0ff6626" title="beast::asio::HTTPClientType\l::Session::handle_connect" alt="" coords="776,487,968,534"/>
+<area shape="rect" id="node24" href="$d2/d1f/a01361.html#ad478b619b426f06225cc0cbecdb86373" title="beast::asio::HTTPClientType\l::Session::handle_resolve" alt="" coords="1016,538,1208,585"/>
+<area shape="rect" id="node26" href="$d2/d1f/a01361.html#a03b2db340ea4750a5a346c0950fac73a" title="beast::asio::HTTPClientType\l::Session::handle_start" alt="" coords="1256,589,1448,635"/>
+<area shape="rect" id="node28" href="$d2/d1f/a01361.html#aaedf159a9068e518f06d8cbe49afab3c" title="beast::asio::HTTPClientType\l::Session::Session" alt="" coords="1496,619,1688,666"/>
+<area shape="rect" id="node30" href="$d2/d1f/a01361.html#a3f37565984ae37f1aceadb563b05c6ff" title="beast::asio::HTTPClientType\l::Session::handle_read" alt="" coords="527,437,719,483"/>
+<area shape="rect" id="node38" href="$dc/dc2/a01251.html#a34486b86aa409031aa13831dd1ddde7a" title="ripple::PeerFinder\l::CheckerImp::Request\l::Request" alt="" coords="268,709,425,773"/>
+<area shape="rect" id="node40" href="$d4/d8e/a01840.html#a70acac14d5fc43b367722f5714e44deb" title="beast::asio::wrap_handler\l_test::run" alt="" coords="261,797,432,843"/>
+<area shape="rect" id="node9" href="$df/dcd/a00127.html#a69d1bdd6f7bcbbac6f804e5fbec4f9f1" title="ripple::MultiSocketType\l::AsyncOp::on_complete" alt="" coords="540,159,705,206"/>
+<area shape="rect" id="node14" href="$d1/d88/a00128.html#adbc14af89fa0c28457ca200f519657bf" title="beast::asio::HandshakeDetector\lType::AsyncOp::start" alt="" coords="517,229,728,275"/>
+<area shape="rect" id="node16" href="$d1/d88/a00128.html#ac4fb903d3cc79ccdc828043d1341d0cb" title="beast::asio::HandshakeDetector\lType::AsyncOp::on_read" alt="" coords="517,298,728,345"/>
+</map>

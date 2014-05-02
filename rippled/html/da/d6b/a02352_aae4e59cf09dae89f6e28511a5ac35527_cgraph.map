@@ -1,0 +1,9 @@
+<map id="btreePageLookup" name="btreePageLookup">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a148c0bf09d4ef14a49e0e7a2c0506c80" title="btreePageFromDbPage" alt="" coords="177,32,335,61"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="189,85,323,115"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a1252ec03814f64eed236cfb21094cafd" title="sqlite3PagerLookup" alt="" coords="188,139,324,168"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a9dd340e56fb4b7fad4df339595b8d8a2" title="sqlite3PagerGetData" alt="" coords="387,5,528,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a48e879a6d20f06f27390973ab8d59bd7" title="sqlite3PagerGetExtra" alt="" coords="384,59,531,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#afd193f1064d653b93326a6b4915a2867" title="sqlite3PcacheFetch" alt="" coords="389,139,525,168"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a0b88ce0be99c4ea2b2098317162fb590" title="numberOfCachePages" alt="" coords="579,139,733,168"/>
+</map>

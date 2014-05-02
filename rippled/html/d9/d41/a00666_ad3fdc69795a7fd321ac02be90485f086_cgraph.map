@@ -1,0 +1,6 @@
+<map id="rocksdb::HistogramImpl::ToString" name="rocksdb::HistogramImpl::ToString">
+<area shape="rect" id="node3" href="$d9/d41/a00666.html#a4867568f758a3ff4039ea6669a8ba315" title="rocksdb::HistogramImpl\l::Average" alt="" coords="217,5,377,51"/>
+<area shape="rect" id="node5" href="$d9/d41/a00666.html#a1280fd8befeb28921913c30dcb7f9272" title="rocksdb::HistogramImpl\l::Median" alt="" coords="217,74,377,121"/>
+<area shape="rect" id="node7" href="$d9/d41/a00666.html#a7e1d6937517851e9ec670fd1a1acf952" title="rocksdb::HistogramImpl\l::Percentile" alt="" coords="428,105,588,151"/>
+<area shape="rect" id="node10" href="$d9/d41/a00666.html#a2b82f719dbf8e3427ce61963f46caaea" title="rocksdb::HistogramImpl\l::StandardDeviation" alt="" coords="217,194,377,241"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="beast::asio::HandshakeDetectLogicSSL3::analyze" name="beast::asio::HandshakeDetectLogicSSL3::analyze">
+<area shape="rect" id="node3" href="$dd/dc0/a00611.html#ad396502fad78895c7b4bcb8db527e046" title="beast::asio::HandshakeDetect\lLogic::conclude" alt="" coords="503,6,700,53"/>
+<area shape="rect" id="node7" href="$dd/dc0/a00611.html#a6d83d82212dfae62d2950d8384137480" title="beast::asio::HandshakeDetect\lLogic::fail" alt="" coords="255,35,452,82"/>
+<area shape="rect" id="node10" href="$d5/d83/a03337.html#a845f23e43de1e55aeda8b5ace702eb69" title="beast::fromNetworkByteOrder" alt="" coords="256,105,451,135"/>
+<area shape="rect" id="node14" href="$d2/dd6/a03414.html#a7378f09d8f10ef3ccbb2aeefe7ff41d3" title="Json::in" alt="" coords="320,159,387,188"/>
+<area shape="rect" id="node16" href="$d8/d75/a00555.html#af77081c1224774cb7dbfc640c184d86a" title="beast::asio::FixedInputBuffer\l::read" alt="" coords="259,211,448,258"/>
+<area shape="rect" id="node5" href="$dd/dc0/a00611.html#a43f8ad1e791225847b31b7df3d4991fd" title="beast::asio::HandshakeDetect\lLogic::success" alt="" coords="751,6,948,53"/>
+<area shape="rect" id="node12" href="$d5/d83/a03337.html#a99f0f169568ccb971d11fbff2c0d851f" title="beast::swapBytes" alt="" coords="539,105,664,135"/>
+<area shape="rect" id="node18" href="$d8/d75/a00555.html#a30827d76c1e59267a612a52ce76b007a" title="beast::asio::FixedInputBuffer\l::read_impl" alt="" coords="507,211,696,258"/>
+<area shape="rect" id="node20" href="$d8/d75/a00555.html#af6d415b01ae636a8e10109882c08623e" title="beast::asio::FixedInputBuffer\l::size" alt="" coords="755,211,944,258"/>
+</map>

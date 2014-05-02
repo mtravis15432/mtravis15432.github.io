@@ -1,0 +1,10 @@
+<map id="beast::insight::Event::notify" name="beast::insight::Event::notify">
+<area shape="rect" id="node3" href="$d9/d00/a00784.html#a5bf44fe99f317ef318bdd0105407910b" title="ripple::JobQueueImp\l::on_dequeue" alt="" coords="220,5,361,51"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#aa08e8f86d738b6878bf5e847bd5316ba" title="ripple::JobQueueImp\l::on_execute" alt="" coords="220,74,361,121"/>
+<area shape="rect" id="node10" href="$db/d4b/a01309.html#a585317106a3e6006cc58615c3e338c3d" title="ripple::ApplicationImp\l::sample_io_service_latency\l::operator()" alt="" coords="197,144,384,208"/>
+<area shape="rect" id="node12" href="$da/d93/a01084.html#a497d72cb35342c1a314dc690bffbce94" title="ripple::PathRequests\l::reportFast" alt="" coords="219,231,363,278"/>
+<area shape="rect" id="node18" href="$da/d93/a01084.html#a2e2c06bbed7b0017b7a95474529f2540" title="ripple::PathRequests\l::reportFull" alt="" coords="219,301,363,347"/>
+<area shape="rect" id="node5" href="$d9/d00/a00784.html#a7666704c0d51e837f890bd5df81dfa03" title="ripple::JobQueueImp\l::processTask" alt="" coords="433,39,575,86"/>
+<area shape="rect" id="node14" href="$d6/d9a/a01083.html#a8aea98f3185e3734842e76cb275cb466" title="ripple::PathRequest\l::doUpdate" alt="" coords="436,266,572,313"/>
+<area shape="rect" id="node16" href="$d6/d9a/a01083.html#aee6fed19ff00abfc2ef583942082e9aa" title="ripple::PathRequest\l::doCreate" alt="" coords="625,266,761,313"/>
+</map>

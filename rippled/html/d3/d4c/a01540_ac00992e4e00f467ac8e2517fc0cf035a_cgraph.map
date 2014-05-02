@@ -1,0 +1,6 @@
+<map id="rocksdb::Stats::AddMessage" name="rocksdb::Stats::AddMessage">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a51a424ca9e8e7b4e7d171eb1fde8f9f9" title="rocksdb::AppendWithSpace" alt="" coords="245,59,429,88"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="483,5,621,35"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="477,59,627,88"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="484,112,620,141"/>
+</map>

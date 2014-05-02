@@ -1,0 +1,34 @@
+<map id="rocksdb::Benchmark::Benchmark" name="rocksdb::Benchmark::Benchmark">
+<area shape="rect" id="node3" href="$db/db1/a00460.html#a0d75747a2a64c041d106b85202848fe8" title="rocksdb::Env::DeleteFile" alt="" coords="392,95,557,124"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a06a3e5fcc25436293e1177a93061b889" title="rocksdb::DestroyDB" alt="" coords="197,651,339,680"/>
+<area shape="rect" id="node12" href="$db/db1/a00460.html#aebd6a4aac30704da29fecf45a9da21d6" title="rocksdb::Env::GetChildren" alt="" coords="387,148,563,177"/>
+<area shape="rect" id="node37" href="$de/daf/a01417.html#a5b27053d7804f8ba4a6430e001ce1c22" title="rocksdb::Slice::starts_with" alt="" coords="636,5,812,35"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a546d3e2e5c3b4aa8ee9828c7b519d501" title="rocksdb::ArchivalDirectory" alt="" coords="387,784,563,813"/>
+<area shape="rect" id="node9" href="$db/db1/a00460.html#a4dc62f49ff743af36746fb9c49edadda" title="rocksdb::Env::DeleteDir" alt="" coords="393,837,556,867"/>
+<area shape="rect" id="node14" href="$db/db1/a00460.html#a680d05d86580d65e4c1cfe16dd099385" title="rocksdb::Env::LockFile" alt="" coords="397,891,552,920"/>
+<area shape="rect" id="node16" href="$d4/d87/a03436.html#a820e85c65a3dad99ec67d4414c1b8ccb" title="rocksdb::LockFileName" alt="" coords="395,944,555,973"/>
+<area shape="rect" id="node18" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="404,677,545,707"/>
+<area shape="rect" id="node22" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="921,675,1057,704"/>
+<area shape="rect" id="node24" href="$d4/d87/a03436.html#ad3fcb7354969b5ea357d56b2d02362fc" title="rocksdb::ParseFileName" alt="" coords="392,201,557,231"/>
+<area shape="rect" id="node39" href="$d4/d87/a03436.html#abff772f829522cce816cd5540350b445" title="rocksdb::SanitizeOptions" alt="" coords="391,520,559,549"/>
+<area shape="rect" id="node72" href="$db/db1/a00460.html#a802631b298800f1ee47b75f3d8c9594d" title="rocksdb::Env::UnlockFile" alt="" coords="391,731,559,760"/>
+<area shape="rect" id="node20" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="644,731,804,760"/>
+<area shape="rect" id="node26" href="$d4/d87/a03436.html#a7d0cd6e6e390a2d44d90571ec29cd8f5" title="rocksdb::ConsumeDecimalNumber" alt="" coords="611,161,837,191"/>
+<area shape="rect" id="node28" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="915,109,1064,139"/>
+<area shape="rect" id="node30" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="912,162,1067,209"/>
+<area shape="rect" id="node32" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="1145,115,1281,144"/>
+<area shape="rect" id="node41" href="$d4/d87/a03436.html#af81d16f56b9066a68bf6315b35f1129f" title="rocksdb::ClipToRange" alt="" coords="648,627,800,656"/>
+<area shape="rect" id="node43" href="$d4/d87/a03436.html#abf1a86e8c774d69a4b96ef44c5ca19c0" title="rocksdb::CreateLoggerFrom\lOptions" alt="" coords="632,346,816,393"/>
+<area shape="rect" id="node65" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="676,467,772,496"/>
+<area shape="rect" id="node67" href="$d9/d9d/a03417.html#aa3091bec2c625018fadb6aefef12b9ff" title="ripple::min" alt="" coords="683,520,765,549"/>
+<area shape="rect" id="node69" href="$d4/d87/a03436.html#a35a0923808914c8ecd0c78fc5d36fc31" title="rocksdb::NewLRUCache" alt="" coords="640,573,808,603"/>
+<area shape="rect" id="node45" href="$db/db1/a00460.html#abb8c5907cacfd71bb223be17c4741a47" title="rocksdb::Env::CreateDir" alt="" coords="908,568,1071,597"/>
+<area shape="rect" id="node47" href="$db/db1/a00460.html#a85e9d22dff053a1ada591614b4ae2994" title="rocksdb::Env::GetAbsolutePath" alt="" coords="887,621,1092,651"/>
+<area shape="rect" id="node49" href="$d4/ddd/a00138.html#aead46bb2ddf6612f13d795d9567eeac8" title="rocksdb::AutoRollLogger\l::GetStatus" alt="" coords="907,231,1072,278"/>
+<area shape="rect" id="node51" href="$d4/d87/a03436.html#a66013ddb5a08a0535b9b77571ef21800" title="rocksdb::InfoLogFileName" alt="" coords="903,301,1076,331"/>
+<area shape="rect" id="node55" href="$db/db1/a00460.html#aa95f36590fd6a28f78fcd419fc3692c9" title="rocksdb::Env::NewLogger" alt="" coords="903,408,1076,437"/>
+<area shape="rect" id="node57" href="$db/db1/a00460.html#a20e69bbefe7d92b92a2f33100cf251b7" title="rocksdb::Env::NowMicros" alt="" coords="903,461,1076,491"/>
+<area shape="rect" id="node60" href="$d4/d87/a03436.html#adc2e965ec8cbd712595feeea5a662f7a" title="rocksdb::OldInfoLogFileName" alt="" coords="892,355,1087,384"/>
+<area shape="rect" id="node63" href="$db/db1/a00460.html#a8dc0848695f4b55193ee01ffb9ad24b8" title="rocksdb::Env::RenameFile" alt="" coords="901,515,1077,544"/>
+<area shape="rect" id="node53" href="$d4/d87/a03436.html#a6fee7f5c78b001613702bc29ad22e0df" title="rocksdb::FlattenPath" alt="" coords="1143,328,1284,357"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="rocksdb::HistogramImpl::Percentile" name="rocksdb::HistogramImpl::Percentile">
+<area shape="rect" id="node3" href="$d9/d41/a00666.html#aa5241d67264dedc683d3997945316bb9" title="rocksdb::HistogramImpl\l::Data" alt="" coords="428,5,588,51"/>
+<area shape="rect" id="node5" href="$d9/d41/a00666.html#a1280fd8befeb28921913c30dcb7f9272" title="rocksdb::HistogramImpl\l::Median" alt="" coords="217,58,377,105"/>
+<area shape="rect" id="node8" href="$d4/d87/a03436.html#a6972320705ac12f3a88ce7715b2c88d8" title="rocksdb::TEST" alt="" coords="453,80,563,109"/>
+<area shape="rect" id="node10" href="$d9/d41/a00666.html#ad3fdc69795a7fd321ac02be90485f086" title="rocksdb::HistogramImpl\l::ToString" alt="" coords="428,145,588,191"/>
+<area shape="rect" id="node12" href="$d3/d4c/a01540.html#ac0003f7ad3f78ec53da92a72ee402fcb" title="rocksdb::Stats::Report" alt="" coords="668,73,823,103"/>
+<area shape="rect" id="node20" href="$d4/d87/a03436.html#aafdfbf71b796b87dd60a624b2de3938c" title="rocksdb::TEST" alt="" coords="691,127,800,156"/>
+<area shape="rect" id="node22" href="$d4/d87/a03436.html#af1858c0090bf0030df9887905454e091" title="rocksdb::ProfileKeyComparison" alt="" coords="643,180,848,209"/>
+<area shape="rect" id="node26" href="$d4/d87/a03436.html#a0b1de5b83de45a9d933c398b7cde23a7" title="rocksdb::TableReaderBenchmark" alt="" coords="637,233,853,263"/>
+<area shape="rect" id="node14" href="$d8/d64/a00181.html#a914a888d9274d0651f49947310479464" title="rocksdb::Benchmark\l::RunBenchmark" alt="" coords="903,65,1044,111"/>
+<area shape="rect" id="node16" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="1095,73,1268,103"/>
+<area shape="rect" id="node18" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1317,73,1368,103"/>
+<area shape="rect" id="node24" href="$d4/d87/a03436.html#a28f3fa7104cc330d8f573f98682e000b" title="rocksdb::TEST" alt="" coords="919,180,1028,209"/>
+<area shape="rect" id="node28" href="$db/d84/a02686.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="948,233,999,263"/>
+</map>

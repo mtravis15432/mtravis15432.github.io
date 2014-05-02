@@ -1,0 +1,28 @@
+<map id="beast::SharedObject" name="beast::SharedObject">
+<area shape="rect" id="node5" href="$d2/d1f/a01361.html" title="beast::asio::HTTPClientType\l::Session" alt="" coords="373,5,565,51"/>
+<area shape="rect" id="node7" href="$d1/dd6/a00108.html" title="beast::asio::SharedArg\l\&lt; T \&gt;::Arg" alt="" coords="392,74,547,121"/>
+<area shape="rect" id="node9" href="$d9/d9b/a00363.html" title="beast::CurrentThreadHolder" alt="" coords="379,144,560,173"/>
+<area shape="rect" id="node11" href="$df/d1b/a00687.html" title="beast::HTTPMessage" alt="" coords="395,197,544,227"/>
+<area shape="rect" id="node17" href="$d0/d95/a01389.html" title="beast::SharedSingleton\l\&lt; Object \&gt;" alt="" coords="391,250,548,297"/>
+<area shape="rect" id="node19" href="$da/da6/a01522.html" title="beast::sqdb::detail\l::statement_imp" alt="" coords="405,319,533,366"/>
+<area shape="rect" id="node21" href="$d2/de1/a00421.html" title="ripple::HTTP::Door" alt="" coords="404,389,535,419"/>
+<area shape="rect" id="node23" href="$de/d6d/a01095.html" title="ripple::HTTP::Peer" alt="" coords="404,443,535,472"/>
+<area shape="rect" id="node25" href="$dc/dc2/a01251.html" title="ripple::PeerFinder\l::CheckerImp::Request" alt="" coords="391,495,548,542"/>
+<area shape="rect" id="node27" href="$d3/d95/a01435.html" title="ripple::PeerFinder\l::Source" alt="" coords="408,565,531,611"/>
+<area shape="rect" id="node33" href="$d3/d5e/a00275.html" title="ripple::Validators\l::ChosenList" alt="" coords="411,634,528,681"/>
+<area shape="rect" id="node35" href="$dc/d85/a01436.html" title="ripple::Validators\l::Source" alt="" coords="411,703,528,750"/>
+<area shape="rect" id="node51" href="$d0/d95/a01389.html" title="beast::SharedSingleton\l\&lt; beast::DeadlineTimer\l::Manager \&gt;" alt="" coords="391,773,548,837"/>
+<area shape="rect" id="node53" href="$d0/d95/a01389.html" title="beast::SharedSingleton\l\&lt; beast::sqdb::session\l::Sqlite3 \&gt;" alt="" coords="391,861,548,925"/>
+<area shape="rect" id="node2" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,416,136,445"/>
+<area shape="rect" id="node13" href="$da/dd4/a00690.html" title="beast::HTTPRequest" alt="" coords="623,171,769,200"/>
+<area shape="rect" id="node15" href="$d3/dd2/a00693.html" title="beast::HTTPResponse" alt="" coords="619,224,773,253"/>
+<area shape="rect" id="node29" href="$d0/de2/a01442.html" title="ripple::PeerFinder\l::SourceStrings" alt="" coords="635,565,757,611"/>
+<area shape="rect" id="node31" href="$d7/d32/a01444.html" title="ripple::PeerFinder\l::SourceStringsImp" alt="" coords="828,565,961,611"/>
+<area shape="rect" id="node37" href="$dd/d08/a01682.html" title="ripple::Validators\l::Logic_test::TestSource" alt="" coords="613,634,779,681"/>
+<area shape="rect" id="node39" href="$df/d31/a01440.html" title="ripple::Validators\l::SourceFile" alt="" coords="637,703,755,750"/>
+<area shape="rect" id="node43" href="$d6/d65/a01443.html" title="ripple::Validators\l::SourceStrings" alt="" coords="637,773,755,819"/>
+<area shape="rect" id="node47" href="$d8/d22/a01446.html" title="ripple::Validators\l::SourceURL" alt="" coords="637,842,755,889"/>
+<area shape="rect" id="node41" href="$d5/df9/a01441.html" title="ripple::Validators\l::SourceFileImp" alt="" coords="836,703,953,750"/>
+<area shape="rect" id="node45" href="$d9/d6f/a01445.html" title="ripple::Validators\l::SourceStringsImp" alt="" coords="828,773,961,819"/>
+<area shape="rect" id="node49" href="$df/d75/a01447.html" title="ripple::Validators\l::SourceURLImp" alt="" coords="835,842,955,889"/>
+</map>

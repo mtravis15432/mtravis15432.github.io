@@ -1,0 +1,11 @@
+<map id="ripple::HTTP::ServerImpl::State" name="ripple::HTTP::ServerImpl::State">
+<area shape="rect" id="node2" href="$d5/d69/a00878.html" title="beast::List\&lt; ripple\l::HTTP::Door \&gt;" alt="" coords="655,5,780,51"/>
+<area shape="rect" id="node4" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="237,65,368,95"/>
+<area shape="rect" id="node6" href="$d5/d69/a00878.html" title="beast::List\&lt; ripple\l::HTTP::Peer \&gt;" alt="" coords="959,59,1084,106"/>
+<area shape="rect" id="node21" href="$d2/daa/a01488.html" title="beast::asio::SSLContext" alt="" coords="464,117,629,147"/>
+<area shape="rect" id="node11" href="$db/d32/a01122.html" title="ripple::HTTP::Port" alt="" coords="805,131,933,160"/>
+<area shape="rect" id="node13" href="$da/dc3/a00453.html" title="beast::IP::Endpoint" alt="" coords="480,171,613,200"/>
+<area shape="rect" id="node15" href="$de/de1/a00065.html" title="beast::IP::Address" alt="" coords="237,171,368,200"/>
+<area shape="rect" id="node17" href="$d9/db3/a00066.html" title="beast::IP::AddressV4" alt="" coords="5,144,152,173"/>
+<area shape="rect" id="node19" href="$dc/ddf/a00067.html" title="beast::IP::AddressV6" alt="" coords="5,197,152,227"/>
+</map>

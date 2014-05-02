@@ -1,0 +1,8 @@
+<map id="ripple::ProofOfWorkFactoryImp::setDifficulty" name="ripple::ProofOfWorkFactoryImp::setDifficulty">
+<area shape="rect" id="node3" href="$db/d51/a01144.html#a15c517bad55a619801173dd38f096f3c" title="ripple::ProofOfWorkFactory\lImp::getPowEntries" alt="" coords="235,5,416,51"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#a0da8709f6817b4f400f80e788c0505d1" title="ripple::base_uint::\lSetHex" alt="" coords="263,74,388,121"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="467,29,613,59"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="465,83,615,112"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="465,136,615,165"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="665,29,815,59"/>
+</map>

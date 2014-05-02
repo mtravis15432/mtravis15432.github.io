@@ -1,0 +1,5 @@
+<map id="fileWriterWriteVarint" name="fileWriterWriteVarint">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#aa2ddf3a62c42c04e75d519b9c3e8566c" title="fileWriterWrite" alt="" coords="197,5,301,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a89360605369969b4b3d6a9067c648d14" title="sqlite3PutVarint" alt="" coords="192,59,307,88"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="356,5,463,35"/>
+</map>

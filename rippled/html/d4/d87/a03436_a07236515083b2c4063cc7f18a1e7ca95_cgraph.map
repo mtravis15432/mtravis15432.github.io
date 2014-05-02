@@ -1,0 +1,5 @@
+<map id="rocksdb::BitStreamGetInt" name="rocksdb::BitStreamGetInt">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a6cc85646dbfcd062f6f89c44b7562ff5" title="rocksdb::BitStreamGetInt" alt="" coords="224,5,395,35"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="240,59,379,88"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="241,112,377,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ripple::Ledger::getNicknameIndex" name="ripple::Ledger::getNicknameIndex">
+<area shape="rect" id="node3" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="244,5,359,51"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="244,74,359,121"/>
+<area shape="rect" id="node14" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="241,143,361,190"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="421,17,547,63"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="411,87,557,116"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="607,56,756,85"/>
+<area shape="rect" id="node16" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="427,143,541,190"/>
+</map>

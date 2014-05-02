@@ -1,0 +1,23 @@
+<map id="ripple::SHAMapTreeNode::isEmptyBranch" name="ripple::SHAMapTreeNode::isEmptyBranch">
+<area shape="rect" id="node3" href="$d2/d29/a01376.html#a23af11605070a49ab9e2f8460b43016f" title="ripple::SHAMapTreeNode\l::addRaw" alt="" coords="501,129,672,176"/>
+<area shape="rect" id="node5" href="$d6/dfe/a01366.html#a5e6accfcc68cecb4c327d7eafab32d05" title="ripple::SHAMap::getFetchPack" alt="" coords="736,471,939,501"/>
+<area shape="rect" id="node7" href="$d6/dfe/a01366.html#ada98c0e06bc5b129154a4968b2a94ca3" title="ripple::SHAMap::getNodeFat" alt="" coords="743,233,932,262"/>
+<area shape="rect" id="node11" href="$d6/dfe/a01366.html#abe6ff3e4b1a03cd350c226f4271d5d7c" title="ripple::SHAMap::getPath" alt="" coords="755,53,920,82"/>
+<area shape="rect" id="node15" href="$d6/dfe/a01366.html#a7cd1aaf5c9f4ca5d306dfa918386bd0e" title="ripple::SHAMap::compare" alt="" coords="752,679,923,709"/>
+<area shape="rect" id="node17" href="$d6/dfe/a01366.html#aee2320739a6cf6a123c4f5b13c642634" title="ripple::SHAMap::dropBelow" alt="" coords="240,319,421,349"/>
+<area shape="rect" id="node19" href="$d6/dfe/a01366.html#ada1fb33888dc87e75b6de54f595abd04" title="ripple::SHAMap::firstBelow" alt="" coords="241,373,420,402"/>
+<area shape="rect" id="node21" href="$d2/d29/a01376.html#a6f6a85ead57b28f67813a6976b55cba1" title="ripple::SHAMapTreeNode\l::getBranchCount" alt="" coords="245,129,416,176"/>
+<area shape="rect" id="node25" href="$d6/dfe/a01366.html#a3115ce394446e0e2dc1edacb3fa43bc2" title="ripple::SHAMap::getMissing\lNodes" alt="" coords="239,249,423,296"/>
+<area shape="rect" id="node31" href="$d6/dfe/a01366.html#ac7304159786c17a6065a5ea5f9be6a51" title="ripple::SHAMap::getNodePointer" alt="" coords="225,578,436,607"/>
+<area shape="rect" id="node36" href="$d6/dfe/a01366.html#aff8c54910b9ccd114d3da101656b740e" title="ripple::SHAMap::hasInnerNode" alt="" coords="485,471,688,501"/>
+<area shape="rect" id="node39" href="$d6/dfe/a01366.html#a1d284dbccc4fd39871aca341b70dbe3f" title="ripple::SHAMap::hasLeafNode" alt="" coords="488,525,685,554"/>
+<area shape="rect" id="node42" href="$d6/dfe/a01366.html#a1113e5269b0cc49da5d110dcfedbe3da" title="ripple::SHAMap::visitLeaves\lInternal" alt="" coords="493,732,680,779"/>
+<area shape="rect" id="node44" href="$d6/dfe/a01366.html#a4c47fa10bb9b3d8e5550948d8d229b2e" title="ripple::SHAMap::walkBranch" alt="" coords="492,679,681,709"/>
+<area shape="rect" id="node48" href="$d2/d29/a01376.html#a818fa14380dfd4515bd5ac0ff20d2c5c" title="ripple::SHAMapTreeNode\l::getString" alt="" coords="245,783,416,829"/>
+<area shape="rect" id="node52" href="$d6/dfe/a01366.html#aacd5461730c579833eae6b77e420b28a" title="ripple::SHAMap::lastBelow" alt="" coords="241,853,420,882"/>
+<area shape="rect" id="node54" href="$d6/dfe/a01366.html#a5fda174f211a021f99690845f98fcf85" title="ripple::SHAMap::onlyBelow" alt="" coords="240,906,421,935"/>
+<area shape="rect" id="node58" href="$d6/dfe/a01366.html#a589f6d922e056808aa264e88afa4e01a" title="ripple::SHAMap::walkToPointer" alt="" coords="228,959,433,989"/>
+<area shape="rect" id="node13" href="$d4/d6a/a00704.html#ae32c099c96438876fa214c254984495a" title="ripple::InboundLedgersImp\l::gotStaleData" alt="" coords="751,129,924,176"/>
+<area shape="rect" id="node9" href="$d2/dff/a01374.html#a5ba8e3ec0d8dca936347a2d58b235116" title="ripple::SHAMapSync\l_test::run" alt="" coords="987,267,1131,313"/>
+<area shape="rect" id="node27" href="$d6/dfe/a01366.html#a429e0c35495bd06580fb4d5456cef910" title="ripple::SHAMap::getNeeded\lHashes" alt="" coords="495,249,679,296"/>
+</map>

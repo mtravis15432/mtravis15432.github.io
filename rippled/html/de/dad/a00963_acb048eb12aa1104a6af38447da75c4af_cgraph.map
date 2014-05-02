@@ -1,0 +1,17 @@
+<map id="beast::MemoryOutputStream::writeFromInputStream" name="beast::MemoryOutputStream::writeFromInputStream">
+<area shape="rect" id="node3" href="$df/d96/a00714.html#a0f6ce6eac3caed9aa64b0f9f8957f695" title="beast::InputStream\l::getPosition" alt="" coords="275,5,408,51"/>
+<area shape="rect" id="node5" href="$da/d45/a00961.html#a8aa3eee25fc5d0599c960b705d5ddced" title="beast::MemoryBlock\l::getSize" alt="" coords="271,74,412,121"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#a173b0b049ce448f30e17f31d4c97a787" title="beast::InputStream\l::getTotalLength" alt="" coords="275,143,408,190"/>
+<area shape="rect" id="node9" href="$de/dad/a00963.html#a04599bc108d4a6b1f839edc03d7baeb7" title="beast::MemoryOutputStream\l::preallocate" alt="" coords="247,213,436,259"/>
+<area shape="rect" id="node23" href="$d4/d8a/a01062.html#ac5cf6473eb4927f0469b95a18eb1c9b8" title="beast::OutputStream\l::writeFromInputStream" alt="" coords="263,309,420,355"/>
+<area shape="rect" id="node11" href="$da/d45/a00961.html#afa421c383bdc8e6528954b3ef0e004c7" title="beast::MemoryBlock\l::ensureSize" alt="" coords="487,186,628,233"/>
+<area shape="rect" id="node13" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="679,186,820,233"/>
+<area shape="rect" id="node15" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="876,115,1055,144"/>
+<area shape="rect" id="node17" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="877,168,1053,197"/>
+<area shape="rect" id="node19" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="871,221,1060,251"/>
+<area shape="rect" id="node21" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="908,275,1023,304"/>
+<area shape="rect" id="node25" href="$d9/d9d/a03417.html#a975c0f5f2493f00dbf15e444b085d785" title="ripple::max" alt="" coords="515,256,600,285"/>
+<area shape="rect" id="node27" href="$df/d96/a00714.html#ad7da4644c542ada52519049105cd12f4" title="beast::InputStream\l::read" alt="" coords="491,309,624,355"/>
+<area shape="rect" id="node29" href="$d5/d83/a03337.html#a9747ec397aa1236065057d64c2364e20" title="beast::bmin" alt="" coords="512,379,603,408"/>
+<area shape="rect" id="node31" href="$d4/d8a/a01062.html#a1d16f6512dbe0117be4c64107f73ade6" title="beast::OutputStream\l::write" alt="" coords="487,431,628,478"/>
+</map>

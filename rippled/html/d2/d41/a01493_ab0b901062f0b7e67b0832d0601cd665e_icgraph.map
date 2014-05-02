@@ -1,0 +1,17 @@
+<map id="ripple::STAmount::throwComparable" name="ripple::STAmount::throwComparable">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#aa8f63e78109a5929ea07fddee20833a8" title="ripple::STAmount::addRound" alt="" coords="291,80,480,109"/>
+<area shape="rect" id="node9" href="$d5/de7/a01048.html#ad481c5e633674c0d78c40df84780bbac" title="ripple::OfferCreateTransactor\l::applyOffer" alt="" coords="291,453,480,499"/>
+<area shape="rect" id="node15" href="$d9/d9d/a03417.html#a359f3e15938925c5430c69dbb743e7fd" title="ripple::operator+" alt="" coords="328,133,443,163"/>
+<area shape="rect" id="node17" href="$d9/d9d/a03417.html#ad3dd3fe92f62e0f0dff3a3c35835ff8a" title="ripple::operator&#45;" alt="" coords="329,187,441,216"/>
+<area shape="rect" id="node19" href="$d2/d41/a01493.html#a30e7b7d57e1cecb4102f215791e77116" title="ripple::STAmount::operator\&lt;" alt="" coords="292,240,479,269"/>
+<area shape="rect" id="node21" href="$d2/d41/a01493.html#a63d1b2206636d57f47ea7bf944e56526" title="ripple::STAmount::operator\&lt;=" alt="" coords="288,293,483,323"/>
+<area shape="rect" id="node23" href="$d2/d41/a01493.html#ab6c25713873741383943d7feed245362" title="ripple::STAmount::operator\&gt;" alt="" coords="292,347,479,376"/>
+<area shape="rect" id="node25" href="$d2/d41/a01493.html#a23e7bb22cf6ec1f4f2c58cb0d6b379f2" title="ripple::STAmount::operator\&gt;=" alt="" coords="288,400,483,429"/>
+<area shape="rect" id="node27" href="$d6/d51/a01494.html#ae1fac0c758b4c3136e750c54741bebe5" title="ripple::STAmount_test\l::roundTest" alt="" coords="309,9,461,55"/>
+<area shape="rect" id="node32" href="$d2/d41/a01493.html#a1305e7b0f2ad291899f1fcec9d0c5b57" title="ripple::STAmount::subRound" alt="" coords="291,523,480,552"/>
+<area shape="rect" id="node5" href="$d6/d51/a01494.html#a887140b59992f0ef94e085902b57163c" title="ripple::STAmount_test\l::testRounding" alt="" coords="551,74,703,121"/>
+<area shape="rect" id="node7" href="$d6/d51/a01494.html#a2fed37e27754e534db456868751ba2eb" title="ripple::STAmount_test::run" alt="" coords="777,48,956,77"/>
+<area shape="rect" id="node11" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="532,453,721,499"/>
+<area shape="rect" id="node13" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="772,453,961,499"/>
+<area shape="rect" id="node29" href="$d6/d51/a01494.html#a3c8744063e578e4dd37e38cf175016df" title="ripple::STAmount_test\l::testArithmetic" alt="" coords="551,5,703,51"/>
+</map>

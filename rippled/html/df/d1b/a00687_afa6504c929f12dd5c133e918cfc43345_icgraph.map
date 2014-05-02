@@ -1,0 +1,8 @@
+<map id="beast::HTTPMessage::headers" name="beast::HTTPMessage::headers">
+<area shape="rect" id="node3" href="$d4/d9b/a00680.html#a04ea07fbf23e9ba9a3895de72986d350" title="beast::asio::HTTPClient\l_test::print" alt="" coords="205,74,368,121"/>
+<area shape="rect" id="node5" href="$d4/d9b/a00680.html#a4c8a066fd32c6b0b58bbbf6fa0bab45c" title="beast::asio::HTTPClient\l_test::print" alt="" coords="416,5,579,51"/>
+<area shape="rect" id="node7" href="$d4/d9b/a00680.html#ae0a74a03630e886e9bde8f055f59cd88" title="beast::asio::HTTPClient\l_test::handle_get" alt="" coords="416,74,579,121"/>
+<area shape="rect" id="node13" href="$d4/d9b/a00680.html#ae23a46bb96c17e821d17b9133d9c0fe0" title="beast::asio::HTTPClient\l_test::testSync" alt="" coords="627,141,789,187"/>
+<area shape="rect" id="node9" href="$d4/d9b/a00680.html#a8a471d3bd0c8a1111e7cc416c00e8d92" title="beast::asio::HTTPClient\l_test::testAsync" alt="" coords="627,71,789,118"/>
+<area shape="rect" id="node11" href="$d4/d9b/a00680.html#a88944f640fe6b39a84c5cea6c7f66c4d" title="beast::asio::HTTPClient\l_test::run" alt="" coords="837,106,1000,153"/>
+</map>

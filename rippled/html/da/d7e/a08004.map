@@ -1,0 +1,7 @@
+<map id="ripple::HTTP::Peer" name="ripple::HTTP::Peer">
+<area shape="rect" id="node2" href="$d9/d40/a01387.html" title="beast::SharedObject" alt="" coords="212,5,353,35"/>
+<area shape="rect" id="node4" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,32,136,61"/>
+<area shape="rect" id="node8" href="$dd/d8b/a01363.html" title="ripple::HTTP::Session" alt="" coords="208,59,357,88"/>
+<area shape="rect" id="node6" href="$d7/d12/a00126.html" title="beast::asio::AsyncObject\l\&lt; Peer \&gt;" alt="" coords="199,111,367,158"/>
+<area shape="rect" id="node11" href="$d3/d50/a00882.html" title="beast::List\&lt;Peer\&gt;::Node" alt="" coords="200,181,365,211"/>
+</map>

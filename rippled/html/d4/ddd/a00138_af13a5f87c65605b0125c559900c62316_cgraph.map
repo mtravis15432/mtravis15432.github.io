@@ -1,0 +1,8 @@
+<map id="rocksdb::AutoRollLogger::AutoRollLogger" name="rocksdb::AutoRollLogger::AutoRollLogger">
+<area shape="rect" id="node3" href="$db/db1/a00460.html#a85e9d22dff053a1ada591614b4ae2994" title="rocksdb::Env::GetAbsolutePath" alt="" coords="220,5,425,35"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a66013ddb5a08a0535b9b77571ef21800" title="rocksdb::InfoLogFileName" alt="" coords="485,77,659,107"/>
+<area shape="rect" id="node9" href="$d4/ddd/a00138.html#a5d70bb8527d8ac54dd920c00a039f9b0" title="rocksdb::AutoRollLogger\l::ResetLogger" alt="" coords="240,109,405,155"/>
+<area shape="rect" id="node11" href="$d4/ddd/a00138.html#a08f823d7b49f9ee43233ebb33dc3afee" title="rocksdb::AutoRollLogger\l::RollLogFile" alt="" coords="240,178,405,225"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a6fee7f5c78b001613702bc29ad22e0df" title="rocksdb::FlattenPath" alt="" coords="719,113,860,143"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#adc2e965ec8cbd712595feeea5a662f7a" title="rocksdb::OldInfoLogFileName" alt="" coords="475,149,669,179"/>
+</map>

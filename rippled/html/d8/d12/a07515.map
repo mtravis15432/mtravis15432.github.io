@@ -1,0 +1,14 @@
+<map id="ripple::ValidationsImp" name="ripple::ValidationsImp">
+<area shape="rect" id="node2" href="$d3/dac/a01777.html" title="ripple::Validations" alt="" coords="825,13,951,43"/>
+<area shape="rect" id="node8" href="$dd/d55/a01638.html" title="ripple::TaggedCache\l\&lt; ripple::uint256, Validation\lSet \&gt;" alt="" coords="799,155,977,219"/>
+<area shape="rect" id="node10" href="$d2/dee/a00049.html" title="beast::abstract_clock\l\&lt; Duration \&gt;" alt="" coords="516,87,663,134"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="549,157,629,187"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="255,134,380,181"/>
+<area shape="rect" id="node16" href="$d5/dc8/a01541.html" title="ripple::TaggedCache\l\&lt; Key, T, Hash, KeyEqual,\l Mutex \&gt;::Stats" alt="" coords="500,211,679,275"/>
+<area shape="rect" id="node18" href="$d4/d2f/a00582.html" title="beast::insight::Gauge" alt="" coords="244,204,391,233"/>
+<area shape="rect" id="node20" href="$d0/d4a/a00147.html" title="beast::insight::Base" alt="" coords="5,231,144,260"/>
+<area shape="rect" id="node22" href="$d0/d5c/a00668.html" title="beast::insight::Hook" alt="" coords="248,257,387,287"/>
+<area shape="rect" id="node25" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="537,313,641,343"/>
+<area shape="rect" id="node27" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="5,345,144,375"/>
+<area shape="rect" id="node29" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="240,407,395,436"/>
+</map>

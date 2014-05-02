@@ -1,0 +1,29 @@
+<map id="ripple::Ledger::getQualityIndex" name="ripple::Ledger::getQualityIndex">
+<area shape="rect" id="node3" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="876,22,1065,68"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a75205d48fe6ecf924cfed352ce21fa0a" title="ripple::Ledger::getBookBase" alt="" coords="221,160,408,189"/>
+<area shape="rect" id="node7" href="$d5/d4c/a01058.html#af233d16972bb63ffb6c0844762c9536b" title="ripple::OrderBookDB\l::addOrderBook" alt="" coords="465,82,607,128"/>
+<area shape="rect" id="node12" href="$df/d24/a00217.html#af960ce0c803770be83600c14287a97c0" title="ripple::BookDirIterator\l::BookDirIterator" alt="" coords="461,151,611,198"/>
+<area shape="rect" id="node14" href="$d4/d10/a01278.html#a35748a1a4f4faca121c117e35e2cad4d" title="ripple::RippleCalc\l::calcNodeAdvance" alt="" coords="468,220,604,267"/>
+<area shape="rect" id="node32" href="$d7/ded/a01009.html#adcd0f5c06951e3eb74ba81f2006d6216" title="ripple::NetworkOPsImp\l::getBookPage" alt="" coords="457,290,615,336"/>
+<area shape="rect" id="node34" href="$d9/d9d/a03417.html#af8a920635395c30b9a35ef301cb6d5bc" title="ripple::updateHelper" alt="" coords="467,364,605,393"/>
+<area shape="rect" id="node9" href="$dd/d5f/a00825.html#aadc914d1816ab8a6f5fe38ccb891fce8" title="ripple::Ledger::qualityDir\lDescriber" alt="" coords="664,82,827,128"/>
+<area shape="rect" id="node16" href="$d4/d10/a01278.html#ab61998a5e167691b67a1cc512e5e85a0" title="ripple::RippleCalc\l::calcNodeDeliverRev" alt="" coords="671,151,820,198"/>
+<area shape="rect" id="node24" href="$d4/d10/a01278.html#a592be0b1094c005d596044230caac6d4" title="ripple::RippleCalc\l::calcNodeDeliverFwd" alt="" coords="671,220,820,267"/>
+<area shape="rect" id="node18" href="$d4/d10/a01278.html#acddbc756a6f92ec497a6d5806d356f14" title="ripple::RippleCalc\l::calcNodeOfferRev" alt="" coords="901,151,1040,198"/>
+<area shape="rect" id="node20" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="1144,151,1269,198"/>
+<area shape="rect" id="node22" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="1365,160,1491,207"/>
+<area shape="rect" id="node26" href="$d4/d10/a01278.html#ac9666accf2ed1b2e9b58674645349eec" title="ripple::RippleCalc\l::calcNodeOfferFwd" alt="" coords="901,220,1040,267"/>
+<area shape="rect" id="node28" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="1144,220,1269,267"/>
+<area shape="rect" id="node36" href="$d5/d4c/a01058.html#a342daa95f79e50e5faee7c6e6409343f" title="ripple::OrderBookDB\l::update" alt="" coords="675,358,816,404"/>
+<area shape="rect" id="node38" href="$d5/d4c/a01058.html#a7e5531b9b1df741c8db62d884b84d210" title="ripple::OrderBookDB\l::setup" alt="" coords="900,359,1041,406"/>
+<area shape="rect" id="node40" href="$d2/dc7/a00838.html#aa1492db26502ab92492928444756b69d" title="ripple::LedgerMasterImp\l::setFullLedger" alt="" coords="1125,290,1288,336"/>
+<area shape="rect" id="node56" href="$d2/dc7/a00838.html#afef5d9e765e612499355e2b1caa27a91" title="ripple::LedgerMasterImp\l::checkAccept" alt="" coords="1979,396,2141,443"/>
+<area shape="rect" id="node59" href="$d2/dc7/a00838.html#a1a811affe449990c43b8e4ea1eb80411" title="ripple::LedgerMasterImp\l::findNewLedgersToPublish" alt="" coords="1116,359,1297,406"/>
+<area shape="rect" id="node62" href="$d0/d61/a00100.html#a0c3f15a3c50547ecb0a40f5824465774" title="ripple::ApplicationImp\l::setup" alt="" coords="1133,479,1280,526"/>
+<area shape="rect" id="node42" href="$d2/dc7/a00838.html#a340c1c668d233c98f5ac0e3a62533b6c" title="ripple::LedgerMasterImp\l::pushLedger" alt="" coords="1979,238,2141,284"/>
+<area shape="rect" id="node44" href="$d2/dc7/a00838.html#a1c612521c3c403ac534fed26bc4d2eb3" title="ripple::LedgerMasterImp\l::forceValid" alt="" coords="1347,290,1509,336"/>
+<area shape="rect" id="node46" href="$d2/dc7/a00838.html#a1137d82f75868275f3380ffe9673d95f" title="ripple::LedgerMasterImp\l::doAdvance" alt="" coords="1347,359,1509,406"/>
+<area shape="rect" id="node48" href="$d2/dc7/a00838.html#a70c3001914f0eb02e756c5f132d764f7" title="ripple::LedgerMasterImp\l::advanceThread" alt="" coords="1557,303,1720,350"/>
+<area shape="rect" id="node50" href="$d2/dc7/a00838.html#a0db2f2d92f5bf50222003030c0bac415" title="ripple::LedgerMasterImp\l::tryAdvance" alt="" coords="1768,303,1931,350"/>
+<area shape="rect" id="node53" href="$d2/dc7/a00838.html#ab96778e6d7821b274d410a6cc1f9e0dd" title="ripple::LedgerMasterImp\l::tryFill" alt="" coords="1979,315,2141,362"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb::SimpleTableDBTest::CurrentOptions" name="rocksdb::SimpleTableDBTest::CurrentOptions">
+<area shape="rect" id="node3" href="$d0/dc7/a01402.html#a4b0084a45075e30aca7dca07fc7c5ab4" title="rocksdb::SimpleTableDBTest\l::TryReopen" alt="" coords="249,39,441,86"/>
+<area shape="rect" id="node5" href="$d0/dc7/a01402.html#ab3b64eb433f91a3061b5e8a3a97fcc0b" title="rocksdb::SimpleTableDBTest\l::Reopen" alt="" coords="492,5,684,51"/>
+<area shape="rect" id="node9" href="$d0/dc7/a01402.html#ae65a64867da560c255e38fb5bcc7ced4" title="rocksdb::SimpleTableDBTest\l::DestroyAndReopen" alt="" coords="492,74,684,121"/>
+<area shape="rect" id="node7" href="$d0/dc7/a01402.html#aa4769c7f42641f11d37d9d1a0b381bef" title="rocksdb::SimpleTableDBTest\l::SimpleTableDBTest" alt="" coords="735,5,927,51"/>
+</map>

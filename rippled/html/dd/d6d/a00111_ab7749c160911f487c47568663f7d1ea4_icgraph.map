@@ -1,0 +1,4 @@
+<map id="beast::ArrayAllocationBase::setAllocatedSize" name="beast::ArrayAllocationBase::setAllocatedSize">
+<area shape="rect" id="node3" href="$dd/d6d/a00111.html#a80ed5564c96d5eca2bc41ed1084a83b2" title="beast::ArrayAllocationBase\l\&lt; beast::String, DummyCriticalSection\l \&gt;::ensureAllocatedSize" alt="" coords="236,5,481,69"/>
+<area shape="rect" id="node5" href="$dd/d6d/a00111.html#a1e4437318cf6020c6a083b85163c0f29" title="beast::ArrayAllocationBase\l\&lt; beast::String, DummyCriticalSection\l \&gt;::shrinkToNoMoreThan" alt="" coords="236,93,481,157"/>
+</map>

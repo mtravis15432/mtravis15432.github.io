@@ -1,0 +1,6 @@
+<map id="beast::SpinLock::lock" name="beast::SpinLock::lock">
+<area shape="rect" id="node3" href="$d2/d95/a01449.html#a69b3ad35efa15b72cb0355dfc910a2b6" title="beast::SpinLock::enter" alt="" coords="204,40,356,69"/>
+<area shape="rect" id="node5" href="$d2/d95/a01449.html#a3dcb39577956ddabfed107ad8421bf07" title="beast::SpinLock::tryEnter" alt="" coords="405,13,576,43"/>
+<area shape="rect" id="node9" href="$d6/d53/a01688.html#a6ba3125156c6538ba6fd308c4c2a5978" title="beast::Thread::yield" alt="" coords="423,67,559,96"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html#a41f21d4a7146b3b26e41ae8e16ce086e" title="beast::Atomic::compareAnd\lSetBool" alt="" coords="624,5,808,51"/>
+</map>

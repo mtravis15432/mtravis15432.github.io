@@ -1,0 +1,7 @@
+<map id="ripple::SHAMapAddNode::isGood" name="ripple::SHAMapAddNode::isGood">
+<area shape="rect" id="node3" href="$d2/dff/a01374.html#a5ba8e3ec0d8dca936347a2d58b235116" title="ripple::SHAMapSync\l_test::run" alt="" coords="223,5,367,51"/>
+<area shape="rect" id="node5" href="$dd/d85/a00702.html#ad771df51434745db291f6bc0add58c71" title="ripple::InboundLedger\l::takeAsNode" alt="" coords="221,74,368,121"/>
+<area shape="rect" id="node11" href="$dd/d85/a00702.html#adebfec19bb2de87eb8f4463fe8dd23b8" title="ripple::InboundLedger\l::takeTxNode" alt="" coords="221,143,368,190"/>
+<area shape="rect" id="node7" href="$dd/d85/a00702.html#a80d8b140f40327d7fc808f0663128479" title="ripple::InboundLedger\l::processData" alt="" coords="416,109,563,155"/>
+<area shape="rect" id="node9" href="$dd/d85/a00702.html#a0fcb919dd1a3c7f0e37525aee124ee7d" title="ripple::InboundLedger\l::runData" alt="" coords="611,109,757,155"/>
+</map>

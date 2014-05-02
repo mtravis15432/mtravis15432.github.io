@@ -1,0 +1,15 @@
+<map id="ripple::Ledger::Ledger" name="ripple::Ledger::Ledger">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a5921038b27b7d9c735b55de8efc43a93" title="ripple::Ledger::initializeFees" alt="" coords="200,39,384,68"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a93d2362a14e7d5a802d03ea5ded53fcd" title="ripple::Ledger::updateHash" alt="" coords="203,92,381,121"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="436,13,585,43"/>
+<area shape="rect" id="node9" href="$da/d61/a01350.html#a4f09dcca07217744f793fa7473e845fe" title="ripple::Serializer\l::add32" alt="" coords="637,5,752,51"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#a28ccdd7d5313e2cd6b8c9d610656b7b4" title="ripple::Ledger::addRaw" alt="" coords="433,117,588,147"/>
+<area shape="rect" id="node27" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="451,209,571,255"/>
+<area shape="rect" id="node14" href="$da/d61/a01350.html#a253e724ffc3143dfd70bde767af71a7e" title="ripple::Serializer\l::add64" alt="" coords="637,74,752,121"/>
+<area shape="rect" id="node16" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="637,143,752,190"/>
+<area shape="rect" id="node25" href="$da/d61/a01350.html#a0344fccc7552038b51568aa4f93fca4e" title="ripple::Serializer\l::add8" alt="" coords="637,213,752,259"/>
+<area shape="rect" id="node18" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="811,113,936,159"/>
+<area shape="rect" id="node22" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="800,183,947,212"/>
+<area shape="rect" id="node20" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="996,152,1145,181"/>
+<area shape="rect" id="node29" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="637,282,752,329"/>
+</map>

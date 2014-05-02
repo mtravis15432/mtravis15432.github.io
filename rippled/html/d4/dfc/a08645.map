@@ -1,0 +1,34 @@
+<map id="rocksdb::TransactionLogIteratorImpl" name="rocksdb::TransactionLogIteratorImpl">
+<area shape="rect" id="node2" href="$db/dbe/a01706.html" title="rocksdb::TransactionLogIterator" alt="" coords="1023,5,1228,35"/>
+<area shape="rect" id="node4" href="$d0/db9/a01552.html" title="rocksdb::Status" alt="" coords="657,313,772,343"/>
+<area shape="rect" id="node64" href="$dd/df5/a00386.html" title="rocksdb::DBImpl" alt="" coords="1065,971,1185,1000"/>
+<area shape="rect" id="node8" href="$d2/dbd/a01844.html" title="rocksdb::WriteBatch" alt="" coords="644,657,785,687"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="245,749,325,779"/>
+<area shape="rect" id="node33" href="$dd/d57/a01054.html" title="rocksdb::Options" alt="" coords="655,1703,775,1732"/>
+<area shape="rect" id="node106" href="$d0/d72/a00724.html" title="rocksdb::InternalKeyComparator" alt="" coords="609,711,820,740"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="7,741,132,787"/>
+<area shape="rect" id="node14" href="$d5/d5f/a00461.html" title="rocksdb::EnvOptions" alt="" coords="643,367,787,396"/>
+<area shape="rect" id="node16" href="$d6/d66/a00916.html" title="rocksdb::LogReporter" alt="" coords="641,139,788,168"/>
+<area shape="rect" id="node18" href="$d7/d04/a01246.html" title="rocksdb::log::Reader\l::Reporter" alt="" coords="215,69,356,115"/>
+<area shape="rect" id="node30" href="$d5/d54/a01213.html" title="rocksdb::log::Reader" alt="" coords="644,67,785,96"/>
+<area shape="rect" id="node20" href="$db/db1/a00460.html" title="rocksdb::Env" alt="" coords="236,1240,335,1269"/>
+<area shape="rect" id="node22" href="$d5/d89/a00907.html" title="rocksdb::Logger" alt="" coords="228,148,343,177"/>
+<area shape="rect" id="node26" title="STL class. " alt="" coords="657,201,772,231"/>
+<area shape="rect" id="node45" href="$dd/de9/a00552.html" title="rocksdb::FilterPolicy" alt="" coords="215,2089,356,2119"/>
+<area shape="rect" id="node88" href="$db/d7c/a00722.html" title="rocksdb::InternalFilterPolicy" alt="" coords="623,2089,807,2119"/>
+<area shape="rect" id="node47" href="$d9/d0d/a00298.html" title="rocksdb::CompactionOptions\lUniversal" alt="" coords="191,1370,380,1417"/>
+<area shape="rect" id="node49" href="$d1/d67/a00310.html" title="rocksdb::CompressionOptions" alt="" coords="187,1440,384,1469"/>
+<area shape="rect" id="node55" href="$d0/d7d/a01419.html" title="rocksdb::SliceTransform" alt="" coords="204,1669,367,1699"/>
+<area shape="rect" id="node57" href="$db/d7b/a00296.html" title="rocksdb::CompactionFilter" alt="" coords="199,1493,372,1523"/>
+<area shape="rect" id="node59" href="$d0/d61/a00302.html" title="rocksdb::Comparator" alt="" coords="213,1187,357,1216"/>
+<area shape="rect" id="node66" href="$d8/ddd/a00380.html" title="rocksdb::DB" alt="" coords="668,764,761,793"/>
+<area shape="rect" id="node71" href="$df/d12/a00942.html" title="rocksdb::DBImpl::ManualCompaction" alt="" coords="595,887,835,916"/>
+<area shape="rect" id="node80" href="$dc/de6/a01426.html" title="rocksdb::SnapshotList" alt="" coords="639,1297,791,1327"/>
+<area shape="rect" id="node84" href="$d5/df4/a01551.html" title="rocksdb::DBImpl::StatsSnapshot" alt="" coords="608,1473,821,1503"/>
+<area shape="rect" id="node93" href="$dd/d72/a00541.html" title="rocksdb::FileLock" alt="" coords="652,1420,777,1449"/>
+<area shape="rect" id="node100" href="$d9/d9a/a00998.html" title="rocksdb::port::Mutex" alt="" coords="215,448,356,477"/>
+<area shape="rect" id="node114" href="$d0/d39/a00314.html" title="rocksdb::port::CondVar" alt="" coords="636,485,793,515"/>
+<area shape="rect" id="node102" href="$d3/dcd/a00965.html" title="rocksdb::MemTable" alt="" coords="647,1580,783,1609"/>
+<area shape="rect" id="node104" href="$de/d76/a00134.html" title="rocksdb::port::AtomicPointer" alt="" coords="192,561,379,591"/>
+<area shape="rect" id="node111" href="$d7/dd4/a00968.html" title="rocksdb::MemTableList" alt="" coords="636,539,793,568"/>
+</map>

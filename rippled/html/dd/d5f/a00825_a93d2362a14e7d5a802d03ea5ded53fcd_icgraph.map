@@ -1,0 +1,14 @@
+<map id="ripple::Ledger::updateHash" name="ripple::Ledger::updateHash">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a16e47eaa1c229298782773ee27eeddaf" title="ripple::Ledger::getHash" alt="" coords="247,141,404,171"/>
+<area shape="rect" id="node19" href="$dd/d5f/a00825.html#a222d80914c27c9564fa8792fa3914308" title="ripple::Ledger::Ledger" alt="" coords="252,248,399,277"/>
+<area shape="rect" id="node21" href="$dd/d5f/a00825.html#a172f6f42a968787e26bc1f2cff970675" title="ripple::Ledger::setImmutable" alt="" coords="232,301,419,331"/>
+<area shape="rect" id="node25" href="$dd/d5f/a00825.html#a6eae40a50498661ac9114218dceba2d7" title="ripple::Ledger::setRaw" alt="" coords="249,355,401,384"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a9f986c17ae106d7c9c7d1b118706c04b" title="ripple::Ledger::getLedgerHash" alt="" coords="468,5,663,35"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#a5226908762b8529614ba9351999c6c52" title="ripple::Ledger::Ledger" alt="" coords="492,59,639,88"/>
+<area shape="rect" id="node9" href="$dd/d5f/a00825.html#a84fb9cd4200c6cc8ae48bc9f0279f731" title="ripple::Ledger::pendSave\lValidated" alt="" coords="953,153,1119,199"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#ae53bf5480c98b36a234e01de0f437845" title="ripple::Ledger::saveValidated\lLedger" alt="" coords="471,162,660,209"/>
+<area shape="rect" id="node17" href="$d7/d5f/a00831.html#a69dfdffade06301acafc3220fb358037" title="ripple::LedgerConsensusImp\l::statusChange" alt="" coords="472,231,659,278"/>
+<area shape="rect" id="node14" href="$dd/d5f/a00825.html#a4ce86b946061155e228c9ea08f9d5bc9" title="ripple::Ledger::saveValidated\lLedgerAsync" alt="" coords="713,213,903,259"/>
+<area shape="rect" id="node23" href="$dd/d5f/a00825.html#a8026e84f390a0405b80ef935fa660df8" title="ripple::Ledger::setAccepted" alt="" coords="475,301,656,331"/>
+<area shape="rect" id="node27" href="$dd/d5f/a00825.html#a5eb8e6438f726d32904946567fcd6544" title="ripple::Ledger::Ledger" alt="" coords="492,355,639,384"/>
+</map>

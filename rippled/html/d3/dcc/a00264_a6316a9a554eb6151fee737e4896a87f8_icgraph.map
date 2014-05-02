@@ -1,0 +1,8 @@
+<map id="beast::CharacterFunctions::mulexp10" name="beast::CharacterFunctions::mulexp10">
+<area shape="rect" id="node3" href="$d3/dcc/a00264.html#ae6b3a27293a5b9baf4518eb647ba3e03" title="beast::CharacterFunctions\l::readDoubleValue" alt="" coords="229,109,405,155"/>
+<area shape="rect" id="node5" href="$d3/dcc/a00264.html#a6e3982ac4547916cd95919a8212fcec1" title="beast::CharacterFunctions\l::getDoubleValue" alt="" coords="453,109,629,155"/>
+<area shape="rect" id="node7" href="$db/d12/a00268.html#ac2e75c4acd25427f63b686e383d86624" title="beast::CharPointer\l_UTF32::getDoubleValue" alt="" coords="679,5,847,51"/>
+<area shape="rect" id="node9" href="$d5/d35/a00266.html#a5cd5ee4c0b34ccf781793f6405b90d1f" title="beast::CharPointer\l_ASCII::getDoubleValue" alt="" coords="680,74,845,121"/>
+<area shape="rect" id="node11" href="$d1/dd4/a00267.html#aa62349c40b5f5c2c57fa014239f94427" title="beast::CharPointer\l_UTF16::getDoubleValue" alt="" coords="679,143,847,190"/>
+<area shape="rect" id="node13" href="$d5/d42/a00269.html#a91c39865312038a309f80ef18620bceb" title="beast::CharPointer\l_UTF8::getDoubleValue" alt="" coords="681,213,844,259"/>
+</map>

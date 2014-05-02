@@ -1,0 +1,5 @@
+<map id="ripple::DecodeBase64" name="ripple::DecodeBase64">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a3213a368f476821faae71e50fe31a026" title="ripple::HTTPAuthorized" alt="" coords="207,48,364,77"/>
+<area shape="rect" id="node5" href="$d8/d38/a01299.html#adcc36b80a50a9f48084b64f96cfba6e6" title="ripple::RPCHTTPServerImp\l::isAuthorized" alt="" coords="415,5,599,51"/>
+<area shape="rect" id="node7" href="$d6/d07/a01303.html#a946ec5a337ef8d9560487c078cf60c70" title="ripple::RPCServerHandler\l::isAuthorized" alt="" coords="420,74,593,121"/>
+</map>

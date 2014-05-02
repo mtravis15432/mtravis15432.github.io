@@ -1,0 +1,10 @@
+<map id="ripple::PeerFinder::Logic::is_valid_address" name="ripple::PeerFinder::Logic::is_valid_address">
+<area shape="rect" id="node3" href="$d2/d7f/a03369.html#a0a2f19c5d2d5c88d53996c2df2d3eaf0" title="beast::IP::is_public" alt="" coords="239,75,372,104"/>
+<area shape="rect" id="node15" href="$d2/d7f/a03369.html#ab56ae9d3b6003bad39bea158b35d8d67" title="beast::IP::is_unspecified" alt="" coords="223,128,388,157"/>
+<area shape="rect" id="node17" href="$da/dc3/a00453.html#ad34a025ff522a7e45e18ee58f2a9eab6" title="beast::IP::Endpoint\l::port" alt="" coords="239,181,372,227"/>
+<area shape="rect" id="node5" href="$d9/db3/a00066.html#a9151824ddc4a9a6886c10054d8f53d7c" title="beast::IP::AddressV4\l::broadcast" alt="" coords="441,5,588,51"/>
+<area shape="rect" id="node9" href="$d2/d7f/a03369.html#a5ccebc5994566542ca44793961dbd324" title="beast::IP::is_multicast" alt="" coords="439,75,591,104"/>
+<area shape="rect" id="node11" href="$d2/d7f/a03369.html#a25de154b027e488d8e4be8362e6b6927" title="beast::IP::is_private" alt="" coords="445,128,584,157"/>
+<area shape="rect" id="node7" href="$d9/db3/a00066.html#ad1c90b9bc49455786e2d95022b695c02" title="beast::IP::AddressV4\l::AddressV4" alt="" coords="643,5,789,51"/>
+<area shape="rect" id="node13" href="$d2/d7f/a03369.html#abe52052bf8ee760f14bdf9c06e398212" title="beast::IP::is_loopback" alt="" coords="640,128,792,157"/>
+</map>

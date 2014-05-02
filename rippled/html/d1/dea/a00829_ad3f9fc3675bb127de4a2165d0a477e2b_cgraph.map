@@ -1,0 +1,5 @@
+<map id="ripple::LedgerCleanerImp::onStop" name="ripple::LedgerCleanerImp::onStop">
+<area shape="rect" id="node3" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="243,13,384,43"/>
+<area shape="rect" id="node7" href="$d6/d53/a01688.html#a7a8c61ba7975e767c62e9cc6a69868d6" title="beast::Thread::signalThread\lShouldExit" alt="" coords="221,66,405,113"/>
+<area shape="rect" id="node5" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="453,5,600,51"/>
+</map>

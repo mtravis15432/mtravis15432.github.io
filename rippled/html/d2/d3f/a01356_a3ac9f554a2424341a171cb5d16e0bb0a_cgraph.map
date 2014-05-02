@@ -1,0 +1,14 @@
+<map id="beast::ServiceQueue_timing_test::testThreads" name="beast::ServiceQueue_timing_test::testThreads">
+<area shape="rect" id="node3" href="$d2/dc1/a01562.html#a0402dc40ecd9badc13ae43db6edb7113" title="beast::ServiceQueue\l_timing_test::Stopwatch\l::getElapsed" alt="" coords="229,60,392,124"/>
+<area shape="rect" id="node9" href="$d9/d42/a01156.html#a9bdd431380d7fa73705b472b165f4029" title="beast::Random::nextInt64" alt="" coords="224,148,397,177"/>
+<area shape="rect" id="node13" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="237,201,384,247"/>
+<area shape="rect" id="node25" href="$db/dfd/a01608.html#a02554fbd9200fc71efa03e2cf3430424" title="beast::unit_test::suite\l::testcase" alt="" coords="237,270,384,317"/>
+<area shape="rect" id="node5" href="$dc/dc8/a01695.html#a8d8ae04e6a87738e1d6cc1bb47b98846" title="beast::Time::getHighResolution\lTicks" alt="" coords="447,5,652,51"/>
+<area shape="rect" id="node7" href="$dc/dc8/a01695.html#ae091047bf659ede589b1803efac91ee5" title="beast::Time::highResolution\lTicksToSeconds" alt="" coords="457,74,641,121"/>
+<area shape="rect" id="node11" href="$d9/d42/a01156.html#aaa7eba6653fb57c634ecfefff0e3de33" title="beast::Random::nextInt" alt="" coords="471,148,628,177"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="472,201,627,247"/>
+<area shape="rect" id="node17" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="703,270,857,317"/>
+<area shape="rect" id="node23" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="703,201,857,247"/>
+<area shape="rect" id="node19" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="908,235,1063,282"/>
+<area shape="rect" id="node21" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="908,305,1063,351"/>
+</map>

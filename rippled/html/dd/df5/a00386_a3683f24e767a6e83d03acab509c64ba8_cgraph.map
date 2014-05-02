@@ -1,0 +1,6 @@
+<map id="rocksdb::DBImpl::FindObsoleteFiles" name="rocksdb::DBImpl::FindObsoleteFiles">
+<area shape="rect" id="node3" href="$d9/d9a/a00998.html#adc55e4555301d02ced0ec883bc6cd4f6" title="rocksdb::port::Mutex\l::AssertHeld" alt="" coords="292,5,433,51"/>
+<area shape="rect" id="node5" href="$db/db1/a00460.html#aebd6a4aac30704da29fecf45a9da21d6" title="rocksdb::Env::GetChildren" alt="" coords="275,75,451,104"/>
+<area shape="rect" id="node7" href="$dd/dea/a00408.html#aebc2e02a27eedb603b0455badcb0a1c7" title="rocksdb::DBImpl::Deletion\lState::HaveSomethingToDelete" alt="" coords="260,127,465,174"/>
+<area shape="rect" id="node9" href="$db/db1/a00460.html#a20e69bbefe7d92b92a2f33100cf251b7" title="rocksdb::Env::NowMicros" alt="" coords="276,197,449,227"/>
+</map>

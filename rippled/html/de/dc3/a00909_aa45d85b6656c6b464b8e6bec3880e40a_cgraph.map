@@ -1,0 +1,13 @@
+<map id="ripple::Resource::Logic::disconnect" name="ripple::Resource::Logic::disconnect">
+<area shape="rect" id="node3" href="$da/d65/a00458.html#a023c66670e9dac3a2e79092985182475" title="ripple::Resource::Entry\l::admin" alt="" coords="212,103,367,150"/>
+<area shape="rect" id="node5" href="$de/dc3/a00909.html#ab5f5c7ea4cd56d7ab18c8122ca331bfd" title="ripple::Resource::Logic\l::disconnect" alt="" coords="212,173,367,219"/>
+<area shape="rect" id="node7" href="$da/d65/a00458.html#ad0809294e8ca913ca859b312d608af7e" title="ripple::Resource::Entry\l::balance" alt="" coords="873,5,1028,51"/>
+<area shape="rect" id="node11" href="$de/dc3/a00909.html#a38d55f259030ccce3695e0710cf6c92b" title="ripple::Resource::Logic\l::charge" alt="" coords="417,173,572,219"/>
+<area shape="rect" id="node20" href="$d2/dee/a00049.html#ae8a34dde26bed08c9a6dbb59f0e9abd1" title="beast::abstract_clock\l::elapsed" alt="" coords="877,229,1024,275"/>
+<area shape="rect" id="node9" href="$d9/da1/a00396.html#a2039bdb6177cbe58bd2d402f4f3b14e1" title="ripple::DecayingSample\l::value" alt="" coords="1093,5,1253,51"/>
+<area shape="rect" id="node13" href="$da/d65/a00458.html#aad99dd9ce890c2c22f65de0c0e59ae4b" title="ripple::Resource::Entry::add" alt="" coords="623,293,807,323"/>
+<area shape="rect" id="node17" href="$de/dc3/a00909.html#ad35b015d0d5ddd43cfd160f946c819bd" title="ripple::Resource::Logic\l::balance" alt="" coords="637,34,792,81"/>
+<area shape="rect" id="node22" href="$da/d53/a00265.html#a43f5ee9914b42b8ec4e76c36ce61b7bf" title="ripple::Resource::Charge\l::cost" alt="" coords="632,103,797,150"/>
+<area shape="rect" id="node24" href="$de/dc3/a00909.html#aef42d962718ad2f7d2c732185e03b218" title="ripple::Resource::Logic\l::disposition" alt="" coords="637,173,792,219"/>
+<area shape="rect" id="node15" href="$d9/da1/a00396.html#a64a0a33ae9d9b5b87c0833d1af48773d" title="ripple::DecayingSample::add" alt="" coords="856,299,1045,328"/>
+</map>

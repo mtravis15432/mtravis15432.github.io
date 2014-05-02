@@ -1,0 +1,13 @@
+<map id="rocksdb::Footer::DecodeFrom" name="rocksdb::Footer::DecodeFrom">
+<area shape="rect" id="node3" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="711,5,849,35"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="252,251,417,280"/>
+<area shape="rect" id="node7" href="$d3/dd1/a00214.html#a334b65dae78e22833c02e9501fb45753" title="rocksdb::BlockHandle\l::DecodeFrom" alt="" coords="260,130,409,177"/>
+<area shape="rect" id="node18" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="712,59,848,88"/>
+<area shape="rect" id="node23" href="$d0/db9/a01552.html#a5afec51a3f306b6f188a5af0c5d003ba" title="rocksdb::Status::Invalid\lArgument" alt="" coords="479,267,639,314"/>
+<area shape="rect" id="node26" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="267,304,403,333"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="468,215,649,244"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#abef3500551ebbb64ab50e4abde1ab3b9" title="rocksdb::GetVarint64" alt="" coords="487,108,631,137"/>
+<area shape="rect" id="node20" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="488,161,629,191"/>
+<area shape="rect" id="node11" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="700,215,860,244"/>
+<area shape="rect" id="node16" href="$d4/d87/a03436.html#ae2394b85a19c4d702747014bca29fcb0" title="rocksdb::GetVarint64Ptr" alt="" coords="699,112,861,141"/>
+</map>

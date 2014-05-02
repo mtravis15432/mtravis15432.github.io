@@ -1,0 +1,13 @@
+<map id="beast::sqdb::session::close" name="beast::sqdb::session::close">
+<area shape="rect" id="node3" href="$da/dab/a01362.html#a63dcaa792ca3cd73161fcd233da3df16" title="beast::sqdb::session\l::open" alt="" coords="199,74,340,121"/>
+<area shape="rect" id="node23" href="$da/dab/a01362.html#a6590d70e524a2eed51fd47199e695254" title="beast::sqdb::session\l::~session" alt="" coords="199,143,340,190"/>
+<area shape="rect" id="node5" href="$da/dab/a01362.html#a4d4600c07f6c1ff1846247f3f7d91cc9" title="beast::sqdb::session\l::clone" alt="" coords="391,5,532,51"/>
+<area shape="rect" id="node7" href="$d9/d32/a01569.html#a83b701888010a3464d583b666a784a1a" title="ripple::PeerFinder\l::StoreSqdb::open" alt="" coords="399,74,524,121"/>
+<area shape="rect" id="node13" href="$da/daf/a01568.html#a251f48cba3a7a20d83e9e09e42e64f5e" title="ripple::Validators\l::StoreSqdb::open" alt="" coords="399,143,524,190"/>
+<area shape="rect" id="node9" href="$d0/d5b/a00933.html#af0a33d7d095f46b87e2e643824eb1136" title="ripple::PeerFinder\l::ManagerImp::init" alt="" coords="595,74,720,121"/>
+<area shape="rect" id="node11" href="$d0/d5b/a00933.html#a917354deda0578521ebc56109f8f7d7f" title="ripple::PeerFinder\l::ManagerImp::run" alt="" coords="781,74,909,121"/>
+<area shape="rect" id="node15" href="$d9/dfb/a00913.html#ad779bfe8d6bb1d9921ebe6cc3fb7b5bb" title="ripple::Validators\l::Logic_test::testLogic" alt="" coords="583,143,732,190"/>
+<area shape="rect" id="node19" href="$dc/d2b/a00936.html#a5e10589bd69e2ef0ab909cb21dd6ee3b" title="ripple::Validators\l::ManagerImp::init" alt="" coords="595,213,720,259"/>
+<area shape="rect" id="node17" href="$d9/dfb/a00913.html#a6dcbb52d0f72b46b9629265b9004f103" title="ripple::Validators\l::Logic_test::run" alt="" coords="787,143,904,190"/>
+<area shape="rect" id="node21" href="$dc/d2b/a00936.html#abe2f0e8721d1ebedf583b72450d9bb1a" title="ripple::Validators\l::ManagerImp::run" alt="" coords="781,213,909,259"/>
+</map>

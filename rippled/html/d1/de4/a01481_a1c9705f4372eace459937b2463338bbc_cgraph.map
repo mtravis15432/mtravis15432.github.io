@@ -1,0 +1,6 @@
+<map id="ripple::SqliteBackend::storeBatch" name="ripple::SqliteBackend::storeBatch">
+<area shape="rect" id="node3" href="$d1/de4/a01481.html#a849654035febdd9ba6ffb9c015965b3d" title="ripple::SqliteBackend\l::doBind" alt="" coords="205,39,349,86"/>
+<area shape="rect" id="node9" href="$d2/d21/a01484.html#a80b6ff29deef6d948c5477dae82d0082" title="ripple::SqliteStatement\l::step" alt="" coords="200,109,355,155"/>
+<area shape="rect" id="node5" href="$d2/d21/a01484.html#a1a5f1bf3e562c084e5df0379a944a2bd" title="ripple::SqliteStatement\l::bind" alt="" coords="403,5,557,51"/>
+<area shape="rect" id="node7" href="$d2/d21/a01484.html#a060188cafe8fe2e66608a949a0a0c08e" title="ripple::SqliteStatement\l::bindStatic" alt="" coords="403,74,557,121"/>
+</map>

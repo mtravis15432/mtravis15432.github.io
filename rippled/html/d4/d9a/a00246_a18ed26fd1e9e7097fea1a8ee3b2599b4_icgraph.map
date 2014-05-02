@@ -1,0 +1,11 @@
+<map id="rocksdb::Cache::Value" name="rocksdb::Cache::Value">
+<area shape="rect" id="node3" href="$d1/d72/a00204.html#a0572b5d72f62771a022c8d0a14b21793" title="rocksdb::BlockBasedTable\l::BlockReader" alt="" coords="208,5,387,51"/>
+<area shape="rect" id="node5" href="$d1/d72/a00204.html#a5eadc884aba075de1cd82a5f81ff49b1" title="rocksdb::BlockBasedTable\l::GetBlock" alt="" coords="208,74,387,121"/>
+<area shape="rect" id="node20" href="$d1/d72/a00204.html#a875adec07ed8babced7bbb8522efeb37" title="rocksdb::BlockBasedTable\l::GetFilter" alt="" coords="435,141,613,187"/>
+<area shape="rect" id="node7" href="$d1/d72/a00204.html#a21b4cf6270bdeccf5fe7a616b73afa3c" title="rocksdb::BlockBasedTable\l::IndexBlockReader" alt="" coords="435,71,613,118"/>
+<area shape="rect" id="node9" href="$d1/d72/a00204.html#ad11544b58b57f5f4101b7b533e72b82c" title="rocksdb::BlockBasedTable\l::PrefixMayMatch" alt="" coords="676,110,855,157"/>
+<area shape="rect" id="node11" href="$d1/d72/a00204.html#a572f3e033d55cd348f12da867374dcde" title="rocksdb::BlockBasedTable\l::NewIterator" alt="" coords="917,42,1096,89"/>
+<area shape="rect" id="node14" href="$d1/d72/a00204.html#a126ccdb4087483cbac9c6002ce12f2b4" title="rocksdb::BlockBasedTable::Get" alt="" coords="663,180,868,209"/>
+<area shape="rect" id="node18" href="$d1/d72/a00204.html#a3f9750acdb61d91cee84a899a06833d9" title="rocksdb::BlockBasedTable\l::ApproximateOffsetOf" alt="" coords="676,41,855,87"/>
+<area shape="rect" id="node16" href="$d1/d72/a00204.html#a17c2fe017efd1f4d86717a7c4bdb137a" title="rocksdb::BlockBasedTable\l::TEST_KeyInCache" alt="" coords="917,171,1096,218"/>
+</map>

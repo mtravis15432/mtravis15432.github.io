@@ -1,0 +1,5 @@
+<map id="ripple::NodeStore::MemoryBackend::fetch" name="ripple::NodeStore::MemoryBackend::fetch">
+<area shape="rect" id="node3" href="$d0/d4e/a01741.html#a952e91a3d3fa6d091fff507729832826" title="ripple::uint256::fromVoid" alt="" coords="211,13,373,43"/>
+<area shape="rect" id="node5" href="$d0/d4e/a01741.html#aef990a34b077576802f4f71fadab6d8f" title="ripple::uint256::uint256" alt="" coords="423,13,575,43"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="625,13,775,43"/>
+</map>

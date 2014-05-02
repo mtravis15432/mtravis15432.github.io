@@ -1,0 +1,10 @@
+<map id="ripple::FeaturesImpl::getCreate" name="ripple::FeaturesImpl::getCreate">
+<area shape="rect" id="node3" href="$d1/d0b/a00529.html#a51fea5fde6af0c09d5a3f071154a6dc4" title="ripple::FeaturesImpl\l::addKnown" alt="" coords="380,219,516,265"/>
+<area shape="rect" id="node5" href="$d1/d0b/a00529.html#a569cf62ed92d20dad32491ba308c9abf" title="ripple::FeaturesImpl\l::disable" alt="" coords="193,40,329,87"/>
+<area shape="rect" id="node7" href="$d1/d0b/a00529.html#aa6f378c7727fd91942eb6132166bcb0c" title="ripple::FeaturesImpl\l::enable" alt="" coords="193,109,329,156"/>
+<area shape="rect" id="node9" href="$d1/d0b/a00529.html#af066b27fd08d64711fab0ae3191a02b7" title="ripple::FeaturesImpl\l::getJson" alt="" coords="193,179,329,225"/>
+<area shape="rect" id="node11" href="$d1/d0b/a00529.html#a9fa4c9d5d0a921db481863cb21571c6f" title="ripple::FeaturesImpl\l::isEnabled" alt="" coords="193,248,329,295"/>
+<area shape="rect" id="node13" href="$d1/d0b/a00529.html#ab475fa03b79c2fea610df5a343152350" title="ripple::FeaturesImpl\l::isSupported" alt="" coords="193,317,329,364"/>
+<area shape="rect" id="node15" href="$d1/d0b/a00529.html#a1bf1577a79e6c6118af1f9e95e2b17d8" title="ripple::FeaturesImpl\l::unVeto" alt="" coords="193,387,329,433"/>
+<area shape="rect" id="node17" href="$d1/d0b/a00529.html#a14d012d83dc8e6ab2133eeae1a4a527d" title="ripple::FeaturesImpl\l::veto" alt="" coords="193,456,329,503"/>
+</map>

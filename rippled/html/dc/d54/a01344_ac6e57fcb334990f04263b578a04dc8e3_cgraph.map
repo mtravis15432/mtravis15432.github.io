@@ -1,0 +1,27 @@
+<map id="ripple::SerializedLedgerEntry::getOwner" name="ripple::SerializedLedgerEntry::getOwner">
+<area shape="rect" id="node3" href="$de/d1a/a01559.html#ac853c6963065dd80fa4a58543ab4ac39" title="ripple::STObject::getField\lAccount" alt="" coords="211,206,381,253"/>
+<area shape="rect" id="node5" href="$de/d1a/a01559.html#ac6e32d6706dd0c235ba5567ec1c0405f" title="ripple::STObject::peekAt\lPField" alt="" coords="429,137,595,183"/>
+<area shape="rect" id="node19" href="$d7/d57/a01348.html#a420d71c47a773cf368ab6d8e99152871" title="ripple::SerializedType\l::getSType" alt="" coords="439,206,585,253"/>
+<area shape="rect" id="node21" href="$de/d3c/a01490.html#a3bb684815ccfe3e14b6e1cde1180b368" title="ripple::STAccount::\lgetValueNCA" alt="" coords="445,275,579,322"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#a7bbf16c433cd8e40fe2fa462ecbd44f9" title="ripple::STObject::getField\lIndex" alt="" coords="643,74,813,121"/>
+<area shape="rect" id="node17" href="$de/d1a/a01559.html#a023cc002539faf5fab6eecc8f12e1b1d" title="ripple::STObject::peekAt\lPIndex" alt="" coords="645,143,811,190"/>
+<area shape="rect" id="node9" href="$d1/de7/a01434.html#a04479037c3daa6f724999b9861bb8c10" title="ripple::SOTemplate\l::getIndex" alt="" coords="868,5,1001,51"/>
+<area shape="rect" id="node13" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="861,74,1008,121"/>
+<area shape="rect" id="node15" href="$d5/d83/a03337.html#afc5f5e8520bf9ec3abd1f92d066ef7b9" title="beast::field" alt="" coords="892,144,977,173"/>
+<area shape="rect" id="node11" href="$d7/d81/a01365.html#a378a93fc2f80527eae537dd280b8d471" title="ripple::SField::getNum" alt="" coords="1072,13,1224,43"/>
+<area shape="rect" id="node23" href="$de/d3c/a01490.html#a56ebfbb0d123c510fe73cc7788594f34" title="ripple::STAccount::\lgetValueH160" alt="" coords="661,271,795,318"/>
+<area shape="rect" id="node34" href="$d4/d0e/a01272.html#ad33487a0716edddfc083c5a0fd68bbc9" title="ripple::RippleAddress\l::setAccountID" alt="" coords="655,361,801,407"/>
+<area shape="rect" id="node25" href="$de/d3c/a01490.html#a7827f2a0c6abc17bc2c9d0011fcfdaad" title="ripple::STAccount::\lisValueH160" alt="" coords="868,201,1001,247"/>
+<area shape="rect" id="node27" href="$d5/dcf/a01602.html#a04eba939273c2f8936a09dc3e66fab85" title="ripple::STVariableLength\l::peekValue" alt="" coords="1067,218,1229,265"/>
+<area shape="rect" id="node29" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="1085,295,1211,342"/>
+<area shape="rect" id="node31" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1499,291,1648,320"/>
+<area shape="rect" id="node36" href="$d9/d39/a00257.html#a47491f73d2b42a10e3f72172ced83c3d" title="ripple::CBase58Data\l::SetString" alt="" coords="864,373,1005,419"/>
+<area shape="rect" id="node38" href="$d9/d7d/a00150.html#a85c405829839e85edb721241fd8d4203" title="ripple::Base58::decodeWith\lCheck" alt="" coords="1057,374,1239,421"/>
+<area shape="rect" id="node40" href="$d9/d7d/a00150.html#a0c2d621faceac43aeb30f4797f03b12c" title="ripple::Base58::decode" alt="" coords="1288,396,1443,425"/>
+<area shape="rect" id="node50" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1292,343,1439,372"/>
+<area shape="rect" id="node53" href="$d9/d9d/a03417.html#a4be54b895ff42f63b835266848abf9af" title="ripple::SHA256Hash" alt="" coords="1295,449,1436,479"/>
+<area shape="rect" id="node42" href="$d9/dec/a00090.html#ac2a3456ebd59fd80270f618c64544ac9" title="ripple::Base58::Alphabet\l::chars" alt="" coords="1492,343,1655,390"/>
+<area shape="rect" id="node44" href="$d7/d2f/a00258.html#a84e73d21fd76767976513f5bf1276215" title="ripple::CBigNum::getvch" alt="" coords="1491,413,1656,443"/>
+<area shape="rect" id="node46" href="$d7/d2f/a00258.html#a01d5357e9691e5d7743172afbc3cc85c" title="ripple::CBigNum::setuint" alt="" coords="1491,467,1656,496"/>
+<area shape="rect" id="node48" href="$d7/d2f/a00258.html#a80a1fa42fd2d87bedd0b3bf5180ed4ba" title="ripple::CBigNum::setulong" alt="" coords="1705,467,1879,496"/>
+</map>

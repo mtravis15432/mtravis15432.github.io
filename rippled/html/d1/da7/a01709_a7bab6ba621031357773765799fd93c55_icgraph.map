@@ -1,0 +1,4 @@
+<map id="ripple::TransactionMetaSet::setDeliveredAmount" name="ripple::TransactionMetaSet::setDeliveredAmount">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#a95d724424e61db22a8fb874a4343c526" title="ripple::LedgerEntrySet\l::setDeliveredAmount" alt="" coords="233,5,383,51"/>
+<area shape="rect" id="node5" href="$da/d73/a01090.html#a7ad4cccf4a91ff162dc862e5222cf0c6" title="ripple::PaymentTransactor\l::doApply" alt="" coords="433,5,607,51"/>
+</map>

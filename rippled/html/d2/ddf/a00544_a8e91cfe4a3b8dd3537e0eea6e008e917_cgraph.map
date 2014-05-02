@@ -1,0 +1,8 @@
+<map id="beast::FileOutputStream::truncate" name="beast::FileOutputStream::truncate">
+<area shape="rect" id="node3" href="$d2/ddf/a00544.html#a6528e6f3c9e4ac12a648cef2bd5be943" title="beast::FileOutputStream\l::flush" alt="" coords="220,90,383,137"/>
+<area shape="rect" id="node5" href="$d2/ddf/a00544.html#aeb9d7a1ebd2db4f1b1b9f610968c4f1f" title="beast::FileOutputStream\l::flushBuffer" alt="" coords="433,55,596,102"/>
+<area shape="rect" id="node13" href="$d2/ddf/a00544.html#a402c16e773a9b3ea888a2d314525032e" title="beast::FileOutputStream\l::flushInternal" alt="" coords="433,125,596,171"/>
+<area shape="rect" id="node7" href="$d2/ddf/a00544.html#aaf5cbcd32fc5dddab8a4f7438a6a552f" title="beast::FileOutputStream\l::writeInternal" alt="" coords="660,5,823,51"/>
+<area shape="rect" id="node9" href="$d2/ddf/a00544.html#af64caf20a230bb8f7419fff4abe3c208" title="beast::FileOutputStream\l::write" alt="" coords="887,5,1049,51"/>
+<area shape="rect" id="node15" href="$d4/d33/a00536.html#a3a1b6608cad33bede2b440a5acf6f0f2" title="beast::File::getFullPathName" alt="" coords="645,133,837,163"/>
+</map>

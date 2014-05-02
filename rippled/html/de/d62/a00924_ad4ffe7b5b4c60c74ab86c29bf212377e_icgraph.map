@@ -1,0 +1,7 @@
+<map id="ripple::Resource::Manager::newOutboundEndpoint" name="ripple::Resource::Manager::newOutboundEndpoint">
+<area shape="rect" id="node3" href="$d9/d10/a01103.html#ab770dbfe865c2c492fa66316997b40aa" title="ripple::PeerImp::handleStart" alt="" coords="229,33,413,63"/>
+<area shape="rect" id="node5" href="$d9/d10/a01103.html#abb7f376a3c0cc916f91137c4c2d9c486" title="ripple::PeerImp::accept" alt="" coords="695,5,852,35"/>
+<area shape="rect" id="node9" href="$d9/d10/a01103.html#afb359344939e364b1a9afdcc27a5a0f2" title="ripple::PeerImp::onConnect" alt="" coords="461,59,643,88"/>
+<area shape="rect" id="node7" href="$d9/d10/a01103.html#a2070ddba2d1ac7d2997a0e9b4f76d93f" title="ripple::PeerImp::start" alt="" coords="904,32,1048,61"/>
+<area shape="rect" id="node11" href="$d9/d10/a01103.html#a586041b00bf2280463df543bafc86f65" title="ripple::PeerImp::connect" alt="" coords="692,59,855,88"/>
+</map>

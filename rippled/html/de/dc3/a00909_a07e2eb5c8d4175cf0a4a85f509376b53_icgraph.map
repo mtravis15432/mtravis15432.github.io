@@ -1,0 +1,10 @@
+<map id="ripple::Resource::Logic::newInboundEndpoint" name="ripple::Resource::Logic::newInboundEndpoint">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#a195a4c392e8d5d8880a7c8b09a16b0f2" title="ripple::Resource::Logic\l::importConsumers" alt="" coords="221,79,376,126"/>
+<area shape="rect" id="node14" href="$d0/df0/a00934.html#a3cf30ffa8e7062ce4cfd9a26a0e2e1c3" title="ripple::Resource::Manager\lImp::newInboundEndpoint" alt="" coords="212,153,385,199"/>
+<area shape="rect" id="node16" href="$d8/dbb/a00932.html#a36baa3cfae639bf8406b1059affa785b" title="ripple::Resource::Manager\l_test::testCharges" alt="" coords="436,213,609,259"/>
+<area shape="rect" id="node19" href="$d8/dbb/a00932.html#a12c9044348ca8f226ecbe96e0d6bac80" title="ripple::Resource::Manager\l_test::testDrop" alt="" coords="212,273,385,319"/>
+<area shape="rect" id="node5" href="$d0/df0/a00934.html#ad3c7af7e9455bc4970c207c9ae76a9a7" title="ripple::Resource::Manager\lImp::importConsumers" alt="" coords="436,5,609,51"/>
+<area shape="rect" id="node7" href="$d8/dbb/a00932.html#a823244ff2c76d31112e0abfd20504b61" title="ripple::Resource::Manager\l_test::testImport" alt="" coords="436,74,609,121"/>
+<area shape="rect" id="node11" href="$d8/dbb/a00932.html#ad67f5a6314af7b367272a4a90fcc5d9f" title="ripple::Resource::Manager\l_test::testImports" alt="" coords="436,143,609,190"/>
+<area shape="rect" id="node9" href="$d8/dbb/a00932.html#a904104c2a738cca57c8c2a4214e0956d" title="ripple::Resource::Manager\l_test::run" alt="" coords="660,178,833,225"/>
+</map>

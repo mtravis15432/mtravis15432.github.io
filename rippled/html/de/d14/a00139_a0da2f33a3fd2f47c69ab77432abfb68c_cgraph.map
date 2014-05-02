@@ -1,0 +1,8 @@
+<map id="rocksdb::AutoRollLoggerTest::RollLogFileByTimeTest" name="rocksdb::AutoRollLoggerTest::RollLogFileByTimeTest">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#af43b1ade4a359488360aa7ff7194a32f" title="rocksdb::GetFileCreateTime" alt="" coords="268,5,455,35"/>
+<area shape="rect" id="node5" href="$d4/ddd/a00138.html#a58a7422ea5d1aa078593c45c7e041203" title="rocksdb::AutoRollLogger\l::GetLogFileSize" alt="" coords="279,58,444,105"/>
+<area shape="rect" id="node7" href="$d4/ddd/a00138.html#aead46bb2ddf6612f13d795d9567eeac8" title="rocksdb::AutoRollLogger\l::GetStatus" alt="" coords="279,127,444,174"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#a94920e503ad06b753ea3ff879a5a14d3" title="rocksdb::LogMessage" alt="" coords="287,197,436,227"/>
+<area shape="rect" id="node13" href="$d4/ddd/a00138.html#a989ff189e628fdf63315f69c05b995dc" title="rocksdb::AutoRollLogger\l::SetCallNowMicrosEveryNRecords" alt="" coords="245,250,477,297"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="527,197,623,227"/>
+</map>

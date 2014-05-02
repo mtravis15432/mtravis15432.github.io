@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$d9/d10/a00449.html" title="beast::asio::socket\l_wrapper\&lt; Object \&gt;::\lEnabled\&lt; Cond \&gt;" alt="" coords="209,5,353,69"/>
+<area shape="rect" id="node5" href="$df/d17/a00231.html" title="beast::detail::buffer\l_view_const_compatible\l\&lt; T, U \&gt;" alt="" coords="199,93,364,157"/>
+<area shape="rect" id="node7" href="$d0/d53/a00232.html" title="beast::detail::buffer\l_view_container_compatible\l\&lt; T, C \&gt;" alt="" coords="188,181,375,245"/>
+<area shape="rect" id="node9" href="$d6/de1/a00233.html" title="beast::detail::buffer\l_view_convertible\&lt; T, U \&gt;" alt="" coords="193,269,369,315"/>
+<area shape="rect" id="node11" href="$d3/d42/a00235.html" title="beast::detail::buffer\l_view_ptr_compatible\l\&lt; T, U \&gt;" alt="" coords="208,339,355,403"/>
+<area shape="rect" id="node13" href="$dd/d47/a00445.html" title="beast::detail::empty\l_base_optimization_decide\&lt; T \&gt;" alt="" coords="176,426,387,473"/>
+<area shape="rect" id="node15" href="$d5/de8/a00749.html" title="beast::is_contiguously\l_hashable\&lt; T \&gt;" alt="" coords="205,495,357,542"/>
+<area shape="rect" id="node17" href="$da/df2/a00751.html" title="beast::is_contiguously\l_hashable\&lt; IP::AddressV4 \&gt;" alt="" coords="187,565,376,611"/>
+<area shape="rect" id="node19" href="$dd/d5c/a00752.html" title="beast::is_contiguously\l_hashable\&lt; std::array\l\&lt; T, N \&gt; \&gt;" alt="" coords="205,635,357,699"/>
+<area shape="rect" id="node21" href="$dc/dd0/a00753.html" title="beast::is_contiguously\l_hashable\&lt; std::pair\&lt;\l T, U \&gt; \&gt;" alt="" coords="205,723,357,787"/>
+<area shape="rect" id="node23" href="$d8/d4e/a00754.html" title="beast::is_contiguously\l_hashable\&lt; std::tuple\l\&lt; T...\&gt; \&gt;" alt="" coords="205,811,357,875"/>
+<area shape="rect" id="node25" href="$db/de9/a01525.html" title="beast::static_and\&lt;\l b0, bN...\&gt;" alt="" coords="216,898,347,945"/>
+<area shape="rect" id="node27" href="$db/dce/a01529.html" title="beast::static_sum\&lt;\l s0, sN...\&gt;" alt="" coords="215,967,348,1014"/>
+<area shape="rect" id="node29" href="$d7/d90/a01530.html" title="beast::static_sum\&lt;\&gt;" alt="" coords="211,1037,352,1067"/>
+<area shape="rect" id="node31" href="$d5/de8/a00749.html" title="beast::is_contiguously\l_hashable\&lt; Int \&gt;" alt="" coords="205,1090,357,1137"/>
+<area shape="rect" id="node35" href="$d4/d8f/a00742.html" title="std::is_constructible\l\&lt; pair\&lt; T, U \&gt; \&gt;" alt="" coords="212,1159,351,1206"/>
+<area shape="rect" id="node37" href="$d0/d0a/a00743.html" title="std::is_constructible\l\&lt; tuple\&lt; T...\&gt; \&gt;" alt="" coords="212,1229,351,1275"/>
+<area shape="rect" id="node33" href="$d2/ddd/a00755.html" title="beast::is_contiguously\l_hashable\&lt; tagged_integer\l\&lt; Int, Tag \&gt; \&gt;" alt="" coords="435,1081,613,1145"/>
+</map>

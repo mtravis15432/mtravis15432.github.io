@@ -1,0 +1,5 @@
+<map id="ripple::NodeStore::ManagerImp::make_Backend" name="ripple::NodeStore::ManagerImp::make_Backend">
+<area shape="rect" id="node3" href="$d8/dc7/a00517.html#a923bcccd5852e9fea925ccb35366cb83" title="ripple::NodeStore::\lFactory::createInstance" alt="" coords="245,5,405,51"/>
+<area shape="rect" id="node5" href="$d5/d54/a00938.html#a7a7ce81490258c2be67ce3429162aeb7" title="ripple::NodeStore::\lManagerImp::find" alt="" coords="260,74,391,121"/>
+<area shape="rect" id="node7" href="$d5/d54/a00938.html#acfaf261e04f439d67e13b477e396ae00" title="ripple::NodeStore::\lManagerImp::missing\l_backend" alt="" coords="252,144,399,208"/>
+</map>

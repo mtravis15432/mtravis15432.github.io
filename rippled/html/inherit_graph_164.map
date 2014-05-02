@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$d4/dfd/a00810.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::KeyValueCompare" alt="" coords="395,5,600,104"/>
+<area shape="rect" id="node7" href="$d2/d49/a01067.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::pair_value\l_compare" alt="" coords="420,127,575,243"/>
+<area shape="rect" id="node9" href="$dd/d07/a00811.html" title="beast::detail::aged\l_unordered_container\l\&lt; IsMulti, IsMap, Key,\l T, Duration, Hash, KeyEqual,\l Allocator \&gt;::KeyValueEqual" alt="" coords="399,336,596,435"/>
+<area shape="rect" id="node5" href="$da/de0/a00317.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::config_t" alt="" coords="673,109,828,208"/>
+<area shape="rect" id="node11" href="$d2/d41/a00318.html" title="beast::detail::aged\l_unordered_container\l\&lt; IsMulti, IsMap, Key,\l T, Duration, Hash, KeyEqual,\l Allocator \&gt;::config_t" alt="" coords="652,336,849,435"/>
+<area shape="rect" id="node14" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; Compare \&gt;" alt="" coords="133,66,344,113"/>
+<area shape="rect" id="node19" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; ElementAllocator \&gt;" alt="" coords="392,266,603,313"/>
+<area shape="rect" id="node22" href="$d6/dfa/a00626.html" title="Hash" alt="" coords="19,493,72,523"/>
+<area shape="rect" id="node24" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; Hash \&gt;" alt="" coords="133,485,344,531"/>
+<area shape="rect" id="node26" href="$d6/d3d/a01784.html" title="beast::detail::aged\l_unordered_container\l\&lt; IsMulti, IsMap, Key,\l T, Duration, Hash, KeyEqual,\l Allocator \&gt;::ValueHash" alt="" coords="399,459,596,557"/>
+<area shape="rect" id="node30" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; KeyEqual \&gt;" alt="" coords="133,362,344,409"/>
+<area shape="rect" id="node35" href="$d2/d0c/a01713.html" title="ripple::PeerFinder\l::Bootcache::Transform" alt="" coords="419,581,576,627"/>
+<area shape="rect" id="node37" href="$d8/dce/a01714.html" title="ripple::PeerFinder\l::detail::LivecacheBase\l::Hop\&lt; IsConst \&gt;::Transform" alt="" coords="403,651,592,715"/>
+<area shape="rect" id="node39" href="$dc/d3e/a01712.html" title="ripple::PeerFinder\l::Livecache\&lt; class \&gt;\l::hops_t::Transform\&lt;\l IsConst \&gt;" alt="" coords="425,738,569,819"/>
+</map>

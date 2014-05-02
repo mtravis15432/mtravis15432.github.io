@@ -1,0 +1,11 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d9/d41/a00666.html#ad8a0dd2edfe798d631e995028693e9ca" title="rocksdb::HistogramImpl::Add" alt="" coords="165,5,357,35"/>
+<area shape="rect" id="node5" href="$db/db1/a00460.html#add7ca4f9f31c81c06c3a5fd10f17f90c" title="rocksdb::Env::Default" alt="" coords="187,59,336,88"/>
+<area shape="rect" id="node7" href="$d8/d6c/a01563.html#a2265fb9a74a457ec56cc61f60ea5353e" title="rocksdb::StopWatch\l::ElapsedMicros" alt="" coords="191,111,332,158"/>
+<area shape="rect" id="node11" href="$d9/d41/a00666.html#ad3fdc69795a7fd321ac02be90485f086" title="rocksdb::HistogramImpl\l::ToString" alt="" coords="181,211,341,258"/>
+<area shape="rect" id="node9" href="$db/db1/a00460.html#a20e69bbefe7d92b92a2f33100cf251b7" title="rocksdb::Env::NowMicros" alt="" coords="405,89,579,119"/>
+<area shape="rect" id="node13" href="$d9/d41/a00666.html#a4867568f758a3ff4039ea6669a8ba315" title="rocksdb::HistogramImpl\l::Average" alt="" coords="412,142,572,189"/>
+<area shape="rect" id="node15" href="$d9/d41/a00666.html#a2b82f719dbf8e3427ce61963f46caaea" title="rocksdb::HistogramImpl\l::StandardDeviation" alt="" coords="412,211,572,258"/>
+<area shape="rect" id="node17" href="$d9/d41/a00666.html#a1280fd8befeb28921913c30dcb7f9272" title="rocksdb::HistogramImpl\l::Median" alt="" coords="412,281,572,327"/>
+<area shape="rect" id="node19" href="$d9/d41/a00666.html#a7e1d6937517851e9ec670fd1a1acf952" title="rocksdb::HistogramImpl\l::Percentile" alt="" coords="628,311,788,358"/>
+</map>

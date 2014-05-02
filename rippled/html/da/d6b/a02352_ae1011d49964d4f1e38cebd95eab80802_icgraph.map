@@ -1,0 +1,34 @@
+<map id="sqlite3StmtCurrentTime" name="sqlite3StmtCurrentTime">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a18009d23009369ca192dbbc98f7b9e2e" title="setDateTimeToCurrent" alt="" coords="213,395,368,424"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a88586fabfb5a2ee248ccf6f5dfb90904" title="isDate" alt="" coords="591,395,649,424"/>
+<area shape="rect" id="node73" href="$da/d6b/a02352.html#a86a0ea000a0479eb6de44cbeb82acef9" title="parseDateOrTime" alt="" coords="416,420,541,449"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a0895a9abec96efb62b3c986a3c14ee32" title="dateFunc" alt="" coords="712,239,787,268"/>
+<area shape="rect" id="node55" href="$da/d6b/a02352.html#a9755493e1c5c377b5ea7078b4029c24a" title="datetimeFunc" alt="" coords="699,341,800,371"/>
+<area shape="rect" id="node61" href="$da/d6b/a02352.html#ac3eed2d3f72c21bee1e65f9d0f33a263" title="juliandayFunc" alt="" coords="857,395,959,424"/>
+<area shape="rect" id="node64" href="$da/d6b/a02352.html#af531defbf93ba3aef96decedeafb344f" title="strftimeFunc" alt="" coords="703,447,796,476"/>
+<area shape="rect" id="node67" href="$da/d6b/a02352.html#aca881e4cda242c3a8f2256605cbf9e91" title="timeFunc" alt="" coords="712,500,787,529"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#addf6dadca2fea72f90dfa99dbaa3da91" title="cdateFunc" alt="" coords="867,187,949,216"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a44405fdf6c4462912007f6602ecc0bb4" title="sqlite3RegisterDateTimeFunctions" alt="" coords="1017,368,1239,397"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a9f75bd111010f29e1b8d74344473c4ec" title="sqlite3RegisterGlobalFunctions" alt="" coords="1288,368,1491,397"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#ab0c0ee2d5d4cf8b28e9572296a8861df" title="sqlite3_initialize" alt="" coords="1539,368,1653,397"/>
+<area shape="rect" id="node17" href="$da/df6/a01454.html#ae7366713775c2ab1db4925d8909a024b" title="beast::sqdb::session\l::Sqlite3::Sqlite3" alt="" coords="1716,5,1857,51"/>
+<area shape="rect" id="node19" href="$d1/db9/a02353.html#ac201a26de3dfa1d6deb8069eb8d95627" title="sqlite3_vfs_find" alt="" coords="1731,75,1843,104"/>
+<area shape="rect" id="node21" href="$d1/db9/a02353.html#a7184b289ccd4c4c7200589137d88c4ae" title="sqlite3_vfs_register" alt="" coords="1720,128,1853,157"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#aa3f89418cd18e99596435c958b29b650" title="sqlite3_mutex_alloc" alt="" coords="1719,181,1855,211"/>
+<area shape="rect" id="node25" href="$d1/db9/a02353.html#ab37b3a4d1652e3acb2c43d1252e6b852" title="sqlite3_soft_heap_limit64" alt="" coords="1703,235,1871,264"/>
+<area shape="rect" id="node27" href="$d1/db9/a02353.html#a510e31845345737f17d86ce0b2328356" title="sqlite3_malloc" alt="" coords="1735,288,1839,317"/>
+<area shape="rect" id="node29" href="$d1/db9/a02353.html#a627f0eeface58024ef47403d8cc76b35" title="sqlite3_realloc" alt="" coords="1735,341,1839,371"/>
+<area shape="rect" id="node31" href="$d1/db9/a02353.html#ac240de67ddf003828f16a6d9dd3fa3ca" title="sqlite3_vmprintf" alt="" coords="1729,395,1844,424"/>
+<area shape="rect" id="node33" href="$d1/db9/a02353.html#a9533933e57f7ccbb48c32041ce3a8862" title="sqlite3_mprintf" alt="" coords="1733,448,1840,477"/>
+<area shape="rect" id="node35" href="$d1/db9/a02353.html#a85a95b45e94f6bcd52aa39b6acdb36d7" title="sqlite3_auto_extension" alt="" coords="1709,501,1864,531"/>
+<area shape="rect" id="node37" href="$d1/db9/a02353.html#ac33f4064ae6690cada7bdc89e8153ffc" title="sqlite3_reset_auto\l_extension" alt="" coords="1723,554,1851,601"/>
+<area shape="rect" id="node43" href="$d1/db9/a02353.html#a3260341c2ef82787acca48414a1d03a1" title="sqlite3_complete16" alt="" coords="1720,624,1853,653"/>
+<area shape="rect" id="node45" href="$da/d6b/a02352.html#a6a9c3bc3a64234e863413f41db473758" title="openDatabase" alt="" coords="1733,677,1840,707"/>
+<area shape="rect" id="node49" href="$d1/db9/a02353.html#adbc401bb96713f32e553db32f6f3ca33" title="sqlite3_open16" alt="" coords="1927,729,2036,759"/>
+<area shape="rect" id="node39" href="$d1/db9/a02353.html#aeaf9947fe863ba3d3aca061475e3af2e" title="sqlite3_shutdown" alt="" coords="1920,563,2043,592"/>
+<area shape="rect" id="node41" href="$da/df6/a01454.html#a547ac6bfe8f798eea7e1e3944360d012" title="beast::sqdb::session\l::Sqlite3::~Sqlite3" alt="" coords="2092,554,2233,601"/>
+<area shape="rect" id="node47" href="$d1/db9/a02353.html#a97ba966ed1acc38409786258268f5f71" title="sqlite3_open" alt="" coords="1935,623,2028,652"/>
+<area shape="rect" id="node51" href="$d1/db9/a02353.html#a140fe275b6975dc867cea50a65a217c4" title="sqlite3_open_v2" alt="" coords="1924,676,2039,705"/>
+<area shape="rect" id="node57" href="$da/d6b/a02352.html#af66b08c4ab0dce0ff0c92a61b580f514" title="ctimestampFunc" alt="" coords="849,341,967,371"/>
+<area shape="rect" id="node69" href="$da/d6b/a02352.html#ad8e9781533516df5a0705e4b36155290" title="ctimeFunc" alt="" coords="867,549,949,579"/>
+</map>

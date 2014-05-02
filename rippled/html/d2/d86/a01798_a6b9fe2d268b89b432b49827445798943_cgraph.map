@@ -1,0 +1,11 @@
+<map id="rocksdb::VersionEdit::EncodeTo" name="rocksdb::VersionEdit::EncodeTo">
+<area shape="rect" id="node3" href="$de/de6/a00723.html#a6d86d2cfbd4205b41f29f84cdedf3c22" title="rocksdb::InternalKey\l::Encode" alt="" coords="219,5,360,51"/>
+<area shape="rect" id="node5" href="$d0/d87/a03399.html#addb402f22cc191c3dc7f4325bb6f684e" title="beast.util.Iter.first" alt="" coords="228,75,351,104"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#af1cdcde94bcaeced42cd5925a5827232" title="rocksdb::PutLengthPrefixed\lSlice" alt="" coords="199,127,380,174"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#afe24fa7da1cd551af92134aa66f96183" title="rocksdb::PutVarint32" alt="" coords="441,192,585,221"/>
+<area shape="rect" id="node18" href="$d4/d87/a03436.html#aa7b83a93a0d06b7c3324f7ef95051c21" title="rocksdb::PutVarint64" alt="" coords="217,248,361,277"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="444,84,583,113"/>
+<area shape="rect" id="node15" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="445,137,581,167"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a94c48680211f25845f5c35acd4b54ebb" title="rocksdb::EncodeVarint32" alt="" coords="645,192,813,221"/>
+<area shape="rect" id="node20" href="$d4/d87/a03436.html#a04ab81feb839c834d2bf339b687491e0" title="rocksdb::EncodeVarint64" alt="" coords="429,248,597,277"/>
+</map>

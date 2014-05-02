@@ -1,0 +1,4 @@
+<map id="beast::SharedObject::destroy" name="beast::SharedObject::destroy">
+<area shape="rect" id="node3" href="$d9/d40/a01387.html#a553592ed8ac0fd08fabbd1a99c67794a" title="beast::SharedObject\l::decReferenceCount" alt="" coords="195,14,341,61"/>
+<area shape="rect" id="node5" href="$d0/d95/a01389.html#acf1f5e4e8df150eb8da417ffc93a32e6" title="beast::SharedSingleton\l\&lt; beast::sqdb::session\l::Sqlite3 \&gt;::onExit" alt="" coords="389,5,547,69"/>
+</map>

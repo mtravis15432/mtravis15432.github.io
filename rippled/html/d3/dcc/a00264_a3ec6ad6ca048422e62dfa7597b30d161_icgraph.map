@@ -1,0 +1,6 @@
+<map id="beast::CharacterFunctions::isLetter" name="beast::CharacterFunctions::isLetter">
+<area shape="rect" id="node3" href="$db/d12/a00268.html#ad7a93e165538f9443922b3eac338676b" title="beast::CharPointer\l_UTF32::isLetter" alt="" coords="229,5,360,51"/>
+<area shape="rect" id="node5" href="$d5/d35/a00266.html#a2a90774b0928ecccb02123575d67cc7f" title="beast::CharPointer\l_ASCII::isLetter" alt="" coords="229,74,360,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#adcdabe6653e52685568c5741fd183279" title="beast::CharPointer\l_UTF16::isLetter" alt="" coords="229,143,360,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#ace702d74ffbef5545fbd0d5030b93f21" title="beast::CharPointer\l_UTF8::isLetter" alt="" coords="229,213,360,259"/>
+</map>

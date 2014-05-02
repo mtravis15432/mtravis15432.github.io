@@ -1,0 +1,9 @@
+<map id="ripple::visitHelper" name="ripple::visitHelper">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#aa373e7bcc2bf371c168f06663ff5aa10" title="ripple::Ledger::visitState\lItems" alt="" coords="176,66,339,113"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#a45b7144a95753bb232044004bc6a6459" title="ripple::Ledger::getJson" alt="" coords="387,75,541,104"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#ae53bf5480c98b36a234e01de0f437845" title="ripple::Ledger::saveValidated\lLedger" alt="" coords="591,5,780,51"/>
+<area shape="rect" id="node14" href="$dd/d5f/a00825.html#aa12fcb916f777e37e5f5757f855c7b26" title="ripple::Ledger::addJson" alt="" coords="607,75,764,104"/>
+<area shape="rect" id="node16" href="$dd/d5f/a00825.html#a861dabe9316edb3191693d9fa18a4956" title="ripple::Ledger::assertSane" alt="" coords="599,128,772,157"/>
+<area shape="rect" id="node9" href="$dd/d5f/a00825.html#a84fb9cd4200c6cc8ae48bc9f0279f731" title="ripple::Ledger::pendSave\lValidated" alt="" coords="1071,6,1236,53"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#a4ce86b946061155e228c9ea08f9d5bc9" title="ripple::Ledger::saveValidated\lLedgerAsync" alt="" coords="831,35,1020,82"/>
+</map>

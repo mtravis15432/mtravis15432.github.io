@@ -1,0 +1,7 @@
+<map id="robust_open" name="robust_open">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a34c67a19bf6632f4c0f362ec5f2d2a1b" title="openDirectory" alt="" coords="179,5,280,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a8ed5efc47b6e14f7805cd1bb9b215775" title="unixOpen" alt="" coords="191,59,268,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a30775afa2e08ca6ddc7853326afed7c7" title="unixOpenSharedMemory" alt="" coords="147,112,312,141"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a9006328b44a687fe13c07acc7aab68da" title="unixRandomness" alt="" coords="168,165,291,195"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#aeaa77f0ab08a4f4ee5f86e8c9727e974" title="unixShmMap" alt="" coords="360,112,459,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::Script::AcceptDataOp::work" name="ripple::Script::AcceptDataOp::work">
+<area shape="rect" id="node3" href="$d8/d52/a00729.html#a4f172ac4416a53b26cad16a09d41bfc0" title="ripple::Script::Interpreter\l::getAcceptData" alt="" coords="227,5,389,51"/>
+<area shape="rect" id="node5" href="$d8/d52/a00729.html#ac56288f0cb83ad9c48afa41f3bad4ac5" title="ripple::Script::Interpreter\l::popStack" alt="" coords="227,74,389,121"/>
+<area shape="rect" id="node7" href="$d8/d52/a00729.html#a9c8fb1eb45fd02c486c4c49a65e4b001" title="ripple::Script::Interpreter\l::pushStack" alt="" coords="227,143,389,190"/>
+</map>

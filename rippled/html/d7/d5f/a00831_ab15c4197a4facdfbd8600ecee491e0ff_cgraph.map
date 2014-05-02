@@ -1,0 +1,11 @@
+<map id="ripple::LedgerConsensusImp::LedgerConsensusImp" name="ripple::LedgerConsensusImp::LedgerConsensusImp">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="315,13,416,43"/>
+<area shape="rect" id="node7" href="$d4/dce/a00337.html#aff26b393c8d36603fcb263b370b9026f" title="ripple::ContinuousLedger\lTiming::getNextLedgerTimeResolution" alt="" coords="243,66,488,113"/>
+<area shape="rect" id="node9" href="$dd/dac/a01008.html#af1066b526f400f571c4985950ef97aa4" title="ripple::NetworkOPs\l::getOperatingMode" alt="" coords="297,135,433,182"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="303,205,428,251"/>
+<area shape="rect" id="node13" href="$dd/dac/a01008.html#a7235210c8455553bc11764b0ccbfc4b8" title="ripple::NetworkOPs\l::getPreviousConvergeTime" alt="" coords="273,274,457,321"/>
+<area shape="rect" id="node15" href="$dd/dac/a01008.html#a6311e4617a8bcc390e3a6ddd6ab9d8a1" title="ripple::NetworkOPs\l::getPreviousProposers" alt="" coords="287,343,444,390"/>
+<area shape="rect" id="node17" href="$dd/dac/a01008.html#ad501185ed756e643261f7079e5ea2eb8" title="ripple::NetworkOPs\l::isNeedNetworkLedger" alt="" coords="287,413,444,459"/>
+<area shape="rect" id="node19" href="$dd/dac/a01008.html#a0dd6e7866a60f7d7b252c304cb2f0a32" title="ripple::NetworkOPs\l::setProposing" alt="" coords="297,482,433,529"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="537,5,713,51"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d9/d41/a00666.html#a4867568f758a3ff4039ea6669a8ba315" title="rocksdb::HistogramImpl\l::Average" alt="" coords="167,5,327,51"/>
+<area shape="rect" id="node5" href="$d9/d41/a00666.html#a1280fd8befeb28921913c30dcb7f9272" title="rocksdb::HistogramImpl\l::Median" alt="" coords="167,74,327,121"/>
+<area shape="rect" id="node7" href="$d9/d41/a00666.html#a7e1d6937517851e9ec670fd1a1acf952" title="rocksdb::HistogramImpl\l::Percentile" alt="" coords="377,105,537,151"/>
+</map>

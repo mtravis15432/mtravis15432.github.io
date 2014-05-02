@@ -1,0 +1,20 @@
+<map id="rippled/src/ripple_app/book/Types.h" name="rippled/src/ripple_app/book/Types.h">
+<area shape="rect" id="node3" href="$d9/dcc/a02872.html" title="rippled/src/ripple\l_app/book/BookTip.h" alt="" coords="104,102,248,149"/>
+<area shape="rect" id="node5" href="$d2/d80/a02875.html" title="rippled/src/ripple\l_app/book/OfferStream.h" alt="" coords="147,198,315,245"/>
+<area shape="rect" id="node11" href="$d7/d13/a02873.html" title="rippled/src/ripple\l_app/book/Offer.h" alt="" coords="323,102,448,149"/>
+<area shape="rect" id="node15" href="$d1/dc2/a02877.html" title="rippled/src/ripple\l_app/book/Taker.h" alt="" coords="472,102,603,149"/>
+<area shape="rect" id="node17" href="$db/db9/a02964.html" title="rippled/src/ripple\l_app/misc/FeatureTable.h" alt="" coords="837,102,1011,149"/>
+<area shape="rect" id="node7" href="$da/d61/a02878.html" title="rippled/src/ripple\l_app/book/tests/OfferStream.test.cpp" alt="" coords="5,294,245,341"/>
+<area shape="rect" id="node9" href="$d1/db3/a03013.html" title="rippled/src/ripple\l_app/ripple_app_pt4.cpp" alt="" coords="123,390,285,437"/>
+<area shape="rect" id="node19" href="$db/dc5/a03009.html" title="rippled/src/ripple\l_app/ripple_app.h" alt="" coords="969,198,1092,245"/>
+<area shape="rect" id="node21" href="$d8/dbd/a03008.html" title="rippled/src/ripple\l_app/ripple_app.cpp" alt="" coords="320,294,459,341"/>
+<area shape="rect" id="node23" href="$dc/de9/a03010.html" title="rippled/src/ripple\l_app/ripple_app_pt1.cpp" alt="" coords="483,294,645,341"/>
+<area shape="rect" id="node25" href="$d6/d97/a03011.html" title="rippled/src/ripple\l_app/ripple_app_pt2.cpp" alt="" coords="669,294,832,341"/>
+<area shape="rect" id="node27" href="$d5/d99/a03012.html" title="rippled/src/ripple\l_app/ripple_app_pt3.cpp" alt="" coords="856,294,1019,341"/>
+<area shape="rect" id="node30" href="$df/d3a/a03014.html" title="rippled/src/ripple\l_app/ripple_app_pt5.cpp" alt="" coords="1043,294,1205,341"/>
+<area shape="rect" id="node32" href="$de/d1e/a03015.html" title="rippled/src/ripple\l_app/ripple_app_pt6.cpp" alt="" coords="1229,294,1392,341"/>
+<area shape="rect" id="node34" href="$d0/d9d/a03016.html" title="rippled/src/ripple\l_app/ripple_app_pt7.cpp" alt="" coords="1416,294,1579,341"/>
+<area shape="rect" id="node36" href="$dd/dfd/a03017.html" title="rippled/src/ripple\l_app/ripple_app_pt8.cpp" alt="" coords="1603,294,1765,341"/>
+<area shape="rect" id="node38" href="$de/df2/a03018.html" title="rippled/src/ripple\l_app/ripple_app_pt9.cpp" alt="" coords="1789,294,1952,341"/>
+<area shape="rect" id="node40" href="$df/d3e/a03324.html" title="rippled/src/ripple\l_rpc/ripple_rpc.cpp" alt="" coords="1976,294,2107,341"/>
+</map>

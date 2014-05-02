@@ -1,0 +1,6 @@
+<map id="beast::CharacterFunctions::findEndOfWhitespace" name="beast::CharacterFunctions::findEndOfWhitespace">
+<area shape="rect" id="node3" href="$db/d12/a00268.html#abfb3659cdf35c57494f67e71cf920bd5" title="beast::CharPointer\l_UTF32::findEndOfWhitespace" alt="" coords="231,5,433,51"/>
+<area shape="rect" id="node5" href="$d5/d35/a00266.html#a867297bad27573230eb559db4523c56a" title="beast::CharPointer\l_ASCII::findEndOfWhitespace" alt="" coords="232,74,432,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#a8a93dcb24b68b9bc3783000fc648e42b" title="beast::CharPointer\l_UTF16::findEndOfWhitespace" alt="" coords="231,143,433,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a0571d313c8d665d953570f95b9da755a" title="beast::CharPointer\l_UTF8::findEndOfWhitespace" alt="" coords="233,213,431,259"/>
+</map>

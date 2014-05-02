@@ -1,0 +1,6 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d9/d75/a01843.html#aa21c4bf5040156fe25e6580495bab7a9" title="rocksdb::WritableFile\l::Append" alt="" coords="195,5,339,51"/>
+<area shape="rect" id="node5" href="$d9/d75/a01843.html#adbcb944d86f0b4d769472c01c043aea9" title="rocksdb::WritableFile\l::GetPreallocationStatus" alt="" coords="185,74,348,121"/>
+<area shape="rect" id="node7" href="$db/db1/a00460.html#a2415186e0a399d70edabef9f477e4c47" title="rocksdb::Env::NewWritableFile" alt="" coords="165,144,368,173"/>
+<area shape="rect" id="node9" href="$d9/d75/a01843.html#a902970e9697da75aba9b08cdbc7c6d0d" title="rocksdb::WritableFile\l::SetPreallocationBlockSize" alt="" coords="175,197,359,243"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::LogFile::open" name="ripple::LogFile::open">
+<area shape="rect" id="node3" href="$da/d5b/a00905.html#a41519943c431a0b0f02659ece7103f66" title="ripple::LogFile::closeAnd\lReopen" alt="" coords="197,5,363,51"/>
+<area shape="rect" id="node7" href="$d4/ddc/a00917.html#aa02439a5469582e306326fe4c25a308b" title="ripple::LogSink::setLogFile" alt="" coords="192,75,368,104"/>
+<area shape="rect" id="node5" href="$d4/ddc/a00917.html#a2e1276c69bbb68b9d2c694b90acf56ae" title="ripple::LogSink::rotateLog" alt="" coords="416,13,587,43"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ripple::ValidationsImp::getCurrentValidations" name="ripple::ValidationsImp::getCurrentValidations">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="231,13,332,43"/>
+<area shape="rect" id="node7" href="$dd/dac/a01008.html#ae7efaeae7ade956a5807f122ef6f99db" title="ripple::NetworkOPs\l::getNetworkTimeNC" alt="" coords="208,66,355,113"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="219,135,344,182"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#a3fa11a064a87fe4e970f00d661287dd2" title="ripple::base_uint::\lisNonZero" alt="" coords="219,205,344,251"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="404,5,580,51"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="429,205,555,251"/>
+</map>

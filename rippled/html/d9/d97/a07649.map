@@ -1,0 +1,7 @@
+<map id="ripple::Transaction" name="ripple::Transaction">
+<area shape="rect" id="node4" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; Transaction \&gt;" alt="" coords="548,74,695,121"/>
+<area shape="rect" id="node8" href="$d4/d0e/a01272.html" title="ripple::RippleAddress" alt="" coords="548,144,695,173"/>
+<area shape="rect" id="node10" href="$d9/d39/a00257.html" title="ripple::CBase58Data" alt="" coords="299,144,440,173"/>
+<area shape="rect" id="node14" href="$d0/d4e/a01741.html" title="ripple::uint256" alt="" coords="571,197,672,227"/>
+<area shape="rect" id="node16" href="$d7/d9a/a00152.html" title="base_uint256" alt="" coords="320,197,419,227"/>
+</map>

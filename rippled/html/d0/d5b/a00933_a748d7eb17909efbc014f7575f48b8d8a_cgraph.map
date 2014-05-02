@@ -1,0 +1,10 @@
+<map id="ripple::PeerFinder::ManagerImp::addFixedPeer" name="ripple::PeerFinder::ManagerImp::addFixedPeer">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#a20c7de2fa77d280df39044b22ee1d306" title="ripple::PeerFinder\l::Logic::addFixedPeer" alt="" coords="272,5,421,51"/>
+<area shape="rect" id="node7" href="$de/d5c/a01358.html#a3721e7a3b8b83293b7647c40d3bad10e" title="beast::ServiceQueueType\l::dispatch" alt="" coords="260,74,433,121"/>
+<area shape="rect" id="node17" href="$dd/d5d/a01325.html#aa49412b5ff28ce693c3455fb6e200359" title="beast::ScopedWrapperContext\l::wrap" alt="" coords="247,143,447,190"/>
+<area shape="rect" id="node5" href="$df/da5/a00912.html#a25ad5bf43d580646bbfaed3334bedd77" title="ripple::PeerFinder\l::Logic::state" alt="" coords="523,5,645,51"/>
+<area shape="rect" id="node9" href="$df/d10/a01357.html#a3c10f294ceb943aa4c4923a799eb97fc" title="beast::ServiceQueueBase\l::enqueue" alt="" coords="497,74,671,121"/>
+<area shape="rect" id="node15" href="$de/d5c/a01358.html#aa5def258e41cd1b706c627b85f248614" title="beast::ServiceQueueType\l::is_service_thread" alt="" coords="497,143,671,190"/>
+<area shape="rect" id="node11" href="$de/d3c/a01809.html#a6497737035c8b878772c34c0d369d2b8" title="beast::ServiceQueueBase\l::Waiter::signal" alt="" coords="721,74,895,121"/>
+<area shape="rect" id="node13" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="944,74,1091,121"/>
+</map>

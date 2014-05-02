@@ -1,0 +1,11 @@
+<map id="btreeParseCell" name="btreeParseCell">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a46622817f95a4f77fd9a6494c97f51f7" title="fetchPayload" alt="" coords="163,95,261,124"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a857d95cdce2601fd5f6acb8b4facdd2a" title="sqlite3BtreeKeyFetch" alt="" coords="312,68,459,97"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#aadaceb02f6a30eec9df2730799ad23bd" title="sqlite3BtreeDataFetch" alt="" coords="309,121,461,151"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a2f4630d8648b1bf4ffcda8c6813518d2" title="sqlite3VdbeMemFromBtree" alt="" coords="511,95,689,124"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="971,95,1091,124"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a1a759afe6bc723418d03214c07ba410f" title="sqlite3VdbeIdxRowid" alt="" coords="759,95,903,124"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a5f475eaeb5a52d60966fb37aa2e5c447" title="sqlite3VdbeIdxKeyCompare" alt="" coords="739,41,923,71"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="1140,95,1225,124"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="1276,95,1367,124"/>
+</map>

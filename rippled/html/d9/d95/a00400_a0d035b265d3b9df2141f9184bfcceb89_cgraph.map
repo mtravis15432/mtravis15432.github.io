@@ -1,0 +1,6 @@
+<map id="ripple::SHAMap::DefaultMissingNodeHandler::operator()" name="ripple::SHAMap::DefaultMissingNodeHandler::operator()">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="292,13,393,43"/>
+<area shape="rect" id="node7" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="280,66,405,113"/>
+<area shape="rect" id="node9" href="$dd/dac/a01008.html#ac61d80c2cc0c23eabf5b3a9963d0864b" title="ripple::NetworkOPs\l::missingNodeInLedger" alt="" coords="265,135,420,182"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="471,5,647,51"/>
+</map>

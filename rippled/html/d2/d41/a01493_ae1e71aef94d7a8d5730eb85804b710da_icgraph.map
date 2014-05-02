@@ -1,0 +1,27 @@
+<map id="ripple::STAmount::clear" name="ripple::STAmount::clear">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#ae4e35f7f501fdd92b8f488ce1237ab83" title="ripple::LedgerEntrySet\l::accountHolds" alt="" coords="452,458,601,505"/>
+<area shape="rect" id="node19" href="$d4/d10/a01278.html#a7e6910b02e5b449803cb1f8f42043bad" title="ripple::RippleCalc\l::calcNodeAccountFwd" alt="" coords="655,381,812,427"/>
+<area shape="rect" id="node23" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="1135,226,1260,273"/>
+<area shape="rect" id="node25" href="$d7/ded/a01009.html#adcd0f5c06951e3eb74ba81f2006d6216" title="ripple::NetworkOPsImp\l::getBookPage" alt="" coords="655,543,812,590"/>
+<area shape="rect" id="node28" href="$d4/d10/a01278.html#a0bbad2f18bb1bb43ac14bd085b3bd843" title="ripple::RippleCalc\l::calcNodeAccountRev" alt="" coords="448,182,605,229"/>
+<area shape="rect" id="node33" href="$d4/d10/a01278.html#a592be0b1094c005d596044230caac6d4" title="ripple::RippleCalc\l::calcNodeDeliverFwd" alt="" coords="232,321,381,367"/>
+<area shape="rect" id="node38" href="$d4/d10/a01278.html#ab61998a5e167691b67a1cc512e5e85a0" title="ripple::RippleCalc\l::calcNodeDeliverRev" alt="" coords="232,251,381,298"/>
+<area shape="rect" id="node43" href="$d2/d41/a01493.html#a8823e8f5128fa923e5be367833c340dd" title="ripple::STAmount::clear" alt="" coords="228,612,385,641"/>
+<area shape="rect" id="node46" href="$d2/d41/a01493.html#a0a20e986062e194e7719dee2361ef5b8" title="ripple::STAmount::operator=" alt="" coords="213,665,400,695"/>
+<area shape="rect" id="node49" href="$d0/d08/a00832.html#acdef4a4acda92a8c7eb5905f6429abcd" title="ripple::LedgerEntrySet\l::rippleHolds" alt="" coords="232,491,381,538"/>
+<area shape="rect" id="node52" href="$d0/d08/a00832.html#a3b518f0b40f176aa2675a0a7892a9726" title="ripple::LedgerEntrySet\l::rippleLimit" alt="" coords="232,62,381,109"/>
+<area shape="rect" id="node62" href="$d0/d08/a00832.html#a4f32c11a7aed7b09dc4258c1f1cb2fd5" title="ripple::LedgerEntrySet\l::rippleOwed" alt="" coords="232,131,381,178"/>
+<area shape="rect" id="node5" href="$d0/d08/a00832.html#ae736ed965650c098f9d572bc157b00c0" title="ripple::LedgerEntrySet\l::accountFunds" alt="" coords="659,458,808,505"/>
+<area shape="rect" id="node7" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="1343,510,1532,557"/>
+<area shape="rect" id="node9" href="$de/d14/a01640.html#a52880886eeea7fcd4b11de2e39e80f76" title="ripple::core::Taker\l::funds" alt="" coords="895,514,1020,561"/>
+<area shape="rect" id="node13" href="$d5/de7/a01048.html#ad23ce85477cc840bf3d7a8210a31d1d9" title="ripple::OfferCreateTransactor\l::isValidOffer" alt="" coords="863,394,1052,441"/>
+<area shape="rect" id="node15" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="1103,445,1292,491"/>
+<area shape="rect" id="node11" href="$de/d14/a01640.html#a75564fa09f369032f150696132b03299" title="ripple::core::Taker\l::done" alt="" coords="1135,514,1260,561"/>
+<area shape="rect" id="node21" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="895,321,1020,367"/>
+<area shape="rect" id="node30" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="671,226,796,273"/>
+<area shape="rect" id="node35" href="$d4/d10/a01278.html#ac9666accf2ed1b2e9b58674645349eec" title="ripple::RippleCalc\l::calcNodeOfferFwd" alt="" coords="457,321,596,367"/>
+<area shape="rect" id="node40" href="$d4/d10/a01278.html#acddbc756a6f92ec497a6d5806d356f14" title="ripple::RippleCalc\l::calcNodeOfferRev" alt="" coords="457,251,596,298"/>
+<area shape="rect" id="node55" href="$d2/df3/a01085.html#a6e24dcbe236aa7a08302843eae36bce3" title="ripple::PathState::\lpushNode" alt="" coords="464,113,589,159"/>
+<area shape="rect" id="node57" href="$d2/df3/a01085.html#a25c6ff137251b5721949f34c711b0f36" title="ripple::PathState::\lpushImply" alt="" coords="671,131,796,178"/>
+<area shape="rect" id="node60" href="$d2/df3/a01085.html#a62b9964a1c2b4331812684d51d820a27" title="ripple::PathState::\lsetExpanded" alt="" coords="671,62,796,109"/>
+</map>

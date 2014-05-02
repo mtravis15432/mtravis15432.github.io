@@ -1,0 +1,20 @@
+<map id="ripple::LoadEvent::~LoadEvent" name="ripple::LoadEvent::~LoadEvent">
+<area shape="rect" id="node3" href="$d7/d92/a00887.html#a3ab7bb0be405de2f76ea4dc54e4a3079" title="ripple::LoadEvent::stop" alt="" coords="185,199,340,228"/>
+<area shape="rect" id="node5" href="$d7/dbf/a01239.html#af05860d57c0bf4854596ccbaf191e9e3" title="beast::RelativeTime\l::fromStartup" alt="" coords="389,79,528,126"/>
+<area shape="rect" id="node14" href="$dc/d2c/a00893.html#a79166931243de3e2e686f55ba47df1f8" title="ripple::LoadMonitor\l::addLoadSample" alt="" coords="393,335,524,382"/>
+<area shape="rect" id="node7" href="$d6/d18/a03350.html#a05b9ebb2b8f42f2c0add7c0a27dd0e47" title="beast::detail::getStartupTime" alt="" coords="577,5,767,35"/>
+<area shape="rect" id="node9" href="$d6/d18/a03350.html#a5a1078c54fc6cc03ff318d0bab6871bc" title="beast::detail::monotonic\lCurrentTimeInSeconds" alt="" coords="817,23,977,70"/>
+<area shape="rect" id="node12" href="$d7/dbf/a01239.html#a36a8e77c75eb5a22da1f0fabd303784b" title="beast::RelativeTime\l::RelativeTime" alt="" coords="603,109,741,155"/>
+<area shape="rect" id="node16" href="$d7/d92/a00887.html#adc3548f40f0be7e74f254f746ac80b91" title="ripple::LoadEvent::name" alt="" coords="591,179,753,208"/>
+<area shape="rect" id="node18" href="$d7/d92/a00887.html#af7cb3a5d3c256fe9df45eb654cb14d37" title="ripple::LoadEvent::\lgetSecondsTotal" alt="" coords="607,231,737,278"/>
+<area shape="rect" id="node20" href="$dc/d2c/a00893.html#a68cc6887260f868fd2db597c66414fbc" title="ripple::LoadMonitor\l::LoadMonitor" alt="" coords="607,301,737,347"/>
+<area shape="rect" id="node22" href="$dc/d2c/a00893.html#a5fc6f4367a1f320e7e9700e65de752be" title="ripple::LoadMonitor\l::printElapsed" alt="" coords="607,370,737,417"/>
+<area shape="rect" id="node24" href="$d7/d92/a00887.html#a5808871ced421cf97cb80a8dfcccb024" title="ripple::LoadEvent::\lgetSecondsRunning" alt="" coords="603,439,741,486"/>
+<area shape="rect" id="node26" href="$d7/d92/a00887.html#adc2f75184575b0824e7cee0400e30f1b" title="ripple::LoadEvent::\lgetSecondsWaiting" alt="" coords="605,509,739,555"/>
+<area shape="rect" id="node28" href="$dc/d2c/a00893.html#afcec995204526bb7450681a1a055a7b2" title="ripple::LoadMonitor\l::update" alt="" coords="607,578,737,625"/>
+<area shape="rect" id="node30" href="$df/d7b/a01765.html#ac9f8c7e22a8eb347f4be7596bd712d01" title="ripple::UptimeTimer\l::getInstance" alt="" coords="829,543,965,590"/>
+<area shape="rect" id="node32" href="$df/d7b/a01765.html#aeeb43cebafc02bf5d46cb2bfbcd20444" title="ripple::UptimeTimer\l::getElapsedSeconds" alt="" coords="824,613,971,659"/>
+<area shape="rect" id="node34" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="1027,621,1173,651"/>
+<area shape="rect" id="node36" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="1221,621,1408,651"/>
+<area shape="rect" id="node38" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="1456,613,1621,659"/>
+</map>

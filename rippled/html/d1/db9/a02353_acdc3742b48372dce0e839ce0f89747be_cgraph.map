@@ -1,0 +1,5 @@
+<map id="sqlite3_wal_autocheckpoint" name="sqlite3_wal_autocheckpoint">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a4a9ed7c3fcab46b3d82eb79ede8c4f77" title="sqlite3WalDefaultHook" alt="" coords="239,32,393,61"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="443,5,613,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="448,59,608,88"/>
+</map>

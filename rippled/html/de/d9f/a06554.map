@@ -1,0 +1,43 @@
+<map id="beast::asio::HTTPClientType::Session" name="beast::asio::HTTPClientType::Session">
+<area shape="rect" id="node2" href="$d9/d40/a01387.html" title="beast::SharedObject" alt="" coords="948,577,1089,606"/>
+<area shape="rect" id="node76" href="$df/d1b/a00687.html" title="beast::HTTPMessage" alt="" coords="1252,647,1401,677"/>
+<area shape="rect" id="node4" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="595,351,725,381"/>
+<area shape="rect" id="node11" href="$d3/db4/a00684.html" title="beast::asio::HTTPClientType" alt="" coords="1921,319,2113,349"/>
+<area shape="rect" id="node16" href="$d7/dde/a01384.html" title="beast::SharedData\&lt;\l State \&gt;" alt="" coords="1553,131,1692,177"/>
+<area shape="rect" id="node25" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lWaiter \&gt;" alt="" coords="944,123,1093,187"/>
+<area shape="rect" id="node28" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lItem \&gt;" alt="" coords="944,211,1093,275"/>
+<area shape="rect" id="node31" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="1549,350,1696,379"/>
+<area shape="rect" id="node94" href="$da/dc3/a00657.html" title="beast::HeapBlock\&lt; char \&gt;" alt="" coords="932,523,1105,553"/>
+<area shape="rect" id="node6" href="$d3/d50/a00882.html" title="List\&lt;Session\&gt;::Node" alt="" coords="2548,326,2692,355"/>
+<area shape="rect" id="node8" href="$d3/d50/a00882.html" title="beast::detail::ListNode\l\&lt; T, Tag \&gt;" alt="" coords="2241,312,2393,359"/>
+<area shape="rect" id="node13" href="$d8/dba/a00681.html" title="beast::asio::HTTPClientBase" alt="" coords="1527,297,1719,326"/>
+<area shape="rect" id="node19" href="$d3/deb/a01386.html" title="beast::SharedMutexAdapter\l\&lt; RecursiveMutex \&gt;" alt="" coords="1235,69,1419,116"/>
+<area shape="rect" id="node21" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="940,70,1097,99"/>
+<area shape="rect" id="node23" href="$dc/d96/a01517.html" title="beast::ServiceQueueBase\l::State" alt="" coords="1240,139,1413,185"/>
+<area shape="rect" id="node34" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="1571,243,1675,273"/>
+<area shape="rect" id="node36" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="949,299,1088,329"/>
+<area shape="rect" id="node38" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="1249,299,1404,329"/>
+<area shape="rect" id="node41" href="$da/d3a/a00694.html" title="beast::HTTPResponseParser" alt="" coords="2523,599,2717,629"/>
+<area shape="rect" id="node43" href="$d6/dd3/a00688.html" title="beast::HTTPParser" alt="" coords="2251,639,2384,669"/>
+<area shape="rect" id="node47" href="$d1/d87/a00689.html" title="beast::HTTPParserImpl" alt="" coords="1247,849,1407,878"/>
+<area shape="rect" id="node49" href="$d9/dc8/a01593.html" title="beast::StringPairArray" alt="" coords="585,698,735,727"/>
+<area shape="rect" id="node79" href="$df/d9e/a00686.html" title="beast::HTTPHeaders" alt="" coords="945,683,1092,713"/>
+<area shape="rect" id="node53" href="$d9/d1b/a01583.html" title="beast::StringArray" alt="" coords="332,729,457,758"/>
+<area shape="rect" id="node57" href="$d4/d81/a00110.html" title="beast::Array\&lt; beast\l::String \&gt;" alt="" coords="36,755,172,801"/>
+<area shape="rect" id="node59" href="$d4/d4f/a00673.html" title="http_parser" alt="" coords="617,955,703,985"/>
+<area shape="rect" id="node65" href="$d6/da1/a00675.html" title="http_parser_settings" alt="" coords="949,901,1088,930"/>
+<area shape="rect" id="node61" title="STL class. " alt="" coords="979,1041,1059,1070"/>
+<area shape="rect" id="node63" title="STL class. " alt="" coords="597,1032,723,1079"/>
+<area shape="rect" id="node68" href="$d4/d82/a00436.html" title="beast::DynamicBuffer" alt="" coords="944,762,1093,791"/>
+<area shape="rect" id="node72" href="$d0/d36/a01388.html" title="beast::SharedPtr\&lt; beast\l::HTTPResponse \&gt;" alt="" coords="1936,668,2099,715"/>
+<area shape="rect" id="node74" href="$d3/dd2/a00693.html" title="beast::HTTPResponse" alt="" coords="1545,671,1700,701"/>
+<area shape="rect" id="node87" href="$da/dd4/a00690.html" title="beast::HTTPRequest" alt="" coords="1549,617,1696,646"/>
+<area shape="rect" id="node82" href="$d5/d5b/a00695.html" title="beast::HTTPVersion" alt="" coords="948,630,1089,659"/>
+<area shape="rect" id="node85" href="$d0/d36/a01388.html" title="beast::SharedPtr\&lt; beast\l::HTTPRequest \&gt;" alt="" coords="1936,599,2099,645"/>
+<area shape="rect" id="node90" href="$da/d45/a00961.html" title="beast::MemoryBlock" alt="" coords="1256,495,1397,525"/>
+<area shape="rect" id="node98" href="$d1/dab/a01767.html" title="beast::URL" alt="" coords="2576,681,2664,710"/>
+<area shape="rect" id="node100" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="2269,766,2365,795"/>
+<area shape="rect" id="node102" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="1932,803,2103,833"/>
+<area shape="rect" id="node107" href="$d3/dea/a01377.html" title="beast::asio::shared\l_handler\&lt; void(result\l_type)\&gt;" alt="" coords="2549,829,2691,893"/>
+<area shape="rect" id="node111" href="$d1/d84/a00052.html" title="beast::asio::abstract\l_socket" alt="" coords="2247,916,2388,963"/>
+</map>

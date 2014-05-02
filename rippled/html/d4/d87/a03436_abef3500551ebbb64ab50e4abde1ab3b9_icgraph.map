@@ -1,0 +1,27 @@
+<map id="rocksdb::GetVarint64" name="rocksdb::GetVarint64">
+<area shape="rect" id="node3" href="$d3/dd1/a00214.html#a334b65dae78e22833c02e9501fb45753" title="rocksdb::BlockHandle\l::DecodeFrom" alt="" coords="212,243,361,290"/>
+<area shape="rect" id="node7" href="$d1/d72/a00204.html#aa3ad7f92e43689ccd93c26812b8e5235" title="rocksdb::BlockBasedTable\l::ReadProperties" alt="" coords="436,5,615,51"/>
+<area shape="rect" id="node27" href="$d2/d86/a01798.html#aa96a614beb016ddb66fa3fd0b2cc8a3f" title="rocksdb::VersionEdit\l::DecodeFrom" alt="" coords="216,481,357,527"/>
+<area shape="rect" id="node48" href="$d4/d87/a03436.html#aa4d00bbebbd2ed5a8602b8e44e33176a" title="rocksdb::GetDeletedKeys" alt="" coords="201,551,372,580"/>
+<area shape="rect" id="node52" href="$d4/d87/a03436.html#a500d26aa5b3f3a831d433c7d90f955d5" title="rocksdb::IsSingleVarint" alt="" coords="208,604,365,633"/>
+<area shape="rect" id="node5" href="$d1/d72/a00204.html#a0475bbc1a76c6f3b3c527ff286549bd9" title="rocksdb::BlockBasedTable\l::ReadFilter" alt="" coords="436,74,615,121"/>
+<area shape="rect" id="node9" href="$d1/d72/a00204.html#a0572b5d72f62771a022c8d0a14b21793" title="rocksdb::BlockBasedTable\l::BlockReader" alt="" coords="436,143,615,190"/>
+<area shape="rect" id="node11" href="$d1/d72/a00204.html#ad11544b58b57f5f4101b7b533e72b82c" title="rocksdb::BlockBasedTable\l::PrefixMayMatch" alt="" coords="436,213,615,259"/>
+<area shape="rect" id="node15" href="$d1/d72/a00204.html#a126ccdb4087483cbac9c6002ce12f2b4" title="rocksdb::BlockBasedTable::Get" alt="" coords="423,283,628,312"/>
+<area shape="rect" id="node19" href="$d1/d72/a00204.html#a3f9750acdb61d91cee84a899a06833d9" title="rocksdb::BlockBasedTable\l::ApproximateOffsetOf" alt="" coords="436,335,615,382"/>
+<area shape="rect" id="node21" href="$df/d3a/a00571.html#a515847d5be09d2b12e220c2af40f50b7" title="rocksdb::Footer::DecodeFrom" alt="" coords="428,405,623,435"/>
+<area shape="rect" id="node13" href="$d1/d72/a00204.html#a572f3e033d55cd348f12da867374dcde" title="rocksdb::BlockBasedTable\l::NewIterator" alt="" coords="708,209,887,255"/>
+<area shape="rect" id="node17" href="$d1/d72/a00204.html#a17c2fe017efd1f4d86717a7c4bdb137a" title="rocksdb::BlockBasedTable\l::TEST_KeyInCache" alt="" coords="708,278,887,325"/>
+<area shape="rect" id="node23" href="$d1/d72/a00204.html#a526e236ccfcd110fbaecd1118c6756eb" title="rocksdb::BlockBasedTable\l::Open" alt="" coords="708,367,887,414"/>
+<area shape="rect" id="node25" href="$de/dd2/a00207.html#a221c51015e9877bf660f905ae9bb4ca0" title="rocksdb::BlockBasedTable\lFactory::GetTableReader" alt="" coords="996,367,1175,414"/>
+<area shape="rect" id="node29" href="$d4/d87/a03436.html#a091b0d8150b9a0492ab1e0c89073ece2" title="rocksdb::TestEncodeDecode" alt="" coords="431,459,620,488"/>
+<area shape="rect" id="node33" href="$d1/d42/a01800.html#acf04defe0d794e6933785aad628ab9b6" title="rocksdb::VersionSet\l::Recover" alt="" coords="456,511,595,558"/>
+<area shape="rect" id="node44" href="$d1/d42/a01800.html#a6a345ce36535de042e2e0d254ff66a5a" title="rocksdb::VersionSet\l::DumpManifest" alt="" coords="456,581,595,627"/>
+<area shape="rect" id="node31" href="$d4/d87/a03436.html#ac5a6bffce5635ceed95b67f064b292cc" title="rocksdb::TEST" alt="" coords="743,437,852,467"/>
+<area shape="rect" id="node35" href="$d4/d87/a03436.html#a397a8fe5f365d028536a4f82449726b9" title="rocksdb::BM_LogAndApply" alt="" coords="708,491,887,520"/>
+<area shape="rect" id="node39" href="$d0/d58/a01230.html#a769cf9f08028648f2cb824dbbf695de7" title="rocksdb::ReduceDBLevelsCommand\l::GetOldNumOfLevels" alt="" coords="679,543,916,590"/>
+<area shape="rect" id="node41" href="$d0/d58/a01230.html#af2eb900c9cab82e8dffb16d90d070ae1" title="rocksdb::ReduceDBLevelsCommand\l::DoCommand" alt="" coords="967,573,1204,619"/>
+<area shape="rect" id="node37" href="$d9/de7/a02572.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1060,491,1111,520"/>
+<area shape="rect" id="node46" href="$dd/d20/a00939.html#a0a4996198d709bec7b49eec50ba36567" title="rocksdb::ManifestDumpCommand\l::DoCommand" alt="" coords="687,663,908,710"/>
+<area shape="rect" id="node50" href="$d4/d87/a03436.html#a6410c0bd5092b70b0d477a3be981b153" title="rocksdb::TEST" alt="" coords="471,651,580,680"/>
+</map>

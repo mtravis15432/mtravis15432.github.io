@@ -1,0 +1,31 @@
+<map id="beast::Thread::getCurrentThreadId" name="beast::Thread::getCurrentThreadId">
+<area shape="rect" id="node3" href="$d6/d01/a01690.html#aaa7dd0087d7afc1f65ba968a085e0910" title="beast::ThreadLocalValue\l\&lt; beast::Thread * \&gt;::get" alt="" coords="239,433,404,479"/>
+<area shape="rect" id="node5" href="$d6/d01/a01690.html#a96ba0c12eded9f36aa72ef074df4f6cf" title="beast::ThreadLocalValue\l\&lt; beast::Thread * \&gt;::release\lCurrentThreadStorage" alt="" coords="229,503,413,567"/>
+<area shape="rect" id="node7" href="$d6/d53/a01688.html#a5e73232af1bba50252ff38fd58c0e0c5" title="beast::Thread::setPriority" alt="" coords="237,591,405,620"/>
+<area shape="rect" id="node11" href="$d6/d53/a01688.html#a0f091046cfb7079b343c1e02f462cc94" title="beast::Thread::stopThread" alt="" coords="472,643,645,672"/>
+<area shape="rect" id="node47" href="$d6/d53/a01688.html#af176c81c721f87d04c841e85b747db71" title="beast::Thread::threadEntry\lPoint" alt="" coords="233,694,409,741"/>
+<area shape="rect" id="node49" href="$d6/d53/a01688.html#a02cc909609f8c48d9673fcbe21400215" title="beast::Thread::waitForThread\lToExit" alt="" coords="225,963,417,1010"/>
+<area shape="rect" id="node9" href="$d6/d53/a01688.html#a9f9c2a7e0f2dfb671c69d0cb264f0e23" title="beast::Thread::startThread" alt="" coords="471,589,647,619"/>
+<area shape="rect" id="node13" href="$dd/dbb/a00330.html#a0b1b6c50493bd8407ccd953c8fe60d60" title="beast::ServiceQueue\l_timing_test::Consumer\l::~Consumer" alt="" coords="727,5,887,69"/>
+<area shape="rect" id="node15" href="$dc/d64/a01140.html#a59f8d0554e4c02fcddc2da49407a85bc" title="beast::ServiceQueue\l_timing_test::Producer\l::~Producer" alt="" coords="731,93,883,157"/>
+<area shape="rect" id="node17" href="$dc/d4b/a01359.html#a43d46f41d34344f11a0d8fed6f92a93a" title="beast::ServiceQueue\l_test::ServiceThread\l::~ServiceThread" alt="" coords="735,181,879,245"/>
+<area shape="rect" id="node19" href="$d6/d53/a01688.html#a2565edea6618d05e7ee19930afb08b3c" title="beast::Thread::~Thread" alt="" coords="728,269,885,299"/>
+<area shape="rect" id="node21" href="$d5/d83/a01680.html#a4bb3aded6f9552f027ec9218c1a6ff55" title="beast::asio::TestPeerType\l::join" alt="" coords="719,322,895,369"/>
+<area shape="rect" id="node25" href="$d7/dc4/a01354.html#a15e4ab796239e84956c83081c59ef95f" title="ripple::HTTP::ServerImpl\l::~ServerImpl" alt="" coords="724,391,889,438"/>
+<area shape="rect" id="node27" href="$d9/dd6/a00272.html#ac0d76295bb9f6086e2ae6d6227c13483" title="ripple::PeerFinder\l::CheckerImp::~CheckerImp" alt="" coords="713,461,900,507"/>
+<area shape="rect" id="node29" href="$d0/d5b/a00933.html#a36d14a8fc2413cdf6140bdbe629c2c5c" title="ripple::PeerFinder\l::ManagerImp::~ManagerImp" alt="" coords="712,530,901,577"/>
+<area shape="rect" id="node31" href="$d0/df0/a00934.html#a9412ba309876383054cd55985513ca2e" title="ripple::Resource::Manager\lImp::~ManagerImp" alt="" coords="720,599,893,646"/>
+<area shape="rect" id="node33" href="$d8/d19/a00935.html#a7ec43d946a5958b77db56f5526bab0de" title="ripple::SiteFiles::\lManagerImp::~ManagerImp" alt="" coords="716,669,897,715"/>
+<area shape="rect" id="node35" href="$dc/d2b/a00936.html#af3be6d0b4d03e968144966ccfe09fb4b" title="ripple::Validators\l::ManagerImp::~ManagerImp" alt="" coords="712,738,901,785"/>
+<area shape="rect" id="node37" href="$da/d36/a01482.html#a931e158ebd48bc39fee93962a7323497" title="ripple::SqliteDatabase\l::~SqliteDatabase" alt="" coords="732,807,881,854"/>
+<area shape="rect" id="node39" href="$d1/dea/a00829.html#ab6178db68a83cb93edeee8d254444285" title="ripple::LedgerCleanerImp\l::~LedgerCleanerImp" alt="" coords="724,877,889,923"/>
+<area shape="rect" id="node41" href="$d9/d79/a01360.html#a0a88ca768dccc13c861cfc7b594cd74c" title="ripple::IoServicePool\l::ServiceThread::~ServiceThread" alt="" coords="700,946,913,993"/>
+<area shape="rect" id="node43" href="$d0/de2/a00892.html#a43427475bd69fc58612d6b67d90cab78" title="ripple::LoadManagerImp\l::~LoadManagerImp" alt="" coords="727,1015,887,1062"/>
+<area shape="rect" id="node45" href="$d2/db1/a01428.html#aca015cca6e56fc348841c505a02888ac" title="ripple::SNTPClientImp\l::~SNTPClientImp" alt="" coords="731,1085,883,1131"/>
+<area shape="rect" id="node23" href="$d3/de1/a01111.html#a7bbb2df309564e336b1c323967292ad4" title="beast::asio::PeerTest::run" alt="" coords="963,331,1136,360"/>
+<area shape="rect" id="node52" href="$d0/dab/a00735.html#a3d8dbbc84c7467733c0bd61f31ffb331" title="beast::asio::HTTPClient\l_test::IoServiceThread::join" alt="" coords="468,1063,649,1110"/>
+<area shape="rect" id="node60" href="$dc/d36/a00925.html#a6bc107b810f05040352c0d6ba6c3b839" title="beast::DeadlineTimer\l::Manager::~Manager" alt="" coords="485,1133,632,1179"/>
+<area shape="rect" id="node54" href="$d0/dab/a00735.html#a2bfeeb6a3331158abfd5de993e153a84" title="beast::asio::HTTPClient\l_test::IoServiceThread\l::~IoServiceThread" alt="" coords="725,1155,888,1219"/>
+<area shape="rect" id="node56" href="$d4/d9b/a00680.html#a8a471d3bd0c8a1111e7cc416c00e8d92" title="beast::asio::HTTPClient\l_test::testAsync" alt="" coords="725,1242,888,1289"/>
+<area shape="rect" id="node58" href="$d4/d9b/a00680.html#a88944f640fe6b39a84c5cea6c7f66c4d" title="beast::asio::HTTPClient\l_test::run" alt="" coords="968,1242,1131,1289"/>
+</map>

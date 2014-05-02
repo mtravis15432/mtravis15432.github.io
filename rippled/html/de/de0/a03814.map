@@ -1,0 +1,19 @@
+<map id="rippled/src/beast/beast/strings/StringCharPointerType.h" name="rippled/src/beast/beast/strings/StringCharPointerType.h">
+<area shape="rect" id="node3" href="$d0/dde/a01924.html" title="../Config.h" alt="" coords="419,333,501,363"/>
+<area shape="rect" id="node22" href="$de/df8/a02073.html" title="CharPointer_UTF8.h" alt="" coords="353,101,495,131"/>
+<area shape="rect" id="node50" href="$d5/d14/a02071.html" title="CharPointer_UTF16.h" alt="" coords="535,101,684,131"/>
+<area shape="rect" id="node56" href="$de/d9d/a02072.html" title="CharPointer_UTF32.h" alt="" coords="708,101,857,131"/>
+<area shape="rect" id="node5" href="$d5/dba/a01940.html" title="config/SelectCompilerConfig.h" alt="" coords="5,411,203,440"/>
+<area shape="rect" id="node7" href="$d3/d28/a02147.html" title="Version.h" alt="" coords="227,411,304,440"/>
+<area shape="rect" id="node9" href="$d4/d25/a01939.html" title="config/PlatformConfig.h" alt="" coords="263,488,420,517"/>
+<area shape="rect" id="node11" href="$d5/d31/a01931.html" title="config/CompilerConfig.h" alt="" coords="379,411,541,440"/>
+<area shape="rect" id="node16" href="$df/dd8/a01943.html" title="config/StandardConfig.h" alt="" coords="565,411,728,440"/>
+<area shape="rect" id="node18" href="$d8/d22/a01932.html" title="config/ConfigCheck.h" alt="" coords="752,411,899,440"/>
+<area shape="rect" id="node20" href="$db/da1/a01944.html" title="config/Suffix.h" alt="" coords="923,411,1029,440"/>
+<area shape="rect" id="node25" href="$d6/d4c/a01903.html" title="../Atomic.h" alt="" coords="719,179,804,208"/>
+<area shape="rect" id="node34" href="$d3/d48/a02069.html" title="CharacterFunctions.h" alt="" coords="447,179,593,208"/>
+<area shape="rect" id="node28" href="$d5/d8b/a02060.html" title="StaticAssert.h" alt="" coords="761,256,865,285"/>
+<area shape="rect" id="node30" href="$db/ddd/a02136.html" title="utility/noexcept.h" alt="" coords="889,256,1009,285"/>
+<area shape="rect" id="node39" href="$d1/dc4/a02042.html" title="../Memory.h" alt="" coords="231,256,321,285"/>
+<area shape="rect" id="node44" href="$d4/d18/a02106.html" title="Uncopyable.h" alt="" coords="248,333,349,363"/>
+</map>

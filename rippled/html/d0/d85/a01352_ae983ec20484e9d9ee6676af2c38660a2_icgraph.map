@@ -1,0 +1,8 @@
+<map id="ripple::SerializerIterator::get32" name="ripple::SerializerIterator::get32">
+<area shape="rect" id="node3" href="$d9/d13/a01599.html#a17625ae008e8e85331870732858a0c9c" title="ripple::STUInt32::construct" alt="" coords="211,13,389,43"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#a6eae40a50498661ac9114218dceba2d7" title="ripple::Ledger::setRaw" alt="" coords="224,67,376,96"/>
+<area shape="rect" id="node5" href="$d9/d13/a01599.html#af8c1372e810998ee170013acb4cc98d1" title="ripple::STUInt32::deserialize" alt="" coords="437,13,624,43"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#aa6261552072b04431424e4ee96a9081b" title="ripple::STObject::makeDeserialized\lObject" alt="" coords="673,5,900,51"/>
+<area shape="rect" id="node9" href="$de/d1a/a01559.html#a6e4c27aedab5e7ad8921ccced42e39a7" title="ripple::STObject::set" alt="" coords="951,13,1092,43"/>
+<area shape="rect" id="node13" href="$dd/d5f/a00825.html#a5eb8e6438f726d32904946567fcd6544" title="ripple::Ledger::Ledger" alt="" coords="457,67,604,96"/>
+</map>

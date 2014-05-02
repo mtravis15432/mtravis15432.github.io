@@ -1,0 +1,10 @@
+<map id="ripple::LedgerMasterImp::failedSave" name="ripple::LedgerMasterImp::failedSave">
+<area shape="rect" id="node3" href="$d2/dc7/a00838.html#a0c839d3083da43e7f837cfa14b09b609" title="ripple::LedgerMasterImp\l::clearLedger" alt="" coords="216,27,379,74"/>
+<area shape="rect" id="node11" href="$d8/d86/a00703.html#a6f59efd378b35314541b4d5c76cd905a" title="ripple::InboundLedgers\l::findCreate" alt="" coords="221,97,373,143"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="247,167,348,196"/>
+<area shape="rect" id="node17" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="228,219,367,266"/>
+<area shape="rect" id="node5" href="$d3/d32/a01176.html#a2af1f1b029e45a0a05ae8c21ed697b1a" title="ripple::RangeSet::clearValue" alt="" coords="428,36,615,65"/>
+<area shape="rect" id="node7" href="$d3/d32/a01176.html#aa6967e4389abee4356efbf38a6383acb" title="ripple::RangeSet::contains" alt="" coords="679,5,855,35"/>
+<area shape="rect" id="node9" href="$d3/d32/a01176.html#a36db87b718539273de7a17b8e990fbf6" title="ripple::RangeSet::checkInternal\lConsistency" alt="" coords="664,58,869,105"/>
+<area shape="rect" id="node15" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="433,158,609,205"/>
+</map>

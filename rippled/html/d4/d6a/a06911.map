@@ -1,0 +1,20 @@
+<map id="beast::insight::detail::StatsDCollectorImp" name="beast::insight::detail::StatsDCollectorImp">
+<area shape="rect" id="node2" href="$d6/d02/a01542.html" title="beast::insight::StatsDCollector" alt="" coords="777,5,977,35"/>
+<area shape="rect" id="node4" href="$d5/d7b/a00286.html" title="beast::insight::Collector" alt="" coords="497,5,657,35"/>
+<area shape="rect" id="node8" href="$da/dc3/a00453.html" title="beast::IP::Endpoint" alt="" coords="811,147,944,176"/>
+<area shape="rect" id="node10" href="$de/de1/a00065.html" title="beast::IP::Address" alt="" coords="512,147,643,176"/>
+<area shape="rect" id="node12" href="$d9/db3/a00066.html" title="beast::IP::AddressV4" alt="" coords="209,103,356,132"/>
+<area shape="rect" id="node14" href="$dc/ddf/a00067.html" title="beast::IP::AddressV6" alt="" coords="209,156,356,185"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="537,225,617,255"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="220,217,345,263"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="836,319,919,348"/>
+<area shape="rect" id="node22" href="$d7/dde/a01384.html" title="beast::SharedData\&lt;\l StateType \&gt;" alt="" coords="808,371,947,418"/>
+<area shape="rect" id="node24" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,328,136,357"/>
+<area shape="rect" id="node28" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::insight::detail::StatsDMetric\lBase \&gt;" alt="" coords="187,355,379,419"/>
+<area shape="rect" id="node26" href="$db/d8e/a01523.html" title="beast::insight::detail\l::StatsDCollectorImp::\lStateType" alt="" coords="501,355,653,419"/>
+<area shape="rect" id="node31" href="$d3/deb/a01386.html" title="beast::SharedMutexAdapter\l\&lt; RecursiveMutex \&gt;" alt="" coords="485,442,669,489"/>
+<area shape="rect" id="node33" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="204,451,361,480"/>
+<area shape="rect" id="node38" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="825,515,929,544"/>
+<area shape="rect" id="node40" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="213,533,352,563"/>
+<area shape="rect" id="node42" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="500,608,655,637"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rocksdb::DeleteFileTest::CheckFileTypeCounts" name="rocksdb::DeleteFileTest::CheckFileTypeCounts">
+<area shape="rect" id="node3" href="$db/db1/a00460.html#aebd6a4aac30704da29fecf45a9da21d6" title="rocksdb::Env::GetChildren" alt="" coords="216,47,392,77"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#ad3fcb7354969b5ea357d56b2d02362fc" title="rocksdb::ParseFileName" alt="" coords="221,101,387,130"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a7d0cd6e6e390a2d44d90571ec29cd8f5" title="rocksdb::ConsumeDecimalNumber" alt="" coords="440,49,667,78"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="719,14,868,43"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="716,83,871,129"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="921,122,1057,151"/>
+<area shape="rect" id="node18" href="$de/daf/a01417.html#a5b27053d7804f8ba4a6430e001ce1c22" title="rocksdb::Slice::starts_with" alt="" coords="465,203,641,233"/>
+</map>

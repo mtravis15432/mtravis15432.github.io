@@ -1,0 +1,8 @@
+<map id="sqlite3PagerCheckpoint" name="sqlite3PagerCheckpoint">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a7aa6f5fb12dca5d734397768e90ae119" title="sqlite3BtreeCheckpoint" alt="" coords="213,32,371,61"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a0f0ad6a031e74ddb47bdc701d23bf3e1" title="sqlite3Checkpoint" alt="" coords="420,32,545,61"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#a074441ba2d0426a8684cc2d379e74163" title="sqlite3_wal_checkpoint_v2" alt="" coords="595,5,773,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="624,59,744,88"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="823,59,908,88"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="959,59,1049,88"/>
+</map>

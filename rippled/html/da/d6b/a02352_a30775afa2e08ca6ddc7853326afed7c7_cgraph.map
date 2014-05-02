@@ -1,0 +1,12 @@
+<map id="unixOpenSharedMemory" name="unixOpenSharedMemory">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a06b890498ad27dd838ec6f17f3dfa5c2" title="robust_ftruncate" alt="" coords="235,5,349,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a0eb989e531821c6a1deb85a3ba0021c0" title="robust_open" alt="" coords="245,59,339,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acd88d7bdc7f79108edc83ac379d3181f" title="unixEnterMutex" alt="" coords="236,112,348,141"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#acd189e7befeaa8d370808bcb6c22f339" title="unixLeaveMutex" alt="" coords="233,165,351,195"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#a89b00f37b59738ab669aa66f70f5962b" title="unixShmPurge" alt="" coords="239,219,345,248"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#a01b83082580fe542416b9250be3b5591" title="unixShmSystemLock" alt="" coords="219,272,365,301"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="419,139,544,168"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#abc25d22670649c241bee8c46921988ab" title="robust_close" alt="" coords="433,219,529,248"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#a23b4a35445d08fc62ef2d5c3d56c1640" title="unixLogErrorAtLine" alt="" coords="599,219,729,248"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="415,272,548,301"/>
+</map>

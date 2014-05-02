@@ -1,0 +1,6 @@
+<map id="ripple::LoadMonitor::isOverTarget" name="ripple::LoadMonitor::isOverTarget">
+<area shape="rect" id="node3" href="$dc/d2c/a00893.html#a6cabc692242c9c9ae90305ba7a8b13ae" title="ripple::LoadMonitor\l::getStats" alt="" coords="188,5,319,51"/>
+<area shape="rect" id="node9" href="$dc/d2c/a00893.html#a7b82ac7cfd946a5abea92bc433fe10fa" title="ripple::LoadMonitor\l::isOver" alt="" coords="188,74,319,121"/>
+<area shape="rect" id="node5" href="$d3/d00/a00785.html#aefa6d9226268552d93ff2ad8b47a9917" title="ripple::JobTypeData\l::stats" alt="" coords="368,5,507,51"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#a87809b2191b20b53d701ac2deec4f129" title="ripple::JobQueueImp\l::getJson" alt="" coords="556,5,697,51"/>
+</map>

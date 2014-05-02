@@ -1,0 +1,6 @@
+<map id="ripple::STUInt8::deserialize" name="ripple::STUInt8::deserialize">
+<area shape="rect" id="node3" href="$d7/d82/a01601.html#ae2abf55feca81bc5122edb514df22122" title="ripple::STUInt8::construct" alt="" coords="236,44,407,73"/>
+<area shape="rect" id="node5" href="$d0/d85/a01352.html#a712262c6b4ad0207ef484dbda8114f07" title="ripple::SerializerIterator\l::get8" alt="" coords="463,5,617,51"/>
+<area shape="rect" id="node9" href="$d7/d82/a01601.html#a3731f6254681e1b7311d5dd0901d738d" title="ripple::STUInt8::STUInt8" alt="" coords="457,75,623,104"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#aa852df20ccb9b3d16becaa60d4ef0a8f" title="ripple::Serializer\l::get8" alt="" coords="672,5,787,51"/>
+</map>

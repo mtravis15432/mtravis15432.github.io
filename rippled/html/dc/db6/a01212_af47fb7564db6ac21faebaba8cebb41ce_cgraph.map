@@ -1,0 +1,20 @@
+<map id="Json::Reader::addErrorAndRecover" name="Json::Reader::addErrorAndRecover">
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a04a3a13dbc609dfdf9e3c6723e37ff21" title="Json::Reader::addError" alt="" coords="247,117,404,147"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a8d4ed03a43082c5ace81ba5b81425eaf" title="Json::Reader::recoverFrom\lError" alt="" coords="235,170,416,217"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#a7cb0631963cc0fd4ff6ed0f570976864" title="Json::Reader::readToken" alt="" coords="465,179,633,208"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a40d0f69d15aeb2d52ff78d794f5ab8b2" title="Json::Reader::skipSpaces" alt="" coords="691,5,867,35"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#ab61eb61333cc9ec3afe785663a53ce90" title="Json::Reader::getNextChar" alt="" coords="1159,159,1340,188"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a6328a0b1994e05118886f9fc9c608643" title="Json::Reader::readString" alt="" coords="696,137,861,167"/>
+<area shape="rect" id="node16" href="$dc/db6/a01212.html#ad2690e860a1b3332c5401fb0850ba065" title="Json::Reader::readComment" alt="" coords="684,219,873,248"/>
+<area shape="rect" id="node37" href="$dc/db6/a01212.html#afb31bfda6bb27d6453057a47655e8363" title="Json::Reader::readNumber" alt="" coords="689,272,868,301"/>
+<area shape="rect" id="node41" href="$dc/db6/a01212.html#a3e5a7bc6b7b53f2ca8cb9da42f8ffb21" title="Json::Reader::match" alt="" coords="707,325,851,355"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#ae0ffe796abdc3c5851589ee500e28c79" title="Json::Reader::readCStyle\lComment" alt="" coords="929,210,1103,257"/>
+<area shape="rect" id="node22" href="$dc/db6/a01212.html#a6716ef6290b0f469efaf8d379c357967" title="Json::Reader::readCppStyle\lComment" alt="" coords="923,279,1109,326"/>
+<area shape="rect" id="node25" href="$d2/dd6/a03414.html#a4d6ab0f651348832e5cc49b577a854d2" title="Json::containsNewLine" alt="" coords="937,349,1095,379"/>
+<area shape="rect" id="node27" href="$dc/db6/a01212.html#aaea3bd62d12ffb6117a61476c0685049" title="Json::Reader::addComment" alt="" coords="923,403,1109,432"/>
+<area shape="rect" id="node29" href="$d6/d27/a01781.html#a29f3a30f7e5d3af6f38d57999bf5b480" title="Comments must be //... or /* ... */. " alt="" coords="1163,403,1336,432"/>
+<area shape="rect" id="node31" href="$d4/d5b/a00294.html#a7ee273d42f033e237e15017dcee1bcc5" title="Json::Value::CommentInfo\l::setComment" alt="" coords="1389,394,1568,441"/>
+<area shape="rect" id="node33" href="$d2/dd6/a03414.html#a55c29a5375e53382368f928692bd2d4d" title="Json::valueAllocator" alt="" coords="1619,372,1757,401"/>
+<area shape="rect" id="node35" href="$dd/dec/a01782.html#aa75c50f08bab7db386673ab355668c99" title="Json::ValueAllocator\l::releaseStringValue" alt="" coords="1617,425,1759,471"/>
+<area shape="rect" id="node39" href="$d2/dd6/a03414.html#a7378f09d8f10ef3ccbb2aeefe7ff41d3" title="Json::in" alt="" coords="983,456,1049,485"/>
+</map>

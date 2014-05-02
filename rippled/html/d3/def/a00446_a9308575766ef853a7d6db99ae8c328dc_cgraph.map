@@ -1,0 +1,17 @@
+<map id="beast::empty_base_optimization_test::run" name="beast::empty_base_optimization_test::run">
+<area shape="rect" id="node3" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="296,109,443,155"/>
+<area shape="rect" id="node5" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="555,39,701,86"/>
+<area shape="rect" id="node25" href="$d3/def/a00446.html#ae36a4aa8d7675d9c766f0d758b58619e" title="beast::empty_base_optimization\l_test::test_one" alt="" coords="264,178,475,225"/>
+<area shape="rect" id="node33" href="$d3/def/a00446.html#a8d24fa9c9213a909517b4b67edb5a1af" title="beast::empty_base_optimization\l_test::test_two" alt="" coords="264,247,475,294"/>
+<area shape="rect" id="node17" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="555,109,701,155"/>
+<area shape="rect" id="node7" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="809,39,964,86"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="1041,74,1196,121"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="1041,5,1196,51"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1247,39,1401,86"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1247,109,1401,155"/>
+<area shape="rect" id="node19" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="809,109,964,155"/>
+<area shape="rect" id="node22" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="1041,143,1196,190"/>
+<area shape="rect" id="node27" href="$d7/d53/a01645.html#ab4ea10d07bcfd559a42eeb510ce215c0" title="beast::empty_base_optimization\l_test::test1::member" alt="" coords="523,178,733,225"/>
+<area shape="rect" id="node31" href="$df/dee/a01646.html#ae9e3d84bf9681fd42c6902215e873d13" title="beast::empty_base_optimization\l_test::test2::member" alt="" coords="523,247,733,294"/>
+<area shape="rect" id="node29" href="$d0/dc4/a00443.html#a7f5ec24df3380aa73d8f5c428ddda9cb" title="beast::empty_base_optimization\l\&lt; T \&gt;::member" alt="" coords="781,178,992,225"/>
+</map>

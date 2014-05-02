@@ -1,0 +1,14 @@
+<map id="ripple::Resource::Logic::newAdminEndpoint" name="ripple::Resource::Logic::newAdminEndpoint">
+<area shape="rect" id="node3" href="$d0/df0/a00934.html#ab54f15e5f537ba410e3363f80d5a2be6" title="ripple::Resource::Manager\lImp::newAdminEndpoint" alt="" coords="212,65,385,111"/>
+<area shape="rect" id="node5" href="$de/dc3/a00909.html#a07e2eb5c8d4175cf0a4a85f509376b53" title="ripple::Resource::Logic\l::newInboundEndpoint" alt="" coords="221,134,376,181"/>
+<area shape="rect" id="node26" href="$de/dc3/a00909.html#abf0d7be081d45a0837aec71f69263514" title="ripple::Resource::Logic\l::newOutboundEndpoint" alt="" coords="219,238,379,285"/>
+<area shape="rect" id="node7" href="$d8/dbb/a00932.html#a12c9044348ca8f226ecbe96e0d6bac80" title="ripple::Resource::Manager\l_test::testDrop" alt="" coords="668,5,841,51"/>
+<area shape="rect" id="node11" href="$d8/dbb/a00932.html#a36baa3cfae639bf8406b1059affa785b" title="ripple::Resource::Manager\l_test::testCharges" alt="" coords="440,65,613,111"/>
+<area shape="rect" id="node14" href="$de/dc3/a00909.html#a195a4c392e8d5d8880a7c8b09a16b0f2" title="ripple::Resource::Logic\l::importConsumers" alt="" coords="449,134,604,181"/>
+<area shape="rect" id="node24" href="$d0/df0/a00934.html#a3cf30ffa8e7062ce4cfd9a26a0e2e1c3" title="ripple::Resource::Manager\lImp::newInboundEndpoint" alt="" coords="440,203,613,250"/>
+<area shape="rect" id="node9" href="$d8/dbb/a00932.html#a904104c2a738cca57c8c2a4214e0956d" title="ripple::Resource::Manager\l_test::run" alt="" coords="892,130,1065,177"/>
+<area shape="rect" id="node16" href="$d0/df0/a00934.html#ad3c7af7e9455bc4970c207c9ae76a9a7" title="ripple::Resource::Manager\lImp::importConsumers" alt="" coords="668,125,841,171"/>
+<area shape="rect" id="node18" href="$d8/dbb/a00932.html#a823244ff2c76d31112e0abfd20504b61" title="ripple::Resource::Manager\l_test::testImport" alt="" coords="668,194,841,241"/>
+<area shape="rect" id="node21" href="$d8/dbb/a00932.html#ad67f5a6314af7b367272a4a90fcc5d9f" title="ripple::Resource::Manager\l_test::testImports" alt="" coords="668,263,841,310"/>
+<area shape="rect" id="node28" href="$d0/df0/a00934.html#ad950ec18e1da44ad93a213eed2eb5079" title="ripple::Resource::Manager\lImp::newOutboundEndpoint" alt="" coords="436,273,617,319"/>
+</map>

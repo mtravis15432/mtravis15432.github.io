@@ -1,0 +1,8 @@
+<map id="ripple::TACompletionHandler" name="ripple::TACompletionHandler">
+<area shape="rect" id="node3" href="$d8/d86/a00703.html#aa8378c07e914d43964d816ee1ac8d1dd" title="ripple::InboundLedgers\l::dropLedger" alt="" coords="244,5,396,51"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="269,75,371,104"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="251,127,389,174"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="257,197,383,243"/>
+<area shape="rect" id="node13" href="$dd/dac/a01008.html#a8a3422f518b3bfc4b4e2d16abde6ef0d" title="ripple::NetworkOPs\l::mapComplete" alt="" coords="252,266,388,313"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="447,66,623,113"/>
+</map>

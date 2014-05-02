@@ -1,0 +1,5 @@
+<map id="beast::detail::LeakChecked::~LeakChecked" name="beast::detail::LeakChecked::~LeakChecked">
+<area shape="rect" id="node3" href="$d3/d60/a00818.html#a8e298690e8e675fc69f9b3d218eef8c9" title="beast::detail::LeakChecked\l::getCounter" alt="" coords="237,5,419,51"/>
+<area shape="rect" id="node5" href="$d3/d60/a00818.html#af860ad20a1a9653be160eb99d4040609" title="beast::detail::LeakChecked\l::getLeakCheckedName" alt="" coords="237,74,419,121"/>
+<area shape="rect" id="node7" href="$dc/d00/a00820.html#a936bf67efafa22f0a0718bdb1b7a6f3b" title="beast::detail::LeakChecked\lBase::reportDanglingPointer" alt="" coords="236,143,420,190"/>
+</map>

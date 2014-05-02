@@ -1,0 +1,9 @@
+<map id="ripple::MultiSocketType::stream" name="ripple::MultiSocketType::stream">
+<area shape="rect" id="node3" href="$d0/d28/a00997.html#ac2e1b88e0cb2b8c123122cb19fc8f272" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::async\l_read_some" alt="" coords="229,5,403,69"/>
+<area shape="rect" id="node5" href="$d0/d28/a00997.html#a1e2469ee76ec5466ba79e2ae188fae18" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::async\l_shutdown" alt="" coords="229,93,403,157"/>
+<area shape="rect" id="node7" href="$d0/d28/a00997.html#af41444a1a5805f9aa8e3351e5414b281" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::async\l_write_some" alt="" coords="229,181,403,245"/>
+<area shape="rect" id="node9" href="$d0/d28/a00997.html#aa9e1a3f440ffcf1fff38794dbe93f2aa" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::do\l_handshake" alt="" coords="237,269,395,333"/>
+<area shape="rect" id="node11" href="$d0/d28/a00997.html#a029fe2953dfe89bf3fc5e5ad2bfdd457" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::read_some" alt="" coords="215,357,417,403"/>
+<area shape="rect" id="node13" href="$d0/d28/a00997.html#a69d85f69d02b3a20f221e3f5b7f39349" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::shutdown" alt="" coords="219,426,413,473"/>
+<area shape="rect" id="node15" href="$d0/d28/a00997.html#ac4e24e7936a8e7736229beb56af3e844" title="ripple::MultiSocketType\l\&lt; socket_type &amp; \&gt;::write_some" alt="" coords="213,495,419,542"/>
+</map>

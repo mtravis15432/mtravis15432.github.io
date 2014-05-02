@@ -1,0 +1,29 @@
+<map id="rocksdb::BlockBasedTable::ApproximateOffsetOf" name="rocksdb::BlockBasedTable::ApproximateOffsetOf">
+<area shape="rect" id="node3" href="$d3/dd1/a00214.html#a334b65dae78e22833c02e9501fb45753" title="rocksdb::BlockHandle\l::DecodeFrom" alt="" coords="473,130,623,177"/>
+<area shape="rect" id="node20" href="$d1/d72/a00204.html#a21b4cf6270bdeccf5fe7a616b73afa3c" title="rocksdb::BlockBasedTable\l::IndexBlockReader" alt="" coords="232,317,411,363"/>
+<area shape="rect" id="node29" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="713,219,849,248"/>
+<area shape="rect" id="node53" href="$d3/dd1/a00214.html#a688811dca76f8f589a6cc3a7b06552ad" title="rocksdb::BlockHandle\l::offset" alt="" coords="247,386,396,433"/>
+<area shape="rect" id="node56" href="$d2/d02/a00777.html#aeed06527f83bf2863595fc9514511d7d" title="rocksdb::Iterator::Seek" alt="" coords="244,456,399,485"/>
+<area shape="rect" id="node58" href="$d2/d02/a00777.html#a866c8627787b3a768273ae4893f27f8f" title="rocksdb::Iterator::\lValid" alt="" coords="259,509,384,555"/>
+<area shape="rect" id="node60" href="$d2/d02/a00777.html#a1a503134af26025486d5c640e49cdf54" title="rocksdb::Iterator::\lvalue" alt="" coords="259,578,384,625"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#abef3500551ebbb64ab50e4abde1ab3b9" title="rocksdb::GetVarint64" alt="" coords="709,59,853,88"/>
+<area shape="rect" id="node13" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="711,112,852,141"/>
+<area shape="rect" id="node17" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="691,165,872,195"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="937,5,1076,35"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#ae2394b85a19c4d702747014bca29fcb0" title="rocksdb::GetVarint64Ptr" alt="" coords="925,59,1088,88"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="939,112,1075,141"/>
+<area shape="rect" id="node15" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="927,165,1087,195"/>
+<area shape="rect" id="node22" href="$d1/d72/a00204.html#a5eadc884aba075de1cd82a5f81ff49b1" title="rocksdb::BlockBasedTable\l::GetBlock" alt="" coords="459,317,637,363"/>
+<area shape="rect" id="node37" href="$d2/d02/a00777.html#a668d7cfe0b950c1ee2806a3a3d21bb90" title="rocksdb::Iterator::\lRegisterCleanup" alt="" coords="485,386,611,433"/>
+<area shape="rect" id="node51" href="$d4/d87/a03436.html#a7b03495439285fb3fb42a3208b01a3d7" title="rocksdb::NewErrorIterator" alt="" coords="463,456,633,485"/>
+<area shape="rect" id="node24" href="$d4/d9a/a00246.html#a18ed26fd1e9e7097fea1a8ee3b2599b4" title="rocksdb::Cache::Value" alt="" coords="704,325,859,355"/>
+<area shape="rect" id="node26" href="$d0/db9/a01552.html#a223ccba0dce26cd4539d6fd2c28ae364" title="rocksdb::Status::Incomplete" alt="" coords="688,272,875,301"/>
+<area shape="rect" id="node31" href="$d4/d9a/a00246.html#a81b3a0d17e7ef373bfc0945c11e849ee" title="rocksdb::Cache::Insert" alt="" coords="704,379,859,408"/>
+<area shape="rect" id="node33" href="$d4/d87/a03436.html#a71979495541c18910434586eddf5e58d" title="rocksdb::DeleteCachedBlock" alt="" coords="685,432,877,461"/>
+<area shape="rect" id="node35" href="$d4/d87/a03436.html#a833e685de1acb680b321c566cadffc9f" title="rocksdb::RecordTick" alt="" coords="711,485,852,515"/>
+<area shape="rect" id="node39" href="$da/d6b/a02352.html#ae3e0dbf7ac3255e91d16cd24fd2c2b1d" title="Cleanup" alt="" coords="747,539,816,568"/>
+<area shape="rect" id="node41" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="956,539,1057,568"/>
+<area shape="rect" id="node43" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1348,500,1439,529"/>
+<area shape="rect" id="node45" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1327,565,1460,595"/>
+<area shape="rect" id="node47" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1136,539,1277,568"/>
+</map>

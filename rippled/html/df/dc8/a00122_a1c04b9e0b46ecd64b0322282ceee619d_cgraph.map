@@ -1,0 +1,5 @@
+<map id="ripple::RippleAccountIDTraits::assign&lt; RippleAddress &gt;::operator()" name="ripple::RippleAccountIDTraits::assign&lt; RippleAddress &gt;::operator()">
+<area shape="rect" id="node3" href="$d0/d65/a00360.html#ad5698b038bc9c390265c0f8d8ab0f56d" title="ripple::CryptoIdentifier\l\&lt; 20, 0, true \&gt;::construct" alt="" coords="249,5,415,51"/>
+<area shape="rect" id="node5" href="$d4/d0e/a01272.html#a57f127faa6e0af4093b8397e368c2899" title="ripple::RippleAddress\l::getAccountID" alt="" coords="259,74,405,121"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a67af9cb9a9d5c158f9a56acde5f27e4e" title="ripple::Hash160" alt="" coords="465,83,577,112"/>
+</map>

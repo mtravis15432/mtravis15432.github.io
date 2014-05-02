@@ -1,0 +1,16 @@
+<map id="sqlite3AddColumnType" name="sqlite3AddColumnType">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#ad3b6641027549ec6634f6239256676bd" title="sqlite3AffinityType" alt="" coords="227,5,357,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="212,59,372,88"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="431,5,540,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ad68ab1bd16b9220b68734b069c6c8093" title="sqlite3DbStrNDup" alt="" coords="421,59,549,88"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#a7b0ccb71d60de662cbb09755454dee5d" title="sqlite3Dequote" alt="" coords="431,112,540,141"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="599,59,740,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1108,12,1241,41"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="789,91,888,120"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="937,117,1057,147"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1109,65,1240,95"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1291,92,1421,121"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1113,169,1236,199"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1115,223,1235,252"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1116,276,1233,305"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TestOverlay::PeerType::step" name="TestOverlay::PeerType::step">
+<area shape="rect" id="node3" href="$d0/d39/a01112.html#a445cb6c198bda5814ea52bd619760d34" title="TestOverlay::PeerType\l::connections" alt="" coords="231,5,388,51"/>
+<area shape="rect" id="node5" href="$de/d55/a00323.html#a6264a8bdfbe606b5e81763d54a10b5c1" title="TestOverlay::ConnectionType\l::messages" alt="" coords="212,74,407,121"/>
+<area shape="rect" id="node7" href="$d0/d39/a01112.html#a37826c622972334c432601ab5e71f1b1" title="TestOverlay::PeerType\l::msg_table" alt="" coords="231,143,388,190"/>
+<area shape="rect" id="node9" href="$d0/d39/a01112.html#a562f863b8750ef9354b23a0b2cd057b5" title="TestOverlay::PeerType\l::results" alt="" coords="231,213,388,259"/>
+</map>

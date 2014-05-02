@@ -1,0 +1,4 @@
+<map id="beast::OutputStream::writeInt64BigEndian" name="beast::OutputStream::writeInt64BigEndian">
+<area shape="rect" id="node3" href="$d6/d08/a00244.html#ac4bab10972fc5ea6f84f567415380327" title="beast::ByteOrder::swapIf\lLittleEndian" alt="" coords="200,5,368,51"/>
+<area shape="rect" id="node5" href="$d4/d8a/a01062.html#a1d16f6512dbe0117be4c64107f73ade6" title="beast::OutputStream\l::write" alt="" coords="213,74,355,121"/>
+</map>

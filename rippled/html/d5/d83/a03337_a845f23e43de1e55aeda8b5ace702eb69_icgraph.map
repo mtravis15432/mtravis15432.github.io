@@ -1,0 +1,5 @@
+<map id="beast::fromNetworkByteOrder" name="beast::fromNetworkByteOrder">
+<area shape="rect" id="node3" href="$d7/d80/a00614.html#ab413c87ad6dfe738965d89288c641f5d" title="beast::asio::HandshakeDetect\lLogicSSL3::analyze" alt="" coords="252,5,449,51"/>
+<area shape="rect" id="node5" href="$d8/d75/a00555.html#aff8a534ef5437e7bfceeaba62168c481" title="beast::asio::FixedInputBuffer\l::readNetworkInteger" alt="" coords="256,74,445,121"/>
+<area shape="rect" id="node7" href="$d1/d6e/a00613.html#ad665cd5b4726fca7ec50f0b8c114a2bb" title="beast::asio::HandshakeDetect\lLogicSSL2::analyze" alt="" coords="500,74,697,121"/>
+</map>

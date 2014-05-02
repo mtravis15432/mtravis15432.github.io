@@ -1,0 +1,5 @@
+<map id="rocksdb::GetFileIterator" name="rocksdb::GetFileIterator">
+<area shape="rect" id="node3" href="$d1/d42/a01800.html#a9b2787a7f9d43a6141ff02cc823c5374" title="rocksdb::VersionSet\l::MakeInputIterator" alt="" coords="264,5,403,51"/>
+<area shape="rect" id="node5" href="$d4/dd1/a01797.html#a5de492a45586fb755444ed9e0ab9a982" title="rocksdb::Version::NewConcatenating\lIterator" alt="" coords="215,74,452,121"/>
+<area shape="rect" id="node7" href="$d4/dd1/a01797.html#a3a763078b635914957a9d00be6238853" title="rocksdb::Version::AddIterators" alt="" coords="503,83,700,112"/>
+</map>

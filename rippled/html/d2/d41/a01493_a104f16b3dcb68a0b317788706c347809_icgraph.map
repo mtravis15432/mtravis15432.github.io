@@ -1,0 +1,12 @@
+<map id="ripple::STAmount::canonicalize" name="ripple::STAmount::canonicalize">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a484eedd4ede7b26e2f87da235a4f6ce4" title="ripple::STAmount::operator=" alt="" coords="260,5,447,35"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#a9530d7c64e52d16ac0b0ea62f7d9cb98" title="ripple::STAmount::roundSelf" alt="" coords="260,59,447,88"/>
+<area shape="rect" id="node13" href="$d2/d41/a01493.html#acb7fefd0d2bdca8956c834ca1def8ff9" title="ripple::STAmount::setValue" alt="" coords="263,112,444,141"/>
+<area shape="rect" id="node22" href="$d2/d41/a01493.html#a68337a6fc24dc378b9caef27c119805a" title="ripple::STAmount::STAmount" alt="" coords="257,165,449,195"/>
+<area shape="rect" id="node7" href="$d6/d51/a01494.html#ae1fac0c758b4c3136e750c54741bebe5" title="ripple::STAmount_test\l::roundTest" alt="" coords="520,42,672,89"/>
+<area shape="rect" id="node9" href="$d6/d51/a01494.html#a3c8744063e578e4dd37e38cf175016df" title="ripple::STAmount_test\l::testArithmetic" alt="" coords="741,55,893,102"/>
+<area shape="rect" id="node11" href="$d6/d51/a01494.html#a2fed37e27754e534db456868751ba2eb" title="ripple::STAmount_test::run" alt="" coords="941,105,1120,135"/>
+<area shape="rect" id="node15" href="$d2/d41/a01493.html#ae207187993f511b69305d5134ea798c4" title="ripple::STAmount::STAmount" alt="" coords="500,112,692,141"/>
+<area shape="rect" id="node17" href="$d2/d41/a01493.html#a3d188a23d65dcec45bf76904ba77e59a" title="ripple::STAmount::setFull\lValue" alt="" coords="511,165,681,211"/>
+<area shape="rect" id="node19" href="$d6/d51/a01494.html#a5df91f39cc08e9e9c648546f2c472738" title="ripple::STAmount_test\l::testSetValue" alt="" coords="741,138,893,185"/>
+</map>

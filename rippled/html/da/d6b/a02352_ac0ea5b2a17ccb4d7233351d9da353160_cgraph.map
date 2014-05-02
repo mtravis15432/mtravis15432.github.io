@@ -1,0 +1,8 @@
+<map id="walWriteOneFrame" name="walWriteOneFrame">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a7c90af52fec5e62ea28fdea09e13a662" title="walEncodeFrame" alt="" coords="189,59,312,88"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a82466bed614b85599272d77ed66efb64" title="walWriteToLog" alt="" coords="196,112,305,141"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a90821e542f11539726c50c15993056c4" title="sqlite3Put4byte" alt="" coords="373,5,485,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a19c69852e7fdedf0dac08453403f7487" title="walChecksumBytes" alt="" coords="360,59,499,88"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="376,112,483,141"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a3f01629ca3b49854944cecdd14dc3358" title="sqlite3OsSync" alt="" coords="376,165,483,195"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="beast::Time::highResolutionTicksToSeconds" name="beast::Time::highResolutionTicksToSeconds">
+<area shape="rect" id="node3" href="$d2/dc1/a01562.html#a0402dc40ecd9badc13ae43db6edb7113" title="beast::ServiceQueue\l_timing_test::Stopwatch\l::getElapsed" alt="" coords="267,5,429,69"/>
+<area shape="rect" id="node7" href="$de/dd5/a01564.html#afde48884b8bcda19bbd42e03ec3860bd" title="ripple::NodeStore::\lNodeStoreTiming_test\l::Stopwatch::getElapsed" alt="" coords="265,93,431,157"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a32e219c28cdced0135c63d538f2de8c3" title="beast::measureFunctionCallTime" alt="" coords="241,181,455,211"/>
+<area shape="rect" id="node17" href="$d9/d9d/a03417.html#ab603412403d9fc616a28a7fa9f7774b4" title="ripple::timedDestroy" alt="" coords="279,235,417,264"/>
+<area shape="rect" id="node5" href="$d2/d3f/a01356.html#a3ac9f554a2424341a171cb5d16e0bb0a" title="beast::ServiceQueue\l_timing_test::testThreads" alt="" coords="504,14,675,61"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#ac6d39068073b23a40ffdc2f06ac7e881" title="ripple::logTimedCall" alt="" coords="521,181,657,211"/>
+<area shape="rect" id="node13" href="$d0/d61/a00100.html#a36c07d12a41729d4e595e6ebab1b2a2e" title="ripple::ApplicationImp\l::doSweep" alt="" coords="723,173,869,219"/>
+<area shape="rect" id="node15" href="$d0/d61/a00100.html#a7bb2c406b46c6f545d4d4cc28129af1c" title="ripple::ApplicationImp\l::onDeadlineTimer" alt="" coords="917,173,1064,219"/>
+<area shape="rect" id="node19" href="$d9/d9d/a03417.html#addd9914d92d0912df6ced99892e3d842" title="ripple::logTimedDestroy" alt="" coords="509,235,669,264"/>
+</map>

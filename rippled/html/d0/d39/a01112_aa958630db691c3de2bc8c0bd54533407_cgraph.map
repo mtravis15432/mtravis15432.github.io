@@ -1,0 +1,5 @@
+<map id="TestOverlay::PeerType::send_all_if" name="TestOverlay::PeerType::send_all_if">
+<area shape="rect" id="node3" href="$d0/d39/a01112.html#a445cb6c198bda5814ea52bd619760d34" title="TestOverlay::PeerType\l::connections" alt="" coords="211,5,368,51"/>
+<area shape="rect" id="node5" href="$d0/d39/a01112.html#a2e97566e092c029fd8ec74da7d17419f" title="TestOverlay::PeerType\l::send_to" alt="" coords="211,74,368,121"/>
+<area shape="rect" id="node7" href="$d0/d39/a01112.html#a562f863b8750ef9354b23a0b2cd057b5" title="TestOverlay::PeerType\l::results" alt="" coords="416,74,573,121"/>
+</map>

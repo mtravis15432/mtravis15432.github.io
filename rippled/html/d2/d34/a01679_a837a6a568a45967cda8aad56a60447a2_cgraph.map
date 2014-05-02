@@ -1,0 +1,13 @@
+<map id="beast::asio::TestPeerLogicSyncServer::on_connect" name="beast::asio::TestPeerLogicSyncServer::on_connect">
+<area shape="rect" id="node3" href="$dc/d42/a01674.html#a8b9ac3205f67a54a2e37732ad071052c" title="beast::asio::TestPeerLogic\l::error" alt="" coords="236,5,415,51"/>
+<area shape="rect" id="node5" href="$d2/d7b/a01672.html#afb71e6a7f60c060691327ba3ce3eb178" title="beast::asio::TestPeerBasics\l::failure" alt="" coords="232,74,419,121"/>
+<area shape="rect" id="node11" href="$d2/d34/a01679.html#a3fff89491be60f784e695d8176c68fc1" title="beast::asio::TestPeerLogic\lSyncServer::get_role" alt="" coords="236,143,415,190"/>
+<area shape="rect" id="node13" href="$dc/d42/a01674.html#a70ad69423f16616ae8a4b54975d5915d" title="beast::asio::TestPeerLogic\l::socket" alt="" coords="236,213,415,259"/>
+<area shape="rect" id="node15" href="$d2/d7b/a01672.html#a22cc780dc5f30c2c100f0fdd4143d83d" title="beast::asio::TestPeerBasics\l::to_handshake_type" alt="" coords="232,282,419,329"/>
+<area shape="rect" id="node17" href="$d2/d7b/a01672.html#ac6d46a1d3535ac9bfed338aaf347f5b9" title="beast::asio::TestPeerBasics\l::unexpected" alt="" coords="232,351,419,398"/>
+<area shape="rect" id="node7" href="$d2/d7b/a01672.html#aeb46d38681a4580d24608ba050a29b91" title="beast::asio::TestPeerBasics\l::success" alt="" coords="467,101,653,147"/>
+<area shape="rect" id="node9" href="$d2/d7b/a01672.html#a40e044785edb9475f9f2874b54e3823c" title="beast::asio::TestPeerBasics\l::breakpoint" alt="" coords="701,153,888,199"/>
+<area shape="rect" id="node19" href="$d2/d7b/a01672.html#a7017f7246480173765fb139c7533bd2e" title="beast::asio::TestPeerBasics\l::expected" alt="" coords="467,247,653,294"/>
+<area shape="rect" id="node22" href="$d2/d7b/a01672.html#aec926a89d6f67e3419b4589461a7dfdb" title="beast::asio::TestPeerBasics\l::make_error" alt="" coords="701,247,888,294"/>
+<area shape="rect" id="node24" href="$d2/d7b/a01672.html#ab788c0bb1ebddd1ee5b07a113ae8c6b3" title="beast::asio::TestPeerBasics\l::test_category" alt="" coords="936,247,1123,294"/>
+</map>

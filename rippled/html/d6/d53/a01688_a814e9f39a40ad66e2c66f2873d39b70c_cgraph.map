@@ -1,0 +1,6 @@
+<map id="beast::Thread::stopThreadAsync" name="beast::Thread::stopThreadAsync">
+<area shape="rect" id="node3" href="$d6/d53/a01688.html#ae3008b46e1f74df7b35a56a9d5e8465c" title="beast::Thread::isThreadRunning" alt="" coords="229,5,437,35"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="263,59,404,88"/>
+<area shape="rect" id="node9" href="$d6/d53/a01688.html#a7a8c61ba7975e767c62e9cc6a69868d6" title="beast::Thread::signalThread\lShouldExit" alt="" coords="241,111,425,158"/>
+<area shape="rect" id="node7" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="485,50,632,97"/>
+</map>

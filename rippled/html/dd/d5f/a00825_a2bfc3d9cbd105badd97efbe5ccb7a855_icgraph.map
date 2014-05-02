@@ -1,0 +1,11 @@
+<map id="ripple::Ledger::getLedgerFeeIndex" name="ripple::Ledger::getLedgerFeeIndex">
+<area shape="rect" id="node3" href="$df/da9/a00263.html#a2ac58763b5d1590946598f8ae149cacc" title="ripple::ChangeTransactor\l::applyFee" alt="" coords="223,57,391,103"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#afef5a6b3d13ce1828e1fc3d2e53a1987" title="ripple::Ledger::updateFees" alt="" coords="219,179,395,208"/>
+<area shape="rect" id="node5" href="$df/da9/a00263.html#a0673029ce2761d55cc05d75bc0b6b9e4" title="ripple::ChangeTransactor\l::doApply" alt="" coords="456,5,624,51"/>
+<area shape="rect" id="node9" href="$dd/d5f/a00825.html#a5debecad687edacbac83fe60ee20cc51" title="ripple::Ledger::scaleFeeBase" alt="" coords="445,75,635,104"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#adaefeedfaf9ed467545d3e37ec59f118" title="ripple::Ledger::getReserve" alt="" coords="687,101,860,131"/>
+<area shape="rect" id="node13" href="$dd/d5f/a00825.html#ab1cf050d81b5e9859bab77d450c649f5" title="ripple::Ledger::scaleFeeLoad" alt="" coords="445,179,635,208"/>
+<area shape="rect" id="node15" href="$dd/d5f/a00825.html#ae5aa927ab02e6a4596d7b6a3ab0c4c74" title="ripple::Ledger::getReference\lFeeUnits" alt="" coords="447,231,633,278"/>
+<area shape="rect" id="node17" href="$dd/d5f/a00825.html#a4851c2030fa5e9a862e2c68837974aa2" title="ripple::Ledger::getBaseFee" alt="" coords="451,301,629,331"/>
+<area shape="rect" id="node20" href="$dd/d5f/a00825.html#a68f230069a719edb0f3bbdef6ff91336" title="ripple::Ledger::getReserveInc" alt="" coords="444,355,636,384"/>
+</map>

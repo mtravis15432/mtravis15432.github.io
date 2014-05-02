@@ -1,0 +1,7 @@
+<map id="ripple::Resource::Logic::release" name="ripple::Resource::Logic::release">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#acd9755f83bf9c964028f39c9b5c392d7" title="ripple::Resource::Logic\l::elevateToAdminEndpoint" alt="" coords="217,5,391,51"/>
+<area shape="rect" id="node7" href="$d8/df7/a00331.html#a30b81218a3be2a2a28ce2a4218f1dacf" title="ripple::Resource::Consumer\l::operator=" alt="" coords="212,74,396,121"/>
+<area shape="rect" id="node9" href="$de/dc3/a00909.html#aea96963568b141f4fe8490dcef124a4b" title="ripple::Resource::Logic\l::release" alt="" coords="227,143,381,190"/>
+<area shape="rect" id="node11" href="$d8/df7/a00331.html#afb78dbde97d941cdd72a31fe573da014" title="ripple::Resource::Consumer\l::~Consumer" alt="" coords="212,213,396,259"/>
+<area shape="rect" id="node5" href="$d8/df7/a00331.html#ae6ce4aef62d151f2ed8750eb79596a5a" title="ripple::Resource::Consumer\l::elevate" alt="" coords="447,5,631,51"/>
+</map>

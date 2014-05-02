@@ -1,0 +1,9 @@
+<map id="ripple::NetworkOPsImp::subLedger" name="ripple::NetworkOPsImp::subLedger">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="243,13,344,43"/>
+<area shape="rect" id="node7" href="$d1/de6/a00837.html#a5d4563a377393b7350c8a6faa42a7076" title="ripple::LedgerMaster\l::getCompleteLedgers" alt="" coords="219,66,368,113"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="231,135,356,182"/>
+<area shape="rect" id="node11" href="$d7/ded/a01009.html#a7553efb859bf5c3c7650c348cd1358c1" title="ripple::NetworkOPsImp\l::getValidatedLedger" alt="" coords="215,205,372,251"/>
+<area shape="rect" id="node15" href="$d7/ded/a01009.html#a633b71e3a7c523f2c7af59e13979de34" title="ripple::NetworkOPsImp\l::isNeedNetworkLedger" alt="" coords="215,274,372,321"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="423,5,599,51"/>
+<area shape="rect" id="node13" href="$d1/de6/a00837.html#a2e32e5b06d5b855f57a7d4fb3d25c05e" title="ripple::LedgerMaster\l::getValidatedLedger" alt="" coords="440,205,581,251"/>
+</map>

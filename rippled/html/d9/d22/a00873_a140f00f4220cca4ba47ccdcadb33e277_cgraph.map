@@ -1,0 +1,17 @@
+<map id="beast::LexicalCast_test::testIntegers" name="beast::LexicalCast_test::testIntegers">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a975c0f5f2493f00dbf15e444b085d785" title="ripple::max" alt="" coords="207,5,292,35"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#aa3091bec2c625018fadb6aefef12b9ff" title="ripple::min" alt="" coords="208,59,291,88"/>
+<area shape="rect" id="node7" href="$db/dfd/a01608.html#a02554fbd9200fc71efa03e2cf3430424" title="beast::unit_test::suite\l::testcase" alt="" coords="379,173,525,219"/>
+<area shape="rect" id="node15" href="$d9/d22/a00873.html#a707f7c4897e636203d04ac9a0dad3b0a" title="beast::LexicalCast\l_test::testInteger" alt="" coords="184,111,315,158"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="993,173,1148,219"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1199,138,1353,185"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1199,207,1353,254"/>
+<area shape="rect" id="node17" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="379,50,525,97"/>
+<area shape="rect" id="node33" href="$d5/d83/a03337.html#aeb241ed2f4422ea57283956ca58c5d42" title="beast::lexicalCastChecked" alt="" coords="363,120,541,149"/>
+<area shape="rect" id="node19" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="591,109,737,155"/>
+<area shape="rect" id="node26" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="591,39,737,86"/>
+<area shape="rect" id="node21" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="788,109,943,155"/>
+<area shape="rect" id="node24" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="993,103,1148,150"/>
+<area shape="rect" id="node28" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="788,39,943,86"/>
+<area shape="rect" id="node31" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="993,34,1148,81"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ripple::LedgerMaster::findAcquireLedger" name="ripple::LedgerMaster::findAcquireLedger">
+<area shape="rect" id="node3" href="$d1/dea/a00829.html#ac210318bdb2ea4cf4cbe1be753a51968" title="ripple::LedgerCleanerImp\l::doLedger" alt="" coords="196,5,361,51"/>
+<area shape="rect" id="node9" href="$d1/dea/a00829.html#add2f33954124ea07dc3d87eedb8ca74f" title="ripple::LedgerCleanerImp\l::getHash" alt="" coords="196,74,361,121"/>
+<area shape="rect" id="node5" href="$d1/dea/a00829.html#a6e614220e35452159e2f3debe682764e" title="ripple::LedgerCleanerImp\l::doLedgerCleaner" alt="" coords="412,39,577,86"/>
+<area shape="rect" id="node7" href="$d1/dea/a00829.html#a6eff0ca87db1f583b2a401bc4f119990" title="ripple::LedgerCleanerImp::run" alt="" coords="628,48,820,77"/>
+</map>

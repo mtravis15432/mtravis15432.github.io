@@ -1,0 +1,10 @@
+<map id="ripple::STAmount::deserialize" name="ripple::STAmount::deserialize">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a9169f72e5b4029ec28c686537f5cd848" title="ripple::STAmount::construct" alt="" coords="249,83,433,112"/>
+<area shape="rect" id="node5" href="$d0/d85/a01352.html#a948898068c494d2e201b9edbf0aa9710" title="ripple::SerializerIterator\l::get160" alt="" coords="503,5,657,51"/>
+<area shape="rect" id="node13" href="$d0/d85/a01352.html#afce9ed17c5f54ae7ee7d4c2b85fea383" title="ripple::SerializerIterator\l::get64" alt="" coords="503,74,657,121"/>
+<area shape="rect" id="node17" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="484,144,676,173"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#ad2875a572b1dc73ea6bfba6480827fe5" title="ripple::Serializer\l::get160" alt="" coords="725,5,840,51"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="888,5,1013,51"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1063,13,1212,43"/>
+<area shape="rect" id="node15" href="$da/d61/a01350.html#a64063911749615bf1db86f607391a043" title="ripple::Serializer\l::get64" alt="" coords="725,74,840,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="beast::OutputStream::writeInt32" name="beast::OutputStream::writeInt32">
+<area shape="rect" id="node3" href="$d6/d08/a00244.html#aa6f03d6a27cb4769e410c08737e9cdd4" title="beast::ByteOrder::swapIf\lBigEndian" alt="" coords="197,5,365,51"/>
+<area shape="rect" id="node7" href="$d4/d8a/a01062.html#a1d16f6512dbe0117be4c64107f73ade6" title="beast::OutputStream\l::write" alt="" coords="211,74,352,121"/>
+<area shape="rect" id="node5" href="$d6/d08/a00244.html#a1a93d1392f8b87ebc9289e0088187962" title="beast::ByteOrder::swap" alt="" coords="413,13,573,43"/>
+</map>

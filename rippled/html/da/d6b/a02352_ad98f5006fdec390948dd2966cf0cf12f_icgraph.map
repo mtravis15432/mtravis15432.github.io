@@ -1,0 +1,18 @@
+<map id="freePage" name="freePage">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="137,259,255,288"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#abba4061ea34842db278e91f537d2c2ff" title="btreeDropTable" alt="" coords="516,311,625,340"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#aecc3046a56feeeabd3ca93c0685e35d5" title="clearDatabasePage" alt="" coords="128,363,264,392"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="537,231,604,260"/>
+<area shape="rect" id="node7" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="676,134,844,181"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a65c40cd7ec987dbd25392a180f388fe7" title="sqlite3BtreeDelete" alt="" coords="696,204,824,233"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#aa6c6b68ed28d38984e5fa329794d7f02" title="sqlite3BtreeInsert" alt="" coords="699,257,821,287"/>
+<area shape="rect" id="node9" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="895,5,1081,51"/>
+<area shape="rect" id="node11" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="907,74,1069,121"/>
+<area shape="rect" id="node13" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="907,143,1069,190"/>
+<area shape="rect" id="node15" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="920,213,1056,259"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="928,301,1048,331"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="1132,301,1217,331"/>
+<area shape="rect" id="node23" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="1268,301,1359,331"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#a7b9a218bc08d8acfc94b74ea5c47eaa8" title="sqlite3BtreeDropTable" alt="" coords="685,311,835,340"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#ac2fcbee7dcc155d776ecf9d5151f3872" title="sqlite3BtreeClearTable" alt="" coords="312,363,467,392"/>
+</map>

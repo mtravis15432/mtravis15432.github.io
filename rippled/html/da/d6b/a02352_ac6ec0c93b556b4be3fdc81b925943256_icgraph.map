@@ -1,0 +1,8 @@
+<map id="sqlite3BtreeEnterCursor" name="sqlite3BtreeEnterCursor">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a6c1d57e4337ee1b8655215c06dea4046" title="blobReadWrite" alt="" coords="223,59,329,88"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#afff57e13332b98c8a44a7cebe38962ab" title="blobSeekToRow" alt="" coords="217,112,335,141"/>
+<area shape="rect" id="node5" href="$d1/db9/a02353.html#ae63f397da378931a64a597069ce3532a" title="sqlite3_blob_read" alt="" coords="392,5,515,35"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#a0dd24c2ce4bfd36279ed96e8266b1d87" title="sqlite3_blob_write" alt="" coords="391,59,516,88"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#adb8ad839a5bdd62a43785132bc7dd518" title="sqlite3_blob_open" alt="" coords="391,112,516,141"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#abc77c24fdc0150138490359a94360f7e" title="sqlite3_blob_reopen" alt="" coords="385,165,521,195"/>
+</map>

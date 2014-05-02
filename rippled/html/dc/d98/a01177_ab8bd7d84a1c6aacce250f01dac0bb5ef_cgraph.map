@@ -1,0 +1,8 @@
+<map id="ripple::RangeSet_test::createPredefinedSet" name="ripple::RangeSet_test::createPredefinedSet">
+<area shape="rect" id="node3" href="$d3/d32/a01176.html#a116c548bc329d5d89402ccbef956fb0a" title="ripple::RangeSet::setRange" alt="" coords="204,39,385,68"/>
+<area shape="rect" id="node5" href="$d3/d32/a01176.html#a560a4df0d1e7884177906908f5addee4" title="ripple::RangeSet::hasValue" alt="" coords="435,9,616,39"/>
+<area shape="rect" id="node9" href="$d3/d32/a01176.html#a48a885310b9aaaace8633ca53f6df1b7" title="ripple::RangeSet::simplify" alt="" coords="440,67,611,96"/>
+<area shape="rect" id="node7" href="$d3/d32/a01176.html#aa6967e4389abee4356efbf38a6383acb" title="ripple::RangeSet::contains" alt="" coords="679,5,855,35"/>
+<area shape="rect" id="node11" href="$d3/d32/a01176.html#a36db87b718539273de7a17b8e990fbf6" title="ripple::RangeSet::checkInternal\lConsistency" alt="" coords="664,58,869,105"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a975c0f5f2493f00dbf15e444b085d785" title="ripple::max" alt="" coords="724,128,809,157"/>
+</map>

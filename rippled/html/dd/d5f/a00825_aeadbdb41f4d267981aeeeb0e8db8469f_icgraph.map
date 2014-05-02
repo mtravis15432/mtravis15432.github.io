@@ -1,0 +1,5 @@
+<map id="ripple::Ledger::roundCloseTime" name="ripple::Ledger::roundCloseTime">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a5226908762b8529614ba9351999c6c52" title="ripple::Ledger::Ledger" alt="" coords="277,5,424,35"/>
+<area shape="rect" id="node5" href="$d7/d5f/a00831.html#ae4292911c54b0bcf21a3754a47832b5a" title="ripple::LedgerConsensusImp\l::roundCloseTime" alt="" coords="257,58,444,105"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#a8026e84f390a0405b80ef935fa660df8" title="ripple::Ledger::setAccepted" alt="" coords="260,128,441,157"/>
+</map>

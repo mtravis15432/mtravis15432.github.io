@@ -1,0 +1,25 @@
+<map id="beast::IP::IPEndpoint_test::testEndpoint" name="beast::IP::IPEndpoint_test::testEndpoint">
+<area shape="rect" id="node3" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="211,109,357,155"/>
+<area shape="rect" id="node24" href="$da/dc3/a00453.html#a714dd5e5739d5173d1998925155ef09f" title="beast::IP::Endpoint\l::from_string_checked" alt="" coords="209,178,359,225"/>
+<area shape="rect" id="node26" href="$d9/db3/a00066.html#ad39fa7ab4f7f8ec2ea76631e06b65c76" title="beast::IP::AddressV4\l::get_class" alt="" coords="211,247,357,294"/>
+<area shape="rect" id="node28" href="$d2/d7f/a03369.html#abe52052bf8ee760f14bdf9c06e398212" title="beast::IP::is_loopback" alt="" coords="621,343,773,372"/>
+<area shape="rect" id="node30" href="$d2/d7f/a03369.html#a5ccebc5994566542ca44793961dbd324" title="beast::IP::is_multicast" alt="" coords="417,491,569,520"/>
+<area shape="rect" id="node32" href="$d2/d7f/a03369.html#a25de154b027e488d8e4be8362e6b6927" title="beast::IP::is_private" alt="" coords="424,368,563,397"/>
+<area shape="rect" id="node35" href="$d2/d7f/a03369.html#a0a2f19c5d2d5c88d53996c2df2d3eaf0" title="beast::IP::is_public" alt="" coords="217,419,351,448"/>
+<area shape="rect" id="node43" href="$d2/d7f/a03369.html#ab56ae9d3b6003bad39bea158b35d8d67" title="beast::IP::is_unspecified" alt="" coords="201,523,367,552"/>
+<area shape="rect" id="node45" href="$db/dfd/a01608.html#a02554fbd9200fc71efa03e2cf3430424" title="beast::unit_test::suite\l::testcase" alt="" coords="624,39,771,86"/>
+<area shape="rect" id="node48" href="$d2/d7f/a03369.html#a4a51c292cb48681521db67f2b4848736" title="beast::IP::to_string" alt="" coords="217,576,351,605"/>
+<area shape="rect" id="node50" href="$da/dc3/a00453.html#a8532f94749a6875ccf4549200f085e03" title="beast::IP::Endpoint\l::to_v4" alt="" coords="217,629,351,675"/>
+<area shape="rect" id="node5" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="420,109,567,155"/>
+<area shape="rect" id="node17" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="420,178,567,225"/>
+<area shape="rect" id="node7" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="620,109,775,155"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="825,39,980,86"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="825,109,980,155"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1031,5,1185,51"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1031,74,1185,121"/>
+<area shape="rect" id="node19" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="620,178,775,225"/>
+<area shape="rect" id="node22" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="825,178,980,225"/>
+<area shape="rect" id="node37" href="$d9/db3/a00066.html#a9151824ddc4a9a6886c10054d8f53d7c" title="beast::IP::AddressV4\l::broadcast" alt="" coords="420,421,567,467"/>
+<area shape="rect" id="node39" href="$d9/db3/a00066.html#ad1c90b9bc49455786e2d95022b695c02" title="beast::IP::AddressV4\l::AddressV4" alt="" coords="624,421,771,467"/>
+<area shape="rect" id="node52" href="$de/de1/a00065.html#abdece011772a8923fe4b8e719e3f3141" title="beast::IP::Address\l::to_v4" alt="" coords="428,629,559,675"/>
+</map>

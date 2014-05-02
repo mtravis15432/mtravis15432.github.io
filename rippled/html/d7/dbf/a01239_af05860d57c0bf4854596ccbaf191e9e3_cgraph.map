@@ -1,0 +1,5 @@
+<map id="beast::RelativeTime::fromStartup" name="beast::RelativeTime::fromStartup">
+<area shape="rect" id="node3" href="$d6/d18/a03350.html#a05b9ebb2b8f42f2c0add7c0a27dd0e47" title="beast::detail::getStartupTime" alt="" coords="193,5,383,35"/>
+<area shape="rect" id="node5" href="$d6/d18/a03350.html#a5a1078c54fc6cc03ff318d0bab6871bc" title="beast::detail::monotonic\lCurrentTimeInSeconds" alt="" coords="433,23,593,70"/>
+<area shape="rect" id="node8" href="$d7/dbf/a01239.html#a36a8e77c75eb5a22da1f0fabd303784b" title="beast::RelativeTime\l::RelativeTime" alt="" coords="219,109,357,155"/>
+</map>

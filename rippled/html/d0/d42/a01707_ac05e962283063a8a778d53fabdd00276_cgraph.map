@@ -1,0 +1,14 @@
+<map id="rocksdb::TransactionLogIteratorImpl::OpenLogReader" name="rocksdb::TransactionLogIteratorImpl::OpenLogReader">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="295,20,436,49"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="297,121,433,150"/>
+<area shape="rect" id="node9" href="$d0/d42/a01707.html#a92c57304295cf5cdb3fcd55325e42c28" title="rocksdb::TransactionLogIterator\lImpl::OpenLogFile" alt="" coords="263,174,468,220"/>
+<area shape="rect" id="node25" href="$d0/d42/a01707.html#a71a04ce106c8f40998e36b2256ea2d42" title="rocksdb::TransactionLogIterator\lImpl::status" alt="" coords="523,342,728,388"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="784,9,944,38"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#ae2353d93f3d1d9aaff4f7373f738fdc6" title="rocksdb::ArchivedLogFileName" alt="" coords="524,76,727,105"/>
+<area shape="rect" id="node15" href="$d0/db9/a01552.html#aebdc2d6b55f9d3145ea7add1551be0bc" title="rocksdb::Status::IOError" alt="" coords="544,22,707,52"/>
+<area shape="rect" id="node18" href="$d4/d87/a03436.html#ad2e1157820fce4ccbfc1846e12be2477" title="rocksdb::LogFileName" alt="" coords="549,129,701,158"/>
+<area shape="rect" id="node21" href="$d8/d0a/a00904.html#ac512eef738c0f09c8f019607937e2153" title="rocksdb::LogFile::LogNumber" alt="" coords="529,182,721,212"/>
+<area shape="rect" id="node23" href="$db/db1/a00460.html#af2eb6650bd551549c4f6f66ce0e51de3" title="rocksdb::Env::NewSequentialFile" alt="" coords="517,236,733,265"/>
+<area shape="rect" id="node27" href="$d8/d0a/a00904.html#a680e4dd110f67560c473f4a8f66a595f" title="rocksdb::LogFile::Type" alt="" coords="548,289,703,318"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a645cac7eafed2fae5df45e8483f8fbaf" title="rocksdb::MakeFileName" alt="" coords="783,89,945,118"/>
+</map>

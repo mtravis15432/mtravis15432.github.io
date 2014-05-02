@@ -1,0 +1,28 @@
+<map id="beast::asio::TestPeerBasics::test_category" name="beast::asio::TestPeerBasics::test_category">
+<area shape="rect" id="node3" href="$d2/d7b/a01672.html#aec926a89d6f67e3419b4589461a7dfdb" title="beast::asio::TestPeerBasics\l::make_error" alt="" coords="240,690,427,737"/>
+<area shape="rect" id="node5" href="$d2/d7b/a01672.html#a7017f7246480173765fb139c7533bd2e" title="beast::asio::TestPeerBasics\l::expected" alt="" coords="475,605,661,651"/>
+<area shape="rect" id="node11" href="$d3/de1/a01111.html#a7bbb2df309564e336b1c323967292ad4" title="beast::asio::PeerTest::run" alt="" coords="1656,673,1829,703"/>
+<area shape="rect" id="node44" href="$d5/d83/a01680.html#affcada2aeb412d589dcdf7fdb6e354c0" title="beast::asio::TestPeerType::run" alt="" coords="1641,404,1844,433"/>
+<area shape="rect" id="node56" href="$d5/d83/a01680.html#a4bb3aded6f9552f027ec9218c1a6ff55" title="beast::asio::TestPeerType\l::join" alt="" coords="715,725,891,771"/>
+<area shape="rect" id="node59" href="$d2/d7b/a01672.html#a66f4f93e2f80ac34268253e74a381c3b" title="beast::asio::TestPeerBasics\l::make_error" alt="" coords="475,775,661,822"/>
+<area shape="rect" id="node63" href="$dd/d42/a01259.html#a49f1cab50fb536431e3828c6e69cab66" title="beast::asio::PeerTest\l::Result::timedout" alt="" coords="495,845,641,891"/>
+<area shape="rect" id="node7" href="$d5/d83/a01680.html#a1de1a4c453f21390c7b83cdb09f3b4e4" title="beast::asio::TestPeerType\l::on_deadline" alt="" coords="1172,605,1348,651"/>
+<area shape="rect" id="node13" href="$d2/d7b/a01672.html#ac6d46a1d3535ac9bfed338aaf347f5b9" title="beast::asio::TestPeerBasics\l::unexpected" alt="" coords="709,346,896,393"/>
+<area shape="rect" id="node9" href="$d5/d83/a01680.html#a391464241bea9f972254a2f057276ffd" title="beast::asio::TestPeerType\l::start" alt="" coords="1404,605,1580,651"/>
+<area shape="rect" id="node15" href="$db/d98/a01675.html#a29a39d3254649790041d86fa866f1d4f" title="beast::asio::TestPeerLogic\lAsyncClient::on_write" alt="" coords="1403,265,1581,311"/>
+<area shape="rect" id="node21" href="$db/d98/a01675.html#acf6b9cf80546421578be5084fe466bd8" title="beast::asio::TestPeerLogic\lAsyncClient::on_read" alt="" coords="1171,295,1349,342"/>
+<area shape="rect" id="node24" href="$db/d98/a01675.html#a759cd2fa3d57209c020c8d499d097bf1" title="beast::asio::TestPeerLogic\lAsyncClient::on_read_final" alt="" coords="944,346,1123,393"/>
+<area shape="rect" id="node27" href="$de/d3e/a01676.html#ab586b661549f5978735be443bc11e99d" title="beast::asio::TestPeerLogic\lAsyncServer::on_read" alt="" coords="1171,125,1349,171"/>
+<area shape="rect" id="node33" href="$de/d3e/a01676.html#a3022dd7de9b3d5e3391cefbad75c533c" title="beast::asio::TestPeerLogic\lAsyncServer::on_write" alt="" coords="944,125,1123,171"/>
+<area shape="rect" id="node36" href="$d6/d26/a01678.html#a746f2dfc2f0eae97a031979c48b6e405" title="beast::asio::TestPeerLogic\lSyncClient::on_connect" alt="" coords="944,485,1123,531"/>
+<area shape="rect" id="node38" href="$d2/d34/a01679.html#a837a6a568a45967cda8aad56a60447a2" title="beast::asio::TestPeerLogic\lSyncServer::on_connect" alt="" coords="944,554,1123,601"/>
+<area shape="rect" id="node40" href="$d5/d83/a01680.html#a61fcdb2a792a0f631b53994dba7a5aee" title="beast::asio::TestPeerType\l::finished" alt="" coords="945,415,1121,462"/>
+<area shape="rect" id="node17" href="$db/d98/a01675.html#a757c6d9bf5e0554637fe5a170077b7ae" title="beast::asio::TestPeerLogic\lAsyncClient::on_handshake" alt="" coords="1651,265,1835,311"/>
+<area shape="rect" id="node19" href="$db/d98/a01675.html#a82f2ae6c0a2789674696a165d4fa454e" title="beast::asio::TestPeerLogic\lAsyncClient::on_connect_async" alt="" coords="1899,265,2109,311"/>
+<area shape="rect" id="node29" href="$de/d3e/a01676.html#aa1a4e9982dbb8df83ea6ff0f40ebccc3" title="beast::asio::TestPeerLogic\lAsyncServer::on_handshake" alt="" coords="1397,5,1587,51"/>
+<area shape="rect" id="node31" href="$de/d3e/a01676.html#a8601477aa6269124849cc945502296d6" title="beast::asio::TestPeerLogic\lAsyncServer::on_connect_async" alt="" coords="1636,5,1849,51"/>
+<area shape="rect" id="node42" href="$d5/d83/a01680.html#a4a6d6954bdd6ae6a6cea730f7844df7a" title="beast::asio::TestPeerType\l::run_sync_server" alt="" coords="1404,514,1580,561"/>
+<area shape="rect" id="node46" href="$d5/d83/a01680.html#a0bffdde3a58bcba0890b6bbe411a254d" title="beast::asio::TestPeerType\l::on_accept" alt="" coords="1172,485,1348,531"/>
+<area shape="rect" id="node48" href="$d5/d83/a01680.html#ab1d62a9bbcbd3bcbcd05bdc61a721203" title="beast::asio::TestPeerType\l::run_async_server" alt="" coords="1404,425,1580,471"/>
+<area shape="rect" id="node52" href="$d5/d83/a01680.html#a8c58b10261c9b1edb26a495d6c188294" title="beast::asio::TestPeerType\l::run_sync_client" alt="" coords="1172,365,1348,411"/>
+</map>

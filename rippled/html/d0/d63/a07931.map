@@ -1,0 +1,20 @@
+<map id="ripple::Overlay" name="ripple::Overlay">
+<area shape="rect" id="node2" href="$d2/d49/a01561.html" title="beast::Stoppable" alt="" coords="1167,161,1287,191"/>
+<area shape="rect" id="node10" href="$dd/d56/a00274.html" title="beast::Stoppable::Child" alt="" coords="1415,224,1572,253"/>
+<area shape="rect" id="node15" href="$d9/dda/a01289.html" title="beast::RootStoppable" alt="" coords="1420,91,1567,120"/>
+<area shape="rect" id="node4" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; int \&gt;" alt="" coords="885,60,1027,89"/>
+<area shape="rect" id="node6" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="373,192,520,221"/>
+<area shape="rect" id="node8" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,243,136,272"/>
+<area shape="rect" id="node19" href="$d2/d79/a00898.html" title="beast::LockFreeStack\l\&lt; Child \&gt;" alt="" coords="881,117,1031,163"/>
+<area shape="rect" id="node22" href="$d3/d08/a01018.html" title="beast::LockFreeStack\l\&lt; Element, Tag \&gt;::Node" alt="" coords="187,50,349,97"/>
+<area shape="rect" id="node29" href="$d9/db0/a01437.html" title="beast::PropertyStream\l::Source" alt="" coords="1151,354,1303,401"/>
+<area shape="rect" id="node32" href="$d7/dde/a01384.html" title="beast::SharedData\&lt;\l State \&gt;" alt="" coords="887,354,1025,401"/>
+<area shape="rect" id="node41" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lWaiter \&gt;" alt="" coords="193,493,343,557"/>
+<area shape="rect" id="node44" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lItem \&gt;" alt="" coords="193,405,343,469"/>
+<area shape="rect" id="node25" href="$d7/d06/a00131.html" title="beast::Atomic\&lt; beast\l::LockFreeStack::Node * \&gt;" alt="" coords="547,7,725,54"/>
+<area shape="rect" id="node35" href="$d3/deb/a01386.html" title="beast::SharedMutexAdapter\l\&lt; RecursiveMutex \&gt;" alt="" coords="544,294,728,341"/>
+<area shape="rect" id="node37" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="189,301,347,331"/>
+<area shape="rect" id="node39" href="$dc/d96/a01517.html" title="beast::ServiceQueueBase\l::State" alt="" coords="549,414,723,461"/>
+<area shape="rect" id="node47" title="STL class. " alt="" coords="916,457,996,487"/>
+<area shape="rect" id="node49" title="STL class. " alt="" coords="573,483,699,530"/>
+</map>

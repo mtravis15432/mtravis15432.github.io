@@ -1,0 +1,27 @@
+<map id="beast::StringHolder::StringHolder" name="beast::StringHolder::StringHolder">
+<area shape="rect" id="node3" href="$dc/d42/a01591.html#adb81bef342e3066514cffd407103616d" title="beast::StringHolder\l::createUninitialisedBytes" alt="" coords="189,143,360,190"/>
+<area shape="rect" id="node5" href="$dc/d42/a01591.html#acedfdf893137590a6d9b4da2a80c9be6" title="beast::StringHolder\l::createFromCharPointer" alt="" coords="417,39,583,86"/>
+<area shape="rect" id="node7" href="$dc/d42/a01591.html#a8b7214fc0c00f141f5e0f962cc649673" title="beast::StringHolder\l::createFromFixedLength" alt="" coords="417,109,583,155"/>
+<area shape="rect" id="node19" href="$dc/d42/a01591.html#a054d44c73daa27fa9acd0f86748cc874" title="beast::StringHolder\l::makeUnique" alt="" coords="433,178,567,225"/>
+<area shape="rect" id="node21" href="$dc/d42/a01591.html#af246d66888ff3516325ccb8799ec02f5" title="beast::StringHolder\l::makeUniqueWithByteSize" alt="" coords="409,282,591,329"/>
+<area shape="rect" id="node9" href="$d4/d56/a01042.html#ab0f62e9ad2dc8011090a3cc37e01d63e" title="beast::NumberToStringConverters\l::createFromFixedLength" alt="" coords="640,74,861,121"/>
+<area shape="rect" id="node11" href="$d4/d56/a01042.html#a3abd88ef2938c66c70582b80b7a81e35" title="beast::NumberToStringConverters\l::createFromInteger" alt="" coords="909,5,1131,51"/>
+<area shape="rect" id="node15" href="$d4/d56/a01042.html#a6a9b5f33b220284207f96805bbec4e0e" title="beast::NumberToStringConverters\l::createFromDouble" alt="" coords="909,74,1131,121"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#ab90d0c3996ec8bb963898e6909bd4003" title="beast::String::fromNumber" alt="" coords="1195,13,1371,43"/>
+<area shape="rect" id="node17" href="$d1/d88/a01578.html#a74d9595477d1249a41f3391997e8487c" title="beast::String::fromNumber" alt="" coords="1195,83,1371,112"/>
+<area shape="rect" id="node23" href="$d1/d88/a01578.html#a13768c1615c2b271a1362a950e49683b" title="beast::String::preallocate\lBytes" alt="" coords="668,282,833,329"/>
+<area shape="rect" id="node51" href="$d1/d88/a01578.html#a3c5cbd3b246245a8921374d49d6a5c4c" title="beast::String::operator+=" alt="" coords="668,352,833,381"/>
+<area shape="rect" id="node25" href="$d7/dbf/a01239.html#af2d4493d23ef031e37714ccdc39d3cad" title="beast::RelativeTime\l::getDescription" alt="" coords="951,143,1089,190"/>
+<area shape="rect" id="node31" href="$d6/d91/a01587.html#a9b5174b6c754811057561141363afc7b" title="beast::StringEncodingConverter\l::convert" alt="" coords="917,213,1123,259"/>
+<area shape="rect" id="node33" href="$d1/d88/a01578.html#aebbedd227ae5b93fbcc5d2fea616f972" title="beast::String::appendChar\lPointer" alt="" coords="933,282,1107,329"/>
+<area shape="rect" id="node35" href="$dd/d95/a01247.html#afb9732437d2da1cdec19e8360edc5936" title="beast::FatalError::\lReporter::formatMessage" alt="" coords="935,351,1105,398"/>
+<area shape="rect" id="node41" href="$da/d45/a00961.html#a4753ef2b4d29d920f4a31ab6696b4b8b" title="beast::MemoryBlock\l::toBase64Encoding" alt="" coords="949,421,1091,467"/>
+<area shape="rect" id="node43" href="$d9/d1b/a01583.html#a066c2baf4282cd4bc0224061193cd0d3" title="beast::StringArray\l::joinIntoString" alt="" coords="957,490,1083,537"/>
+<area shape="rect" id="node27" href="$d7/dbf/a01239.html#a1ff0885f6caff8069477e931e71fbf25" title="beast::RelativeTime\l::to_string" alt="" coords="1213,143,1352,190"/>
+<area shape="rect" id="node29" href="$d5/d83/a03337.html#a0162d07bf3f05e77ce8a97a50c9b3f3c" title="beast::operator\&lt;\&lt;" alt="" coords="1463,152,1588,181"/>
+<area shape="rect" id="node37" href="$dd/d95/a01247.html#a8495df3db90c72dcedea534defc3b88b" title="beast::FatalError::\lReporter::onFatalError" alt="" coords="1208,351,1357,398"/>
+<area shape="rect" id="node39" href="$d8/d14/a00522.html#a6d670aa941710f069c5e0a34d45dcec5" title="beast::FatalError::\lFatalError" alt="" coords="1463,351,1588,398"/>
+<area shape="rect" id="node45" href="$dc/d2b/a00546.html#abfdf12e23fcd9189d2d65b5f4e8e515b" title="beast::FileSearchPath\l::toString" alt="" coords="1208,459,1357,506"/>
+<area shape="rect" id="node47" href="$d5/d3e/a01139.html#a2cca8fa1972339dcb0cc883b038597df" title="beast::Process::openDocument" alt="" coords="1180,529,1385,559"/>
+<area shape="rect" id="node49" href="$d4/d33/a00536.html#a4854c9dbc046424c675b5385a0245bcb" title="beast::File::startAsProcess" alt="" coords="1435,529,1616,559"/>
+</map>

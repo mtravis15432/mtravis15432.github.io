@@ -1,0 +1,6 @@
+<map id="beast::block_stream::tail" name="beast::block_stream::tail">
+<area shape="rect" id="node3" href="$de/d79/a00203.html#a1abbb283fa0c815a9d82ae1eab6d7ead" title="beast::block_stream\l\&lt; std::size_t, prng\l_hasher\&lt; PRNG \&gt; \&gt;::finish" alt="" coords="208,5,389,69"/>
+<area shape="rect" id="node7" href="$de/d79/a00203.html#aeb9b09d3c597c18ea81236e9b960f90a" title="beast::block_stream\l\&lt; std::size_t, prng\l_hasher\&lt; PRNG \&gt; \&gt;::operator()" alt="" coords="196,93,401,157"/>
+<area shape="rect" id="node5" href="$d0/d39/a01138.html#ae3a4587a14c8260d432195a6ce761f1f" title="beast::hash_append\l_tests::prng_hasher\l::size_t" alt="" coords="451,5,589,69"/>
+<area shape="rect" id="node9" href="$d0/d39/a01138.html#aaae52d1b79b9c08e1d0b7eb57b0894d4" title="beast::hash_append\l_tests::prng_hasher\l::append" alt="" coords="451,93,589,157"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="beast::Journal::Sink::console" name="beast::Journal::Sink::console">
+<area shape="rect" id="node3" href="$db/d5a/a01842.html#a7462e2ae026800972628b8eb3b537b88" title="ripple::PeerFinder\l::WrappedSink::console" alt="" coords="193,5,353,51"/>
+<area shape="rect" id="node5" href="$d3/dd1/a00914.html#a18dc7e88b32b3eee4bb1e48d14c9006e" title="ripple::LogPartition\l::setConsoleOutput" alt="" coords="207,74,340,121"/>
+<area shape="rect" id="node9" href="$d3/dd1/a00914.html#a71bf0575f1bcc4589a3f72cbb1da8680" title="ripple::LogPartition\l::write" alt="" coords="208,143,339,190"/>
+<area shape="rect" id="node7" href="$d0/d61/a00100.html#a0c3f15a3c50547ecb0a40f5824465774" title="ripple::ApplicationImp\l::setup" alt="" coords="403,74,549,121"/>
+<area shape="rect" id="node11" href="$d0/dac/a00901.html#afb2544e14d49f64f2c473f4e601859e9" title="ripple::Log::~Log" alt="" coords="417,152,535,181"/>
+</map>

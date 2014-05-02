@@ -1,0 +1,7 @@
+<map id="rocksdb::BeforeFile" name="rocksdb::BeforeFile">
+<area shape="rect" id="node3" href="$d0/d61/a00302.html#a9fe800fa52b86a61b626a58f46a38f81" title="rocksdb::Comparator\l::Compare" alt="" coords="189,5,333,51"/>
+<area shape="rect" id="node5" href="$de/de6/a00723.html#acca0686883e32fd3876bfacc844f4f3a" title="rocksdb::InternalKey\l::user_key" alt="" coords="191,74,332,121"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#ae015f9b23bbadef7eb4e3796c2d4fb46" title="rocksdb::ExtractUserKey" alt="" coords="383,83,551,112"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="601,56,737,85"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="600,109,739,139"/>
+</map>

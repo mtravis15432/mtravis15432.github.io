@@ -1,0 +1,17 @@
+<map id="rippled/src/ripple_basics/utility/CountedObject.h" name="rippled/src/ripple_basics/utility/CountedObject.h">
+<area shape="rect" id="node3" href="$da/d67/a02133.html" title="../../beast/beast/utility\l/LeakChecked.h" alt="" coords="564,102,713,149"/>
+<area shape="rect" id="node5" href="$d0/dde/a01924.html" title="../Config.h" alt="" coords="419,352,501,381"/>
+<area shape="rect" id="node24" href="$d6/d4c/a01903.html" title="../Atomic.h" alt="" coords="535,275,620,304"/>
+<area shape="rect" id="node33" href="$d3/dea/a02041.html" title="../intrusive/LockFreeStack.h" alt="" coords="611,197,797,227"/>
+<area shape="rect" id="node42" href="$db/df6/a02138.html" title="StaticObject.h" alt="" coords="821,197,925,227"/>
+<area shape="rect" id="node7" href="$d5/dba/a01940.html" title="config/SelectCompilerConfig.h" alt="" coords="5,429,203,459"/>
+<area shape="rect" id="node9" href="$d3/d28/a02147.html" title="Version.h" alt="" coords="227,429,304,459"/>
+<area shape="rect" id="node11" href="$d4/d25/a01939.html" title="config/PlatformConfig.h" alt="" coords="263,507,420,536"/>
+<area shape="rect" id="node13" href="$d5/d31/a01931.html" title="config/CompilerConfig.h" alt="" coords="379,429,541,459"/>
+<area shape="rect" id="node18" href="$df/dd8/a01943.html" title="config/StandardConfig.h" alt="" coords="565,429,728,459"/>
+<area shape="rect" id="node20" href="$d8/d22/a01932.html" title="config/ConfigCheck.h" alt="" coords="752,429,899,459"/>
+<area shape="rect" id="node22" href="$db/da1/a01944.html" title="config/Suffix.h" alt="" coords="923,429,1029,459"/>
+<area shape="rect" id="node27" href="$d5/d8b/a02060.html" title="StaticAssert.h" alt="" coords="525,352,629,381"/>
+<area shape="rect" id="node29" href="$db/ddd/a02136.html" title="utility/noexcept.h" alt="" coords="653,352,773,381"/>
+<area shape="rect" id="node36" href="$d4/d18/a02106.html" title="../Uncopyable.h" alt="" coords="644,275,759,304"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="beast::Atomic::set" name="beast::Atomic::set">
+<area shape="rect" id="node3" href="$df/d10/a01357.html#a28eecf5b23ac3ec7e871667fda502f45" title="beast::ServiceQueueBase\l::reset" alt="" coords="185,5,359,51"/>
+<area shape="rect" id="node9" href="$df/d10/a01357.html#aeb9d25b5c5807ca7a4a4cb61892da849" title="beast::ServiceQueueBase\l::stop" alt="" coords="185,74,359,121"/>
+<area shape="rect" id="node15" href="$d5/deb/a00132.html#ad1b00989f87b30a7ff1a1fb3c44a6699" title="beast::Atomic_test\l::testInteger" alt="" coords="207,143,337,190"/>
+<area shape="rect" id="node5" href="$de/d5c/a01358.html#a1ea8933129752104f97bc71f65693324" title="beast::ServiceQueueType\l::reset" alt="" coords="408,5,581,51"/>
+<area shape="rect" id="node7" href="$d8/d19/a00935.html#ab6a4b7be79b230882200debdeef5c20a" title="ripple::SiteFiles::\lManagerImp::run" alt="" coords="641,5,761,51"/>
+<area shape="rect" id="node11" href="$de/d5c/a01358.html#a240cdf671e9187b960a218d7ce2158a9" title="beast::ServiceQueueType\l::stop" alt="" coords="408,74,581,121"/>
+<area shape="rect" id="node13" href="$d8/d19/a00935.html#a82e5b2e322bc89a13ac0d2a56fd0c386" title="ripple::SiteFiles::\lManagerImp::onStop" alt="" coords="631,74,772,121"/>
+</map>

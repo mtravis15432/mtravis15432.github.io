@@ -1,0 +1,20 @@
+<map id="ripple::SHAMap::addKnownNode" name="ripple::SHAMap::addKnownNode">
+<area shape="rect" id="node3" href="$da/d61/a01350.html#a8d8774ca938809be8323d3957a62af90" title="ripple::Serializer\l::addRaw" alt="" coords="328,5,443,51"/>
+<area shape="rect" id="node5" href="$d6/dfe/a01366.html#a0cbc90c0f285837e3bd46dc97ee4b3ad" title="ripple::SHAMap::canonicalize" alt="" coords="288,75,483,104"/>
+<area shape="rect" id="node7" href="$d6/dfe/a01366.html#a98e2166ebf9e9f07a511c74a00652a49" title="ripple::SHAMap::checkCacheNode" alt="" coords="272,128,499,157"/>
+<area shape="rect" id="node9" href="$dd/d0c/a01368.html#aaf82bb25d47056d0704304c70d79ec28" title="ripple::SHAMapAddNode\l::duplicate" alt="" coords="301,842,469,889"/>
+<area shape="rect" id="node13" href="$df/d0b/a01372.html#ae6c4d02a3c9cd7ae9363dafc13e74f59" title="ripple::SHAMapNode\l::getDepth" alt="" coords="313,250,457,297"/>
+<area shape="rect" id="node15" href="$df/d0b/a01372.html#a4f1066002c946341252cced06ad46ef3" title="ripple::SHAMapNode\l::getNodeID" alt="" coords="313,319,457,366"/>
+<area shape="rect" id="node17" href="$d6/dfe/a01366.html#ad90655d2e3a0623bf196e0bee9da8371" title="ripple::SHAMap::getNodePointerNT" alt="" coords="271,389,500,419"/>
+<area shape="rect" id="node19" href="$df/d0b/a01372.html#a59b0646070ce1e3cca5f01eda39da922" title="ripple::SHAMapNode\l::getParentNodeID" alt="" coords="313,181,457,227"/>
+<area shape="rect" id="node23" href="$d5/df5/a01375.html#a46f1e131e27721a7184b846f2b4ae677" title="ripple::SHAMapSyncFilter\l::gotNode" alt="" coords="299,511,472,558"/>
+<area shape="rect" id="node25" href="$dd/d0c/a01368.html#a3dc682b7185ec0834398b3aa2b2d0034" title="ripple::SHAMapAddNode\l::invalid" alt="" coords="301,581,469,627"/>
+<area shape="rect" id="node28" href="$df/d0b/a01372.html#a4b5400b19294466b4f910657b482e744" title="ripple::SHAMapNode\l::isRoot" alt="" coords="313,650,457,697"/>
+<area shape="rect" id="node30" href="$d6/dfe/a01366.html#a050a4f2f37af8082474d6f9c9555d59b" title="ripple::SHAMap::isSynching" alt="" coords="292,720,479,749"/>
+<area shape="rect" id="node32" href="$da/d61/a01350.html#a6d7436e5990cb278bd924cef9396df3c" title="ripple::Serializer\l::modData" alt="" coords="328,773,443,819"/>
+<area shape="rect" id="node34" href="$dc/de6/a00167.html#aff1d832db016f51e040b07a8a6dd3bbd" title="ripple::RadMap::BasicFull\lBelowCache::touch_if_exists" alt="" coords="289,911,481,958"/>
+<area shape="rect" id="node38" href="$dd/d0c/a01368.html#a180f6dbffb287cdafd5d36c43919af7d" title="ripple::SHAMapAddNode\l::useful" alt="" coords="301,442,469,489"/>
+<area shape="rect" id="node11" href="$dd/d0c/a01368.html#ad464fbfde2b828dd6f57d9f8c51c6111" title="ripple::SHAMapAddNode\l::SHAMapAddNode" alt="" coords="549,581,717,627"/>
+<area shape="rect" id="node21" href="$df/d0b/a01372.html#a5f0a2e2b69e024fe1e0162d8cc31e426" title="ripple::SHAMapNode\l::SHAMapNode" alt="" coords="561,181,705,227"/>
+<area shape="rect" id="node36" href="$d5/d72/a00803.html#ad93a1bca0da205d937a9b9781ffab7c9" title="ripple::KeyCache::touch\l_if_exists" alt="" coords="552,911,715,958"/>
+</map>

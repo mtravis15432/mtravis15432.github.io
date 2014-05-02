@@ -1,0 +1,9 @@
+<map id="ripple::SHAMapNode::isRoot" name="ripple::SHAMapNode::isRoot">
+<area shape="rect" id="node3" href="$d6/dfe/a01366.html#a2de227a899b0d7e060b00fae68c20f02" title="ripple::SHAMap::addKnownNode" alt="" coords="457,90,671,119"/>
+<area shape="rect" id="node7" href="$d6/dfe/a01366.html#aadfcdee2dbb44b4003e3901caffd74ce" title="ripple::SHAMap::fetchNode\lExternalNT" alt="" coords="213,35,395,81"/>
+<area shape="rect" id="node9" href="$d6/dfe/a01366.html#a1e6e846eeafeff5bb8ef776b8ce494d3" title="ripple::SHAMap::getNodeAsync" alt="" coords="200,155,408,185"/>
+<area shape="rect" id="node16" href="$d6/dfe/a01366.html#ada98c0e06bc5b129154a4968b2a94ca3" title="ripple::SHAMap::getNodeFat" alt="" coords="469,9,659,38"/>
+<area shape="rect" id="node5" href="$d2/dff/a01374.html#a5ba8e3ec0d8dca936347a2d58b235116" title="ripple::SHAMapSync\l_test::run" alt="" coords="741,79,885,125"/>
+<area shape="rect" id="node11" href="$d6/dfe/a01366.html#a3115ce394446e0e2dc1edacb3fa43bc2" title="ripple::SHAMap::getMissing\lNodes" alt="" coords="472,147,656,193"/>
+<area shape="rect" id="node13" href="$d6/dfe/a01366.html#a429e0c35495bd06580fb4d5456cef910" title="ripple::SHAMap::getNeeded\lHashes" alt="" coords="721,148,905,195"/>
+</map>

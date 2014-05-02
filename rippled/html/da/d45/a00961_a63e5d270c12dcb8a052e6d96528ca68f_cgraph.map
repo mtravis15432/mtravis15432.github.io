@@ -1,0 +1,12 @@
+<map id="beast::MemoryBlock::loadFromHexString" name="beast::MemoryBlock::loadFromHexString">
+<area shape="rect" id="node3" href="$da/d45/a00961.html#afa421c383bdc8e6528954b3ef0e004c7" title="beast::MemoryBlock\l::ensureSize" alt="" coords="223,46,364,93"/>
+<area shape="rect" id="node5" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="439,77,580,123"/>
+<area shape="rect" id="node15" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="212,166,375,213"/>
+<area shape="rect" id="node17" href="$d1/d88/a01578.html#a40c6fac1ac62b9bff95ccb438a8363cd" title="beast::String::getCharPointer" alt="" coords="199,236,388,265"/>
+<area shape="rect" id="node19" href="$d1/d88/a01578.html#a0f26ba48e146890e3ea290b726679810" title="beast::String::length" alt="" coords="224,289,363,319"/>
+<area shape="rect" id="node7" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="637,5,813,35"/>
+<area shape="rect" id="node9" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="631,59,820,88"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="668,112,783,141"/>
+<area shape="rect" id="node13" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="636,165,815,195"/>
+<area shape="rect" id="node21" href="$d5/d42/a00269.html#a46bd4590bbb4c1324dd621fa54d94652" title="beast::CharPointer\l_UTF8::length" alt="" coords="444,281,575,327"/>
+</map>

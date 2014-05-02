@@ -1,0 +1,7 @@
+<map id="beast::detail::aged_ordered_container&lt; IsMulti, IsMap, Key, T, Duration, Compare, Allocator &gt;" name="beast::detail::aged_ordered_container&lt; IsMulti, IsMap, Key, T, Duration, Compare, Allocator &gt;">
+<area shape="rect" id="node2" href="$da/de0/a00317.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::config_t" alt="" coords="668,55,823,153"/>
+<area shape="rect" id="node4" href="$d4/dfd/a00810.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::KeyValueCompare" alt="" coords="395,23,600,121"/>
+<area shape="rect" id="node6" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; Compare \&gt;" alt="" coords="131,5,341,51"/>
+<area shape="rect" id="node12" href="$d0/dc4/a00443.html" title="beast::empty_base_optimization\l\&lt; ElementAllocator \&gt;" alt="" coords="392,145,603,191"/>
+<area shape="rect" id="node16" href="$dc/d28/a00276.html" title="beast::detail::aged\l_ordered_container\&lt;\l IsMulti, IsMap, Key,\l T, Duration, Compare,\l Allocator \&gt;::chronological_t" alt="" coords="653,177,837,276"/>
+</map>

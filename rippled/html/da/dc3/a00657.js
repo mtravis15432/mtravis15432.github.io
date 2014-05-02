@@ -1,0 +1,27 @@
+var a00657 =
+[
+    [ "Type", "da/dc3/a00657.html#a3199078bc2b91ba5894a7ab8e24846b7", null ],
+    [ "HeapBlock", "da/dc3/a00657.html#aa9b212c3cc75d348c65c447f5544c145", null ],
+    [ "HeapBlock", "da/dc3/a00657.html#a3206eb02e7bc97c8ae1574f33d097fa1", null ],
+    [ "HeapBlock", "da/dc3/a00657.html#a8882186832655fe5ecd3df1ac3e3d576", null ],
+    [ "HeapBlock", "da/dc3/a00657.html#a43997edd29d113bd0f837476d2708506", null ],
+    [ "~HeapBlock", "da/dc3/a00657.html#ae0497d260bda2258ce3e695abc8b0733", null ],
+    [ "allocate", "da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29", null ],
+    [ "calloc", "da/dc3/a00657.html#ac0753913dbc18b839c01d98c82dad228", null ],
+    [ "clear", "da/dc3/a00657.html#aab7bb5963974dbe57df7c8e5819f7510", null ],
+    [ "free_up", "da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0", null ],
+    [ "getData", "da/dc3/a00657.html#a41bf7600338f15c14466d29c4451ed96", null ],
+    [ "malloc", "da/dc3/a00657.html#a7b24872eeeff33baa8b44daf79fdc0ff", null ],
+    [ "operator const void *", "da/dc3/a00657.html#a2e6e4170d60139bc3adecc1d06113549", null ],
+    [ "operator ElementType *", "da/dc3/a00657.html#a4690594d82080a1439e5a70510a15bc5", null ],
+    [ "operator void *", "da/dc3/a00657.html#a0f5c627a6f057e2f761dc7617a131cd7", null ],
+    [ "operator!=", "da/dc3/a00657.html#acd0bf194f5a383cdf349fea94f3bc74c", null ],
+    [ "operator+", "da/dc3/a00657.html#af3723b0d648ba43585547f0f16479ff3", null ],
+    [ "operator->", "da/dc3/a00657.html#a2187aec631f5c806477a9fcb7cc483d2", null ],
+    [ "operator==", "da/dc3/a00657.html#aaf74f3d6e470be5a42310a4496124ee6", null ],
+    [ "operator[]", "da/dc3/a00657.html#a2321a1444225d6c4642a72e34c2b992e", null ],
+    [ "reallocate", "da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82", null ],
+    [ "swapWith", "da/dc3/a00657.html#a541d44487e2ff4ddf6455a34aff3046f", null ],
+    [ "throwOnAllocationFailure", "da/dc3/a00657.html#a9cfcd00670aef9a343f9774f340735ba", null ],
+    [ "data", "da/dc3/a00657.html#af907041eaef893e9f6b6f51add698cf9", null ]
+];

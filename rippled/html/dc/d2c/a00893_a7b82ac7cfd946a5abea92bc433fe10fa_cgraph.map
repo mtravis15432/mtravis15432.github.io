@@ -1,0 +1,9 @@
+<map id="ripple::LoadMonitor::isOver" name="ripple::LoadMonitor::isOver">
+<area shape="rect" id="node3" href="$dc/d2c/a00893.html#a0cec4a86859a84a0ee2b088ffb6970c0" title="ripple::LoadMonitor\l::isOverTarget" alt="" coords="188,5,319,51"/>
+<area shape="rect" id="node5" href="$dc/d2c/a00893.html#afcec995204526bb7450681a1a055a7b2" title="ripple::LoadMonitor\l::update" alt="" coords="188,74,319,121"/>
+<area shape="rect" id="node7" href="$df/d7b/a01765.html#ac9f8c7e22a8eb347f4be7596bd712d01" title="ripple::UptimeTimer\l::getInstance" alt="" coords="373,39,509,86"/>
+<area shape="rect" id="node9" href="$df/d7b/a01765.html#aeeb43cebafc02bf5d46cb2bfbcd20444" title="ripple::UptimeTimer\l::getElapsedSeconds" alt="" coords="368,109,515,155"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#afbf09b54c10fd7235d007320b890ee00" title="beast::memoryBarrier" alt="" coords="563,117,709,147"/>
+<area shape="rect" id="node13" href="$d5/d83/a03337.html#acf58e32550d7ae5ab7d96608d8373878" title="beast::beast_MemoryBarrier" alt="" coords="757,117,944,147"/>
+<area shape="rect" id="node15" href="$d5/d83/a03337.html#a433242b5aefb262dc5626e4ed2327173" title="beast::beast_Interlocked\lIncrement" alt="" coords="992,109,1157,155"/>
+</map>

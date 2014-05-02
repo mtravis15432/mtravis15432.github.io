@@ -1,0 +1,10 @@
+<map id="beast::asio::HTTPClient_test::IoServiceThread::~IoServiceThread" name="beast::asio::HTTPClient_test::IoServiceThread::~IoServiceThread">
+<area shape="rect" id="node3" href="$d0/dab/a00735.html#a3d8dbbc84c7467733c0bd61f31ffb331" title="beast::asio::HTTPClient\l_test::IoServiceThread::join" alt="" coords="217,135,399,182"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#a02cc909609f8c48d9673fcbe21400215" title="beast::Thread::waitForThread\lToExit" alt="" coords="449,135,641,182"/>
+<area shape="rect" id="node7" href="$d6/d53/a01688.html#a810116e24c319661ba9e7583ae17fa3e" title="beast::Thread::getCurrent\lThreadId" alt="" coords="709,5,880,51"/>
+<area shape="rect" id="node9" href="$dc/dc8/a01695.html#a72213ba0e3eff5f7067dd740922651f2" title="beast::Time::getMillisecond\lCounter" alt="" coords="704,74,885,121"/>
+<area shape="rect" id="node13" href="$d6/d53/a01688.html#a647188494652a4383fae32509d1cb5b3" title="beast::Thread::getThreadId" alt="" coords="705,144,884,173"/>
+<area shape="rect" id="node15" href="$d6/d53/a01688.html#ae3008b46e1f74df7b35a56a9d5e8465c" title="beast::Thread::isThreadRunning" alt="" coords="691,197,899,227"/>
+<area shape="rect" id="node17" href="$d6/d53/a01688.html#a55db77995760cf1a29a154ae57dc9d8d" title="beast::Thread::sleep" alt="" coords="724,251,865,280"/>
+<area shape="rect" id="node11" href="$d5/d83/a03337.html#ab9caefe6aa83608404ede7c32dbadda8" title="beast::beast_milliseconds\lSinceStartup" alt="" coords="947,74,1120,121"/>
+</map>

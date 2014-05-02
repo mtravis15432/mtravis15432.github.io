@@ -1,0 +1,51 @@
+<map id="ripple::NetworkOPsImp::getBookPage" name="ripple::NetworkOPsImp::getBookPage">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#ae4e35f7f501fdd92b8f488ce1237ab83" title="ripple::LedgerEntrySet\l::accountHolds" alt="" coords="236,231,385,278"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#ae1e71aef94d7a8d5730eb85804b710da" title="ripple::STAmount::clear" alt="" coords="724,5,881,35"/>
+<area shape="rect" id="node7" href="$d4/d0e/a01272.html#a5e27ec0a3b2b853272958e1b522bfd59" title="ripple::RippleAddress\l::createHumanAccountID" alt="" coords="951,574,1121,621"/>
+<area shape="rect" id="node13" href="$d0/d08/a00832.html#ad13594cf847a6c56ef479ee44ae3c329" title="ripple::LedgerEntrySet\l::entryCache" alt="" coords="728,402,877,449"/>
+<area shape="rect" id="node27" href="$d2/d41/a01493.html#a207b1e769e476310cc294e5a3d6d299f" title="ripple::STAmount::getText" alt="" coords="716,835,889,864"/>
+<area shape="rect" id="node31" href="$d2/d41/a01493.html#aefb662aaabfc521cb4cdcdb715c7d4b8" title="ripple::STAmount::create\lHumanCurrency" alt="" coords="953,879,1119,926"/>
+<area shape="rect" id="node55" href="$d6/d27/a01781.html#a7e49ac977e4bcf59745a09d426669f75" title="Append value to array at the end. " alt="" coords="240,1319,381,1348"/>
+<area shape="rect" id="node62" href="$d0/d08/a00832.html#ab92759dab9e6a4662f677ce5c95c0451" title="ripple::LedgerEntrySet\l::dirFirst" alt="" coords="236,573,385,619"/>
+<area shape="rect" id="node64" href="$d0/d08/a00832.html#aba4c47da1bc84e37cc5c52f3797494e0" title="ripple::LedgerEntrySet\l::dirNext" alt="" coords="483,573,632,619"/>
+<area shape="rect" id="node77" href="$d2/d41/a01493.html#a547cf5be1bf2fdd7f7cd4cc076d77196" title="ripple::STAmount::divide" alt="" coords="228,1265,393,1295"/>
+<area shape="rect" id="node90" href="$dd/d5f/a00825.html#a75205d48fe6ecf924cfed352ce21fa0a" title="ripple::Ledger::getBookBase" alt="" coords="709,888,896,917"/>
+<area shape="rect" id="node104" href="$dd/d5f/a00825.html#ad8125a5566e9310f96db8d6d421e75d3" title="ripple::Ledger::getQuality" alt="" coords="953,1051,1119,1080"/>
+<area shape="rect" id="node107" href="$dd/d5f/a00825.html#a0e25065aad224c94b2f357268938d352" title="ripple::Ledger::getQualityNext" alt="" coords="213,1372,408,1401"/>
+<area shape="rect" id="node110" href="$d9/d9d/a03417.html#aa3091bec2c625018fadb6aefef12b9ff" title="ripple::min" alt="" coords="269,1425,352,1455"/>
+<area shape="rect" id="node112" href="$d2/d41/a01493.html#a12cf6e60ed96232c0595ebe39a7c65ac" title="ripple::STAmount::multiply" alt="" coords="223,1212,399,1241"/>
+<area shape="rect" id="node124" href="$d0/d08/a00832.html#a6ba791d34f583690720665440d1bc3ca" title="ripple::LedgerEntrySet\l::rippleTransferRate" alt="" coords="483,351,632,398"/>
+<area shape="rect" id="node129" href="$d2/d41/a01493.html#ae9e9a874227002f3c2893ba1eae1b4d2" title="ripple::STAmount::setJson" alt="" coords="469,779,645,808"/>
+<area shape="rect" id="node134" href="$d2/d41/a01493.html#a05d8d9a9e3e2fa2f6f6ced24bed4d224" title="ripple::STAmount::setRate" alt="" coords="223,1099,399,1128"/>
+<area shape="rect" id="node137" href="$d7/db0/a03467.html#a90a67ab6517f594a989c6cb4f3ff67f9" title="rocksdb::crc32c::Value" alt="" coords="233,1505,388,1535"/>
+<area shape="rect" id="node15" href="$dd/d5f/a00825.html#ab0ca75e1c5fa67568377f9962687cf90" title="ripple::Ledger::getAccount\lRootIndex" alt="" coords="716,181,889,227"/>
+<area shape="rect" id="node25" href="$d2/d41/a01493.html#acacb1c47b480b33d3d7fd6cd0d63cbed" title="ripple::STAmount::getFullText" alt="" coords="460,695,655,724"/>
+<area shape="rect" id="node44" href="$d0/d08/a00832.html#acdef4a4acda92a8c7eb5905f6429abcd" title="ripple::LedgerEntrySet\l::rippleHolds" alt="" coords="483,111,632,158"/>
+<area shape="rect" id="node9" href="$d4/d0e/a01272.html#a4d666ed35a56048234a86e53d129ad66" title="ripple::RippleAddress\l::createAccountID" alt="" coords="1179,690,1325,737"/>
+<area shape="rect" id="node11" href="$d4/d0e/a01272.html#a2a8201537b6969c0e186c9b1d889c52b" title="ripple::RippleAddress\l::humanAccountID" alt="" coords="1179,551,1325,598"/>
+<area shape="rect" id="node17" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="979,457,1093,503"/>
+<area shape="rect" id="node19" href="$da/d61/a01350.html#a509771bf1109949d4bee7b71aecc3757" title="ripple::Serializer\l::add160" alt="" coords="1195,621,1309,667"/>
+<area shape="rect" id="node23" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="976,307,1096,354"/>
+<area shape="rect" id="node21" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1379,759,1525,788"/>
+<area shape="rect" id="node29" href="$d2/d41/a01493.html#a0f7eda3369139764c0dd4c6dc806a9d7" title="ripple::STAmount::getHuman\lCurrency" alt="" coords="708,765,897,811"/>
+<area shape="rect" id="node33" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="1189,999,1315,1046"/>
+<area shape="rect" id="node35" href="$d7/d9a/a00152.html#ad19bda12f3725584ac179f2e091e30d7" title="ripple::base_uint::\lToString" alt="" coords="1189,810,1315,857"/>
+<area shape="rect" id="node37" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="1389,875,1515,922"/>
+<area shape="rect" id="node40" href="$d0/d85/a01352.html#a28779f2e8d8ceb7882acfb5534d70754" title="ripple::SerializerIterator\l::getRaw" alt="" coords="1175,879,1329,926"/>
+<area shape="rect" id="node48" href="$dd/d5f/a00825.html#a5fd86d78b17725e35684e77543e538d2" title="ripple::Ledger::getRipple\lStateIndex" alt="" coords="721,111,884,158"/>
+<area shape="rect" id="node53" href="$d2/d41/a01493.html#ad9cebdb647da68f740009f9cda4dbe83" title="ripple::STAmount::negate" alt="" coords="717,59,888,88"/>
+<area shape="rect" id="node57" href="$d6/d27/a01781.html#ab3425a081214e9740a658fc953e8ab8e" title="Number of values in array or object. " alt="" coords="496,1479,619,1508"/>
+<area shape="rect" id="node67" href="$dd/d5f/a00825.html#a0d50fe89b5f50adf3cea06fdb94a03b5" title="ripple::Ledger::getDirNode\lIndex" alt="" coords="716,471,889,518"/>
+<area shape="rect" id="node71" href="$db/d51/a01603.html#ac1d1c102b952d362e77c419487110ec2" title="ripple::STVector256\l::peekValue" alt="" coords="735,541,871,587"/>
+<area shape="rect" id="node73" href="$d7/d9a/a00152.html#a174768646f7fe8d81f4a38f5ccf9e6f5" title="ripple::base_uint::zero" alt="" coords="728,611,877,640"/>
+<area shape="rect" id="node79" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="461,1212,653,1241"/>
+<area shape="rect" id="node81" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="479,1372,636,1401"/>
+<area shape="rect" id="node83" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="479,1425,636,1455"/>
+<area shape="rect" id="node85" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="481,1265,633,1295"/>
+<area shape="rect" id="node87" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="468,1319,647,1348"/>
+<area shape="rect" id="node96" href="$dd/d5f/a00825.html#a320888896e14c9ac9a91da0b113cad1a" title="ripple::Ledger::getQuality\lIndex" alt="" coords="953,754,1119,801"/>
+<area shape="rect" id="node100" href="$dd/d5f/a00825.html#a1734170f6cce15cb6cf85c18d3c2b754" title="ripple::Ledger::isValidBook" alt="" coords="948,965,1124,995"/>
+<area shape="rect" id="node116" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="457,1039,657,1068"/>
+<area shape="rect" id="node118" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="484,1091,631,1138"/>
+<area shape="rect" id="node139" href="$d7/db0/a03467.html#aba0a720f8204028aa9b0f78f969d5f97" title="rocksdb::crc32c::Extend" alt="" coords="476,1532,639,1561"/>
+</map>

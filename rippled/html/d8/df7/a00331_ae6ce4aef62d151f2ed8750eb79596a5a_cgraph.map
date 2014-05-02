@@ -1,0 +1,5 @@
+<map id="ripple::Resource::Consumer::elevate" name="ripple::Resource::Consumer::elevate">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#acd9755f83bf9c964028f39c9b5c392d7" title="ripple::Resource::Logic\l::elevateToAdminEndpoint" alt="" coords="241,5,415,51"/>
+<area shape="rect" id="node5" href="$de/dc3/a00909.html#ac5fbd92d50714fa66c36761eb76b3ab9" title="ripple::Resource::Logic\l::release" alt="" coords="465,5,620,51"/>
+<area shape="rect" id="node7" href="$d2/dee/a00049.html#ae8a34dde26bed08c9a6dbb59f0e9abd1" title="beast::abstract_clock\l::elapsed" alt="" coords="669,5,816,51"/>
+</map>

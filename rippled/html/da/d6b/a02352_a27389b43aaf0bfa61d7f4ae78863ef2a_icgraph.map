@@ -1,0 +1,6 @@
+<map id="sqlite3VtabDisconnect" name="sqlite3VtabDisconnect">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a1ac4084324211c352cb91da6cc84c5e4" title="disconnectAllVtab" alt="" coords="209,32,335,61"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#aa9f2e73837bba8d721dbde0964ffce11" title="sqlite3Close" alt="" coords="385,32,479,61"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#ac43c9032fc6ef3b2a231dc3a9fa44b2d" title="sqlite3_close" alt="" coords="539,5,637,35"/>
+<area shape="rect" id="node9" href="$d1/db9/a02353.html#ad2cb8462eaba28b4c8410ef55a4282b4" title="sqlite3_close_v2" alt="" coords="529,59,647,88"/>
+</map>

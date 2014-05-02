@@ -1,0 +1,12 @@
+<map id="rocksdb::Stats::Report" name="rocksdb::Stats::Report">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a51a424ca9e8e7b4e7d171eb1fde8f9f9" title="rocksdb::AppendWithSpace" alt="" coords="208,85,392,115"/>
+<area shape="rect" id="node11" href="$d9/d41/a00666.html#ad3fdc69795a7fd321ac02be90485f086" title="rocksdb::HistogramImpl\l::ToString" alt="" coords="220,234,380,281"/>
+<area shape="rect" id="node22" href="$de/daf/a01417.html#ac5faa24d39a613c0ce7965d2bd9cf958" title="rocksdb::Slice::ToString" alt="" coords="219,304,381,333"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="452,5,591,35"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="447,59,596,88"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="453,112,589,141"/>
+<area shape="rect" id="node13" href="$d9/d41/a00666.html#a4867568f758a3ff4039ea6669a8ba315" title="rocksdb::HistogramImpl\l::Average" alt="" coords="441,165,601,211"/>
+<area shape="rect" id="node15" href="$d9/d41/a00666.html#a2b82f719dbf8e3427ce61963f46caaea" title="rocksdb::HistogramImpl\l::StandardDeviation" alt="" coords="441,234,601,281"/>
+<area shape="rect" id="node17" href="$d9/d41/a00666.html#a1280fd8befeb28921913c30dcb7f9272" title="rocksdb::HistogramImpl\l::Median" alt="" coords="441,303,601,350"/>
+<area shape="rect" id="node19" href="$d9/d41/a00666.html#a7e1d6937517851e9ec670fd1a1acf952" title="rocksdb::HistogramImpl\l::Percentile" alt="" coords="652,334,812,381"/>
+</map>

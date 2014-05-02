@@ -1,0 +1,20 @@
+<map id="hasHotJournal" name="hasHotJournal">
+<area shape="rect" id="node3" href="$d0/d87/a03399.html#addb402f22cc191c3dc7f4325bb6f684e" title="beast.util.Iter.first" alt="" coords="203,5,325,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="215,59,313,88"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a27dd03ff27e92e9987705acf24840b28" title="pagerPagecount" alt="" coords="207,112,321,141"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a8ac54f19421c76b5045a40b42d282c32" title="pagerUnlockDb" alt="" coords="208,165,320,195"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="179,219,349,248"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="184,272,344,301"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#afeb6079743f71ae6557342ff391d8ceb" title="sqlite3OsAccess" alt="" coords="204,325,324,355"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#ad7b51dd494cecab454c85739c02418fd" title="sqlite3OsCheckReservedLock" alt="" coords="165,379,363,408"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="209,432,319,461"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#a576c2e542e46ddee19d10e75337039c0" title="sqlite3OsDelete" alt="" coords="207,485,321,515"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="161,539,367,568"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="211,592,317,621"/>
+<area shape="rect" id="node37" href="$da/d6b/a02352.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="211,645,317,675"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#ae224ca9067bc3e682180d0ecc1cd2206" title="sqlite3OsLock" alt="" coords="427,5,531,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a7db66cd517e0085a6ce2b6387aa789b6" title="sqlite3WalDbsize" alt="" coords="417,59,540,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="417,112,540,141"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="428,165,529,195"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a7e90db4b3488e8f4a29705edcb8025fe" title="sqlite3OsUnlock" alt="" coords="420,219,537,248"/>
+</map>

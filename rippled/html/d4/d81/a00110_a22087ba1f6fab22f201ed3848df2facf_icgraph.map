@@ -1,0 +1,13 @@
+<map id="beast::Array::add" name="beast::Array::add">
+<area shape="rect" id="node3" href="$d9/d35/a03385.html#a69b33080f1b309ef672ad65762e65146" title="beast::StringArrayHelpers\l::addArray" alt="" coords="180,5,351,51"/>
+<area shape="rect" id="node7" href="$d4/d81/a00110.html#a45cffeafae56d8526c035c6a784b167f" title="beast::Array\&lt; beast\l::String \&gt;::addArray" alt="" coords="197,74,333,121"/>
+<area shape="rect" id="node9" href="$d4/d81/a00110.html#a9f55a1590d9b1870f197b1090359b93b" title="beast::Array\&lt; beast\l::String \&gt;::addIfNotAlready\lThere" alt="" coords="176,144,355,208"/>
+<area shape="rect" id="node11" href="$d4/d81/a00110.html#a6fec88eeee6834164aa1a3326ab98ee6" title="beast::Array\&lt; beast\l::String \&gt;::Array" alt="" coords="197,231,333,278"/>
+<area shape="rect" id="node13" href="$d4/d33/a00536.html#ab13ec2ba88e996b6922884f1edb04c82" title="beast::File::findChildFiles" alt="" coords="180,301,351,331"/>
+<area shape="rect" id="node23" href="$d4/d33/a00536.html#aa93bdc272c799bea99d2f2a1d2029884" title="beast::File::findFileSystem\lRoots" alt="" coords="176,354,355,401"/>
+<area shape="rect" id="node5" href="$d9/d1b/a01583.html#a663ffb23b1fd066c0fbb48ebb95671ca" title="beast::StringArray\l::StringArray" alt="" coords="437,5,563,51"/>
+<area shape="rect" id="node15" href="$d4/d33/a00536.html#a21704d1f015b212236af4de068708477" title="beast::File::setReadOnly" alt="" coords="417,203,583,232"/>
+<area shape="rect" id="node17" href="$d4/d33/a00536.html#ab845737f3990f7c06a6af7c0b0725fb9" title="beast::File::deleteRecursively" alt="" coords="403,256,597,285"/>
+<area shape="rect" id="node19" href="$d4/d33/a00536.html#ab976d35891a49b49da48809db42639bf" title="beast::File::copyDirectoryTo" alt="" coords="407,309,593,339"/>
+<area shape="rect" id="node21" href="$d8/d6e/a00537.html#ad3b22094f7739e23e5099b1df270b843" title="beast::File_test::run" alt="" coords="431,363,569,392"/>
+</map>

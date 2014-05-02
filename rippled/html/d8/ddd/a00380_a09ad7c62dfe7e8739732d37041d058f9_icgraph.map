@@ -1,0 +1,22 @@
+<map id="rocksdb::DB::GetSnapshot" name="rocksdb::DB::GetSnapshot">
+<area shape="rect" id="node3" href="$d8/d64/a00181.html#abe3484e8fee379945192ee569ddc9c7a" title="rocksdb::Benchmark\l::AppendRandom" alt="" coords="761,14,903,61"/>
+<area shape="rect" id="node9" href="$d8/d64/a00181.html#aec879b49228230959c09c20718ee9ed5" title="rocksdb::Benchmark\l::GetMany" alt="" coords="497,74,639,121"/>
+<area shape="rect" id="node14" href="$d4/d27/a00392.html#afee71b4e471d6e195cd74241587a0f3d" title="rocksdb::DBWithTTL\l::GetSnapshot" alt="" coords="244,429,388,476"/>
+<area shape="rect" id="node16" href="$d5/d95/a02625.html#af999ba27285e482f34df3821f9a04214" title="leveldb_create_snapshot" alt="" coords="233,499,399,528"/>
+<area shape="rect" id="node20" href="$d3/daa/a01577.html#a0b6a25d452fda380f8ece74068bdcf76" title="rocksdb::StressTest\l::MultiGet" alt="" coords="247,552,385,598"/>
+<area shape="rect" id="node24" href="$d8/d64/a00181.html#af9a5bd03598f6a11b17e11859fb10a10" title="rocksdb::Benchmark\l::MultiGetRandom" alt="" coords="245,258,387,305"/>
+<area shape="rect" id="node32" href="$d8/d64/a00181.html#a5634eff9318050a11fcda84224263f20" title="rocksdb::Benchmark\l::ReadRandom" alt="" coords="497,365,639,412"/>
+<area shape="rect" id="node40" href="$d8/d64/a00181.html#aadf8c92861f368f9b531dfd4778e023a" title="rocksdb::Benchmark\l::ReadRandomWriteRandom" alt="" coords="737,153,927,200"/>
+<area shape="rect" id="node43" href="$d3/daa/a01577.html#adc885688cb75cceb53fcf6c0eccfa956" title="rocksdb::StressTest\l::MultiIterate" alt="" coords="247,621,385,668"/>
+<area shape="rect" id="node46" href="$d3/daa/a01577.html#a2ef3595857efa0c84b56dd69ac220abe" title="rocksdb::StressTest\l::MultiPrefixScan" alt="" coords="247,690,385,737"/>
+<area shape="rect" id="node51" href="$d8/d64/a00181.html#a6e80da08b7d1fd84d87e116fdfb3f1f2" title="rocksdb::Benchmark\l::UpdateRandom" alt="" coords="497,434,639,481"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="977,266,1151,295"/>
+<area shape="rect" id="node7" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1200,266,1251,295"/>
+<area shape="rect" id="node11" href="$d8/d64/a00181.html#aa19482ee168f1ab9b9b59cb1fc7ca532" title="rocksdb::Benchmark\l::RandomWithVerify" alt="" coords="761,84,903,130"/>
+<area shape="rect" id="node18" href="$d1/d03/a02560.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="543,504,593,534"/>
+<area shape="rect" id="node22" href="$d3/daa/a01577.html#af55a36a036e7348d3442400c050df2ee" title="rocksdb::StressTest\l::OperateDb" alt="" coords="499,621,637,668"/>
+<area shape="rect" id="node26" href="$d8/d64/a00181.html#a54fd1c162f6d9a520567a466cf997d1a" title="rocksdb::Benchmark\l::ReadHot" alt="" coords="761,292,903,338"/>
+<area shape="rect" id="node29" href="$d8/d64/a00181.html#a8d4c710be0a17cf84fc5f8a582c689b9" title="rocksdb::Benchmark\l::ReadMissing" alt="" coords="761,222,903,269"/>
+<area shape="rect" id="node38" href="$d8/d64/a00181.html#a4f8a69bd665b3dfc8d5f9bb3a01fb29e" title="rocksdb::Benchmark\l::ReadRandomWriteRandomMultiGet" alt="" coords="449,194,687,241"/>
+<area shape="rect" id="node34" href="$d8/d64/a00181.html#adf9ea0013ec641c8cac061320a763749" title="rocksdb::Benchmark\l::ReadWhileWriting" alt="" coords="761,361,903,408"/>
+</map>

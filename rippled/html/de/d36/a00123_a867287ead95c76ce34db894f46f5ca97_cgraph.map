@@ -1,0 +1,10 @@
+<map id="ripple::RippleAccountPublicKeyTraits::assign&lt; RippleAddress &gt;::operator()" name="ripple::RippleAccountPublicKeyTraits::assign&lt; RippleAddress &gt;::operator()">
+<area shape="rect" id="node3" href="$d0/d65/a00360.html#ad5698b038bc9c390265c0f8d8ab0f56d" title="ripple::CryptoIdentifier\l\&lt; 33, 35, true \&gt;::construct" alt="" coords="276,105,449,151"/>
+<area shape="rect" id="node17" href="$d4/d0e/a01272.html#ae5e06999971539c90a3b6556cb3af43e" title="ripple::RippleAddress\l::getAccountPublic" alt="" coords="289,174,436,221"/>
+<area shape="rect" id="node5" href="$df/d7d/a00696.html#acdd15e405a195099689d49990b3e2b70" title="ripple::IdentifierStorage\l::storage" alt="" coords="515,5,669,51"/>
+<area shape="rect" id="node7" href="$df/d7d/a00696.html#ae189f974c062dd33bafa5c33ad7e421b" title="ripple::IdentifierStorage\l::begin" alt="" coords="515,74,669,121"/>
+<area shape="rect" id="node9" href="$d0/d79/a03379.html#ad9d24d2965f7eed64b35c9bc131042c9" title="beast::Sha256::hash" alt="" coords="521,144,663,173"/>
+<area shape="rect" id="node15" href="$df/d7d/a00696.html#a04aac0ec7c39b54c122f31675bfb6e81" title="ripple::IdentifierStorage::end" alt="" coords="500,197,684,227"/>
+<area shape="rect" id="node11" href="$dd/d1d/a00336.html#a9f63839a17bb25ccf51b6c62f473654a" title="beast::Sha256::Context\l::finish" alt="" coords="733,101,893,147"/>
+<area shape="rect" id="node13" href="$dd/d1d/a00336.html#a2565cc0a778ad44e0df5d30b0343a299" title="beast::Sha256::Context\l::update" alt="" coords="733,170,893,217"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::PeerFinder::Manager::on_connected" name="ripple::PeerFinder::Manager::on_connected">
+<area shape="rect" id="node3" href="$d9/d10/a01103.html#afb359344939e364b1a9afdcc27a5a0f2" title="ripple::PeerImp::onConnect" alt="" coords="224,13,405,43"/>
+<area shape="rect" id="node5" href="$d9/d10/a01103.html#a586041b00bf2280463df543bafc86f65" title="ripple::PeerImp::connect" alt="" coords="455,13,617,43"/>
+<area shape="rect" id="node7" href="$d9/d10/a01103.html#a2070ddba2d1ac7d2997a0e9b4f76d93f" title="ripple::PeerImp::start" alt="" coords="667,13,811,43"/>
+</map>

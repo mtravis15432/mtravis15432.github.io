@@ -1,0 +1,6 @@
+<map id="ripple::SerializedLedgerEntry" name="ripple::SerializedLedgerEntry">
+<area shape="rect" id="node2" href="$de/d1a/a01559.html" title="ripple::STObject" alt="" coords="573,67,688,96"/>
+<area shape="rect" id="node4" href="$d7/d57/a01348.html" title="ripple::SerializedType" alt="" coords="308,5,455,35"/>
+<area shape="rect" id="node6" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; STObject \&gt;" alt="" coords="308,58,455,105"/>
+<area shape="rect" id="node10" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; SerializedLedgerEntry \&gt;" alt="" coords="544,127,717,174"/>
+</map>

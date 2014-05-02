@@ -1,0 +1,14 @@
+<map id="beast::asio::HTTPClientType::Session::cancel_all" name="beast::asio::HTTPClientType::Session::cancel_all">
+<area shape="rect" id="node3" href="$d2/d1f/a01361.html#a010322a2681148af5862746c8a061716" title="beast::asio::HTTPClientType\l::Session::cancel" alt="" coords="245,122,437,169"/>
+<area shape="rect" id="node5" href="$d2/d1f/a01361.html#a3794c98fc52ca83331b47f86f51cb49a" title="beast::asio::HTTPClientType\l::Session::failed" alt="" coords="245,191,437,238"/>
+<area shape="rect" id="node31" href="$d2/d1f/a01361.html#afef578ef9e7af62f1ee9a69aa53895ee" title="beast::asio::HTTPClientType\l::Session::handle_shutdown" alt="" coords="485,327,677,374"/>
+<area shape="rect" id="node7" href="$d2/d1f/a01361.html#af4ac6a0d17a6a6e9082c3b4ebe5b7ef5" title="beast::asio::HTTPClientType\l::Session::handle_timer" alt="" coords="725,5,917,51"/>
+<area shape="rect" id="node11" href="$d2/d1f/a01361.html#ad478b619b426f06225cc0cbecdb86373" title="beast::asio::HTTPClientType\l::Session::handle_resolve" alt="" coords="1688,65,1880,111"/>
+<area shape="rect" id="node16" href="$d2/d1f/a01361.html#ab80a77112983e74005f16060b0ff6626" title="beast::asio::HTTPClientType\l::Session::handle_connect" alt="" coords="1448,125,1640,171"/>
+<area shape="rect" id="node19" href="$d2/d1f/a01361.html#ae96990d89fc1f77c945a5d8671cfde19" title="beast::asio::HTTPClientType\l::Session::handle_handshake" alt="" coords="1207,201,1399,247"/>
+<area shape="rect" id="node22" href="$d2/d1f/a01361.html#a9226311e76f0e6f65d75965c285265b8" title="beast::asio::HTTPClientType\l::Session::handle_write" alt="" coords="965,226,1157,273"/>
+<area shape="rect" id="node25" href="$d2/d1f/a01361.html#a3f37565984ae37f1aceadb563b05c6ff" title="beast::asio::HTTPClientType\l::Session::handle_read" alt="" coords="725,295,917,342"/>
+<area shape="rect" id="node9" href="$d2/d1f/a01361.html#aaedf159a9068e518f06d8cbe49afab3c" title="beast::asio::HTTPClientType\l::Session::Session" alt="" coords="2168,35,2360,82"/>
+<area shape="rect" id="node13" href="$d2/d1f/a01361.html#a03b2db340ea4750a5a346c0950fac73a" title="beast::asio::HTTPClientType\l::Session::handle_start" alt="" coords="1928,65,2120,111"/>
+<area shape="rect" id="node27" href="$d2/d1f/a01361.html#ab070024548b2945d97a25da99e246b19" title="beast::asio::HTTPClientType\l::Session::async_read_some" alt="" coords="965,295,1157,342"/>
+</map>

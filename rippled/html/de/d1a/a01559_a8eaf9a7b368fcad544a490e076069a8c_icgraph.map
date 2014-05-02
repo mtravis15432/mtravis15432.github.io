@@ -1,0 +1,9 @@
+<map id="ripple::STObject::getFieldU16" name="ripple::STObject::getFieldU16">
+<area shape="rect" id="node3" href="$dc/d54/a01344.html#a29225f5e8089f11e6695dd2f8a6125d6" title="ripple::SerializedLedger\lEntry::getVersion" alt="" coords="264,5,421,51"/>
+<area shape="rect" id="node5" href="$d5/d4c/a01058.html#a40b4eec87d70e45d34408616f9f757b0" title="ripple::OrderBookDB\l::processTxn" alt="" coords="272,74,413,121"/>
+<area shape="rect" id="node11" href="$dc/d54/a01344.html#a1429f819041332a1f7fad9ba2569a216" title="ripple::SerializedLedger\lEntry::SerializedLedgerEntry" alt="" coords="249,143,436,190"/>
+<area shape="rect" id="node15" href="$d9/de4/a01346.html#ace9f4d60d9badbd63a52ca50b5639c9d" title="ripple::SerializedTransaction\l::SerializedTransaction" alt="" coords="249,213,436,259"/>
+<area shape="rect" id="node7" href="$d7/ded/a01009.html#a99f74527e0ad0e6550d3ba503644722e" title="ripple::NetworkOPsImp\l::pubValidatedTransaction" alt="" coords="485,74,659,121"/>
+<area shape="rect" id="node9" href="$d7/ded/a01009.html#a78a85046176bd8a4c348f02a501b14bf" title="ripple::NetworkOPsImp\l::pubLedger" alt="" coords="708,74,865,121"/>
+<area shape="rect" id="node13" href="$dc/d54/a01344.html#a1af2315ff46883d5a5f1c5678477bec4" title="ripple::SerializedLedger\lEntry::duplicate" alt="" coords="493,143,651,190"/>
+</map>

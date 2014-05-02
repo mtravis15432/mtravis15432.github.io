@@ -1,0 +1,14 @@
+<map id="ripple::PeerFinder::ManagerImp::addFallbackStrings" name="ripple::PeerFinder::ManagerImp::addFallbackStrings">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#ae2c2a117544de406267a3eb053971cdd" title="ripple::PeerFinder\l::Logic::addStaticSource" alt="" coords="293,74,459,121"/>
+<area shape="rect" id="node14" href="$de/d5c/a01358.html#a3721e7a3b8b83293b7647c40d3bad10e" title="beast::ServiceQueueType\l::dispatch" alt="" coords="289,143,463,190"/>
+<area shape="rect" id="node24" href="$d0/de2/a01442.html#ae8db3c439c0c717a4dadc371db98f6d3" title="ripple::PeerFinder\l::SourceStrings::New" alt="" coords="303,213,449,259"/>
+<area shape="rect" id="node26" href="$dd/d5d/a01325.html#aa49412b5ff28ce693c3455fb6e200359" title="beast::ScopedWrapperContext\l::wrap" alt="" coords="276,282,476,329"/>
+<area shape="rect" id="node5" href="$df/da5/a00912.html#a4be2b6e2c52bf5259bd9c42bc529b0aa" title="ripple::PeerFinder\l::Logic::fetch" alt="" coords="552,74,675,121"/>
+<area shape="rect" id="node7" href="$df/da5/a00912.html#aaf0faca7a96530a29110cab8bedfd25a" title="ripple::PeerFinder\l::Logic::addBootcacheAddresses" alt="" coords="751,14,964,61"/>
+<area shape="rect" id="node11" href="$df/da5/a00912.html#a25ad5bf43d580646bbfaed3334bedd77" title="ripple::PeerFinder\l::Logic::state" alt="" coords="1052,74,1175,121"/>
+<area shape="rect" id="node9" href="$df/da5/a00912.html#abde06c810bd7e9cb02c9a756c82208c7" title="ripple::PeerFinder\l::Logic::addBootcacheAddress" alt="" coords="1013,5,1213,51"/>
+<area shape="rect" id="node16" href="$df/d10/a01357.html#a3c10f294ceb943aa4c4923a799eb97fc" title="beast::ServiceQueueBase\l::enqueue" alt="" coords="527,143,700,190"/>
+<area shape="rect" id="node22" href="$de/d5c/a01358.html#aa5def258e41cd1b706c627b85f248614" title="beast::ServiceQueueType\l::is_service_thread" alt="" coords="527,213,700,259"/>
+<area shape="rect" id="node18" href="$de/d3c/a01809.html#a6497737035c8b878772c34c0d369d2b8" title="beast::ServiceQueueBase\l::Waiter::signal" alt="" coords="771,143,944,190"/>
+<area shape="rect" id="node20" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="1040,143,1187,190"/>
+</map>

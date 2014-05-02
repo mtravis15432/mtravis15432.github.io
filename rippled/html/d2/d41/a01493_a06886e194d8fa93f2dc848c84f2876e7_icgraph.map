@@ -1,0 +1,6 @@
+<map id="ripple::STAmount::isLegalNet" name="ripple::STAmount::isLegalNet">
+<area shape="rect" id="node3" href="$da/d73/a01090.html#a7ad4cccf4a91ff162dc862e5222cf0c6" title="ripple::PaymentTransactor\l::doApply" alt="" coords="257,5,431,51"/>
+<area shape="rect" id="node5" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="249,74,439,121"/>
+<area shape="rect" id="node7" href="$d8/df7/a01711.html#a08d96a396dc3bd9a0a3e39e47e38531c" title="ripple::Transactor\l::payFee" alt="" coords="283,143,405,190"/>
+<area shape="rect" id="node9" href="$d8/df7/a01711.html#ac2faaa3bfd1c9b9f91ae24f367474d0f" title="ripple::Transactor\l::apply" alt="" coords="488,143,611,190"/>
+</map>

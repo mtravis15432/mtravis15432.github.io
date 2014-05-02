@@ -1,0 +1,5 @@
+<map id="rocksdb::WritableFile::PrepareWrite" name="rocksdb::WritableFile::PrepareWrite">
+<area shape="rect" id="node3" href="$d9/d75/a01843.html#aae7ec09c6e80cbdbbb8557d8e4a7a7da" title="rocksdb::WritableFile\l::Allocate" alt="" coords="201,5,345,51"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="395,13,536,43"/>
+<area shape="rect" id="node7" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="584,13,744,43"/>
+</map>

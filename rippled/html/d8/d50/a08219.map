@@ -1,0 +1,25 @@
+<map id="ripple::Resource::ManagerImp" name="ripple::Resource::ManagerImp">
+<area shape="rect" id="node2" href="$de/d62/a00924.html" title="ripple::Resource::Manager" alt="" coords="1455,215,1628,244"/>
+<area shape="rect" id="node4" href="$d9/db0/a01437.html" title="beast::PropertyStream\l::Source" alt="" coords="1184,141,1336,187"/>
+<area shape="rect" id="node6" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="25,192,156,221"/>
+<area shape="rect" id="node8" href="$d7/dde/a01384.html" title="beast::SharedData\&lt;\l State \&gt;" alt="" coords="925,206,1064,253"/>
+<area shape="rect" id="node17" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lWaiter \&gt;" alt="" coords="275,43,424,107"/>
+<area shape="rect" id="node20" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lItem \&gt;" alt="" coords="275,131,424,195"/>
+<area shape="rect" id="node27" href="$d6/d53/a01688.html" title="beast::Thread" alt="" coords="668,344,769,373"/>
+<area shape="rect" id="node33" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="276,443,423,472"/>
+<area shape="rect" id="node41" href="$de/dc3/a00909.html" title="ripple::Resource::Logic" alt="" coords="1464,363,1619,392"/>
+<area shape="rect" id="node11" href="$d3/deb/a01386.html" title="beast::SharedMutexAdapter\l\&lt; RecursiveMutex \&gt;" alt="" coords="627,266,811,313"/>
+<area shape="rect" id="node13" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="271,269,428,299"/>
+<area shape="rect" id="node15" href="$dc/d96/a01517.html" title="beast::ServiceQueueBase\l::State" alt="" coords="632,145,805,191"/>
+<area shape="rect" id="node23" title="STL class. " alt="" coords="955,87,1035,116"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="656,75,781,122"/>
+<area shape="rect" id="node36" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="301,537,397,567"/>
+<area shape="rect" id="node38" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="5,537,176,567"/>
+<area shape="rect" id="node43" href="$df/d3f/a01537.html" title="ripple::Resource::Logic\l::Stats" alt="" coords="1183,355,1337,402"/>
+<area shape="rect" id="node45" href="$d7/d98/a00983.html" title="beast::insight::Meter" alt="" coords="924,380,1065,409"/>
+<area shape="rect" id="node47" href="$d0/d4a/a00147.html" title="beast::insight::Base" alt="" coords="649,397,788,427"/>
+<area shape="rect" id="node49" href="$d2/dee/a00049.html" title="beast::abstract_clock\l\&lt; std::chrono::seconds \&gt;" alt="" coords="1176,425,1344,471"/>
+<area shape="rect" id="node52" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="1208,503,1312,532"/>
+<area shape="rect" id="node54" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="649,525,788,555"/>
+<area shape="rect" id="node56" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="917,495,1072,524"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="beast::RelativeTime::inMilliseconds" name="beast::RelativeTime::inMilliseconds">
+<area shape="rect" id="node3" href="$d7/dbf/a01239.html#af2d4493d23ef031e37714ccdc39d3cad" title="beast::RelativeTime\l::getDescription" alt="" coords="204,5,343,51"/>
+<area shape="rect" id="node9" href="$dc/dc8/a01695.html#a35c504491ac77cc85e20d0c8845182da" title="beast::Time::operator+=" alt="" coords="192,75,355,104"/>
+<area shape="rect" id="node11" href="$dc/dc8/a01695.html#aac68c0a2ab972cd8ac9e03b0d51c9d75" title="beast::Time::operator&#45;=" alt="" coords="195,128,352,157"/>
+<area shape="rect" id="node5" href="$d7/dbf/a01239.html#a1ff0885f6caff8069477e931e71fbf25" title="beast::RelativeTime\l::to_string" alt="" coords="403,5,541,51"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#a0162d07bf3f05e77ce8a97a50c9b3f3c" title="beast::operator\&lt;\&lt;" alt="" coords="589,13,715,43"/>
+</map>

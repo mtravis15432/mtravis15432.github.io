@@ -1,0 +1,37 @@
+<map id="walCheckpoint" name="walCheckpoint">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a63d0693fc056b088572daedace58e82f" title="sqlite3OsFileControlHint" alt="" coords="164,5,327,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="184,59,307,88"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="192,112,299,141"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a3f01629ca3b49854944cecdd14dc3358" title="sqlite3OsSync" alt="" coords="192,165,299,195"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#ab14e17fc93b09d52b42c433c47eb3b68" title="sqlite3OsTruncate" alt="" coords="181,219,309,248"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="192,272,299,301"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#aa426009cc537920a139e31265c108e2a" title="walBusyLock" alt="" coords="196,325,295,355"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#ad84967d160cb3a294c0a992c47a702da" title="walCkptInfo" alt="" coords="200,429,291,459"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a3fd5c9b2449525622e72f95ac5cbf218" title="walFramePgno" alt="" coords="191,483,300,512"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#aab2cbd233e7f954c7a260578027bb0ca" title="walIndexHdr" alt="" coords="199,640,292,669"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#acc257aa6280bbe73e1ba1981535b515b" title="walIteratorFree" alt="" coords="392,535,501,564"/>
+<area shape="rect" id="node37" href="$da/d6b/a02352.html#af32190641053b9108a09fac6ff0ad652" title="walIteratorInit" alt="" coords="195,587,296,616"/>
+<area shape="rect" id="node76" href="$da/d6b/a02352.html#a13c825b6750db9be9133645f37b20926" title="walIteratorNext" alt="" coords="191,693,300,723"/>
+<area shape="rect" id="node78" href="$da/d6b/a02352.html#aad4b5fee1ea9dbaec59338a5bb7ca3d4" title="walPagesize" alt="" coords="197,747,293,776"/>
+<area shape="rect" id="node80" href="$da/d6b/a02352.html#a7ef6fcadaaeb9b36d1b9eaaf7e8f3311" title="walUnlockExclusive" alt="" coords="377,379,516,408"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a4625e58ad3fd85c21cf16275c458f154" title="walLockExclusive" alt="" coords="384,325,509,355"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a1832b805275450abac06bf8da21489f3" title="sqlite3OsShmLock" alt="" coords="567,352,697,381"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#a067e7452317d6a1c19674376ae969f1f" title="walFramePage" alt="" coords="392,481,501,511"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#a1a90fe6ec9fbbba9f40ccb7cae4f5b27" title="sqlite3ScratchFree" alt="" coords="747,535,877,564"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1324,609,1447,639"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1325,556,1445,585"/>
+<area shape="rect" id="node40" href="$da/d6b/a02352.html#a9b883a0e42e20c9f0cd19bd87059c383" title="sqlite3ScratchMalloc" alt="" coords="927,637,1068,667"/>
+<area shape="rect" id="node59" href="$da/d6b/a02352.html#ae19bbc16575c591b6e0aee0aed2cfaf3" title="walHashGet" alt="" coords="400,689,493,719"/>
+<area shape="rect" id="node70" href="$da/d6b/a02352.html#af4c4ddabd82c872731a8c270d04e1f64" title="walMergesort" alt="" coords="397,743,496,772"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="1133,741,1253,771"/>
+<area shape="rect" id="node52" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1327,663,1444,692"/>
+<area shape="rect" id="node55" href="$da/d6b/a02352.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="1117,688,1269,717"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1319,820,1452,849"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1320,767,1451,796"/>
+<area shape="rect" id="node48" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1501,741,1632,771"/>
+<area shape="rect" id="node61" href="$da/d6b/a02352.html#affd3251fd1aa1218170d421177256e24" title="walIndexPage" alt="" coords="580,689,684,719"/>
+<area shape="rect" id="node63" href="$da/d6b/a02352.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="751,689,873,719"/>
+<area shape="rect" id="node68" href="$da/d6b/a02352.html#a04a984c66d8178200fe9a3ff100e20d3" title="sqlite3OsShmMap" alt="" coords="748,743,876,772"/>
+<area shape="rect" id="node65" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="948,716,1047,745"/>
+<area shape="rect" id="node72" href="$da/d6b/a02352.html#a13a2d4c9d083ea219e9afc10ed786cea" title="walMerge" alt="" coords="593,743,671,772"/>
+</map>

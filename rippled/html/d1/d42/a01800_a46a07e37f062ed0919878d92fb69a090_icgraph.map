@@ -1,0 +1,8 @@
+<map id="rocksdb::VersionSet::NumLevelFiles" name="rocksdb::VersionSet::NumLevelFiles">
+<area shape="rect" id="node3" href="$d0/d58/a01230.html#a769cf9f08028648f2cb824dbbf695de7" title="rocksdb::ReduceDBLevelsCommand\l::GetOldNumOfLevels" alt="" coords="196,5,433,51"/>
+<area shape="rect" id="node7" href="$d1/d42/a01800.html#a788a71e004c7a132a2fea2a82eedccd6" title="rocksdb::VersionSet\l::ReduceNumberOfLevels" alt="" coords="228,74,401,121"/>
+<area shape="rect" id="node10" href="$d9/d5e/a00295.html#a92210e9ffc40a91ed85a1068e9033f0a" title="rocksdb::Compaction\l::SetupBottomMostLevel" alt="" coords="232,143,397,190"/>
+<area shape="rect" id="node5" href="$d0/d58/a01230.html#af2eb900c9cab82e8dffb16d90d070ae1" title="rocksdb::ReduceDBLevelsCommand\l::DoCommand" alt="" coords="484,22,721,69"/>
+<area shape="rect" id="node12" href="$d1/d42/a01800.html#a18db5b74de66aa2038d11902bbd1f348" title="rocksdb::VersionSet\l::PickCompaction" alt="" coords="533,109,672,155"/>
+<area shape="rect" id="node14" href="$d1/d42/a01800.html#ace5e7f4084293eb426653ea279392111" title="rocksdb::VersionSet\l::CompactRange" alt="" coords="533,178,672,225"/>
+</map>

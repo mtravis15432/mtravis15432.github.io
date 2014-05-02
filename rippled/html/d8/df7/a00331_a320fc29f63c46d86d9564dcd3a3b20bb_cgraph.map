@@ -1,0 +1,6 @@
+<map id="ripple::Resource::Consumer::balance" name="ripple::Resource::Consumer::balance">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#ad35b015d0d5ddd43cfd160f946c819bd" title="ripple::Resource::Logic\l::balance" alt="" coords="241,39,396,86"/>
+<area shape="rect" id="node5" href="$da/d65/a00458.html#ad0809294e8ca913ca859b312d608af7e" title="ripple::Resource::Entry\l::balance" alt="" coords="447,5,601,51"/>
+<area shape="rect" id="node9" href="$d2/dee/a00049.html#ae8a34dde26bed08c9a6dbb59f0e9abd1" title="beast::abstract_clock\l::elapsed" alt="" coords="451,74,597,121"/>
+<area shape="rect" id="node7" href="$d9/da1/a00396.html#a2039bdb6177cbe58bd2d402f4f3b14e1" title="ripple::DecayingSample\l::value" alt="" coords="651,5,811,51"/>
+</map>

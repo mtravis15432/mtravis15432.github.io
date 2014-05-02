@@ -1,0 +1,9 @@
+<map id="beast::OutputStream::writeText" name="beast::OutputStream::writeText">
+<area shape="rect" id="node3" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="212,5,375,51"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#a40c6fac1ac62b9bff95ccb438a8363cd" title="beast::String::getCharPointer" alt="" coords="199,75,388,104"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="220,128,367,157"/>
+<area shape="rect" id="node9" href="$d4/d8a/a01062.html#a1d16f6512dbe0117be4c64107f73ade6" title="beast::OutputStream\l::write" alt="" coords="451,171,592,218"/>
+<area shape="rect" id="node11" href="$d4/d8a/a01062.html#ad2a0d7f0a6a67768a32e3fcc2a03d703" title="beast::OutputStream\l::writeShort" alt="" coords="223,231,364,278"/>
+<area shape="rect" id="node13" href="$d6/d08/a00244.html#aa6f03d6a27cb4769e410c08737e9cdd4" title="beast::ByteOrder::swapIf\lBigEndian" alt="" coords="437,241,605,287"/>
+<area shape="rect" id="node15" href="$d6/d08/a00244.html#a1a93d1392f8b87ebc9289e0088187962" title="beast::ByteOrder::swap" alt="" coords="653,249,813,279"/>
+</map>

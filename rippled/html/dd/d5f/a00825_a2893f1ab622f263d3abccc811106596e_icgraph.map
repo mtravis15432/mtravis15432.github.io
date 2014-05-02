@@ -1,0 +1,6 @@
+<map id="ripple::Ledger::getLedgerSeq" name="ripple::Ledger::getLedgerSeq">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a84fb9cd4200c6cc8ae48bc9f0279f731" title="ripple::Ledger::pendSave\lValidated" alt="" coords="724,17,889,63"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#ae53bf5480c98b36a234e01de0f437845" title="ripple::Ledger::saveValidated\lLedger" alt="" coords="244,26,433,73"/>
+<area shape="rect" id="node11" href="$d7/d5f/a00831.html#a69dfdffade06301acafc3220fb358037" title="ripple::LedgerConsensusImp\l::statusChange" alt="" coords="245,95,432,142"/>
+<area shape="rect" id="node8" href="$dd/d5f/a00825.html#a4ce86b946061155e228c9ea08f9d5bc9" title="ripple::Ledger::saveValidated\lLedgerAsync" alt="" coords="484,77,673,123"/>
+</map>

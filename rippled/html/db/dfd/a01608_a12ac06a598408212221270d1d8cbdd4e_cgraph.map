@@ -1,0 +1,7 @@
+<map id="beast::unit_test::suite::fail" name="beast::unit_test::suite::fail">
+<area shape="rect" id="node3" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="204,39,359,86"/>
+<area shape="rect" id="node5" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="409,5,564,51"/>
+<area shape="rect" id="node7" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="409,74,564,121"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="615,39,769,86"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="615,109,769,155"/>
+</map>

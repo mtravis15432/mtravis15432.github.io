@@ -1,0 +1,24 @@
+<map id="rocksdb::Random64::Next" name="rocksdb::Random64::Next">
+<area shape="rect" id="node3" href="$d8/d64/a00181.html#abe3484e8fee379945192ee569ddc9c7a" title="rocksdb::Benchmark\l::AppendRandom" alt="" coords="471,29,612,75"/>
+<area shape="rect" id="node9" href="$d8/d64/a00181.html#acaf98d79ccb13014a0343fed4599414c" title="rocksdb::Benchmark\l::DoDelete" alt="" coords="471,127,612,174"/>
+<area shape="rect" id="node17" href="$d8/d64/a00181.html#ab0567ca257cea3b9446c6572e4e00cf3" title="rocksdb::Benchmark\l::DoWrite" alt="" coords="471,266,612,313"/>
+<area shape="rect" id="node28" href="$d8/d64/a00181.html#a597fc33ca480f1de8e433a0ec2aad48c" title="rocksdb::Benchmark\l::MergeRandom" alt="" coords="231,326,372,373"/>
+<area shape="rect" id="node31" href="$d8/d64/a00181.html#af9a5bd03598f6a11b17e11859fb10a10" title="rocksdb::Benchmark\l::MultiGetRandom" alt="" coords="231,497,372,543"/>
+<area shape="rect" id="node33" href="$d8/d64/a00181.html#a54fd1c162f6d9a520567a466cf997d1a" title="rocksdb::Benchmark\l::ReadHot" alt="" coords="471,409,612,455"/>
+<area shape="rect" id="node36" href="$d8/d64/a00181.html#a8d4c710be0a17cf84fc5f8a582c689b9" title="rocksdb::Benchmark\l::ReadMissing" alt="" coords="471,478,612,525"/>
+<area shape="rect" id="node39" href="$d8/d64/a00181.html#a5634eff9318050a11fcda84224263f20" title="rocksdb::Benchmark\l::ReadRandom" alt="" coords="471,547,612,594"/>
+<area shape="rect" id="node41" href="$d8/d64/a00181.html#adf9ea0013ec641c8cac061320a763749" title="rocksdb::Benchmark\l::ReadWhileWriting" alt="" coords="735,607,876,654"/>
+<area shape="rect" id="node45" href="$d8/d64/a00181.html#a4f8a69bd665b3dfc8d5f9bb3a01fb29e" title="rocksdb::Benchmark\l::ReadRandomWriteRandomMultiGet" alt="" coords="423,667,660,714"/>
+<area shape="rect" id="node47" href="$d8/d64/a00181.html#aadf8c92861f368f9b531dfd4778e023a" title="rocksdb::Benchmark\l::ReadRandomWriteRandom" alt="" coords="711,677,900,723"/>
+<area shape="rect" id="node50" href="$d8/d64/a00181.html#acdd96ba845d0b9418965b26269a0eb94" title="rocksdb::Benchmark\l::PrefixScanRandom" alt="" coords="231,769,372,815"/>
+<area shape="rect" id="node53" href="$d8/d64/a00181.html#aa19482ee168f1ab9b9b59cb1fc7ca532" title="rocksdb::Benchmark\l::RandomWithVerify" alt="" coords="231,838,372,885"/>
+<area shape="rect" id="node62" href="$d8/d64/a00181.html#aee86ac7852785353c802918e50a21334" title="rocksdb::Benchmark\l::SeekRandom" alt="" coords="231,907,372,954"/>
+<area shape="rect" id="node65" href="$d8/d64/a00181.html#a6e80da08b7d1fd84d87e116fdfb3f1f2" title="rocksdb::Benchmark\l::UpdateRandom" alt="" coords="231,977,372,1023"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="951,480,1124,509"/>
+<area shape="rect" id="node7" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1173,480,1224,509"/>
+<area shape="rect" id="node11" href="$d8/d64/a00181.html#a69dfe0c58db2870eaf97f49cc3f65135" title="rocksdb::Benchmark\l::DeleteRandom" alt="" coords="735,58,876,105"/>
+<area shape="rect" id="node14" href="$d8/d64/a00181.html#a09a98d5941fc226af2b098c3ead4c459" title="rocksdb::Benchmark\l::DeleteSeq" alt="" coords="735,127,876,174"/>
+<area shape="rect" id="node19" href="$d8/d64/a00181.html#a5f742eccea590df29a184b9e09f52f31" title="rocksdb::Benchmark\l::WriteRandom" alt="" coords="735,197,876,243"/>
+<area shape="rect" id="node22" href="$d8/d64/a00181.html#a4601e8522c484545f12e20f392adca85" title="rocksdb::Benchmark\l::WriteSeq" alt="" coords="735,266,876,313"/>
+<area shape="rect" id="node25" href="$d8/d64/a00181.html#a33943169aea11d9be25397f58d2b1fe9" title="rocksdb::Benchmark\l::WriteUniqueRandom" alt="" coords="731,335,880,382"/>
+</map>

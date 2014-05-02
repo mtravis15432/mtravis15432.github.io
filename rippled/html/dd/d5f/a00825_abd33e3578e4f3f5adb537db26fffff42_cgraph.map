@@ -1,0 +1,12 @@
+<map id="ripple::Ledger::getLedgerFeatures" name="ripple::Ledger::getLedgerFeatures">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a748938d77331b1f048e98b161159ec53" title="ripple::Ledger::getLedger\lFeatureIndex" alt="" coords="219,74,384,121"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#ad939572bf4fe2a241301ed9bd1a0da60" title="ripple::Ledger::getSLEi" alt="" coords="224,207,379,236"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a10b908daaabf22ae052bfc7fd221157c" title="ripple::Serializer\l::add16" alt="" coords="447,5,561,51"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#afc7187fd3c9e185d29a0ecf5500d0cdf" title="ripple::Serializer\l::getSHA512Half" alt="" coords="444,74,564,121"/>
+<area shape="rect" id="node9" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="656,70,771,117"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="453,145,555,175"/>
+<area shape="rect" id="node17" href="$da/d74/a00099.html#a84b5eb8859011f37e158ab86c29caa06" title="ripple::Application\l::getSLECache" alt="" coords="441,198,567,245"/>
+<area shape="rect" id="node19" href="$dd/d55/a01638.html#a2c709f3115377eeca448ef32acfb9ee0" title="ripple::TaggedCache\l::fetch" alt="" coords="433,267,575,314"/>
+<area shape="rect" id="node21" href="$dd/d55/a01638.html#a6b9d410c1a62349ee3452f4d66c6c751" title="ripple::TaggedCache\l::canonicalize" alt="" coords="433,337,575,383"/>
+<area shape="rect" id="node15" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="625,139,801,186"/>
+</map>

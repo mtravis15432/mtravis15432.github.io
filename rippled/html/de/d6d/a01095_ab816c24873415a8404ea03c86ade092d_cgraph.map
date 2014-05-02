@@ -1,0 +1,6 @@
+<map id="ripple::HTTP::Peer::~Peer" name="ripple::HTTP::Peer::~Peer">
+<area shape="rect" id="node3" href="$d7/dc4/a01354.html#a4f143726a191679d52cb4b091e276b4f" title="ripple::HTTP::ServerImpl\l::handler" alt="" coords="185,5,351,51"/>
+<area shape="rect" id="node5" href="$d8/d00/a00606.html#acb82d9e34908b333463899f4a926a553" title="ripple::HTTP::Handler\l::onClose" alt="" coords="193,74,343,121"/>
+<area shape="rect" id="node7" href="$d7/dc4/a01354.html#ab92b06a6aa568e6680acfeabf7df9558" title="ripple::HTTP::ServerImpl\l::remove" alt="" coords="185,143,351,190"/>
+<area shape="rect" id="node9" href="$de/d6d/a01095.html#ab926e1ab11a4464ed469fa3924ab5ed6" title="ripple::HTTP::Peer\l::session" alt="" coords="203,213,333,259"/>
+</map>

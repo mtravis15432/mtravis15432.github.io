@@ -1,0 +1,5 @@
+<map id="ripple::MultiSocketType::AsyncOp::on_final" name="ripple::MultiSocketType::AsyncOp::on_final">
+<area shape="rect" id="node3" href="$df/dcd/a00127.html#a935283a5afd2401c1ce9ca93fae2e60e" title="ripple::MultiSocketType\l::AsyncOp::async_handshake" alt="" coords="213,7,411,54"/>
+<area shape="rect" id="node8" href="$df/dcd/a00127.html#a388b7cee2c402e1f8676650cd4534bb8" title="ripple::MultiSocketType\l::AsyncOp::start" alt="" coords="464,74,621,121"/>
+<area shape="rect" id="node5" href="$df/dcd/a00127.html#a69d1bdd6f7bcbbac6f804e5fbec4f9f1" title="ripple::MultiSocketType\l::AsyncOp::on_complete" alt="" coords="460,5,625,51"/>
+</map>

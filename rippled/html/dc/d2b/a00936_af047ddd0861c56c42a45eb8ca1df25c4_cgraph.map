@@ -1,0 +1,20 @@
+<map id="ripple::Validators::ManagerImp::ledgerClosed" name="ripple::Validators::ManagerImp::ledgerClosed">
+<area shape="rect" id="node3" href="$de/d5c/a01358.html#a3721e7a3b8b83293b7647c40d3bad10e" title="beast::ServiceQueueType\l::dispatch" alt="" coords="255,74,428,121"/>
+<area shape="rect" id="node13" href="$d2/d49/a01561.html#a7ca78fcebed5c6b8c9cd96bacb588785" title="beast::Stoppable::isStopping" alt="" coords="247,156,436,185"/>
+<area shape="rect" id="node23" href="$d7/d12/a00911.html#a0846b2e0fc2cd3080ec3c95475f93163" title="ripple::Validators\l::Logic::ledgerClosed" alt="" coords="269,210,413,257"/>
+<area shape="rect" id="node37" href="$dd/d5d/a01325.html#aa49412b5ff28ce693c3455fb6e200359" title="beast::ScopedWrapperContext\l::wrap" alt="" coords="241,279,441,326"/>
+<area shape="rect" id="node5" href="$df/d10/a01357.html#a3c10f294ceb943aa4c4923a799eb97fc" title="beast::ServiceQueueBase\l::enqueue" alt="" coords="492,5,665,51"/>
+<area shape="rect" id="node11" href="$de/d5c/a01358.html#aa5def258e41cd1b706c627b85f248614" title="beast::ServiceQueueType\l::is_service_thread" alt="" coords="492,74,665,121"/>
+<area shape="rect" id="node7" href="$de/d3c/a01809.html#a6497737035c8b878772c34c0d369d2b8" title="beast::ServiceQueueBase\l::Waiter::signal" alt="" coords="716,5,889,51"/>
+<area shape="rect" id="node9" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="948,5,1095,51"/>
+<area shape="rect" id="node15" href="$d9/dda/a01289.html#ad9cd49491da83c35da97c5314a5d6dc4" title="beast::RootStoppable\l::isStopping" alt="" coords="505,143,652,190"/>
+<area shape="rect" id="node17" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="739,152,867,181"/>
+<area shape="rect" id="node19" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="939,91,1104,138"/>
+<area shape="rect" id="node21" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="939,161,1104,207"/>
+<area shape="rect" id="node25" href="$dd/db5/a00365.html#a5a4932587d19230c84de1d11e1ffc232" title="ripple::CycledSet::\linsert" alt="" coords="513,213,644,259"/>
+<area shape="rect" id="node27" href="$d5/df4/a01779.html#a5cac6436ff0294fbd8c8bab20d03d4b9" title="ripple::Validators\l::Validator::ledgerClosed" alt="" coords="496,282,661,329"/>
+<area shape="rect" id="node29" href="$dc/d59/a00364.html#aa7239aafafd0b723eec0fd9fd9c62fe5" title="ripple::Validators\l::CycledMap::insert" alt="" coords="735,213,871,259"/>
+<area shape="rect" id="node31" href="$d5/df4/a01779.html#ae83e9731b44f09bcc3657cf1949a707e" title="ripple::Validators\l::Validator::count" alt="" coords="743,282,863,329"/>
+<area shape="rect" id="node33" href="$dc/d59/a00364.html#ab4ee995207806334904ecc138c8b35c8" title="ripple::Validators\l::CycledMap::front" alt="" coords="956,265,1087,311"/>
+<area shape="rect" id="node35" href="$dc/d59/a00364.html#adc09630d95c14a4546a5d18b15eb67d0" title="ripple::Validators\l::CycledMap::back" alt="" coords="956,334,1087,381"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rocksdb::BlobStore::CreateNewBucket" name="rocksdb::BlobStore::CreateNewBucket">
+<area shape="rect" id="node3" href="$d3/db1/a00200.html#a1d75bfe9b8edb323c9ce601653a6f071" title="rocksdb::BlobStore\l::Allocate" alt="" coords="192,23,325,70"/>
+<area shape="rect" id="node15" href="$d3/db1/a00200.html#acdb9ffad1cefc54d07213f82c7d1f46f" title="rocksdb::BlobStore\l::BlobStore" alt="" coords="192,93,325,139"/>
+<area shape="rect" id="node5" href="$d3/db1/a00200.html#aac8a988037f45b38fed32f360afe185f" title="rocksdb::BlobStore::Put" alt="" coords="375,32,535,61"/>
+<area shape="rect" id="node7" href="$df/d5e/a02690.html#ab59af12b3396ce70ecc505fd415bebc8" title="WorkerThreadBody" alt="" coords="585,5,719,35"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a7f9bcc1c7832e4c9723703497549398f" title="rocksdb::TEST" alt="" coords="597,59,707,88"/>
+<area shape="rect" id="node9" href="$df/d5e/a02690.html#af59cea197a4cf30ea9ef7d01e59de194" title="StartBenchmark" alt="" coords="769,5,884,35"/>
+<area shape="rect" id="node11" href="$df/d5e/a02690.html#a217dbf8b442f20279ea00b898af96f52" title="main" alt="" coords="933,5,984,35"/>
+</map>

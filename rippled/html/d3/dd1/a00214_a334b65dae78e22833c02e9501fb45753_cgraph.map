@@ -1,0 +1,9 @@
+<map id="rocksdb::BlockHandle::DecodeFrom" name="rocksdb::BlockHandle::DecodeFrom">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="207,5,388,35"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#abef3500551ebbb64ab50e4abde1ab3b9" title="rocksdb::GetVarint64" alt="" coords="225,112,369,141"/>
+<area shape="rect" id="node15" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="227,59,368,88"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="439,5,599,35"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="449,59,588,88"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#ae2394b85a19c4d702747014bca29fcb0" title="rocksdb::GetVarint64Ptr" alt="" coords="437,112,600,141"/>
+<area shape="rect" id="node13" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="451,165,587,195"/>
+</map>

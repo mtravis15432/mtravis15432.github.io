@@ -1,0 +1,9 @@
+<map id="ripple::RippleCalc::calcNodeAdvance" name="ripple::RippleCalc::calcNodeAdvance">
+<area shape="rect" id="node3" href="$d4/d10/a01278.html#a592be0b1094c005d596044230caac6d4" title="ripple::RippleCalc\l::calcNodeDeliverFwd" alt="" coords="191,5,340,51"/>
+<area shape="rect" id="node11" href="$d4/d10/a01278.html#ab61998a5e167691b67a1cc512e5e85a0" title="ripple::RippleCalc\l::calcNodeDeliverRev" alt="" coords="191,74,340,121"/>
+<area shape="rect" id="node5" href="$d4/d10/a01278.html#ac9666accf2ed1b2e9b58674645349eec" title="ripple::RippleCalc\l::calcNodeOfferFwd" alt="" coords="389,5,528,51"/>
+<area shape="rect" id="node7" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="576,5,701,51"/>
+<area shape="rect" id="node9" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="749,39,875,86"/>
+<area shape="rect" id="node13" href="$d4/d10/a01278.html#acddbc756a6f92ec497a6d5806d356f14" title="ripple::RippleCalc\l::calcNodeOfferRev" alt="" coords="389,74,528,121"/>
+<area shape="rect" id="node15" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="576,74,701,121"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="beast::resolveXDGFolder" name="beast::resolveXDGFolder">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#afb9bae1309483dee8e67ac8d64aeeb7c" title="beast::File::getSpecialLocation" alt="" coords="225,268,425,297"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#a82e3ff5e38a2c5a923bc403e61b622e6" title="beast::File::parseAbsolutePath" alt="" coords="476,84,676,113"/>
+<area shape="rect" id="node9" href="$d4/d33/a00536.html#a12ef5723427b209bf267692b7de464a4" title="beast::File::createTempFile" alt="" coords="485,215,667,244"/>
+<area shape="rect" id="node35" href="$d8/d6e/a00537.html#ad3b22094f7739e23e5099b1df270b843" title="beast::File_test::run" alt="" coords="507,268,645,297"/>
+<area shape="rect" id="node37" href="$d5/d83/a03337.html#adc77f6b8fe1013cc44018ec6310011ff" title="beast::beast_getOutputFrom\lCommand" alt="" coords="483,321,669,367"/>
+<area shape="rect" id="node39" href="$d9/dfb/a00913.html#ad779bfe8d6bb1d9921ebe6cc3fb7b5bb" title="ripple::Validators\l::Logic_test::testLogic" alt="" coords="501,425,651,471"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#a5a60563f6d2834aaf9e6b818441b4bc5" title="beast::File::operator=" alt="" coords="744,5,891,35"/>
+<area shape="rect" id="node11" href="$d4/d13/a01162.html#af0d0871ff761f6d32fb955ce10b5701d" title="beast::RandomAccessFile\l_test::testFile" alt="" coords="729,58,905,105"/>
+<area shape="rect" id="node15" href="$d7/dce/a00143.html#abe867039738384301c305ba812b3fb3e" title="ripple::NodeStore::\lBackend_test::testBackend" alt="" coords="727,127,908,174"/>
+<area shape="rect" id="node19" href="$d6/dcd/a01023.html#afd5e41e45b1a4d31ca7799198de20270" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::testImport" alt="" coords="733,197,901,261"/>
+<area shape="rect" id="node25" href="$d6/dcd/a01023.html#a3be580fa826ea50c7db919255b7f53bf" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::testNodeStore" alt="" coords="733,285,901,349"/>
+<area shape="rect" id="node31" href="$db/d23/a01025.html#acf4f062398552f1f4546028d449cc98d" title="ripple::NodeStore::\lNodeStoreTiming_test\l::testBackend" alt="" coords="741,373,893,437"/>
+<area shape="rect" id="node13" href="$d4/d13/a01162.html#a244cb33ba3821e59eaceec18472f1654" title="beast::RandomAccessFile\l_test::run" alt="" coords="959,58,1135,105"/>
+<area shape="rect" id="node17" href="$d7/dce/a00143.html#a5eb44e8ff6ec79bb76fb15329195eeff" title="ripple::NodeStore::\lBackend_test::run" alt="" coords="981,127,1112,174"/>
+<area shape="rect" id="node21" href="$d6/dcd/a01023.html#a8f4a54a687fb0da1316c62f8b908e6e6" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::runImportTests" alt="" coords="963,197,1131,261"/>
+<area shape="rect" id="node23" href="$d6/dcd/a01023.html#a31410fb43d1bb5782eac2d76be3998ec" title="ripple::NodeStore::\lNodeStoreDatabase_test::run" alt="" coords="1184,275,1379,322"/>
+<area shape="rect" id="node27" href="$d6/dcd/a01023.html#aacd4e6f359d44807a1f8eade5b706d7c" title="ripple::NodeStore::\lNodeStoreDatabase_test\l::runBackendTests" alt="" coords="963,336,1131,400"/>
+<area shape="rect" id="node33" href="$db/d23/a01025.html#af92a5af2d2440d48440fefdd259cc5b5" title="ripple::NodeStore::\lNodeStoreTiming_test::run" alt="" coords="957,423,1136,470"/>
+<area shape="rect" id="node41" href="$d9/dfb/a00913.html#a6dcbb52d0f72b46b9629265b9004f103" title="ripple::Validators\l::Logic_test::run" alt="" coords="759,461,876,507"/>
+</map>

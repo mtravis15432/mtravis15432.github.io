@@ -1,0 +1,6 @@
+<map id="ripple::Validations::getTrustedValidationCount" name="ripple::Validations::getTrustedValidationCount">
+<area shape="rect" id="node3" href="$d2/dc7/a00838.html#afef5d9e765e612499355e2b1caa27a91" title="ripple::LedgerMasterImp\l::checkAccept" alt="" coords="475,5,637,51"/>
+<area shape="rect" id="node5" href="$d2/dc7/a00838.html#a25f5cc7afe62b8844d2036e89a485996" title="ripple::LedgerMasterImp\l::getNeededValidations" alt="" coords="251,65,413,111"/>
+<area shape="rect" id="node10" href="$d7/d5f/a00831.html#ad90ce0b98c645274d2e595afdca51262" title="ripple::LedgerConsensusImp\l::statePreClose" alt="" coords="239,134,425,181"/>
+<area shape="rect" id="node8" href="$d2/dc7/a00838.html#a054ed0eb590140ee5d25d8efc609a6a1" title="ripple::LedgerMasterImp\l::consensusBuilt" alt="" coords="475,74,637,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$dd/df5/a00386.html#afb3d7b24abbe10776fe76de685853433" title="rocksdb::DBImpl::GetSnapshot" alt="" coords="167,5,369,35"/>
+<area shape="rect" id="node7" href="$dd/df5/a00386.html#a3e23ff6c3d681856e78c3d28514c5319" title="rocksdb::DBImpl::Release\lSnapshot" alt="" coords="180,58,356,105"/>
+<area shape="rect" id="node5" href="$dc/de6/a01426.html#a726dfcfee523f18432b6ca2f21fbc755" title="rocksdb::SnapshotList::New" alt="" coords="419,5,605,35"/>
+<area shape="rect" id="node9" href="$dc/de6/a01426.html#aecd0bc5502ce78ee1c273468b33b0979" title="rocksdb::SnapshotList\l::Delete" alt="" coords="436,58,588,105"/>
+</map>

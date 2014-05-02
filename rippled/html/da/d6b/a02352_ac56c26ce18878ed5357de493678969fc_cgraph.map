@@ -1,0 +1,5 @@
+<map id="unixCheckReservedLock" name="unixCheckReservedLock">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#acd88d7bdc7f79108edc83ac379d3181f" title="unixEnterMutex" alt="" coords="224,5,336,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acd189e7befeaa8d370808bcb6c22f339" title="unixLeaveMutex" alt="" coords="221,59,339,88"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="387,32,512,61"/>
+</map>

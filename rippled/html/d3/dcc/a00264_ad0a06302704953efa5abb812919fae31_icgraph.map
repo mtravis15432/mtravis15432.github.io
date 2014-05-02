@@ -1,0 +1,5 @@
+<map id="beast::CharacterFunctions::isWhitespace" name="beast::CharacterFunctions::isWhitespace">
+<area shape="rect" id="node3" href="$db/d12/a00268.html#a62d3c9a62aa9793b0e7d829a3f7990e1" title="beast::CharPointer\l_UTF32::isWhitespace" alt="" coords="231,5,385,51"/>
+<area shape="rect" id="node5" href="$d5/d35/a00266.html#aba5287e6f79fff384cb09ac039d2425f" title="beast::CharPointer\l_ASCII::isWhitespace" alt="" coords="232,74,384,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#ad03531e746a2c0d2318575923f65b885" title="beast::CharPointer\l_UTF16::isWhitespace" alt="" coords="231,143,385,190"/>
+</map>

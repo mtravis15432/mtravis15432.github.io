@@ -1,0 +1,9 @@
+<map id="ripple::Testuint256AdHoc" name="ripple::Testuint256AdHoc">
+<area shape="rect" id="node3" href="$d7/d9a/a00152.html#ad19bda12f3725584ac179f2e091e30d7" title="ripple::base_uint::\lToString" alt="" coords="224,58,349,105"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="397,58,523,105"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="596,5,695,35"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="583,58,708,105"/>
+<area shape="rect" id="node15" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="571,128,720,157"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="789,5,899,35"/>
+<area shape="rect" id="node13" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="769,67,919,96"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="ripple::RPCHandler::doTxHistory" name="ripple::RPCHandler::doTxHistory">
+<area shape="rect" id="node3" href="$d6/d27/a01781.html#a7e49ac977e4bcf59745a09d426669f75" title="Append value to array at the end. " alt="" coords="197,5,339,35"/>
+<area shape="rect" id="node7" href="$d6/d27/a01781.html#a2019d1bd296b89356c1b0da5970c918c" title="Json::Value::asUInt" alt="" coords="199,59,337,88"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="217,112,319,141"/>
+<area shape="rect" id="node13" href="$d6/db8/a00376.html#a9368476a90456c8f1256a53c239cc9a5" title="ripple::DatabaseCon\l::getDB" alt="" coords="197,165,339,211"/>
+<area shape="rect" id="node15" href="$da/d74/a00099.html#aed3322f9602bc688e68b14e8baff5440" title="ripple::Application\l::getTxnDB" alt="" coords="205,234,331,281"/>
+<area shape="rect" id="node17" href="$d6/d27/a01781.html#a196defba501d70ea2b6793afb04108e3" title="Return true if the object has a member named key. " alt="" coords="191,304,345,333"/>
+<area shape="rect" id="node19" href="$d9/d9d/a03417.html#ab114d40490d1a6a0ab2fa6053167d461" title="ripple::rpcError" alt="" coords="215,357,321,387"/>
+<area shape="rect" id="node27" href="$de/d05/a01702.html#a127e942da36e00fd47b4dac4f2dc581c" title="ripple::Transaction\l::transactionFromSQL" alt="" coords="193,471,343,518"/>
+<area shape="rect" id="node5" href="$d6/d27/a01781.html#ab3425a081214e9740a658fc953e8ab8e" title="Number of values in array or object. " alt="" coords="424,5,547,35"/>
+<area shape="rect" id="node11" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="397,103,573,150"/>
+<area shape="rect" id="node21" href="$d2/d9b/a03429.html#ac4c846c6043b4afa966f4f35790fe303" title="ripple::RPC::inject\l_error" alt="" coords="421,287,549,334"/>
+<area shape="rect" id="node23" href="$d2/d9b/a03429.html#aa6dc5b7a225869afb02c82d035352e7d" title="ripple::RPC::get_error_info" alt="" coords="625,296,801,325"/>
+<area shape="rect" id="node25" href="$dc/d8e/a00473.html#aec1914e37aa6e639af71985d7abfb52f" title="ripple::RPC::detail\l::ErrorCategory::get" alt="" coords="852,287,988,334"/>
+<area shape="rect" id="node29" href="$da/d61/a01350.html#a462cbb304e3bcba2b4a78b8fee551265" title="ripple::Serializer\l::resize" alt="" coords="428,357,543,403"/>
+<area shape="rect" id="node31" href="$d5/db5/a00374.html#a5695e1a1b8e65383924a03d29c81a4f2" title="ripple::Database::getStr" alt="" coords="405,427,565,456"/>
+<area shape="rect" id="node35" href="$d5/db5/a00374.html#ad34864d60e84c7168a3b173097c27157" title="ripple::Database::getInt" alt="" coords="407,480,564,509"/>
+<area shape="rect" id="node38" href="$d5/db5/a00374.html#a654eaaef86fa7de1fa9a9d6c9f8d38a4" title="ripple::Database::getBinary" alt="" coords="396,533,575,563"/>
+<area shape="rect" id="node41" href="$da/d61/a01350.html#a32c26f7ab6d19e352751979c9d56eccd" title="ripple::Serializer\l::begin" alt="" coords="428,586,543,633"/>
+<area shape="rect" id="node43" href="$da/d61/a01350.html#a237280c7ca05aed5c750ec154a599547" title="ripple::Serializer\l::getLength" alt="" coords="428,655,543,702"/>
+<area shape="rect" id="node33" href="$d5/db5/a00374.html#a5b7ed864f9f854446470c987b37ebecc" title="ripple::Database::getCol\lNumber" alt="" coords="632,471,795,518"/>
+</map>

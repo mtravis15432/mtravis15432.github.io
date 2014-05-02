@@ -1,0 +1,11 @@
+<map id="ripple::Ledger::getASNodeI" name="ripple::Ledger::getASNodeI">
+<area shape="rect" id="node3" href="$dd/d5f/a00825.html#a4cdb44220682c88bb9c06f6f988451f4" title="ripple::Ledger::getAccountRoot" alt="" coords="232,5,435,35"/>
+<area shape="rect" id="node5" href="$dd/d5f/a00825.html#aea318d5fb07c196beef7c416eba3a913" title="ripple::Ledger::getDirNode" alt="" coords="247,59,420,88"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#a64da8ab513ef8eed6b7fa7d1c4c27ad6" title="ripple::Ledger::getGenerator" alt="" coords="243,112,424,141"/>
+<area shape="rect" id="node9" href="$dd/d5f/a00825.html#a395975a660d782aa69c223edcda10a32" title="ripple::Ledger::getNickname" alt="" coords="241,165,425,195"/>
+<area shape="rect" id="node13" href="$dd/d5f/a00825.html#ae48bf89d55551032034c3924579a85ab" title="ripple::Ledger::getOffer" alt="" coords="256,219,411,248"/>
+<area shape="rect" id="node17" href="$dd/d5f/a00825.html#a982a1fdc3cc218a0893e9cae5528f6c6" title="ripple::Ledger::getRipple\lState" alt="" coords="252,271,415,318"/>
+<area shape="rect" id="node11" href="$dd/d5f/a00825.html#ace5eee617f04c1262d37620f0e2171e6" title="ripple::Ledger::getNickname" alt="" coords="484,165,668,195"/>
+<area shape="rect" id="node15" href="$dd/d5f/a00825.html#a17407257720f8f59f7c326933da148dd" title="ripple::Ledger::getOffer" alt="" coords="499,219,653,248"/>
+<area shape="rect" id="node19" href="$dd/d5f/a00825.html#ac27cbb6ee56e3bdedfdf36229dd346df" title="ripple::Ledger::getRipple\lState" alt="" coords="495,271,657,318"/>
+</map>

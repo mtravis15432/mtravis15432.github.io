@@ -1,0 +1,25 @@
+var a02540 =
+[
+    [ "legacyFee", "d4/db0/a02540.html#a42570402bba7a5245ccf7de785d1a08b", null ],
+    [ "feeBadData", "d4/db0/a02540.html#a373346a06b144b0efbb51e7b4a0bed9f", null ],
+    [ "feeBadProofOfWork", "d4/db0/a02540.html#a61e1fa5ad95d3b7cb1e27517a1717a5c", null ],
+    [ "feeCheapQuery", "d4/db0/a02540.html#afe6367b0c7319232205279d45ce22f82", null ],
+    [ "feeDrop", "d4/db0/a02540.html#ac4f9d6a90d4304accf80aee1e5827176", null ],
+    [ "feeExceptionRPC", "d4/db0/a02540.html#a287a085f30cb796a3517662182759f1f", null ],
+    [ "feeHighBurdenRPC", "d4/db0/a02540.html#a3bffd22c83dd5da4b419134e040c619a", null ],
+    [ "feeInvalidRequest", "d4/db0/a02540.html#aba5ce12b67d9a255e71025526f50527f", null ],
+    [ "feeInvalidRPC", "d4/db0/a02540.html#a5f2ba07d69cba6c24a0a5a5bb2fa6f87", null ],
+    [ "feeInvalidSignature", "d4/db0/a02540.html#a53c9734d0eb46ffcd48b70d3ffcf79ed", null ],
+    [ "feeLightRPC", "d4/db0/a02540.html#a9196720bcdd3f2951a7fce56548b599b", null ],
+    [ "feeLowBurdenRPC", "d4/db0/a02540.html#a19223f2be4961ae9bf243573309f4fdc", null ],
+    [ "feeMediumBurdenRPC", "d4/db0/a02540.html#a8466333cef2ff22196d2f7732f0c958a", null ],
+    [ "feeNewTrustedNote", "d4/db0/a02540.html#a05b7c5493ad3479dd81b82122174abfb", null ],
+    [ "feeNewValidTx", "d4/db0/a02540.html#a1f66c59bddcdb7f0a3922aa4e64dd851", null ],
+    [ "feePathFindUpdate", "d4/db0/a02540.html#a2be5dca47a5d096e10070497ef08ccee", null ],
+    [ "feeReferenceRPC", "d4/db0/a02540.html#a11668794bb6001a6d6e35f5b9514fba1", null ],
+    [ "feeRequestedData", "d4/db0/a02540.html#a0cd1fae40b7fd9dab9c3d9b4b20ff315", null ],
+    [ "feeRequestNoReply", "d4/db0/a02540.html#adef31c208490d318148bb545add24728", null ],
+    [ "feeSatisfiedRequest", "d4/db0/a02540.html#a85896a1f9a2d68f1e8014cd6def1be07", null ],
+    [ "feeUnwantedData", "d4/db0/a02540.html#ac8c4ef4c94d0306875df35add5e0c3b6", null ],
+    [ "feeWarning", "d4/db0/a02540.html#a2b7de06a7844977fe9f7e621b0b55bde", null ]
+];

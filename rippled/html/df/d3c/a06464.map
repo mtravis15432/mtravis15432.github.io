@@ -1,0 +1,6 @@
+<map id="beast::AtExitHook::Manager" name="beast::AtExitHook::Manager">
+<area shape="rect" id="node2" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::AtExitHook::Item \&gt;" alt="" coords="204,5,345,51"/>
+<area shape="rect" id="node4" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,41,136,71"/>
+<area shape="rect" id="node6" href="$d4/def/a00359.html" title="beast::CriticalSection" alt="" coords="201,75,348,104"/>
+<area shape="rect" id="node9" href="$d1/d62/a01533.html" title="beast::AtExitHook::\lManager::StaticDestructor" alt="" coords="188,127,361,174"/>
+</map>

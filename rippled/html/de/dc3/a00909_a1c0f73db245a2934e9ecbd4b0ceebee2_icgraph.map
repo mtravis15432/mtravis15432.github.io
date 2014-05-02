@@ -1,0 +1,5 @@
+<map id="ripple::Resource::Logic::acquire" name="ripple::Resource::Logic::acquire">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#a238bbab1d75d1426079ba135a1787f25" title="ripple::Resource::Logic\l::acquire" alt="" coords="227,5,381,51"/>
+<area shape="rect" id="node5" href="$d8/df7/a00331.html#a0f38b4816f4b2e7d6b5f75e4eb9c5e88" title="ripple::Resource::Consumer\l::Consumer" alt="" coords="212,74,396,121"/>
+<area shape="rect" id="node7" href="$d8/df7/a00331.html#a30b81218a3be2a2a28ce2a4218f1dacf" title="ripple::Resource::Consumer\l::operator=" alt="" coords="212,143,396,190"/>
+</map>

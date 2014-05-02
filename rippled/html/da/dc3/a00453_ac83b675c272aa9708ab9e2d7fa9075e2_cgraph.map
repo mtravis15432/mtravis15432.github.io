@@ -1,0 +1,9 @@
+<map id="beast::IP::Endpoint::from_string_altform" name="beast::IP::Endpoint::from_string_altform">
+<area shape="rect" id="node3" href="$da/dc3/a00453.html#add6bd9801623765536e19ec1ad0f8011" title="beast::IP::Endpoint\l::at_port" alt="" coords="215,5,348,51"/>
+<area shape="rect" id="node5" href="$da/dc3/a00453.html#a25e623f726dbda92789f51cce520b3b1" title="beast::IP::Endpoint\l::Endpoint" alt="" coords="423,65,556,111"/>
+<area shape="rect" id="node8" href="$d4/dcb/a03370.html#ab0ea42fa726858d153aae1d9325f31e8" title="beast::IP::detail::\lexpect" alt="" coords="220,125,343,171"/>
+<area shape="rect" id="node10" href="$da/dc3/a00453.html#ab2c227db84255620219ebab8ead53636" title="beast::IP::Endpoint\l::from_string" alt="" coords="215,194,348,241"/>
+<area shape="rect" id="node15" href="$d2/d7f/a03369.html#ab56ae9d3b6003bad39bea158b35d8d67" title="beast::IP::is_unspecified" alt="" coords="199,264,364,293"/>
+<area shape="rect" id="node17" href="$da/dc3/a00453.html#ad34a025ff522a7e45e18ee58f2a9eab6" title="beast::IP::Endpoint\l::port" alt="" coords="215,317,348,363"/>
+<area shape="rect" id="node13" href="$da/dc3/a00453.html#a714dd5e5739d5173d1998925155ef09f" title="beast::IP::Endpoint\l::from_string_checked" alt="" coords="415,194,564,241"/>
+</map>

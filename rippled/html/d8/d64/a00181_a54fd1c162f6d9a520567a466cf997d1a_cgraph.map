@@ -1,0 +1,21 @@
+<map id="rocksdb::Benchmark::ReadHot" name="rocksdb::Benchmark::ReadHot">
+<area shape="rect" id="node3" href="$d3/d4c/a01540.html#ac00992e4e00f467ac8e2517fc0cf035a" title="rocksdb::Stats::AddMessage" alt="" coords="199,71,388,100"/>
+<area shape="rect" id="node13" href="$dd/d07/a00433.html#a6d585dff0952f86dc944aa256f4b4004" title="rocksdb::Duration::Done" alt="" coords="212,135,375,164"/>
+<area shape="rect" id="node17" href="$d3/d4c/a01540.html#a8ce651061783579bb738ec20f4efae26" title="rocksdb::Stats::Finished\lSingleOp" alt="" coords="212,210,375,257"/>
+<area shape="rect" id="node26" href="$d8/d64/a00181.html#adc083dd10167a976dfac08fe2dfd2f1f" title="rocksdb::Benchmark\l::GenerateKeyFromInt" alt="" coords="467,325,616,371"/>
+<area shape="rect" id="node28" href="$d8/ddd/a00380.html#ae6350a924ad1ac1129726e384a487da3" title="rocksdb::DB::Get" alt="" coords="232,332,355,361"/>
+<area shape="rect" id="node30" href="$d9/d9d/a03417.html#aa3091bec2c625018fadb6aefef12b9ff" title="ripple::min" alt="" coords="252,385,335,415"/>
+<area shape="rect" id="node32" href="$d8/d64/a00181.html#af9a5bd03598f6a11b17e11859fb10a10" title="rocksdb::Benchmark\l::MultiGetRandom" alt="" coords="223,439,364,486"/>
+<area shape="rect" id="node39" href="$df/db5/a01158.html#a9704e30d369bf425cfc544cd2bb947f2" title="rocksdb::Random64::Next" alt="" coords="455,555,628,584"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a51a424ca9e8e7b4e7d171eb1fde8f9f9" title="rocksdb::AppendWithSpace" alt="" coords="449,59,633,88"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="699,5,837,35"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#a39ca9716c2bcda2ba2261d9c5f108121" title="rocksdb::Slice::empty" alt="" coords="693,59,843,88"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="700,112,836,141"/>
+<area shape="rect" id="node15" href="$db/db1/a00460.html#a20e69bbefe7d92b92a2f33100cf251b7" title="rocksdb::Env::NowMicros" alt="" coords="455,112,628,141"/>
+<area shape="rect" id="node19" href="$d9/d41/a00666.html#ad8a0dd2edfe798d631e995028693e9ca" title="rocksdb::HistogramImpl::Add" alt="" coords="445,165,637,195"/>
+<area shape="rect" id="node21" href="$d8/ddd/a00380.html#adbfc80c222da108a0d89a55ed829726c" title="rocksdb::DB::GetProperty" alt="" coords="455,219,628,248"/>
+<area shape="rect" id="node24" href="$db/db1/a00460.html#ade1259f3f43b344b56b69b5b007d979b" title="rocksdb::Env::TimeToString" alt="" coords="449,272,633,301"/>
+<area shape="rect" id="node35" href="$d8/ddd/a00380.html#a09ad7c62dfe7e8739732d37041d058f9" title="rocksdb::DB::GetSnapshot" alt="" coords="452,395,631,424"/>
+<area shape="rect" id="node37" href="$d8/ddd/a00380.html#a951924bc05418ecee8b162fe19344ed4" title="rocksdb::DB::MultiGet" alt="" coords="465,448,617,477"/>
+<area shape="rect" id="node41" href="$d8/ddd/a00380.html#aedefaa4497eb584a45a818c0f05aff9b" title="rocksdb::DB::ReleaseSnapshot" alt="" coords="439,501,644,531"/>
+</map>

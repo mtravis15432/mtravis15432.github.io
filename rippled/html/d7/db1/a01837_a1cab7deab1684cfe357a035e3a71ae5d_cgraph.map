@@ -1,0 +1,6 @@
+<map id="beast::Workers::Workers" name="beast::Workers::Workers">
+<area shape="rect" id="node3" href="$d7/db1/a01837.html#a2afc6c18a9d33106d9e40dcaa0984c1d" title="beast::Workers::setNumber\lOfThreads" alt="" coords="223,35,404,82"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="465,13,607,43"/>
+<area shape="rect" id="node9" href="$db/ddf/a00164.html#a34a05aba236654589fe27946c112e641" title="beast::basic_semaphore\l::signal" alt="" coords="455,66,617,113"/>
+<area shape="rect" id="node7" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="667,5,813,51"/>
+</map>

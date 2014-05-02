@@ -1,0 +1,6 @@
+<map id="beast::insight::detail::StatsDCollectorImp::on_send" name="beast::insight::detail::StatsDCollectorImp::on_send">
+<area shape="rect" id="node3" href="$db/d08/a01543.html#a8fa590160a3e484360025d12e79fa5d4" title="beast::insight::detail\l::StatsDCollectorImp::\lsend_buffers" alt="" coords="209,5,361,69"/>
+<area shape="rect" id="node5" href="$db/d08/a01543.html#a7cf1111aa68d93a5f5bf9ac1f20e9cd1" title="beast::insight::detail\l::StatsDCollectorImp::\lon_timer" alt="" coords="412,5,564,69"/>
+<area shape="rect" id="node7" href="$db/d08/a01543.html#a927913e7f94eec2f2f8c0cda93b50aaa" title="beast::insight::detail\l::StatsDCollectorImp::\lset_timer" alt="" coords="615,5,767,69"/>
+<area shape="rect" id="node10" href="$db/d08/a01543.html#a8447e80aa3847a894139e92d2f89d376" title="beast::insight::detail\l::StatsDCollectorImp::run" alt="" coords="816,14,987,61"/>
+</map>

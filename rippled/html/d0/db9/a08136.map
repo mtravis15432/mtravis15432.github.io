@@ -1,0 +1,7 @@
+<map id="ripple::PeerFinder::SlotHandouts" name="ripple::PeerFinder::SlotHandouts">
+<area shape="rect" id="node4" href="$d1/d0b/a00452.html" title="ripple::PeerFinder\l::Endpoint" alt="" coords="103,294,225,341"/>
+<area shape="rect" id="node6" href="$da/dc3/a00453.html" title="beast::IP::Endpoint" alt="" coords="97,197,231,227"/>
+<area shape="rect" id="node8" href="$de/de1/a00065.html" title="beast::IP::Address" alt="" coords="99,101,229,131"/>
+<area shape="rect" id="node10" href="$d9/db3/a00066.html" title="beast::IP::AddressV4" alt="" coords="5,5,152,35"/>
+<area shape="rect" id="node12" href="$dc/ddf/a00067.html" title="beast::IP::AddressV6" alt="" coords="176,5,323,35"/>
+</map>

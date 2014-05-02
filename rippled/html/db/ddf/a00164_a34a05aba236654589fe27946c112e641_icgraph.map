@@ -1,0 +1,14 @@
+<map id="beast::basic_semaphore::signal" name="beast::basic_semaphore::signal">
+<area shape="rect" id="node3" href="$d7/db1/a01837.html#ae98ad290c6bbb9079b40575a21315ce1" title="beast::Workers::addTask" alt="" coords="227,113,395,143"/>
+<area shape="rect" id="node15" href="$d7/db1/a01837.html#a2afc6c18a9d33106d9e40dcaa0984c1d" title="beast::Workers::setNumber\lOfThreads" alt="" coords="220,237,401,283"/>
+<area shape="rect" id="node5" href="$db/d09/a01838.html#a3158e17158af7b7fc92456c9628fe12c" title="beast::Workers_test\l::testThreads" alt="" coords="688,185,827,231"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#a8a57dba5ad67a1594d008333032912a0" title="ripple::JobQueueImp\l::queueJob" alt="" coords="465,5,607,51"/>
+<area shape="rect" id="node11" href="$d9/d00/a00784.html#a498e20ce1164d7644a3b1825ac02f139" title="ripple::JobQueueImp\l::finishJob" alt="" coords="465,74,607,121"/>
+<area shape="rect" id="node9" href="$d9/d00/a00784.html#ac2e75f069b3c1ebeb9e9edce0606cad5" title="ripple::JobQueueImp\l::addJob" alt="" coords="687,5,828,51"/>
+<area shape="rect" id="node13" href="$d9/d00/a00784.html#a7666704c0d51e837f890bd5df81dfa03" title="ripple::JobQueueImp\l::processTask" alt="" coords="687,74,828,121"/>
+<area shape="rect" id="node17" href="$d7/db1/a01837.html#a1cab7deab1684cfe357a035e3a71ae5d" title="beast::Workers::Workers" alt="" coords="452,245,620,275"/>
+<area shape="rect" id="node19" href="$d7/db1/a01837.html#a3ee6b9b2365d9436d68494b54d1b4dda" title="beast::Workers::pauseAll\lThreadsAndWait" alt="" coords="452,298,620,345"/>
+<area shape="rect" id="node27" href="$d9/d00/a00784.html#a026a2c4342620edab064ae9624f31712" title="ripple::JobQueueImp\l::setThreadCount" alt="" coords="465,367,607,414"/>
+<area shape="rect" id="node21" href="$d7/db1/a01837.html#aff524be09270276f1991a99b8885b977" title="beast::Workers::~Workers" alt="" coords="669,281,845,311"/>
+<area shape="rect" id="node24" href="$d9/d00/a00784.html#aa3f7da1dd9d41217b775a80432b38d87" title="ripple::JobQueueImp\l::shutdown" alt="" coords="687,334,828,381"/>
+</map>

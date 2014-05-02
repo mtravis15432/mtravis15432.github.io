@@ -1,0 +1,11 @@
+<map id="ripple::LedgerCleanerImp::doClean" name="ripple::LedgerCleanerImp::doClean">
+<area shape="rect" id="node3" href="$d6/d27/a01781.html#a7402c797285c020566c3db5f8ae4e940" title="Json::Value::asBool" alt="" coords="233,5,372,35"/>
+<area shape="rect" id="node5" href="$d6/d27/a01781.html#a2019d1bd296b89356c1b0da5970c918c" title="Json::Value::asUInt" alt="" coords="233,59,372,88"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="252,112,353,141"/>
+<area shape="rect" id="node11" href="$d1/de6/a00837.html#a6931bd2f28dffb0ff14ebfca9fd4d7c9" title="ripple::LedgerMaster\l::getFullValidatedRange" alt="" coords="223,165,383,211"/>
+<area shape="rect" id="node13" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="240,234,365,281"/>
+<area shape="rect" id="node15" href="$d6/d27/a01781.html#a196defba501d70ea2b6793afb04108e3" title="Return true if the object has a member named key. " alt="" coords="225,304,380,333"/>
+<area shape="rect" id="node17" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="232,357,373,387"/>
+<area shape="rect" id="node9" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="433,103,609,150"/>
+<area shape="rect" id="node19" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="448,349,595,395"/>
+</map>

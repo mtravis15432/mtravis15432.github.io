@@ -1,0 +1,8 @@
+<map id="connectionIsBusy" name="connectionIsBusy">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#aa9f2e73837bba8d721dbde0964ffce11" title="sqlite3Close" alt="" coords="445,32,539,61"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="183,81,369,127"/>
+<area shape="rect" id="node5" href="$d1/db9/a02353.html#ac43c9032fc6ef3b2a231dc3a9fa44b2d" title="sqlite3_close" alt="" coords="624,5,723,35"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#ad2cb8462eaba28b4c8410ef55a4282b4" title="sqlite3_close_v2" alt="" coords="615,59,732,88"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#a176857dd58d99be53b6d7305533e0048" title="sqlite3_backup_finish" alt="" coords="419,87,565,116"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="439,140,545,169"/>
+</map>

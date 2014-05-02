@@ -1,0 +1,24 @@
+<map id="beast::zerostruct" name="beast::zerostruct">
+<area shape="rect" id="node3" href="$dd/dda/a01621.html#ae9068a2762a91511af6972265f3920ef" title="beast::SystemStats\l::getStackBacktrace" alt="" coords="195,15,336,62"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#ad456793a2fdfdefb4338b5ba5693d537" title="beast::File::getVolumeLabel" alt="" coords="173,105,357,135"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a97015fed00024883973d1da46773df42" title="beast::isWindowsVersionOr\lLater" alt="" coords="173,158,357,205"/>
+<area shape="rect" id="node11" href="$de/d11/a03387.html#a5506e2798415ba377b05f247702f762f" title="beast::TimeHelpers\l::millisToLocal" alt="" coords="197,269,333,315"/>
+<area shape="rect" id="node5" href="$d8/d14/a00522.html#a6d670aa941710f069c5e0a34d45dcec5" title="beast::FatalError::\lFatalError" alt="" coords="456,5,581,51"/>
+<area shape="rect" id="node13" href="$dc/dc8/a01695.html#aa363e7764841ac5c8aaf5186dd9bf585" title="beast::Time::formatted" alt="" coords="441,235,596,264"/>
+<area shape="rect" id="node15" href="$dc/dc8/a01695.html#a740db67a4b083421225ccb11505ff3f3" title="beast::Time::getYear" alt="" coords="447,288,591,317"/>
+<area shape="rect" id="node23" href="$dc/dc8/a01695.html#a3d60d7258b63feef590ac75ba136e8a8" title="beast::Time::getMonth" alt="" coords="443,448,595,477"/>
+<area shape="rect" id="node28" href="$dc/dc8/a01695.html#a8afd9dbe51992dcd2ba392e74eae2e0a" title="beast::Time::getDayOfYear" alt="" coords="428,75,609,104"/>
+<area shape="rect" id="node30" href="$dc/dc8/a01695.html#a62464ee73a3d22d7252208a8dec82865" title="beast::Time::getDayOfMonth" alt="" coords="424,341,613,371"/>
+<area shape="rect" id="node33" href="$dc/dc8/a01695.html#afc1da169e4c528c3e20a2cfae1cdb4e8" title="beast::Time::getDayOfWeek" alt="" coords="424,128,613,157"/>
+<area shape="rect" id="node37" href="$dc/dc8/a01695.html#a2361e65606eacc764e84cdb0d5f50c0e" title="beast::Time::getHours" alt="" coords="443,505,595,535"/>
+<area shape="rect" id="node44" href="$dc/dc8/a01695.html#a4c214cee261fe797666a22b00296642b" title="beast::Time::getMinutes" alt="" coords="437,395,600,424"/>
+<area shape="rect" id="node47" href="$dc/dc8/a01695.html#afd83445051da44ad0742dbc63c41f04b" title="beast::Time::isDaylightSavingTime" alt="" coords="405,181,632,211"/>
+<area shape="rect" id="node17" href="$d5/d36/a01773.html#a84d7261a41bb34c0f5b662224aff4ae9" title="ripple::Validators\l::Utilities::timeToString" alt="" coords="707,375,861,422"/>
+<area shape="rect" id="node19" href="$da/daf/a01568.html#a2d89fd061f01446ca3bbd3da79c0f0eb" title="ripple::Validators\l::StoreSqdb::insert" alt="" coords="940,341,1071,387"/>
+<area shape="rect" id="node21" href="$da/daf/a01568.html#af85db27dd474b81adcf838083945ea4e" title="ripple::Validators\l::StoreSqdb::update" alt="" coords="936,410,1075,457"/>
+<area shape="rect" id="node25" href="$dc/dc8/a01695.html#a477c55b4592597be7cd836b95ba138ad" title="beast::Time::getMonthName" alt="" coords="691,445,877,475"/>
+<area shape="rect" id="node35" href="$dc/dc8/a01695.html#a7daccee6f5644860115556a06609a2f5" title="beast::Time::getWeekdayName" alt="" coords="681,128,887,157"/>
+<area shape="rect" id="node39" href="$dc/dc8/a01695.html#ae3f3f16c29d03c4d864194696fc5c3ef" title="beast::Time::getHoursInAm\lPmFormat" alt="" coords="693,498,875,545"/>
+<area shape="rect" id="node41" href="$dc/dc8/a01695.html#a17724c39242fc197f11030bdc5500cab" title="beast::Time::isAfternoon" alt="" coords="701,568,867,597"/>
+<area shape="rect" id="node49" href="$dc/dc8/a01695.html#a9f5ecc2f9552c8167fb563226c3a7b26" title="beast::Time::getTimeZone" alt="" coords="697,181,871,211"/>
+</map>

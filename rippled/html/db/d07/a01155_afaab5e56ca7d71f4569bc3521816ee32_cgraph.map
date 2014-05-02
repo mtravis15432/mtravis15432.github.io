@@ -1,0 +1,29 @@
+<map id="ripple::core::Quality_test::ceil_in" name="ripple::core::Quality_test::ceil_in">
+<area shape="rect" id="node3" href="$db/d07/a01155.html#aebaabd9a45daf59390886657d04b60a6" title="ripple::core::Quality\l_test::amount" alt="" coords="416,152,549,199"/>
+<area shape="rect" id="node5" href="$db/d07/a01155.html#aafc10a13314eae4362a784f0724f951f" title="ripple::core::Quality\l_test::amounts" alt="" coords="197,212,331,259"/>
+<area shape="rect" id="node8" href="$d5/d16/a01154.html#a7d07e946af13da8feacb64e9ffe46daa" title="ripple::core::Quality\l::ceil_in" alt="" coords="197,281,331,328"/>
+<area shape="rect" id="node46" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="191,636,337,683"/>
+<area shape="rect" id="node10" href="$d2/d41/a01493.html#a5a04a9b52239427b2faf80438dcda832" title="ripple::STAmount::divRound" alt="" coords="389,225,576,254"/>
+<area shape="rect" id="node28" href="$d2/d41/a01493.html#a789b3ee5edaf69eb840e57b4c7fc395e" title="ripple::STAmount::mulRound" alt="" coords="388,289,577,318"/>
+<area shape="rect" id="node41" href="$d5/d16/a01154.html#a8bd3f3b5222ed5426ca524ddbc703cf6" title="ripple::core::Quality\l::rate" alt="" coords="416,455,549,501"/>
+<area shape="rect" id="node12" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="649,58,807,87"/>
+<area shape="rect" id="node14" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="652,165,804,194"/>
+<area shape="rect" id="node16" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="649,287,807,317"/>
+<area shape="rect" id="node18" href="$d2/d41/a01493.html#ab683af712f5bfcfa66c66f09f5a8399a" title="ripple::STAmount::canonicalize\lRound" alt="" coords="627,217,829,264"/>
+<area shape="rect" id="node20" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="639,111,817,141"/>
+<area shape="rect" id="node24" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="665,340,791,387"/>
+<area shape="rect" id="node26" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="879,531,1071,561"/>
+<area shape="rect" id="node22" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="888,111,1061,141"/>
+<area shape="rect" id="node34" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="655,463,801,509"/>
+<area shape="rect" id="node36" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="628,410,828,439"/>
+<area shape="rect" id="node43" href="$d2/d41/a01493.html#a05d8d9a9e3e2fa2f6f6ced24bed4d224" title="ripple::STAmount::setRate" alt="" coords="640,583,816,613"/>
+<area shape="rect" id="node48" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="409,636,556,683"/>
+<area shape="rect" id="node60" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="409,705,556,752"/>
+<area shape="rect" id="node50" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="651,636,805,683"/>
+<area shape="rect" id="node52" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="897,609,1052,656"/>
+<area shape="rect" id="node54" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="897,679,1052,725"/>
+<area shape="rect" id="node56" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1121,644,1276,691"/>
+<area shape="rect" id="node58" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1121,713,1276,760"/>
+<area shape="rect" id="node62" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="651,705,805,752"/>
+<area shape="rect" id="node64" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="897,748,1052,795"/>
+</map>

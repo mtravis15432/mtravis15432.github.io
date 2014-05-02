@@ -1,0 +1,8 @@
+<map id="leveldb_filterpolicy_create_bloom" name="leveldb_filterpolicy_create_bloom">
+<area shape="rect" id="node3" href="$de/d37/a00849.html#a8b5b77b6a8d1c526905c7eb57d78558b" title="leveldb_filterpolicy\l_t::CreateFilter" alt="" coords="223,5,351,51"/>
+<area shape="rect" id="node9" href="$de/d37/a00849.html#aa3006a26cac563bb5115d27d83b6865f" title="leveldb_filterpolicy\l_t::KeyMayMatch" alt="" coords="223,74,351,121"/>
+<area shape="rect" id="node13" href="$de/d37/a00849.html#a2d2e4bed02de91075ce921005c851a3e" title="leveldb_filterpolicy\l_t::Name" alt="" coords="223,143,351,190"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#ac1e4f201260f0ef566953a6817cfe713" title="rocksdb::NewBloomFilterPolicy" alt="" coords="184,213,389,243"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="437,17,576,47"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="439,75,575,104"/>
+</map>

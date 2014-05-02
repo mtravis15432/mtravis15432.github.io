@@ -1,0 +1,6 @@
+<map id="beast::ServiceQueueBase::Waiter" name="beast::ServiceQueueBase::Waiter">
+<area shape="rect" id="node2" href="$d3/d50/a00882.html" title="List\&lt;Waiter\&gt;::Node" alt="" coords="40,136,176,165"/>
+<area shape="rect" id="node4" href="$d3/d50/a00882.html" title="beast::detail::ListNode\l\&lt; T, Tag \&gt;" alt="" coords="5,6,157,53"/>
+<area shape="rect" id="node7" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="236,136,383,165"/>
+<area shape="rect" id="node9" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="253,15,384,44"/>
+</map>

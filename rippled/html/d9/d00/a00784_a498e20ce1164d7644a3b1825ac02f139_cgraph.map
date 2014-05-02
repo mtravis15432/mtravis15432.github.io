@@ -1,0 +1,10 @@
+<map id="ripple::JobQueueImp::finishJob" name="ripple::JobQueueImp::finishJob">
+<area shape="rect" id="node3" href="$d7/db1/a01837.html#ae98ad290c6bbb9079b40575a21315ce1" title="beast::Workers::addTask" alt="" coords="199,35,367,64"/>
+<area shape="rect" id="node7" href="$d9/d00/a00784.html#ae9465141aa97c71a1dbf82f44e0c63e6" title="ripple::JobQueueImp\l::getJobLimit" alt="" coords="212,109,353,155"/>
+<area shape="rect" id="node15" href="$d9/d00/a00784.html#ac4a243000c4ae7ddb098e2cd82ceee1b" title="ripple::JobQueueImp\l::getJobTypeData" alt="" coords="212,178,353,225"/>
+<area shape="rect" id="node17" href="$da/d96/a00782.html#acb3036a2a8ab8bddc1a2bfbd2ebd697f" title="ripple::Job::getType" alt="" coords="215,248,351,277"/>
+<area shape="rect" id="node5" href="$db/ddf/a00164.html#a34a05aba236654589fe27946c112e641" title="beast::basic_semaphore\l::signal" alt="" coords="417,5,580,51"/>
+<area shape="rect" id="node9" href="$d9/d00/a00784.html#acd7984fd6d031121249572be3f300a8a" title="ripple::JobQueueImp\l::getJobTypes" alt="" coords="428,74,569,121"/>
+<area shape="rect" id="node11" href="$d0/d7d/a00786.html#a88dd6ca74cc4f83d86000d118afa74b4" title="ripple::JobTypeInfo\l::type" alt="" coords="432,143,565,190"/>
+<area shape="rect" id="node13" href="$d0/d7d/a00786.html#aa13804d322a89e387b92d858d9faab54" title="ripple::JobTypeInfo\l::limit" alt="" coords="432,213,565,259"/>
+</map>

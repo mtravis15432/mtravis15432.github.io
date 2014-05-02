@@ -1,0 +1,10 @@
+<map id="beast::ParsedURL::url" name="beast::ParsedURL::url">
+<area shape="rect" id="node3" href="$d4/d12/a00910.html#ae38bdb01b5a888e478379fec54bfd501" title="ripple::SiteFiles::\lLogic::addURL" alt="" coords="251,5,371,51"/>
+<area shape="rect" id="node7" href="$db/dba/a01078.html#a443e452631098ea2d2ea198f7a652ae5" title="beast::ParsedURL_test\l::checkURL" alt="" coords="232,74,389,121"/>
+<area shape="rect" id="node13" href="$d3/db8/a00316.html#a2342f89e1ca6cd56d3057a69cf0dc87d" title="ripple::Config::getValidatorsURL" alt="" coords="205,144,416,173"/>
+<area shape="rect" id="node15" href="$d4/d9b/a00680.html#a8a471d3bd0c8a1111e7cc416c00e8d92" title="beast::asio::HTTPClient\l_test::testAsync" alt="" coords="229,197,392,243"/>
+<area shape="rect" id="node5" href="$d8/d19/a00935.html#a30ee2017d6641be735898d04c2f1f5b0" title="ripple::SiteFiles::\lManagerImp::addURL" alt="" coords="471,5,620,51"/>
+<area shape="rect" id="node9" href="$db/dba/a01078.html#aea8f8e8a8b95807d22394fed3ab02d83" title="beast::ParsedURL_test\l::testURL" alt="" coords="467,74,624,121"/>
+<area shape="rect" id="node11" href="$db/dba/a01078.html#a4baa18083fe32786a39f5c7ceb01ff05" title="beast::ParsedURL_test::run" alt="" coords="676,83,860,112"/>
+<area shape="rect" id="node17" href="$d4/d9b/a00680.html#a88944f640fe6b39a84c5cea6c7f66c4d" title="beast::asio::HTTPClient\l_test::run" alt="" coords="464,197,627,243"/>
+</map>

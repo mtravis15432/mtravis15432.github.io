@@ -1,0 +1,6 @@
+<map id="beast::beast_InterlockedExchange" name="beast::beast_InterlockedExchange">
+<area shape="rect" id="node3" href="$d7/d06/a00131.html#a493be3189580e17ad961ca8fc1585a02" title="beast::Atomic::exchange" alt="" coords="220,83,385,112"/>
+<area shape="rect" id="node5" href="$d7/d06/a00131.html#ad2e88c903beab6ce5364e552b8a3f6e7" title="beast::Atomic\&lt; ripple\l::Peer::ShortId \&gt;::operator=" alt="" coords="436,5,617,51"/>
+<area shape="rect" id="node7" href="$d7/d06/a00131.html#a4449697212c60a5da698b3b9ef0449a3" title="beast::Atomic\&lt; ripple\l::Peer::ShortId \&gt;::set" alt="" coords="453,74,600,121"/>
+<area shape="rect" id="node9" href="$d5/deb/a00132.html#a1a53c9b765c94ef02e6224c1899f2635" title="beast::Atomic_test\l::testFloat" alt="" coords="461,143,592,190"/>
+</map>

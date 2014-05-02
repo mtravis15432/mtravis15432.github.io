@@ -1,0 +1,12 @@
+<map id="ripple::SerializedTransaction::getSourceAccount" name="ripple::SerializedTransaction::getSourceAccount">
+<area shape="rect" id="node3" href="$d8/df7/a01711.html#ac2faaa3bfd1c9b9f91ae24f367474d0f" title="ripple::Transactor\l::apply" alt="" coords="508,342,631,389"/>
+<area shape="rect" id="node5" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="249,109,417,155"/>
+<area shape="rect" id="node15" href="$d9/de4/a01346.html#a69fa3a93e82e9df0c0510cfa683b2f97" title="ripple::SerializedTransaction\l::getMetaSQL" alt="" coords="240,229,427,275"/>
+<area shape="rect" id="node17" href="$d9/de4/a01346.html#a98c1f994a1e85186994de99772cb19e8" title="ripple::SerializedTransaction\l::getSQL" alt="" coords="240,298,427,345"/>
+<area shape="rect" id="node19" href="$d8/df7/a01711.html#acde4aad5a0210a8499cce3dcd629f191" title="ripple::Transactor\l::preCheck" alt="" coords="272,367,395,414"/>
+<area shape="rect" id="node22" href="$df/da9/a00263.html#af3f015d7cbb69fd03a624515fa26f985" title="ripple::ChangeTransactor\l::preCheck" alt="" coords="249,437,417,483"/>
+<area shape="rect" id="node7" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="476,74,663,121"/>
+<area shape="rect" id="node9" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="488,143,651,190"/>
+<area shape="rect" id="node11" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="488,213,651,259"/>
+<area shape="rect" id="node13" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="501,5,637,51"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::SerializedTransaction::getSigningPubKey" name="ripple::SerializedTransaction::getSigningPubKey">
+<area shape="rect" id="node3" href="$df/da9/a00263.html#a6b51273f6c5e0d0abe87dd09adebb9e3" title="ripple::ChangeTransactor\l::checkSig" alt="" coords="240,5,408,51"/>
+<area shape="rect" id="node5" href="$d8/df7/a01711.html#acde4aad5a0210a8499cce3dcd629f191" title="ripple::Transactor\l::preCheck" alt="" coords="263,74,385,121"/>
+<area shape="rect" id="node7" href="$d8/df7/a01711.html#ac2faaa3bfd1c9b9f91ae24f367474d0f" title="ripple::Transactor\l::apply" alt="" coords="456,74,579,121"/>
+</map>

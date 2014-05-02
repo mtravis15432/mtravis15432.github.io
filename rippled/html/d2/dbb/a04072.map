@@ -1,0 +1,20 @@
+<map id="rippled/src/beast/modules/beast_core/memory/SharedSingleton.h" name="rippled/src/beast/modules/beast_core/memory/SharedSingleton.h">
+<area shape="rect" id="node3" href="$d4/dbb/a02097.html" title="../../../beast/threads\l/SpinLock.h" alt="" coords="565,102,701,149"/>
+<area shape="rect" id="node38" href="$df/d03/a02058.html" title="../../../beast/smart\l_ptr/SharedPtr.h" alt="" coords="416,102,541,149"/>
+<area shape="rect" id="node47" href="$df/d73/a02312.html" title="../time/AtExitHook.h" alt="" coords="772,111,913,140"/>
+<area shape="rect" id="node5" href="$d6/d4c/a01903.html" title="../Atomic.h" alt="" coords="285,207,371,236"/>
+<area shape="rect" id="node32" href="$d8/d72/a02104.html" title="UnlockGuard.h" alt="" coords="664,207,773,236"/>
+<area shape="rect" id="node7" href="$d0/dde/a01924.html" title="Config.h" alt="" coords="425,293,495,323"/>
+<area shape="rect" id="node26" href="$d5/d8b/a02060.html" title="StaticAssert.h" alt="" coords="68,293,172,323"/>
+<area shape="rect" id="node28" href="$db/ddd/a02136.html" title="utility/noexcept.h" alt="" coords="196,293,316,323"/>
+<area shape="rect" id="node9" href="$d5/dba/a01940.html" title="config/SelectCompilerConfig.h" alt="" coords="5,371,203,400"/>
+<area shape="rect" id="node11" href="$d3/d28/a02147.html" title="Version.h" alt="" coords="227,371,304,400"/>
+<area shape="rect" id="node13" href="$d4/d25/a01939.html" title="config/PlatformConfig.h" alt="" coords="263,448,420,477"/>
+<area shape="rect" id="node15" href="$d5/d31/a01931.html" title="config/CompilerConfig.h" alt="" coords="379,371,541,400"/>
+<area shape="rect" id="node20" href="$df/dd8/a01943.html" title="config/StandardConfig.h" alt="" coords="565,371,728,400"/>
+<area shape="rect" id="node22" href="$d8/d22/a01932.html" title="config/ConfigCheck.h" alt="" coords="752,371,899,400"/>
+<area shape="rect" id="node24" href="$db/da1/a01944.html" title="config/Suffix.h" alt="" coords="923,371,1029,400"/>
+<area shape="rect" id="node34" href="$d4/d18/a02106.html" title="../Uncopyable.h" alt="" coords="661,293,776,323"/>
+<area shape="rect" id="node41" href="$d2/dea/a02057.html" title="SharedObject.h" alt="" coords="445,207,557,236"/>
+<area shape="rect" id="node49" href="$d4/ddd/a02040.html" title="../../../beast/intrusive\l/List.h" alt="" coords="797,198,939,245"/>
+</map>

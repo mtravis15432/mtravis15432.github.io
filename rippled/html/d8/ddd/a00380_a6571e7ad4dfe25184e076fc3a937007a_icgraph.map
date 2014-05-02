@@ -1,0 +1,17 @@
+<map id="rocksdb::DB::Delete" name="rocksdb::DB::Delete">
+<area shape="rect" id="node3" href="$d4/d27/a00392.html#aaa7adfb3364aafd0a930eba182bef785" title="rocksdb::DBWithTTL\l::Delete" alt="" coords="220,27,364,74"/>
+<area shape="rect" id="node13" href="$dd/df5/a00386.html#a5d5efdb5c1e9ec19aebcb0d76208ffe5" title="rocksdb::DBImpl::Delete" alt="" coords="209,97,375,127"/>
+<area shape="rect" id="node19" href="$db/d95/a00391.html#a45351b937bfcf6812f72f470843bf697" title="rocksdb::DBTest::Delete" alt="" coords="209,151,375,180"/>
+<area shape="rect" id="node21" href="$d0/dc7/a01402.html#a5f2deb65a2ddb598250643bacb98f90d" title="rocksdb::SimpleTableDBTest\l::Delete" alt="" coords="196,203,388,250"/>
+<area shape="rect" id="node23" href="$d4/d21/a00987.html#a9855601dde7415250b1202827c922746" title="rocksdb::ModelDB::Delete" alt="" coords="204,273,380,303"/>
+<area shape="rect" id="node30" href="$d5/d95/a02625.html#a3878ffaf68a4addb31266ac81ce8c36f" title="leveldb_delete" alt="" coords="240,327,344,356"/>
+<area shape="rect" id="node34" href="$d3/daa/a01577.html#af55a36a036e7348d3442400c050df2ee" title="rocksdb::StressTest\l::OperateDb" alt="" coords="223,379,361,426"/>
+<area shape="rect" id="node5" href="$d4/d27/a00392.html#a71ac4f9595315bfea87e163bc9206585" title="rocksdb::DBWithTTL\l::Write" alt="" coords="451,27,595,74"/>
+<area shape="rect" id="node7" href="$d4/d27/a00392.html#aecac9535709b5dd7617d950ffc14da49" title="rocksdb::DBWithTTL::Put" alt="" coords="656,5,829,35"/>
+<area shape="rect" id="node10" href="$d4/d27/a00392.html#a7c23011ce3a37e5d9683c10ab88640f4" title="rocksdb::DBWithTTL\l::Merge" alt="" coords="671,58,815,105"/>
+<area shape="rect" id="node15" href="$d3/dc9/a00355.html#a0394d51fe796dc41b560f93c3936a845" title="Counters::remove" alt="" coords="460,97,585,127"/>
+<area shape="rect" id="node17" href="$d4/d87/a03436.html#ac6ef9d1e4162be93428d033486a1741a" title="rocksdb::TEST" alt="" coords="468,151,577,180"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#a4e8b2803616c617002bd6812ef1af230" title="rocksdb::TEST" alt="" coords="688,247,797,276"/>
+<area shape="rect" id="node27" href="$d4/d21/a00987.html#a21e950d94ac928ac7b1d1ba6f3018017" title="rocksdb::ModelDB::Write" alt="" coords="439,273,607,303"/>
+<area shape="rect" id="node32" href="$d1/d03/a02560.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="497,327,548,356"/>
+</map>

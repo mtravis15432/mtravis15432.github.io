@@ -1,0 +1,5 @@
+<map id="rocksdb::TransformRepFactory" name="rocksdb::TransformRepFactory">
+<area shape="rect" id="node5" href="$d9/d17/a01129.html" title="rocksdb::PrefixHashRepFactory" alt="" coords="5,160,213,189"/>
+<area shape="rect" id="node7" href="$db/db8/a01761.html" title="rocksdb::UnsortedRepFactory" alt="" coords="237,160,435,189"/>
+<area shape="rect" id="node2" href="$d0/daf/a00970.html" title="rocksdb::MemTableRepFactory" alt="" coords="120,5,325,35"/>
+</map>

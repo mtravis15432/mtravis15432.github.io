@@ -1,0 +1,5 @@
+<map id="beast::asio::HandshakeDetectorType::AsyncOp::on_read" name="beast::asio::HandshakeDetectorType::AsyncOp::on_read">
+<area shape="rect" id="node3" href="$d1/d88/a00128.html#ab3869ebc8ea5f831818b6c1164f9e84c" title="beast::asio::HandshakeDetector\lType::AsyncOp::async_read_some" alt="" coords="264,23,491,70"/>
+<area shape="rect" id="node5" href="$d5/d9d/a03343.html#ae1c9014199c29fe953abd1778034e222" title="beast::asio::bind_handler" alt="" coords="541,5,707,35"/>
+<area shape="rect" id="node7" href="$d5/d9d/a03343.html#af6e663f43fc6f0e7c631aa9b675ca292" title="beast::asio::wrap_handler" alt="" coords="539,59,709,88"/>
+</map>

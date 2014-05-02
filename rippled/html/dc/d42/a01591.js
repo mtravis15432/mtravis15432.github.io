@@ -1,0 +1,25 @@
+var a01591 =
+[
+    [ "CharPointerType", "dc/d42/a01591.html#a0e3ae59aa0f70e2cb27331f3881487b6", null ],
+    [ "CharType", "dc/d42/a01591.html#acf476a6cf52874efba860a5cca604021", null ],
+    [ "StringHolder", "dc/d42/a01591.html#a9077a9b84de0627b1b34aacb061f7948", null ],
+    [ "bufferFromText", "dc/d42/a01591.html#a76bb5db7bd49e474f3d7ac977950c767", null ],
+    [ "compileTimeChecks", "dc/d42/a01591.html#a2d8d1c588a35fb3154ad720d079f4e60", null ],
+    [ "createFromCharPointer", "dc/d42/a01591.html#acedfdf893137590a6d9b4da2a80c9be6", null ],
+    [ "createFromCharPointer", "dc/d42/a01591.html#ae40d18975b4ed907a45c5d398efeef34", null ],
+    [ "createFromCharPointer", "dc/d42/a01591.html#a99f09ab6eb111e89448ed33f570c6dbb", null ],
+    [ "createFromCharPointer", "dc/d42/a01591.html#a06406d4112500ed2abf1867c9a0afdb0", null ],
+    [ "createFromFixedLength", "dc/d42/a01591.html#a8b7214fc0c00f141f5e0f962cc649673", null ],
+    [ "createUninitialisedBytes", "dc/d42/a01591.html#adb81bef342e3066514cffd407103616d", null ],
+    [ "getAllocatedNumBytes", "dc/d42/a01591.html#a074159d23ac4d9eca8eb0acba3686053", null ],
+    [ "getEmpty", "dc/d42/a01591.html#ae6ad106ce71674513e02588d89d6aa4e", null ],
+    [ "makeUnique", "dc/d42/a01591.html#a054d44c73daa27fa9acd0f86748cc874", null ],
+    [ "makeUniqueWithByteSize", "dc/d42/a01591.html#af246d66888ff3516325ccb8799ec02f5", null ],
+    [ "release", "dc/d42/a01591.html#a68c2817293b487ddfbfb44e6d977e684", null ],
+    [ "release", "dc/d42/a01591.html#a764cfadcd4880c1b8e9a1d5556fe47f4", null ],
+    [ "retain", "dc/d42/a01591.html#a0ff9414622e5a8b1beee23e1aea19c15", null ],
+    [ "allocatedNumBytes", "dc/d42/a01591.html#a5987c9f706fe8c66fd824bd902b1cdc5", null ],
+    [ "empty", "dc/d42/a01591.html#a72d997367e674318739197729c4b496b", null ],
+    [ "refCount", "dc/d42/a01591.html#a067513a468d75de3bda3e9a007b8984d", null ],
+    [ "text", "dc/d42/a01591.html#a5ed611f9a5ea3e028b626a95857ba7a4", null ]
+];

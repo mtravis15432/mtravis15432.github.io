@@ -1,0 +1,6 @@
+<map id="beast::beast_fileSetPosition" name="beast::beast_fileSetPosition">
+<area shape="rect" id="node3" href="$d4/d79/a00540.html#a8de02d424c4f4064175e62a48c5c5b45" title="beast::FileInputStream\l::read" alt="" coords="245,74,400,121"/>
+<area shape="rect" id="node10" href="$d2/ddf/a00544.html#a6a4a2c135186705a9325539d07ebee8f" title="beast::FileOutputStream\l::setPosition" alt="" coords="241,143,404,190"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#a80eb671084aeeca83ac474772de04cd5" title="beast::File::hasIdentical\lContentTo" alt="" coords="455,5,615,51"/>
+<area shape="rect" id="node7" href="$d4/d79/a00540.html#ae9794b1e8ebc751b6520c10ff83a01a2" title="beast::FileInputStream\l::readInternal" alt="" coords="457,74,612,121"/>
+</map>

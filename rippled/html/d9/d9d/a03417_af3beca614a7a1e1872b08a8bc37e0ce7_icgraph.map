@@ -1,0 +1,27 @@
+<map id="ripple::iToSeconds" name="ripple::iToSeconds">
+<area shape="rect" id="node3" href="$d7/ded/a01009.html#a67d834a967ca92edbfa11ba6aefbdf53" title="ripple::NetworkOPsImp\l::getCloseTimeNC" alt="" coords="200,65,357,111"/>
+<area shape="rect" id="node7" href="$d7/ded/a01009.html#a07e5590900394e5b3642496533890cef" title="ripple::NetworkOPsImp\l::getNetworkTimeNC" alt="" coords="200,194,357,241"/>
+<area shape="rect" id="node48" href="$d5/dfa/a01746.html#a77e43048019673dd9d1ce76cdf1d943a" title="ripple::UniqueNodeListImp\l::miscSave" alt="" coords="191,263,367,310"/>
+<area shape="rect" id="node50" href="$dd/d5f/a00825.html#ab245f14e28043e65e46564c1c9c3732d" title="ripple::Ledger::setCloseTime" alt="" coords="184,333,373,363"/>
+<area shape="rect" id="node52" href="$d5/dfa/a01746.html#a7c3885cb69fa9b8f6c535d9e41715bb8" title="ripple::UniqueNodeListImp\l::setSeedDomains" alt="" coords="191,386,367,433"/>
+<area shape="rect" id="node54" href="$d5/dfa/a01746.html#ac521c01be5a6eef6f3478250d23f2fbf" title="ripple::UniqueNodeListImp\l::setSeedNodes" alt="" coords="191,455,367,502"/>
+<area shape="rect" id="node5" href="$d7/ded/a01009.html#a356932367043b41df75358206d0b5b36" title="ripple::NetworkOPsImp\l::getServerInfo" alt="" coords="429,5,587,51"/>
+<area shape="rect" id="node9" href="$d7/ded/a01009.html#a01173fbae7b2fe63dc7028120fb55862" title="ripple::NetworkOPsImp\l::processClusterTimer" alt="" coords="1099,103,1256,150"/>
+<area shape="rect" id="node13" href="$d7/ded/a01009.html#a3879c24bdde3bda994b0ff43eecd52b1" title="ripple::NetworkOPsImp\l::getValidationTimeNC" alt="" coords="429,125,587,171"/>
+<area shape="rect" id="node15" href="$d7/ded/a01009.html#a11a18d9eca593baddb2e72566c053800" title="ripple::NetworkOPsImp\l::runTransactionQueue" alt="" coords="429,194,587,241"/>
+<area shape="rect" id="node17" href="$d7/ded/a01009.html#aab21222cb8f90aebe766d622a9b02cc3" title="ripple::NetworkOPsImp\l::processTransactionCb" alt="" coords="428,263,588,310"/>
+<area shape="rect" id="node27" href="$d7/ded/a01009.html#a6a3776d980baee062b961c0195bc43be" title="ripple::NetworkOPsImp\l::tryStartConsensus" alt="" coords="883,327,1040,374"/>
+<area shape="rect" id="node42" href="$d7/ded/a01009.html#a03e21ff22be1d31dbe08f81deb590ece" title="ripple::NetworkOPsImp\l::switchLastClosedLedger" alt="" coords="421,383,595,430"/>
+<area shape="rect" id="node11" href="$d7/ded/a01009.html#ab8272588ee692e125af4d7841af32618" title="ripple::NetworkOPsImp\l::onDeadlineTimer" alt="" coords="1316,146,1473,193"/>
+<area shape="rect" id="node19" href="$d7/ded/a01009.html#a26cb95fc4e1b658987421bd28c051516" title="ripple::NetworkOPsImp\l::processTransaction" alt="" coords="657,191,815,238"/>
+<area shape="rect" id="node23" href="$d7/ded/a01009.html#abaf5313789b76e16cc0f99605e8f0c81" title="ripple::NetworkOPsImp\l::processTransactionCbVoid" alt="" coords="643,262,829,309"/>
+<area shape="rect" id="node21" href="$d7/ded/a01009.html#a20ac0a06c2870e5d087e35f7dd2f768c" title="ripple::NetworkOPsImp\l::submitTransactionSync" alt="" coords="879,189,1044,235"/>
+<area shape="rect" id="node25" href="$d7/ded/a01009.html#a1f19b2ae693aa2f460a5d48f3faa2218" title="ripple::NetworkOPsImp\l::submitTransaction" alt="" coords="883,258,1040,305"/>
+<area shape="rect" id="node29" href="$d7/ded/a01009.html#adb95084185570756c8a39ba0e32fb3ed" title="ripple::NetworkOPsImp\l::processHeartbeatTimer" alt="" coords="1095,207,1260,254"/>
+<area shape="rect" id="node32" href="$d7/ded/a01009.html#ac929d58ce61af6b87922103bf3da3039" title="ripple::NetworkOPsImp\l::haveConsensusObject" alt="" coords="1096,358,1259,405"/>
+<area shape="rect" id="node34" href="$d7/ded/a01009.html#a27090d36556b8665cbd908efa99e2a05" title="ripple::NetworkOPsImp\l::getConsensusLCL" alt="" coords="1316,254,1473,301"/>
+<area shape="rect" id="node36" href="$d7/ded/a01009.html#a148e1e8d0c5128ee48e0206cdeb5e2a0" title="ripple::NetworkOPsImp\l::processTrustedProposal" alt="" coords="1309,323,1480,370"/>
+<area shape="rect" id="node38" href="$d7/ded/a01009.html#a7fc7ee8501f9d95df97583cabf3b4771" title="ripple::NetworkOPsImp\l::getTXMap" alt="" coords="1316,393,1473,439"/>
+<area shape="rect" id="node40" href="$d7/ded/a01009.html#aff24b82af590d1db837231ad0125eee4" title="ripple::NetworkOPsImp\l::mapComplete" alt="" coords="1316,462,1473,509"/>
+<area shape="rect" id="node44" href="$d7/ded/a01009.html#ad72f54405ed9b8219022e8c2b7796c98" title="ripple::NetworkOPsImp\l::checkLastClosedLedger" alt="" coords="651,383,821,430"/>
+</map>

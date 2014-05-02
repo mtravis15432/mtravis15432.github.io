@@ -1,0 +1,11 @@
+<map id="beast::Workers::pauseAllThreadsAndWait" name="beast::Workers::pauseAllThreadsAndWait">
+<area shape="rect" id="node3" href="$d7/db1/a01837.html#a5df0f05e49fd34292fb12ffc6ddc0738" title="beast::Workers::numberOf\lCurrentlyRunningTasks" alt="" coords="228,74,404,121"/>
+<area shape="rect" id="node11" href="$d7/db1/a01837.html#a2afc6c18a9d33106d9e40dcaa0984c1d" title="beast::Workers::setNumber\lOfThreads" alt="" coords="225,143,407,190"/>
+<area shape="rect" id="node19" href="$d7/d02/a01808.html#a7022947723f14cd7b7778bce315cb852" title="beast::WaitableEvent\l::wait" alt="" coords="243,213,389,259"/>
+<area shape="rect" id="node5" href="$d7/d06/a00131.html#a5c88392b7809b40726246e4c3f8fdbbd" title="beast::Atomic::get" alt="" coords="475,83,603,112"/>
+<area shape="rect" id="node7" href="$d5/d83/a03337.html#a699ee774f7da236c969760c16eda014a" title="beast::beast_Interlocked\lExchangeAdd" alt="" coords="669,5,835,51"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#a3fdce02cb9dee31442b770d078f64edc" title="beast::beast_Interlocked\lExchangeAdd64" alt="" coords="669,74,835,121"/>
+<area shape="rect" id="node13" href="$d6/d53/a01688.html#ab34cbf5c85d21da0cd3c324a7ea14461" title="beast::Thread::notify" alt="" coords="468,152,609,181"/>
+<area shape="rect" id="node17" href="$db/ddf/a00164.html#a34a05aba236654589fe27946c112e641" title="beast::basic_semaphore\l::signal" alt="" coords="457,205,620,251"/>
+<area shape="rect" id="node15" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="679,143,825,190"/>
+</map>

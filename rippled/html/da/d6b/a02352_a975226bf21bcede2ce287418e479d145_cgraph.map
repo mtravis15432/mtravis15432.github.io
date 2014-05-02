@@ -1,0 +1,18 @@
+<map id="sqlite3HashInsert" name="sqlite3HashInsert">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#acd222b7539c14ad3f6d59cd6496c3865" title="findElementGivenHash" alt="" coords="191,60,345,89"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a011f717fc5c46f03d78bf81b6714e0ee" title="insertElement" alt="" coords="440,5,541,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a4851529638f6c7af16239ee6e2dcc628" title="rehash" alt="" coords="237,164,299,193"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="441,216,540,245"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#a28fb46fe75615ecc3ba2ff3172c09048" title="strHash" alt="" coords="457,269,524,299"/>
+<area shape="rect" id="node34" href="$da/d6b/a02352.html#a97ff4ac3846af0f8caf5426adfa2808a" title="removeElementGivenHash" alt="" coords="179,321,357,351"/>
+<area shape="rect" id="node10" href="$da/d6b/a02352.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="405,59,576,88"/>
+<area shape="rect" id="node12" href="$da/d6b/a02352.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="411,112,571,141"/>
+<area shape="rect" id="node24" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="801,136,924,165"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="625,243,745,272"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="796,296,929,325"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="797,400,928,429"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="979,375,1109,404"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="803,189,923,219"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="804,243,921,272"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#acc7a2dfa6603c59af14b3792fe463c73" title="sqlite3HashClear" alt="" coords="429,323,552,352"/>
+</map>

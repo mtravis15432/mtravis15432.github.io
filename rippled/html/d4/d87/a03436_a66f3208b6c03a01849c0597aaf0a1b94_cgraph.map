@@ -1,0 +1,10 @@
+<map id="rocksdb::TEST" name="rocksdb::TEST">
+<area shape="rect" id="node3" href="$d7/d70/a00106.html#a52cd0a1558ce9454012b46804b9ed45b" title="rocksdb::ArenaImpl\l::Allocate" alt="" coords="193,5,327,51"/>
+<area shape="rect" id="node9" href="$d7/d70/a00106.html#ad6491fec38a7f56b2192e4424acbb0b6" title="rocksdb::ArenaImpl\l::AllocateAligned" alt="" coords="193,74,327,121"/>
+<area shape="rect" id="node12" href="$d7/d70/a00106.html#a87df854c19bfd3a5843682b36ddae7b9" title="rocksdb::ArenaImpl\l::ApproximateMemoryUsage" alt="" coords="167,143,353,190"/>
+<area shape="rect" id="node14" href="$d9/d25/a01157.html#a88fb23b5587fabe455a1839c94f01aa4" title="rocksdb::Random::OneIn" alt="" coords="176,213,344,243"/>
+<area shape="rect" id="node18" href="$d9/d25/a01157.html#a71e653793b2f7189d61dcbc263ece2ed" title="rocksdb::Random::Uniform" alt="" coords="171,267,349,296"/>
+<area shape="rect" id="node5" href="$d7/d70/a00106.html#a1771f8deee06ef37d188dc707dbc4201" title="rocksdb::ArenaImpl\l::AllocateFallback" alt="" coords="417,39,551,86"/>
+<area shape="rect" id="node7" href="$d7/d70/a00106.html#ab2562aa7f51cb004e5f240378f68f36f" title="rocksdb::ArenaImpl\l::AllocateNewBlock" alt="" coords="615,39,751,86"/>
+<area shape="rect" id="node16" href="$d9/d25/a01157.html#a520efcab691df60bc48d1fe7251f1cd5" title="rocksdb::Random::Next" alt="" coords="404,240,564,269"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="beast::insight::detail::StatsDGaugeImpl" name="beast::insight::detail::StatsDGaugeImpl">
+<area shape="rect" id="node2" href="$d5/d80/a00583.html" title="beast::insight::GaugeImpl" alt="" coords="477,75,648,104"/>
+<area shape="rect" id="node6" href="$d3/df8/a00155.html" title="beast::insight::BaseImpl" alt="" coords="260,75,423,104"/>
+<area shape="rect" id="node8" href="$d3/d1b/a01549.html" title="beast::insight::detail\l::StatsDMetricBase" alt="" coords="493,127,632,174"/>
+<area shape="rect" id="node10" href="$d3/d50/a00882.html" title="List\&lt;StatsDMetricBase\&gt;\l::Node" alt="" coords="259,127,424,174"/>
+<area shape="rect" id="node12" href="$d3/d50/a00882.html" title="beast::detail::ListNode\l\&lt; T, Tag \&gt;" alt="" coords="7,127,159,174"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="523,201,603,231"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="279,197,404,243"/>
+</map>

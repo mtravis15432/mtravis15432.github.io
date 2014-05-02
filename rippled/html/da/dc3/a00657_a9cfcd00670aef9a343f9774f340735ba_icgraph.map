@@ -1,0 +1,7 @@
+<map id="beast::HeapBlock::throwOnAllocationFailure" name="beast::HeapBlock::throwOnAllocationFailure">
+<area shape="rect" id="node3" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock\&lt; Element\lType \&gt;::allocate" alt="" coords="237,5,424,51"/>
+<area shape="rect" id="node5" href="$da/dc3/a00657.html#ac0753913dbc18b839c01d98c82dad228" title="beast::HeapBlock\&lt; Element\lType \&gt;::calloc" alt="" coords="237,74,424,121"/>
+<area shape="rect" id="node7" href="$da/dc3/a00657.html#a8882186832655fe5ecd3df1ac3e3d576" title="beast::HeapBlock\&lt; Element\lType \&gt;::HeapBlock" alt="" coords="237,143,424,190"/>
+<area shape="rect" id="node9" href="$da/dc3/a00657.html#a7b24872eeeff33baa8b44daf79fdc0ff" title="beast::HeapBlock\&lt; Element\lType \&gt;::malloc" alt="" coords="237,213,424,259"/>
+<area shape="rect" id="node11" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock\&lt; Element\lType \&gt;::reallocate" alt="" coords="237,282,424,329"/>
+</map>

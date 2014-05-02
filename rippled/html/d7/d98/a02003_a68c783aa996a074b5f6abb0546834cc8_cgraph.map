@@ -1,0 +1,7 @@
+<map id="test_parse_url" name="test_parse_url">
+<area shape="rect" id="node3" href="$da/d51/a02000.html#aca79391d1cf1010269536ac37a4bc621" title="dump_url" alt="" coords="193,5,268,35"/>
+<area shape="rect" id="node5" href="$d8/d24/a02001.html#aeb269310a348fd68fd001b30b690fc83" title="http_parser_parse_url" alt="" coords="157,59,304,88"/>
+<area shape="rect" id="node7" href="$d8/d24/a02001.html#a12d758a13f2301dabab764226b96befb" title="http_parse_host" alt="" coords="352,32,467,61"/>
+<area shape="rect" id="node11" href="$d8/d24/a02001.html#a071073630afc28dbbc7caee3f4d9e451" title="parse_url_char" alt="" coords="356,85,463,115"/>
+<area shape="rect" id="node9" href="$d8/d24/a02001.html#aea0aaac9aac43b835e359ed3542bf66f" title="http_parse_host_char" alt="" coords="515,32,661,61"/>
+</map>

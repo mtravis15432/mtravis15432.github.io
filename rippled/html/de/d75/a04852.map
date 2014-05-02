@@ -1,0 +1,21 @@
+<map id="rippled/src/ripple_app/book/Taker.h" name="rippled/src/ripple_app/book/Taker.h">
+<area shape="rect" id="node3" href="$db/d08/a02871.html" title="Amounts.h" alt="" coords="376,197,461,227"/>
+<area shape="rect" id="node23" href="$d7/d65/a02876.html" title="Quality.h" alt="" coords="619,111,693,140"/>
+<area shape="rect" id="node35" href="$dd/d0a/a02436.html" title="Types.h" alt="" coords="896,197,965,227"/>
+<area shape="rect" id="node59" href="$d0/d67/a02065.html" title="../../beast/beast/streams\l/debug_ostream.h" alt="" coords="1059,102,1224,149"/>
+<area shape="rect" id="node5" href="$d0/dee/a02870.html" title="Amount.h" alt="" coords="380,284,457,313"/>
+<area shape="rect" id="node7" href="$d1/d45/a03191.html" title="../../ripple_data/protocol\l/SerializedObject.h" alt="" coords="5,371,163,418"/>
+<area shape="rect" id="node11" href="$db/ddd/a02136.html" title="../../beast/beast/utility\l/noexcept.h" alt="" coords="363,371,512,418"/>
+<area shape="rect" id="node13" href="$d4/dae/a01994.html" title="../../beast/beast/cxx14\l/type_traits.h" alt="" coords="187,371,339,418"/>
+<area shape="rect" id="node15" href="$dc/d67/a01989.html" title="config.h" alt="" coords="739,563,805,592"/>
+<area shape="rect" id="node37" href="$db/da5/a02919.html" title="../ledger/LedgerEntrySet.h" alt="" coords="672,284,845,313"/>
+<area shape="rect" id="node39" href="$d3/d57/a02834.html" title="../../ripple/types\l/api/RippleAssets.h" alt="" coords="719,371,855,418"/>
+<area shape="rect" id="node44" href="$dd/dd1/a02842.html" title="../../ripple/types\l/api/UInt160.h" alt="" coords="920,275,1032,322"/>
+<area shape="rect" id="node46" href="$dd/dfa/a02824.html" title="base_uint.h" alt="" coords="929,380,1017,409"/>
+<area shape="rect" id="node48" href="$d9/d4d/a02840.html" title="strHex.h" alt="" coords="635,476,707,505"/>
+<area shape="rect" id="node50" href="$d9/d90/a01909.html" title="ByteOrder.h" alt="" coords="925,476,1016,505"/>
+<area shape="rect" id="node61" href="$d8/de6/a02061.html" title="abstract_ostream.h" alt="" coords="1075,197,1208,227"/>
+<area shape="rect" id="node63" href="$dc/d28/a02062.html" title="basic_abstract_ostream.h" alt="" coords="1161,284,1332,313"/>
+<area shape="rect" id="node65" href="$d2/d8a/a02063.html" title="basic_scoped_ostream.h" alt="" coords="1164,380,1329,409"/>
+<area shape="rect" id="node67" href="$d6/d33/a01992.html" title="../cxx14/memory.h" alt="" coords="1141,476,1272,505"/>
+</map>

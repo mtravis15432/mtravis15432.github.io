@@ -1,0 +1,6 @@
+<map id="rocksdb::TransactionLogIteratorImpl::NextImpl" name="rocksdb::TransactionLogIteratorImpl::NextImpl">
+<area shape="rect" id="node3" href="$d0/d42/a01707.html#a4fd4d2bb33d65b2f5ef5cd80b927c846" title="rocksdb::TransactionLogIterator\lImpl::Next" alt="" coords="263,5,468,51"/>
+<area shape="rect" id="node5" href="$d0/d42/a01707.html#a9cec532b9abaf9cc6aff4b1c649ceae5" title="rocksdb::TransactionLogIterator\lImpl::SeekToStartSequence" alt="" coords="263,74,468,121"/>
+<area shape="rect" id="node7" href="$d0/d42/a01707.html#a33ae4d3693b009471c7798c8e78fd317" title="rocksdb::TransactionLogIterator\lImpl::TransactionLogIteratorImpl" alt="" coords="517,35,728,82"/>
+<area shape="rect" id="node10" href="$d0/d42/a01707.html#a192e03a3528b78afa45054cc7beb6768" title="rocksdb::TransactionLogIterator\lImpl::UpdateCurrentWriteBatch" alt="" coords="520,105,725,151"/>
+</map>

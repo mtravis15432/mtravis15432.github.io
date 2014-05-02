@@ -1,0 +1,21 @@
+<map id="ripple::SerializedLedgerEntry::SerializedLedgerEntry" name="ripple::SerializedLedgerEntry::SerializedLedgerEntry">
+<area shape="rect" id="node3" href="$d8/db7/a00812.html#a4b6fa9a311c67aca03d4d025a1781dff" title="ripple::KnownFormats\l::findByType" alt="" coords="265,109,415,155"/>
+<area shape="rect" id="node5" href="$d9/d02/a00834.html#a30455419212dd7afa67332235acb5ff5" title="ripple::LedgerFormats\l::getInstance" alt="" coords="267,178,413,225"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#a965eac719cefd6f8e66ac3b6c2e1122a" title="ripple::STObject::set" alt="" coords="507,184,648,213"/>
+<area shape="rect" id="node18" href="$de/d1a/a01559.html#a63af60c315076364457ba6090656ad8f" title="ripple::STObject::setFieldU16" alt="" coords="243,360,437,389"/>
+<area shape="rect" id="node9" href="$d1/de7/a01434.html#a90dc4b66e21b0212025d3083e7f07265" title="ripple::SOTemplate\l::peek" alt="" coords="744,5,877,51"/>
+<area shape="rect" id="node11" href="$de/d1a/a01559.html#a4a1e3feabbdae3ed94499863fdfb0fc7" title="ripple::STObject::giveObject" alt="" coords="717,245,904,275"/>
+<area shape="rect" id="node13" href="$de/d1a/a01559.html#a6a6f89cd39ea8dca41e61ed75466ebfe" title="ripple::STObject::makeNon\lPresentObject" alt="" coords="721,175,900,222"/>
+<area shape="rect" id="node15" href="$de/d1a/a01559.html#aab6412ea582e6d5827fd262266a049f3" title="ripple::STObject::makeDefault\lObject" alt="" coords="953,146,1151,193"/>
+<area shape="rect" id="node20" href="$de/d1a/a01559.html#ab45be32b08f5791d5be9f5f943835640" title="ripple::STObject::getPField" alt="" coords="488,299,667,328"/>
+<area shape="rect" id="node38" href="$d7/d57/a01348.html#a420d71c47a773cf368ab6d8e99152871" title="ripple::SerializedType\l::getSType" alt="" coords="737,575,884,622"/>
+<area shape="rect" id="node40" href="$de/d1a/a01559.html#a151b70a8b8ed70dd47f9a713eb1e0f04" title="ripple::STObject::makeField\lPresent" alt="" coords="485,351,669,398"/>
+<area shape="rect" id="node50" href="$d3/da5/a01598.html#aba1cb67e913326d87be4fab02f023e4d" title="ripple::STUInt16::setValue" alt="" coords="489,421,665,451"/>
+<area shape="rect" id="node22" href="$de/d1a/a01559.html#a7bbf16c433cd8e40fe2fa462ecbd44f9" title="ripple::STObject::getField\lIndex" alt="" coords="725,455,896,502"/>
+<area shape="rect" id="node32" href="$de/d1a/a01559.html#a6b37b82db554359d11ff90eee96765e3" title="ripple::STObject::isFree" alt="" coords="731,299,891,328"/>
+<area shape="rect" id="node34" href="$de/d1a/a01559.html#abe44c32ba53156a07734d6a857ab81de" title="ripple::STObject::getPIndex" alt="" coords="720,352,901,381"/>
+<area shape="rect" id="node24" href="$d1/de7/a01434.html#a04479037c3daa6f724999b9861bb8c10" title="ripple::SOTemplate\l::getIndex" alt="" coords="985,394,1119,441"/>
+<area shape="rect" id="node28" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="979,517,1125,563"/>
+<area shape="rect" id="node30" href="$d5/d83/a03337.html#afc5f5e8520bf9ec3abd1f92d066ef7b9" title="beast::field" alt="" coords="1009,464,1095,493"/>
+<area shape="rect" id="node26" href="$d7/d81/a01365.html#a378a93fc2f80527eae537dd280b8d471" title="ripple::SField::getNum" alt="" coords="1200,403,1352,432"/>
+</map>

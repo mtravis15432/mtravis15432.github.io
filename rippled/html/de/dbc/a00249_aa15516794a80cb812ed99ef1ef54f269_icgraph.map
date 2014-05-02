@@ -1,0 +1,6 @@
+<map id="ripple::PeerFinder::Callback::disconnect" name="ripple::PeerFinder::Callback::disconnect">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#afad069c836de8d23672875299579058b" title="ripple::PeerFinder\l::Logic::on_connected" alt="" coords="208,5,357,51"/>
+<area shape="rect" id="node7" href="$df/da5/a00912.html#a23691aa2fc1bf978bec5dfae7510f556" title="ripple::PeerFinder\l::Logic::on_handshake" alt="" coords="207,74,359,121"/>
+<area shape="rect" id="node5" href="$d0/d5b/a00933.html#a2e6bf812c3dfdf734918e5f4f82b04d3" title="ripple::PeerFinder\l::ManagerImp::on_connected" alt="" coords="411,5,600,51"/>
+<area shape="rect" id="node9" href="$d0/d5b/a00933.html#a821aed96cad550e2e952e914ecc0b318" title="ripple::PeerFinder\l::ManagerImp::on_handshake" alt="" coords="408,74,603,121"/>
+</map>

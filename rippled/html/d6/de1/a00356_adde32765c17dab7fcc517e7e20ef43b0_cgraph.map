@@ -1,0 +1,7 @@
+<map id="ripple::PeerFinder::Counts::remove" name="ripple::PeerFinder::Counts::remove">
+<area shape="rect" id="node3" href="$d6/de1/a00356.html#adb63400ab55e34f299726c5666c7e695" title="ripple::PeerFinder\l::Counts::adjust" alt="" coords="180,109,303,155"/>
+<area shape="rect" id="node5" href="$d0/d05/a01420.html#ab2b5c7bb819acc2ec918f3f260cb28ed" title="ripple::PeerFinder\l::Slot::cluster" alt="" coords="353,5,476,51"/>
+<area shape="rect" id="node7" href="$d0/d05/a01420.html#a49830f0b6511b04f30fbcacab8dee405" title="ripple::PeerFinder\l::Slot::fixed" alt="" coords="353,74,476,121"/>
+<area shape="rect" id="node9" href="$d0/d05/a01420.html#a2037b5bfb655be89f5b3c0ec3541864a" title="ripple::PeerFinder\l::Slot::inbound" alt="" coords="353,143,476,190"/>
+<area shape="rect" id="node11" href="$d0/d05/a01420.html#a851a0fddcbf2d00f142723fb17acd40b" title="ripple::PeerFinder\l::Slot::state" alt="" coords="353,213,476,259"/>
+</map>

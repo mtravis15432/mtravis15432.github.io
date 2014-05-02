@@ -1,0 +1,5 @@
+<map id="beast::SpinLock::tryEnter" name="beast::SpinLock::tryEnter">
+<area shape="rect" id="node3" href="$d2/d95/a01449.html#a69b3ad35efa15b72cb0355dfc910a2b6" title="beast::SpinLock::enter" alt="" coords="233,5,385,35"/>
+<area shape="rect" id="node7" href="$d2/d95/a01449.html#a564ab6c96be7756820064f8685fef144" title="beast::SpinLock::try_lock" alt="" coords="224,59,395,88"/>
+<area shape="rect" id="node5" href="$d2/d95/a01449.html#a0682c6a95a8d4f1bd582aca9a1e41e9b" title="beast::SpinLock::lock" alt="" coords="444,5,591,35"/>
+</map>

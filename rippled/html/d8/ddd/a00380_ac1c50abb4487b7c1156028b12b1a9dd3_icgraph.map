@@ -1,0 +1,13 @@
+<map id="rocksdb::DB::GetApproximateSizes" name="rocksdb::DB::GetApproximateSizes">
+<area shape="rect" id="node3" href="$d8/d64/a00181.html#abe3484e8fee379945192ee569ddc9c7a" title="rocksdb::Benchmark\l::AppendRandom" alt="" coords="481,5,623,51"/>
+<area shape="rect" id="node9" href="$d4/d27/a00392.html#af7df0a7236f26c6fa2c1023bf6fba192" title="rocksdb::DBWithTTL\l::GetApproximateSizes" alt="" coords="251,49,408,95"/>
+<area shape="rect" id="node11" href="$d5/d95/a02625.html#a876ad4220f0dbd55fbbe91714e271e98" title="leveldb_approximate\l_sizes" alt="" coords="259,118,400,165"/>
+<area shape="rect" id="node15" href="$d8/d64/a00181.html#a5634eff9318050a11fcda84224263f20" title="rocksdb::Benchmark\l::ReadRandom" alt="" coords="259,187,400,234"/>
+<area shape="rect" id="node21" href="$d8/d64/a00181.html#aadf8c92861f368f9b531dfd4778e023a" title="rocksdb::Benchmark\l::ReadRandomWriteRandom" alt="" coords="457,263,647,310"/>
+<area shape="rect" id="node24" href="$db/d95/a00391.html#aed80fa25b0a9845782b61db9c0f4ea59" title="rocksdb::DBTest::Size" alt="" coords="252,308,407,337"/>
+<area shape="rect" id="node26" href="$d8/d64/a00181.html#a6e80da08b7d1fd84d87e116fdfb3f1f2" title="rocksdb::Benchmark\l::UpdateRandom" alt="" coords="481,339,623,386"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="697,203,871,232"/>
+<area shape="rect" id="node7" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="920,203,971,232"/>
+<area shape="rect" id="node13" href="$d1/d03/a02560.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="527,91,577,120"/>
+<area shape="rect" id="node17" href="$d8/d64/a00181.html#adf9ea0013ec641c8cac061320a763749" title="rocksdb::Benchmark\l::ReadWhileWriting" alt="" coords="481,194,623,241"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ripple::Application::getRpcDB" name="ripple::Application::getRpcDB">
+<area shape="rect" id="node3" href="$dc/dfa/a00894.html#a5a538f0a9e746acb4ad623f49472f70a" title="ripple::LocalCredentials\l::dataDelete" alt="" coords="180,5,337,51"/>
+<area shape="rect" id="node5" href="$dc/dfa/a00894.html#abc49dfa7576f95c3fba7ecc9d8bbe136" title="ripple::LocalCredentials\l::dataFetch" alt="" coords="180,74,337,121"/>
+<area shape="rect" id="node7" href="$dc/dfa/a00894.html#a4b75425397af675d40bfcb94ee996aae" title="ripple::LocalCredentials\l::dataStore" alt="" coords="180,143,337,190"/>
+</map>

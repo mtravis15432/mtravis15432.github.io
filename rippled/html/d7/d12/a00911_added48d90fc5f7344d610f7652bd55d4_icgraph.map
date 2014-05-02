@@ -1,0 +1,12 @@
+<map id="ripple::Validators::Logic::findSourceByID" name="ripple::Validators::Logic::findSourceByID">
+<area shape="rect" id="node3" href="$d7/d12/a00911.html#a7fc10d23e527f4e29425b9b3dbb19251" title="ripple::Validators\l::Logic::add" alt="" coords="220,74,337,121"/>
+<area shape="rect" id="node15" href="$d7/d12/a00911.html#abc94ccd53b582416f8c2207c4912b804" title="ripple::Validators\l::Logic::addStatic" alt="" coords="217,143,340,190"/>
+<area shape="rect" id="node5" href="$dc/d2b/a00936.html#ae5341237cc724139bfb4d8f8128935a0" title="ripple::Validators\l::ManagerImp::addSource" alt="" coords="408,5,579,51"/>
+<area shape="rect" id="node9" href="$d9/dfb/a00913.html#a104b1888de589345045ca3e75c22b4a5" title="ripple::Validators\l::Logic_test::addSources" alt="" coords="411,74,576,121"/>
+<area shape="rect" id="node7" href="$dc/d2b/a00936.html#aacc0c4384f81b9c585b84e1dcc9c5c20" title="ripple::Validators\l::ManagerImp::addURL" alt="" coords="653,5,811,51"/>
+<area shape="rect" id="node11" href="$d9/dfb/a00913.html#ad779bfe8d6bb1d9921ebe6cc3fb7b5bb" title="ripple::Validators\l::Logic_test::testLogic" alt="" coords="657,74,807,121"/>
+<area shape="rect" id="node13" href="$d9/dfb/a00913.html#a6dcbb52d0f72b46b9629265b9004f103" title="ripple::Validators\l::Logic_test::run" alt="" coords="868,74,985,121"/>
+<area shape="rect" id="node17" href="$dc/d2b/a00936.html#a9b13050eea255b09c0dd10a97e78e178" title="ripple::Validators\l::ManagerImp::addStaticSource" alt="" coords="391,143,596,190"/>
+<area shape="rect" id="node19" href="$dc/d2b/a00936.html#a3c4ed9cc0a861a504cde56b4213256c6" title="ripple::Validators\l::ManagerImp::addStrings" alt="" coords="647,143,817,190"/>
+<area shape="rect" id="node21" href="$dc/d2b/a00936.html#a2c75443590b7aa6d5af933bd65f9c247" title="ripple::Validators\l::ManagerImp::addFile" alt="" coords="656,213,808,259"/>
+</map>

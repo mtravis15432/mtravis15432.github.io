@@ -1,0 +1,27 @@
+<map id="ripple::STAmount::setRate" name="ripple::STAmount::setRate">
+<area shape="rect" id="node3" href="$d4/d10/a01278.html#a35748a1a4f4faca121c117e35e2cad4d" title="ripple::RippleCalc\l::calcNodeAdvance" alt="" coords="260,70,396,117"/>
+<area shape="rect" id="node20" href="$d7/ded/a01009.html#adcd0f5c06951e3eb74ba81f2006d6216" title="ripple::NetworkOPsImp\l::getBookPage" alt="" coords="249,139,407,186"/>
+<area shape="rect" id="node22" href="$df/d24/a00217.html#a972dbdfb8abd06243ee915627f403c54" title="ripple::BookDirIterator\l::getCurrentRate" alt="" coords="253,209,403,255"/>
+<area shape="rect" id="node26" href="$d5/d16/a01154.html#a8bd3f3b5222ed5426ca524ddbc703cf6" title="ripple::core::Quality\l::rate" alt="" coords="261,278,395,325"/>
+<area shape="rect" id="node49" href="$d5/de7/a01048.html#aad751b1698cdcc386c9e90e86d2e11b1" title="ripple::OfferCreateTransactor\l::takeOffers" alt="" coords="233,347,423,394"/>
+<area shape="rect" id="node53" href="$d6/d51/a01494.html#a7d53f62917a26abd5902c55ee2bb46f4" title="ripple::STAmount_test\l::testCustomCurrency" alt="" coords="252,417,404,463"/>
+<area shape="rect" id="node5" href="$d4/d10/a01278.html#a592be0b1094c005d596044230caac6d4" title="ripple::RippleCalc\l::calcNodeDeliverFwd" alt="" coords="493,5,643,51"/>
+<area shape="rect" id="node13" href="$d4/d10/a01278.html#ab61998a5e167691b67a1cc512e5e85a0" title="ripple::RippleCalc\l::calcNodeDeliverRev" alt="" coords="493,74,643,121"/>
+<area shape="rect" id="node7" href="$d4/d10/a01278.html#ac9666accf2ed1b2e9b58674645349eec" title="ripple::RippleCalc\l::calcNodeOfferFwd" alt="" coords="712,5,851,51"/>
+<area shape="rect" id="node9" href="$d4/d10/a01278.html#ac1b66be9c1f9f71592b3c63c7b45ea2a" title="ripple::RippleCalc\l::calcNodeFwd" alt="" coords="904,5,1029,51"/>
+<area shape="rect" id="node11" href="$d4/d10/a01278.html#a41d6804738959c76ced56bcf2de2ef24" title="ripple::RippleCalc\l::pathNext" alt="" coords="1088,39,1213,86"/>
+<area shape="rect" id="node15" href="$d4/d10/a01278.html#acddbc756a6f92ec497a6d5806d356f14" title="ripple::RippleCalc\l::calcNodeOfferRev" alt="" coords="712,74,851,121"/>
+<area shape="rect" id="node17" href="$d4/d10/a01278.html#af6befd194a70f81cf3f75e6689678309" title="ripple::RippleCalc\l::calcNodeRev" alt="" coords="904,74,1029,121"/>
+<area shape="rect" id="node24" href="$d0/d90/a01059.html#a4174f57196a46e589b11efb73d75f4e8" title="ripple::OrderBookIterator\l::getCurrentRate" alt="" coords="487,143,649,190"/>
+<area shape="rect" id="node28" href="$d5/d16/a01154.html#a7d07e946af13da8feacb64e9ffe46daa" title="ripple::core::Quality\l::ceil_in" alt="" coords="501,213,635,259"/>
+<area shape="rect" id="node38" href="$d5/d16/a01154.html#a826f5acba0f7f2c58155393665a68763" title="ripple::core::Quality\l::ceil_out" alt="" coords="501,282,635,329"/>
+<area shape="rect" id="node30" href="$de/d14/a01640.html#a4b55fba486df9d29a010377872fc7e5d" title="ripple::core::Taker\l::fill" alt="" coords="719,213,844,259"/>
+<area shape="rect" id="node32" href="$db/d07/a01155.html#afaab5e56ca7d71f4569bc3521816ee32" title="ripple::core::Quality\l_test::ceil_in" alt="" coords="715,143,848,190"/>
+<area shape="rect" id="node34" href="$db/d07/a01155.html#aece261ecdfa8d61def9de179796ba018" title="ripple::core::Quality\l_test::test_ceil_in" alt="" coords="900,173,1033,219"/>
+<area shape="rect" id="node36" href="$db/d07/a01155.html#ad743d72315c409156e29c358c84e13e6" title="ripple::core::Quality\l_test::run" alt="" coords="1084,273,1217,319"/>
+<area shape="rect" id="node41" href="$db/d07/a01155.html#a4dd6e14686ed559443dcdc7607cc5e05" title="ripple::core::Quality\l_test::ceil_out" alt="" coords="715,282,848,329"/>
+<area shape="rect" id="node46" href="$db/d07/a01155.html#a07cb5fec02057c9642b84e9afdc413cf" title="ripple::core::Quality\l_test::test_raw" alt="" coords="900,342,1033,389"/>
+<area shape="rect" id="node43" href="$db/d07/a01155.html#ac98adf06a4d4daf7d7bd21b556e687c7" title="ripple::core::Quality\l_test::test_ceil_out" alt="" coords="900,273,1033,319"/>
+<area shape="rect" id="node51" href="$d5/de7/a01048.html#a54a40cf030c21f9b4796330011e5eca8" title="ripple::OfferCreateTransactor\l::doApply" alt="" coords="473,351,663,398"/>
+<area shape="rect" id="node55" href="$d6/d51/a01494.html#a2fed37e27754e534db456868751ba2eb" title="ripple::STAmount_test::run" alt="" coords="479,425,657,455"/>
+</map>

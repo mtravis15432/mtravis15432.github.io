@@ -1,0 +1,12 @@
+<map id="ripple::PeerFinder::ManagerImp::onStop" name="ripple::PeerFinder::ManagerImp::onStop">
+<area shape="rect" id="node3" href="$da/dbf/a00393.html#ac6fdca88a945cd6b0498a09b716539dc" title="beast::DeadlineTimer\l::cancel" alt="" coords="233,5,380,51"/>
+<area shape="rect" id="node5" href="$dd/d86/a00271.html#aaa308b366754fe948776ad048368afc1" title="ripple::PeerFinder\l::CheckerAdapter::cancel" alt="" coords="221,74,392,121"/>
+<area shape="rect" id="node7" href="$de/d5c/a01358.html#a3721e7a3b8b83293b7647c40d3bad10e" title="beast::ServiceQueueType\l::dispatch" alt="" coords="220,143,393,190"/>
+<area shape="rect" id="node17" href="$df/da5/a00912.html#a530a352a77a5edb292f26b82d1aab519" title="ripple::PeerFinder\l::Logic::stop" alt="" coords="245,213,368,259"/>
+<area shape="rect" id="node21" href="$dd/d5d/a01325.html#aa49412b5ff28ce693c3455fb6e200359" title="beast::ScopedWrapperContext\l::wrap" alt="" coords="207,282,407,329"/>
+<area shape="rect" id="node9" href="$df/d10/a01357.html#a3c10f294ceb943aa4c4923a799eb97fc" title="beast::ServiceQueueBase\l::enqueue" alt="" coords="457,74,631,121"/>
+<area shape="rect" id="node15" href="$de/d5c/a01358.html#aa5def258e41cd1b706c627b85f248614" title="beast::ServiceQueueType\l::is_service_thread" alt="" coords="457,143,631,190"/>
+<area shape="rect" id="node11" href="$de/d3c/a01809.html#a6497737035c8b878772c34c0d369d2b8" title="beast::ServiceQueueBase\l::Waiter::signal" alt="" coords="681,74,855,121"/>
+<area shape="rect" id="node13" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="904,74,1051,121"/>
+<area shape="rect" id="node19" href="$df/da5/a00912.html#a25ad5bf43d580646bbfaed3334bedd77" title="ripple::PeerFinder\l::Logic::state" alt="" coords="483,213,605,259"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="beast::InputStream::readString" name="beast::InputStream::readString">
+<area shape="rect" id="node3" href="$da/d45/a00961.html#ad492ba4c9db3b015ac799cbfe500ef3c" title="beast::MemoryBlock\l::getData" alt="" coords="188,5,329,51"/>
+<area shape="rect" id="node5" href="$da/d45/a00961.html#a8aa3eee25fc5d0599c960b705d5ddced" title="beast::MemoryBlock\l::getSize" alt="" coords="188,74,329,121"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#ab2c8aaedaf9c135352ac67b8f6ce7df9" title="beast::InputStream\l::readByte" alt="" coords="192,143,325,190"/>
+<area shape="rect" id="node11" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="188,235,329,282"/>
+<area shape="rect" id="node9" href="$df/d96/a00714.html#ad7da4644c542ada52519049105cd12f4" title="beast::InputStream\l::read" alt="" coords="408,121,541,167"/>
+<area shape="rect" id="node13" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="385,191,564,220"/>
+<area shape="rect" id="node15" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="387,244,563,273"/>
+<area shape="rect" id="node17" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="380,297,569,327"/>
+<area shape="rect" id="node19" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="417,351,532,380"/>
+</map>

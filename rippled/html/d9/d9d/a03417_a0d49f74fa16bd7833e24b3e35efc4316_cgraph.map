@@ -1,0 +1,5 @@
+<map id="ripple::setupServer" name="ripple::setupServer">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="196,13,297,43"/>
+<area shape="rect" id="node7" href="$da/d74/a00099.html#a34e04585a8f83eb9510c05afb31414c1" title="ripple::Application\l::setup" alt="" coords="184,66,309,113"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="359,5,535,51"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ripple::LoadMonitor::update" name="ripple::LoadMonitor::update">
+<area shape="rect" id="node3" href="$dc/d2c/a00893.html#a4ec5048253cdf787195a250c06aed693" title="ripple::LoadMonitor\l::addCount" alt="" coords="188,5,319,51"/>
+<area shape="rect" id="node5" href="$dc/d2c/a00893.html#ae0e351a3113e0afb91e8a869d3647261" title="ripple::LoadMonitor\l::addLatency" alt="" coords="188,74,319,121"/>
+<area shape="rect" id="node7" href="$dc/d2c/a00893.html#a79166931243de3e2e686f55ba47df1f8" title="ripple::LoadMonitor\l::addLoadSample" alt="" coords="188,143,319,190"/>
+<area shape="rect" id="node13" href="$dc/d2c/a00893.html#a6cabc692242c9c9ae90305ba7a8b13ae" title="ripple::LoadMonitor\l::getStats" alt="" coords="188,213,319,259"/>
+<area shape="rect" id="node19" href="$dc/d2c/a00893.html#a7b82ac7cfd946a5abea92bc433fe10fa" title="ripple::LoadMonitor\l::isOver" alt="" coords="188,282,319,329"/>
+<area shape="rect" id="node9" href="$d7/d92/a00887.html#a3ab7bb0be405de2f76ea4dc54e4a3079" title="ripple::LoadEvent::stop" alt="" coords="369,152,524,181"/>
+<area shape="rect" id="node11" href="$d7/d92/a00887.html#ad33210932823ad2bde54b05eab01848f" title="ripple::LoadEvent::\l~LoadEvent" alt="" coords="580,143,711,190"/>
+<area shape="rect" id="node15" href="$d3/d00/a00785.html#aefa6d9226268552d93ff2ad8b47a9917" title="ripple::JobTypeData\l::stats" alt="" coords="377,213,516,259"/>
+<area shape="rect" id="node17" href="$d9/d00/a00784.html#a87809b2191b20b53d701ac2deec4f129" title="ripple::JobQueueImp\l::getJson" alt="" coords="575,213,716,259"/>
+</map>

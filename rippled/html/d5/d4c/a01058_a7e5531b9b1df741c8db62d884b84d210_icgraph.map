@@ -1,0 +1,12 @@
+<map id="ripple::OrderBookDB::setup" name="ripple::OrderBookDB::setup">
+<area shape="rect" id="node3" href="$d2/dc7/a00838.html#afef5d9e765e612499355e2b1caa27a91" title="ripple::LedgerMasterImp\l::checkAccept" alt="" coords="1061,5,1224,51"/>
+<area shape="rect" id="node5" href="$d2/dc7/a00838.html#a1a811affe449990c43b8e4ea1eb80411" title="ripple::LedgerMasterImp\l::findNewLedgersToPublish" alt="" coords="199,102,380,149"/>
+<area shape="rect" id="node19" href="$d2/dc7/a00838.html#aa1492db26502ab92492928444756b69d" title="ripple::LedgerMasterImp\l::setFullLedger" alt="" coords="208,171,371,218"/>
+<area shape="rect" id="node25" href="$d0/d61/a00100.html#a0c3f15a3c50547ecb0a40f5824465774" title="ripple::ApplicationImp\l::setup" alt="" coords="216,241,363,287"/>
+<area shape="rect" id="node7" href="$d2/dc7/a00838.html#a1137d82f75868275f3380ffe9673d95f" title="ripple::LedgerMasterImp\l::doAdvance" alt="" coords="429,107,592,154"/>
+<area shape="rect" id="node9" href="$d2/dc7/a00838.html#a70c3001914f0eb02e756c5f132d764f7" title="ripple::LedgerMasterImp\l::advanceThread" alt="" coords="640,61,803,107"/>
+<area shape="rect" id="node11" href="$d2/dc7/a00838.html#a0db2f2d92f5bf50222003030c0bac415" title="ripple::LedgerMasterImp\l::tryAdvance" alt="" coords="851,61,1013,107"/>
+<area shape="rect" id="node14" href="$d2/dc7/a00838.html#a340c1c668d233c98f5ac0e3a62533b6c" title="ripple::LedgerMasterImp\l::pushLedger" alt="" coords="1061,155,1224,202"/>
+<area shape="rect" id="node16" href="$d2/dc7/a00838.html#ab96778e6d7821b274d410a6cc1f9e0dd" title="ripple::LedgerMasterImp\l::tryFill" alt="" coords="1061,78,1224,125"/>
+<area shape="rect" id="node22" href="$d2/dc7/a00838.html#a1c612521c3c403ac534fed26bc4d2eb3" title="ripple::LedgerMasterImp\l::forceValid" alt="" coords="429,231,592,278"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rocksdb::BlockBasedTable::IndexBlockReader" name="rocksdb::BlockBasedTable::IndexBlockReader">
+<area shape="rect" id="node3" href="$d1/d72/a00204.html#a3f9750acdb61d91cee84a899a06833d9" title="rocksdb::BlockBasedTable\l::ApproximateOffsetOf" alt="" coords="247,5,425,51"/>
+<area shape="rect" id="node5" href="$d1/d72/a00204.html#a126ccdb4087483cbac9c6002ce12f2b4" title="rocksdb::BlockBasedTable::Get" alt="" coords="233,75,439,104"/>
+<area shape="rect" id="node9" href="$d1/d72/a00204.html#a572f3e033d55cd348f12da867374dcde" title="rocksdb::BlockBasedTable\l::NewIterator" alt="" coords="488,157,667,203"/>
+<area shape="rect" id="node11" href="$d1/d72/a00204.html#ad11544b58b57f5f4101b7b533e72b82c" title="rocksdb::BlockBasedTable\l::PrefixMayMatch" alt="" coords="247,178,425,225"/>
+<area shape="rect" id="node7" href="$d1/d72/a00204.html#a17c2fe017efd1f4d86717a7c4bdb137a" title="rocksdb::BlockBasedTable\l::TEST_KeyInCache" alt="" coords="488,66,667,113"/>
+</map>

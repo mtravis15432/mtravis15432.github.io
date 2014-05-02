@@ -1,0 +1,25 @@
+<map id="sqlite3TriggerList" name="sqlite3TriggerList">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#aec12bc2a95741e915fbe82b98fb1f8c6" title="reloadTableSchema" alt="" coords="371,53,507,83"/>
+<area shape="rect" id="node14" href="$da/d6b/a02352.html#aaf9a8d65346dc15bfcd60bc48e885f46" title="sqlite3CodeDropTable" alt="" coords="364,720,513,749"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#aefad34e10275301aee18a5780afaf444" title="sqlite3TriggersExist" alt="" coords="177,296,313,325"/>
+<area shape="rect" id="node63" href="$da/d6b/a02352.html#a40e4a7245d888167b53b1de07fa6d217" title="whereTempTriggers" alt="" coords="177,105,313,135"/>
+<area shape="rect" id="node67" href="$da/d6b/a02352.html#ae85c90f7d064fe83f4ed930e708855d2" title="xferOptimization" alt="" coords="1225,669,1343,699"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a392e1e5be904b01216faae16a77c2c31" title="sqlite3AlterFinishAddColumn" alt="" coords="948,5,1137,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="563,57,731,87"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="2237,184,2320,213"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a90682707dee89aba38039bf7848c09d4" title="sqlite3Parser" alt="" coords="2368,184,2467,213"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#a5534f77364b5568783c0e50db3c9defb" title="sqlite3DropTable" alt="" coords="779,720,899,749"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="375,385,503,415"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#aef639c1e6a0c0a67ca6e7690ad931bd2" title="sqlite3GenerateConstraint\lChecks" alt="" coords="1864,379,2037,426"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#a5b17c9c2000bae6bdff8e6be48d7dc2b" title="sqlite3Insert" alt="" coords="2091,541,2184,571"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="2087,260,2188,289"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#a120801f59d9281d201d2ff4b2606836e" title="codeTriggerProgram" alt="" coords="577,385,716,415"/>
+<area shape="rect" id="node56" href="$da/d6b/a02352.html#a1218c6fc74e89152ceaa4760e82f5ef9" title="sqlite3FkDropTable" alt="" coords="580,540,713,569"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#a463cea5aaaf388b560b206570a0022fc" title="codeRowTrigger" alt="" coords="780,385,897,415"/>
+<area shape="rect" id="node27" href="$da/d6b/a02352.html#a69626ef20b540d1a2b19cf56f3f45689" title="getRowTrigger" alt="" coords="989,385,1096,415"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#ad92829f9001bcf89a0299dad5a48acd4" title="sqlite3CodeRowTriggerDirect" alt="" coords="1188,411,1380,440"/>
+<area shape="rect" id="node52" href="$da/d6b/a02352.html#acace8e99e37ae5e84ea03c65e820c540" title="sqlite3TriggerColmask" alt="" coords="1433,357,1585,387"/>
+<area shape="rect" id="node31" href="$da/d6b/a02352.html#a37f21393c74de4d01b16761ee9abacd9" title="sqlite3CodeRowTrigger" alt="" coords="1431,515,1588,544"/>
+<area shape="rect" id="node48" href="$da/d6b/a02352.html#a39159bd1623724946c22355ba7f3ef90" title="sqlite3FkActions" alt="" coords="1451,411,1568,440"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#a2c76cbf3027fc18fdbb8cb4cd96b77d9" title="sqlite3GenerateRowDelete" alt="" coords="1637,413,1816,443"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ripple::SerializedValidation" name="ripple::SerializedValidation">
+<area shape="rect" id="node2" href="$de/d1a/a01559.html" title="ripple::STObject" alt="" coords="1172,161,1287,191"/>
+<area shape="rect" id="node4" href="$d7/d57/a01348.html" title="ripple::SerializedType" alt="" coords="847,33,993,63"/>
+<area shape="rect" id="node6" href="$d7/d81/a01365.html" title="ripple::SField" alt="" coords="527,32,625,61"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="233,59,313,88"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="7,50,132,97"/>
+<area shape="rect" id="node14" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; STObject \&gt;" alt="" coords="847,87,993,134"/>
+<area shape="rect" id="node18" href="$d1/de7/a01434.html" title="ripple::SOTemplate" alt="" coords="853,161,987,191"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="204,163,343,192"/>
+<area shape="rect" id="node28" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; SerializedValidation \&gt;" alt="" coords="1149,214,1309,261"/>
+<area shape="rect" id="node32" href="$df/d2e/a01737.html" title="ripple::uint160" alt="" coords="1179,284,1280,313"/>
+<area shape="rect" id="node34" href="$d7/d9a/a00152.html" title="base_uint160" alt="" coords="871,284,969,313"/>
+<area shape="rect" id="node36" href="$d0/d4e/a01741.html" title="ripple::uint256" alt="" coords="1179,337,1280,367"/>
+<area shape="rect" id="node38" href="$d7/d9a/a00152.html" title="base_uint256" alt="" coords="871,337,969,367"/>
+</map>

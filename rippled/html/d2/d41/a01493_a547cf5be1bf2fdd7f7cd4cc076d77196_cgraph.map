@@ -1,0 +1,8 @@
+<map id="ripple::STAmount::divide" name="ripple::STAmount::divide">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="237,5,395,35"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="240,59,392,88"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="237,112,395,141"/>
+<area shape="rect" id="node9" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="227,165,405,195"/>
+<area shape="rect" id="node13" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="220,219,412,248"/>
+<area shape="rect" id="node11" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="463,165,636,195"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="columnMallocFailure" name="columnMallocFailure">
+<area shape="rect" id="node3" href="$d1/db9/a02353.html#a4e4ed7d779580336885fbee879d4a823" title="sqlite3_column_blob" alt="" coords="207,5,345,35"/>
+<area shape="rect" id="node5" href="$d1/db9/a02353.html#a001421375b25195e3f80871dcb1be172" title="sqlite3_column_bytes" alt="" coords="203,59,349,88"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#ac861525fa4d70b48a46eabaa75130439" title="sqlite3_column_bytes16" alt="" coords="195,112,357,141"/>
+<area shape="rect" id="node9" href="$d1/db9/a02353.html#a368632d32e55eaa325cb7272effffaba" title="sqlite3_column_double" alt="" coords="199,165,353,195"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#a6bd16f5b3266f473e37e8e3d4ebb4290" title="sqlite3_column_int" alt="" coords="211,219,341,248"/>
+<area shape="rect" id="node13" href="$d1/db9/a02353.html#a39f0c222a27bd9c4cb73d07e9e48ffe6" title="sqlite3_column_int64" alt="" coords="204,272,348,301"/>
+<area shape="rect" id="node15" href="$d1/db9/a02353.html#a2f04c4c4fcf17f6e866236cce8c0d426" title="sqlite3_column_text" alt="" coords="207,325,345,355"/>
+<area shape="rect" id="node17" href="$d1/db9/a02353.html#acd2186d1b5bf3662be539d0763dd3eb9" title="sqlite3_column_text16" alt="" coords="200,379,352,408"/>
+<area shape="rect" id="node19" href="$d1/db9/a02353.html#a384086b220821bc71e9a3f900773a25d" title="sqlite3_column_type" alt="" coords="205,432,347,461"/>
+<area shape="rect" id="node21" href="$d1/db9/a02353.html#aeb00abfab0594466db8edcf96c320fda" title="sqlite3_column_value" alt="" coords="203,485,349,515"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ripple::STAmount::getPay" name="ripple::STAmount::getPay">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#a547cf5be1bf2fdd7f7cd4cc076d77196" title="ripple::STAmount::divide" alt="" coords="245,59,411,88"/>
+<area shape="rect" id="node15" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="483,5,675,35"/>
+<area shape="rect" id="node17" href="$d2/d41/a01493.html#a61429db7fed5872fca90d726f3088325" title="ripple::STAmount::getCurrency" alt="" coords="227,112,429,141"/>
+<area shape="rect" id="node19" href="$d2/d41/a01493.html#ac88b3e8c68c4fbda4e493471be3f074c" title="ripple::STAmount::getIssuer" alt="" coords="236,165,420,195"/>
+<area shape="rect" id="node21" href="$d2/d41/a01493.html#a12cf6e60ed96232c0595ebe39a7c65ac" title="ripple::STAmount::multiply" alt="" coords="240,219,416,248"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="500,112,657,141"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="503,165,655,195"/>
+<area shape="rect" id="node9" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="500,219,657,248"/>
+<area shape="rect" id="node11" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="489,59,668,88"/>
+<area shape="rect" id="node13" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="729,59,903,88"/>
+<area shape="rect" id="node24" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="516,271,641,318"/>
+<area shape="rect" id="node26" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="479,341,679,371"/>
+<area shape="rect" id="node28" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="505,394,652,441"/>
+</map>

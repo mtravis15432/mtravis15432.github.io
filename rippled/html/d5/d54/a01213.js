@@ -1,0 +1,28 @@
+var a01213 =
+[
+    [ "Reporter", "d7/d04/a01246.html", "d7/d04/a01246" ],
+    [ "kEof", "d5/d54/a01213.html#aa3ba1ceefb6e08c1cbb0aa3f8ca13a7fae7e9787b47b6c1537cb8d7d41b686e7f", null ],
+    [ "kBadRecord", "d5/d54/a01213.html#aa3ba1ceefb6e08c1cbb0aa3f8ca13a7faa4e6a8d4ecbbcc2d69790d5525cc167c", null ],
+    [ "Reader", "d5/d54/a01213.html#ab5b5ee8bc8cfe141bfc7a1e348f29605", null ],
+    [ "~Reader", "d5/d54/a01213.html#a1199ab6f6198cec6183a878070cd421a", null ],
+    [ "Reader", "d5/d54/a01213.html#a87371c717756bcbe4cd2f776cdfedbf0", null ],
+    [ "file", "d5/d54/a01213.html#ab165ffa0c2358772c29f6beb3fa5c0fb", null ],
+    [ "IsEOF", "d5/d54/a01213.html#a080af1e50c8044196037e4ef170f4aae", null ],
+    [ "LastRecordOffset", "d5/d54/a01213.html#a51759086844f4544d185fa3ee5a00215", null ],
+    [ "operator=", "d5/d54/a01213.html#adfe524aa32b2d01499e18b41bde04359", null ],
+    [ "ReadPhysicalRecord", "d5/d54/a01213.html#a57eb93a86418bd4a2b32ee163aecea5d", null ],
+    [ "ReadRecord", "d5/d54/a01213.html#a5a9fb535a03f7843b921dd95262ddb9c", null ],
+    [ "ReportCorruption", "d5/d54/a01213.html#a7db406791cb13477c816733858ea1e51", null ],
+    [ "ReportDrop", "d5/d54/a01213.html#a49fd67047e3128cc471e7c31c5db6f9c", null ],
+    [ "SkipToInitialBlock", "d5/d54/a01213.html#acb5bb46275c505b8eab7bceac8affd36", null ],
+    [ "UnmarkEOF", "d5/d54/a01213.html#a26f87388eb14e7c46cdac2cdf5f9e65f", null ],
+    [ "backing_store_", "d5/d54/a01213.html#ab7c35cf1331905cd29de0057cb60433a", null ],
+    [ "buffer_", "d5/d54/a01213.html#a0a27b5d245726ebcfb1e8675583930c0", null ],
+    [ "checksum_", "d5/d54/a01213.html#a54ed5bc4a69bb9c44f789212e29ac96b", null ],
+    [ "end_of_buffer_offset_", "d5/d54/a01213.html#af11ae6a11c0cf31188c719b0b4561034", null ],
+    [ "eof_", "d5/d54/a01213.html#ad8835968adb95da922c920a699c1c0be", null ],
+    [ "file_", "d5/d54/a01213.html#a64be34e5bef8f12baec8e3689f8dd2a5", null ],
+    [ "initial_offset_", "d5/d54/a01213.html#ae6c58f2b9ef4e5cc6fde8ff75bf70194", null ],
+    [ "last_record_offset_", "d5/d54/a01213.html#a5fc206c6558fc025e7a75a3708da7f41", null ],
+    [ "reporter_", "d5/d54/a01213.html#ac12f00795d1654b829dd8e74fee5739c", null ]
+];

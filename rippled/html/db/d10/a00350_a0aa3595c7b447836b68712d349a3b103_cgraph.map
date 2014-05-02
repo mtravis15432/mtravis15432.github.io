@@ -1,0 +1,5 @@
+<map id="ripple::CountedObjects::getCounts" name="ripple::CountedObjects::getCounts">
+<area shape="rect" id="node3" href="$db/ddc/a00353.html#ae8224a395f562d22502377664c083687" title="ripple::CountedObjects\l::CounterBase::getCount" alt="" coords="209,5,375,51"/>
+<area shape="rect" id="node5" href="$db/ddc/a00353.html#a8f1705fff3dcc0050cd3915994fa2f5f" title="ripple::CountedObjects\l::CounterBase::getName" alt="" coords="209,74,375,121"/>
+<area shape="rect" id="node7" href="$db/ddc/a00353.html#aacd87df54b11d42808a0f5a5cab1e2e6" title="ripple::CountedObjects\l::CounterBase::getNext" alt="" coords="212,143,372,190"/>
+</map>

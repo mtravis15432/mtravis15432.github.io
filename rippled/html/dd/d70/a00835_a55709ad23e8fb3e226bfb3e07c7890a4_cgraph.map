@@ -1,0 +1,28 @@
+<map id="ripple::LedgerHistory::getLedgerByHash" name="ripple::LedgerHistory::getLedgerByHash">
+<area shape="rect" id="node3" href="$dd/d55/a01638.html#a6b9d410c1a62349ee3452f4d66c6c751" title="ripple::TaggedCache\l::canonicalize" alt="" coords="216,86,357,133"/>
+<area shape="rect" id="node5" href="$dd/d55/a01638.html#a2c709f3115377eeca448ef32acfb9ee0" title="ripple::TaggedCache\l::fetch" alt="" coords="216,155,357,202"/>
+<area shape="rect" id="node7" href="$dd/d5f/a00825.html#aba5851ba119fe1d109ee22cc65abd151" title="ripple::Ledger::loadByHash" alt="" coords="197,225,376,255"/>
+<area shape="rect" id="node9" href="$d2/d21/a01484.html#a1a5f1bf3e562c084e5df0379a944a2bd" title="ripple::SqliteStatement\l::bind" alt="" coords="444,5,599,51"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="693,120,795,149"/>
+<area shape="rect" id="node15" href="$d6/db8/a00376.html#a9368476a90456c8f1256a53c239cc9a5" title="ripple::DatabaseCon\l::getDB" alt="" coords="451,125,592,171"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="459,317,584,363"/>
+<area shape="rect" id="node29" href="$da/d74/a00099.html#a0a8cd54d61526a10f629ce55d196f344" title="ripple::Application\l::getLedgerDB" alt="" coords="459,247,584,294"/>
+<area shape="rect" id="node31" href="$dd/d5f/a00825.html#a56523e45b148670f59a6fb1c53c91dc2" title="ripple::Ledger::getSQL1" alt="" coords="443,560,600,589"/>
+<area shape="rect" id="node52" href="$dd/d5f/a00825.html#a9545eb2a2f70f4e8efdcb48ec4effaae" title="ripple::Ledger::getSQL2" alt="" coords="443,195,600,224"/>
+<area shape="rect" id="node55" href="$d5/db5/a00374.html#a82432961e09d75f3b53c62c5d495beed" title="ripple::Database::getSqliteDB" alt="" coords="424,613,619,643"/>
+<area shape="rect" id="node13" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="871,111,1047,158"/>
+<area shape="rect" id="node19" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="896,233,1021,279"/>
+<area shape="rect" id="node23" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="669,272,819,301"/>
+<area shape="rect" id="node25" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="695,325,793,355"/>
+<area shape="rect" id="node21" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1097,300,1247,329"/>
+<area shape="rect" id="node27" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="904,325,1013,355"/>
+<area shape="rect" id="node33" href="$d2/d21/a01484.html#aa21a18ccbd898583bd640ebd87dbe080" title="ripple::SqliteStatement\l::getError" alt="" coords="667,655,821,702"/>
+<area shape="rect" id="node35" href="$d2/d21/a01484.html#af1c43ede923d49feced5bb745c6c8324" title="ripple::SqliteStatement\l::getInt64" alt="" coords="667,725,821,771"/>
+<area shape="rect" id="node37" href="$d2/d21/a01484.html#a09bd6e09b032f4e7a77b164031b6e78b" title="ripple::SqliteStatement\l::getUInt32" alt="" coords="667,794,821,841"/>
+<area shape="rect" id="node39" href="$d2/d21/a01484.html#afbca7655aaa005526798081f7dc7669e" title="ripple::SqliteStatement\l::isDone" alt="" coords="667,863,821,910"/>
+<area shape="rect" id="node41" href="$d2/d21/a01484.html#a20b8119adafb0edb0175008e589aebfa" title="ripple::SqliteStatement\l::isRow" alt="" coords="667,378,821,425"/>
+<area shape="rect" id="node43" href="$d2/d21/a01484.html#a28ed6bbb0c1ef6c5238bfa3bd2b9170e" title="ripple::SqliteStatement\l::peekString" alt="" coords="667,447,821,494"/>
+<area shape="rect" id="node45" href="$d7/d9a/a00152.html#a9489844779665dbaf6181f037efcc7e0" title="ripple::base_uint::\lSetHexExact" alt="" coords="681,517,807,563"/>
+<area shape="rect" id="node50" href="$d2/d21/a01484.html#a80b6ff29deef6d948c5477dae82d0082" title="ripple::SqliteStatement\l::step" alt="" coords="667,586,821,633"/>
+<area shape="rect" id="node47" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="885,452,1032,481"/>
+</map>

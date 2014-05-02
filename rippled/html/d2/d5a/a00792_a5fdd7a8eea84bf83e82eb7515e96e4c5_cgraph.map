@@ -1,0 +1,5 @@
+<map id="ripple::Script::JumpIfOp::work" name="ripple::Script::JumpIfOp::work">
+<area shape="rect" id="node3" href="$d8/d52/a00729.html#adf6a7105e585617e0d97204e79b07558" title="ripple::Script::Interpreter\l::getIntData" alt="" coords="213,5,376,51"/>
+<area shape="rect" id="node5" href="$d8/d52/a00729.html#a3287fa30cda04ee3506cabff4c5689fe" title="ripple::Script::Interpreter\l::jumpTo" alt="" coords="213,74,376,121"/>
+<area shape="rect" id="node7" href="$d8/d52/a00729.html#ac56288f0cb83ad9c48afa41f3bad4ac5" title="ripple::Script::Interpreter\l::popStack" alt="" coords="213,143,376,190"/>
+</map>

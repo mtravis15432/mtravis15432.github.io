@@ -1,0 +1,6 @@
+<map id="ripple::LogPartition::setSeverity" name="ripple::LogPartition::setSeverity">
+<area shape="rect" id="node3" href="$d3/dd1/a00914.html#a8f7f28087fc92d55e1a52150fc6967db" title="ripple::LogPartition\l::find" alt="" coords="193,5,324,51"/>
+<area shape="rect" id="node5" href="$d3/dd1/a00914.html#aab2bd6efecebf1fffa56836fd2adf46a" title="ripple::LogPartition\l::setMinimumSeverity" alt="" coords="184,74,333,121"/>
+<area shape="rect" id="node7" href="$d3/dd1/a00914.html#aa794e3f8feb96652b1558f2315f681e4" title="ripple::LogPartition\l::convertLogSeverity" alt="" coords="383,39,524,86"/>
+<area shape="rect" id="node9" href="$df/d84/a01408.html#a6ababc2ca5503cdb27710c98d82f5e27" title="beast::Journal::Sink\l::severity" alt="" coords="384,109,523,155"/>
+</map>

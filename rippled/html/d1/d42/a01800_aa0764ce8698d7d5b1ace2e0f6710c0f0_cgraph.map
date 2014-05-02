@@ -1,0 +1,35 @@
+<map id="rocksdb::VersionSet::ApproximateOffsetOf" name="rocksdb::VersionSet::ApproximateOffsetOf">
+<area shape="rect" id="node3" href="$d0/da4/a01631.html#acf6498d1cc1177d73dcef8cd00062501" title="rocksdb::TableReader\l::ApproximateOffsetOf" alt="" coords="237,127,389,174"/>
+<area shape="rect" id="node5" href="$d0/d72/a00724.html#a5a44464365280d5c9649746930e1aee8" title="rocksdb::InternalKeyComparator\l::Compare" alt="" coords="208,197,419,243"/>
+<area shape="rect" id="node23" href="$de/de6/a00723.html#a6d86d2cfbd4205b41f29f84cdedf3c22" title="rocksdb::InternalKey\l::Encode" alt="" coords="243,379,384,426"/>
+<area shape="rect" id="node25" href="$de/df9/a01624.html#a59b62bf2644f7cf62feb7275085a9185" title="rocksdb::TableCache\l::NewIterator" alt="" coords="240,535,387,582"/>
+<area shape="rect" id="node72" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="244,605,383,651"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#aab29434ed2c251eae44fdb498e4d8dcc" title="rocksdb::BumpPerfCount" alt="" coords="469,5,637,35"/>
+<area shape="rect" id="node9" href="$d0/d61/a00302.html#a9fe800fa52b86a61b626a58f46a38f81" title="rocksdb::Comparator\l::Compare" alt="" coords="481,58,625,105"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="743,127,881,156"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="471,283,636,312"/>
+<area shape="rect" id="node17" href="$d4/d87/a03436.html#ae015f9b23bbadef7eb4e3796c2d4fb46" title="rocksdb::ExtractUserKey" alt="" coords="469,179,637,208"/>
+<area shape="rect" id="node20" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="744,180,880,209"/>
+<area shape="rect" id="node15" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="729,233,895,263"/>
+<area shape="rect" id="node27" href="$de/df9/a01624.html#aed7ec4f6ca046cd127813d39e75dee0c" title="rocksdb::TableCache\l::FindTable" alt="" coords="480,423,627,470"/>
+<area shape="rect" id="node39" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="744,607,880,636"/>
+<area shape="rect" id="node47" href="$d4/d87/a03436.html#a7b03495439285fb3fb42a3208b01a3d7" title="rocksdb::NewErrorIterator" alt="" coords="468,544,639,573"/>
+<area shape="rect" id="node49" href="$d0/da4/a01631.html#ab457fa9a28a505dcd52222b12e331a6c" title="rocksdb::TableReader\l::NewIterator" alt="" coords="479,597,628,643"/>
+<area shape="rect" id="node52" href="$d2/d02/a00777.html#a668d7cfe0b950c1ee2806a3a3d21bb90" title="rocksdb::Iterator::\lRegisterCleanup" alt="" coords="491,666,616,713"/>
+<area shape="rect" id="node66" href="$d0/da4/a01631.html#a8b065eafa65a8d1e8b69b6300370b744" title="rocksdb::TableReader\l::SetupForCompaction" alt="" coords="477,735,629,782"/>
+<area shape="rect" id="node68" href="$d4/d87/a03436.html#a71b6611372242bca71af15eb1e4c2a78" title="rocksdb::UnrefEntry" alt="" coords="484,805,623,835"/>
+<area shape="rect" id="node29" href="$d4/d87/a03436.html#a25709ac27a5b4b9ca699413c90036eed" title="rocksdb::DeleteEntry" alt="" coords="740,287,884,316"/>
+<area shape="rect" id="node31" href="$d4/d87/a03436.html#a0a6b5f485f1b3d6f33ead2fc4d7c891c" title="rocksdb::EncodeFixed64" alt="" coords="729,340,895,369"/>
+<area shape="rect" id="node33" href="$d0/db9/a01552.html#a223ccba0dce26cd4539d6fd2c28ae364" title="rocksdb::Status::Incomplete" alt="" coords="719,393,905,423"/>
+<area shape="rect" id="node37" href="$db/db1/a00460.html#a6e6619074ecb6b5ba4e4a23ffb2e4974" title="rocksdb::Env::NewRandomAccessFile" alt="" coords="688,447,936,476"/>
+<area shape="rect" id="node41" href="$d4/d87/a03436.html#a833e685de1acb680b321c566cadffc9f" title="rocksdb::RecordTick" alt="" coords="741,500,883,529"/>
+<area shape="rect" id="node43" href="$d4/d87/a03436.html#ac542e5154705959dfccc0adac5c3af3a" title="rocksdb::TableFileName" alt="" coords="731,553,893,583"/>
+<area shape="rect" id="node35" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="987,393,1147,423"/>
+<area shape="rect" id="node45" href="$d4/d87/a03436.html#a645cac7eafed2fae5df45e8483f8fbaf" title="rocksdb::MakeFileName" alt="" coords="985,553,1148,583"/>
+<area shape="rect" id="node54" href="$da/d6b/a02352.html#ae3e0dbf7ac3255e91d16cd24fd2c2b1d" title="Cleanup" alt="" coords="777,675,847,704"/>
+<area shape="rect" id="node56" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="1016,675,1117,704"/>
+<area shape="rect" id="node58" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1409,636,1500,665"/>
+<area shape="rect" id="node60" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1388,701,1521,731"/>
+<area shape="rect" id="node62" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1197,675,1339,704"/>
+<area shape="rect" id="node70" href="$d4/d9a/a00246.html#a0c407981dfc226d8ec65e6b076aab42d" title="rocksdb::Cache::Release" alt="" coords="727,805,897,835"/>
+</map>

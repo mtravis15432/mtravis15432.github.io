@@ -1,0 +1,8 @@
+<map id="PCacheGlobal" name="PCacheGlobal">
+<area shape="rect" id="node2" href="$dc/d51/a01120.html" title="PGroup" alt="" coords="352,101,419,131"/>
+<area shape="rect" id="node9" href="$de/d9c/a01092.html" title="PCache1" alt="" coords="417,200,492,229"/>
+<area shape="rect" id="node4" href="$d0/d02/a01119.html" title="PgHdr1" alt="" coords="320,309,387,339"/>
+<area shape="rect" id="node6" href="$dd/d15/a01471.html" title="sqlite3_pcache_page" alt="" coords="5,200,149,229"/>
+<area shape="rect" id="node13" href="$df/d5e/a01467.html" title="sqlite3_mutex" alt="" coords="141,5,243,35"/>
+<area shape="rect" id="node16" href="$d6/d8b/a01117.html" title="PgFreeslot" alt="" coords="179,101,264,131"/>
+</map>

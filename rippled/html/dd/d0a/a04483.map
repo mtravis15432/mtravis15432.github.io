@@ -1,0 +1,29 @@
+<map id="rippled/src/ripple/rocksdb/rocksdb/db/version_edit.cc" name="rippled/src/ripple/rocksdb/rocksdb/db/version_edit.cc">
+<area shape="rect" id="node3" href="$de/d3b/a02610.html" title="version_edit.h" alt="" coords="94,195,195,224"/>
+<area shape="rect" id="node127" href="$d4/dff/a02723.html" title="../util/coding.h" alt="" coords="142,359,246,388"/>
+<area shape="rect" id="node141" href="$db/d6a/a02613.html" title="version_set.h" alt="" coords="314,117,412,147"/>
+<area shape="rect" id="node11" href="$dc/db2/a02574.html" title="dbformat.h" alt="" coords="780,272,863,301"/>
+<area shape="rect" id="node15" href="$d4/d7d/a02628.html" title="../include/rocksdb\l/comparator.h" alt="" coords="2618,446,2743,493"/>
+<area shape="rect" id="node19" href="$d8/d70/a02629.html" title="../include/rocksdb/db.h" alt="" coords="904,359,1059,388"/>
+<area shape="rect" id="node29" href="$dd/d75/a02639.html" title="slice.h" alt="" coords="2150,715,2208,744"/>
+<area shape="rect" id="node93" href="$d3/d23/a02646.html" title="types.h" alt="" coords="944,551,1008,580"/>
+<area shape="rect" id="node106" href="$d0/d9a/a02631.html" title="../include/rocksdb\l/filter_policy.h" alt="" coords="523,350,648,397"/>
+<area shape="rect" id="node110" href="$d8/dd7/a02643.html" title="../include/rocksdb\l/table.h" alt="" coords="1396,350,1522,397"/>
+<area shape="rect" id="node135" href="$d4/da5/a02746.html" title="../util/logging.h" alt="" coords="723,359,830,388"/>
+<area shape="rect" id="node21" href="$db/d86/a02663.html" title="stdint.h" alt="" coords="904,637,968,667"/>
+<area shape="rect" id="node27" href="$d6/d6a/a02633.html" title="iterator.h" alt="" coords="1459,455,1531,484"/>
+<area shape="rect" id="node42" href="$d2/de3/a02637.html" title="options.h" alt="" coords="1652,455,1727,484"/>
+<area shape="rect" id="node96" href="$d2/d80/a02645.html" title="transaction_log.h" alt="" coords="1184,455,1304,484"/>
+<area shape="rect" id="node38" href="$d5/d96/a02642.html" title="status.h" alt="" coords="1195,637,1264,667"/>
+<area shape="rect" id="node49" href="$d9/d07/a02635.html" title="memtablerep.h" alt="" coords="1931,551,2038,580"/>
+<area shape="rect" id="node58" href="$dd/d5f/a02640.html" title="slice_transform.h" alt="" coords="1390,637,1512,667"/>
+<area shape="rect" id="node63" href="$de/d4c/a02641.html" title="statistics.h" alt="" coords="1720,637,1806,667"/>
+<area shape="rect" id="node76" href="$da/d26/a02644.html" title="table_properties.h" alt="" coords="2266,551,2391,580"/>
+<area shape="rect" id="node82" href="$d2/d11/a02647.html" title="universal_compaction.h" alt="" coords="1611,551,1768,580"/>
+<area shape="rect" id="node52" href="$d8/d09/a02624.html" title="arena.h" alt="" coords="1982,637,2046,667"/>
+<area shape="rect" id="node100" href="$dc/dcb/a02648.html" title="write_batch.h" alt="" coords="1235,551,1334,580"/>
+<area shape="rect" id="node114" href="$d0/d3f/a02630.html" title="env.h" alt="" coords="664,551,718,580"/>
+<area shape="rect" id="node132" href="$df/d14/a02658.html" title="../port/port.h" alt="" coords="243,455,336,484"/>
+<area shape="rect" id="node153" href="$d1/d23/a02603.html" title="table_cache.h" alt="" coords="578,195,679,224"/>
+<area shape="rect" id="node159" href="$db/d99/a02626.html" title="../include/rocksdb\l/cache.h" alt="" coords="2466,542,2591,589"/>
+</map>

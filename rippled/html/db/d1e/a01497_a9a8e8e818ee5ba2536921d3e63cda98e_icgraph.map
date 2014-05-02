@@ -1,0 +1,11 @@
+<map id="ripple::STArray::back" name="ripple::STArray::back">
+<area shape="rect" id="node3" href="$d1/da7/a01709.html#ab10aa738879ffa2823cfd710b20bb6db" title="ripple::TransactionMetaSet\l::getAffectedNode" alt="" coords="200,178,379,225"/>
+<area shape="rect" id="node19" href="$d1/da7/a01709.html#a3a42cd96148940923679b8b993e18736" title="ripple::TransactionMetaSet\l::setAffectedNode" alt="" coords="200,109,379,155"/>
+<area shape="rect" id="node5" href="$d0/d08/a00832.html#a1c980eea2da42b3f99d55d303c02db63" title="ripple::LedgerEntrySet\l::calcRawMeta" alt="" coords="428,109,577,155"/>
+<area shape="rect" id="node17" href="$d0/d08/a00832.html#a0e65e054cf06e31d223a5e544479e267" title="ripple::LedgerEntrySet\l::threadTx" alt="" coords="428,178,577,225"/>
+<area shape="rect" id="node7" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="628,109,796,155"/>
+<area shape="rect" id="node9" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="872,5,1008,51"/>
+<area shape="rect" id="node11" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="847,74,1033,121"/>
+<area shape="rect" id="node13" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="859,143,1021,190"/>
+<area shape="rect" id="node15" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="859,213,1021,259"/>
+</map>

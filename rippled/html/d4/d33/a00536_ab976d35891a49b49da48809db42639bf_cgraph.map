@@ -1,0 +1,37 @@
+<map id="beast::File::copyDirectoryTo" name="beast::File::copyDirectoryTo">
+<area shape="rect" id="node3" href="$d4/d81/a00110.html#ac9109cd3dab4327ebb76aa93be74ee3f" title="beast::Array::clear" alt="" coords="267,68,395,97"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#ab2744411f150f2fae232942262e1c7a6" title="beast::File::createDirectory" alt="" coords="241,196,420,225"/>
+<area shape="rect" id="node7" href="$d4/d33/a00536.html#a087e5760e6671f26e708dcae6674f872" title="beast::File::isDirectory" alt="" coords="492,5,647,35"/>
+<area shape="rect" id="node39" href="$d4/d33/a00536.html#ab13ec2ba88e996b6922884f1edb04c82" title="beast::File::findChildFiles" alt="" coords="245,412,416,441"/>
+<area shape="rect" id="node47" href="$d4/d33/a00536.html#aa8158e481d47f2fe7045f07d64fbf0f8" title="beast::File::getChildFile" alt="" coords="728,348,888,377"/>
+<area shape="rect" id="node74" href="$d4/d81/a00110.html#ad8661dd9b3e31351e3db68ee6d6dec2a" title="beast::Array::getReference" alt="" coords="241,465,420,495"/>
+<area shape="rect" id="node77" href="$d4/d81/a00110.html#a80db38dab9df3be81a06fbe2133197bc" title="beast::Array::size" alt="" coords="268,519,393,548"/>
+<area shape="rect" id="node11" href="$d9/de7/a01257.html#a564d5ce775dabd861f475dcc1cfc4ab7" title="beast::Result::ok" alt="" coords="508,59,631,88"/>
+<area shape="rect" id="node15" href="$d4/d33/a00536.html#ac8e291a9a7c6cd2a05c3e47e5841c495" title="beast::File::getParentDirectory" alt="" coords="469,112,669,141"/>
+<area shape="rect" id="node28" href="$d9/de7/a01257.html#a27dc282c1c3ecdf310d99f1032e38eca" title="beast::Result::fail" alt="" coords="507,165,632,195"/>
+<area shape="rect" id="node31" href="$d4/d33/a00536.html#a9ddc37bdea3286dd843b2818599829b4" title="beast::File::createDirectory\lInternal" alt="" coords="480,218,659,265"/>
+<area shape="rect" id="node35" href="$d1/d88/a01578.html#aa0a4c85fccd0e1bae85c5e880ea28ac4" title="beast::String::trimCharacters\lAtEnd" alt="" coords="475,287,664,334"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#adac6dac4898ce30d950e6e253fa47162" title="beast::String::isEmpty" alt="" coords="732,5,884,35"/>
+<area shape="rect" id="node13" href="$d9/de7/a01257.html#acb75803e2914f94d988b1abd2eabc968" title="beast::Result::Result" alt="" coords="735,59,881,88"/>
+<area shape="rect" id="node17" href="$d4/d33/a00536.html#abfc034e18fa47721091bcaf1e79f75f8" title="beast::File::getPathUpTo\lLastSlash" alt="" coords="724,161,892,207"/>
+<area shape="rect" id="node19" href="$d1/d88/a01578.html#ac964e99361851027f5df041e2ff21084" title="beast::String::lastIndex\lOfChar" alt="" coords="969,223,1127,270"/>
+<area shape="rect" id="node25" href="$d1/d88/a01578.html#a51b6c08a63652de5e8c66517483fa2b9" title="beast::String::substring" alt="" coords="969,171,1127,200"/>
+<area shape="rect" id="node21" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="1212,250,1375,297"/>
+<area shape="rect" id="node23" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="1228,177,1359,223"/>
+<area shape="rect" id="node33" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="735,231,881,260"/>
+<area shape="rect" id="node37" href="$d1/d88/a01578.html#a25ceb53b40eb960b0c46948f73052c40" title="beast::String::containsChar" alt="" coords="717,295,899,324"/>
+<area shape="rect" id="node41" href="$d0/dd6/a00415.html#aacea5e43cab528905ac176e7c3c1ecca" title="beast::DirectoryIterator\l::next" alt="" coords="492,407,647,454"/>
+<area shape="rect" id="node43" href="$d4/d81/a00110.html#a22087ba1f6fab22f201ed3848df2facf" title="beast::Array::add" alt="" coords="508,477,631,507"/>
+<area shape="rect" id="node45" href="$d0/dd6/a00415.html#a0925ec02dc3d2e89e5dcadee6bda0537" title="beast::DirectoryIterator\l::getFile" alt="" coords="492,530,647,577"/>
+<area shape="rect" id="node49" href="$d4/d33/a00536.html#aee9395a5db8e6ae96491a561d0da6c3d" title="beast::File::isAbsolutePath" alt="" coords="959,400,1137,429"/>
+<area shape="rect" id="node55" href="$d4/d33/a00536.html#afe301641489d2904ad92d9e0835006b4" title="beast::File::File" alt="" coords="992,293,1104,323"/>
+<area shape="rect" id="node57" href="$d1/d88/a01578.html#aaca49bb1ee479cbc8a488c8be4b919f8" title="beast::String::replaceCharacter" alt="" coords="947,347,1149,376"/>
+<area shape="rect" id="node70" href="$d4/d33/a00536.html#a13d4d0e4dd3cccf4893c1d187c0e5927" title="beast::File::addTrailing\lSeparator" alt="" coords="971,479,1125,526"/>
+<area shape="rect" id="node51" href="$d1/d88/a01578.html#aad9a7298d1d528d042c534293afe4ade" title="beast::String::startsWithChar" alt="" coords="1197,396,1389,425"/>
+<area shape="rect" id="node53" href="$d1/d88/a01578.html#a5f9e864d7e0850599b8ecf514c6f4359" title="beast::String::isNotEmpty" alt="" coords="1207,449,1380,479"/>
+<area shape="rect" id="node60" href="$da/de2/a01585.html#aa013f6eb176e47cccfb4f2ba8eaf14e2" title="beast::StringCreationHelper\l::write" alt="" coords="1203,326,1384,373"/>
+<area shape="rect" id="node62" href="$d5/d83/a03337.html#ac6268cb2bd8387df60a94804204c45d8" title="beast::addBytesToPointer" alt="" coords="1448,281,1621,311"/>
+<area shape="rect" id="node64" href="$d5/d83/a03337.html#a850600d8d5274c00146bd55444cc1e82" title="beast::bmax" alt="" coords="1488,335,1581,364"/>
+<area shape="rect" id="node66" href="$d5/d42/a00269.html#ab20c2d63badda5d0de9005dedfdb4144" title="beast::CharPointer\l_UTF8::getBytesRequiredFor" alt="" coords="1439,387,1631,434"/>
+<area shape="rect" id="node72" href="$d1/d88/a01578.html#a1fe10919c22ca718aaf369e55bf04a70" title="beast::String::endsWithChar" alt="" coords="1200,503,1387,532"/>
+</map>

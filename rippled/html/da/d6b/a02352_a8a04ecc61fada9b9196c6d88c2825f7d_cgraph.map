@@ -1,0 +1,34 @@
+<map id="vdbeSorterCompare" name="vdbeSorterCompare">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#abd54f273e12ab80a07ecd5853cf9ad87" title="sqlite3VdbeRecordCompare" alt="" coords="193,389,377,419"/>
+<area shape="rect" id="node89" href="$da/d6b/a02352.html#a33dc4e6ab8c683f8c42b357da66328a0" title="sqlite3VdbeRecordUnpack" alt="" coords="197,309,373,339"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a7ef2f973d52f5d21b856d4bed6bb1fec" title="sqlite3VarintLen" alt="" coords="456,509,571,539"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a5b5cd74212a43cf693266f0b9badc469" title="sqlite3VdbeSerialGet" alt="" coords="441,296,585,325"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#ab84b4c97560363d01a6044a954c7d4f4" title="sqlite3VdbeSerialTypeLen" alt="" coords="427,349,600,379"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a2e6c9e6bc1e721bd678185797b6b05f7" title="vdbeCompareMemString" alt="" coords="431,403,596,432"/>
+<area shape="rect" id="node87" href="$da/d6b/a02352.html#af43a59469b879fd578e19c0f6f613984" title="vdbeRecordDecodeInt" alt="" coords="437,456,589,485"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#aed4d78203877c3486765ccbc7feebb50" title="sqlite3IsNaN" alt="" coords="697,220,796,249"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#ad567a94e52d1adf81f4857fdba00a59b" title="sqlite3ValueText" alt="" coords="688,273,805,303"/>
+<area shape="rect" id="node69" href="$da/d6b/a02352.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="1589,507,1755,536"/>
+<area shape="rect" id="node85" href="$da/d6b/a02352.html#a507287d895706c681ed352775e726f6a" title="sqlite3VdbeMemShallowCopy" alt="" coords="649,609,844,639"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="2959,353,3092,383"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#aa7cf8e488bf8cf9ec18528f52a40de31" title="sqlite3VdbeChangeEncoding" alt="" coords="1109,380,1299,409"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#afabdd8032205a36c69ad191c6bbb6a34" title="sqlite3VdbeMemMakeWriteable" alt="" coords="1569,191,1775,220"/>
+<area shape="rect" id="node73" href="$da/d6b/a02352.html#ad72ffa8a87fad7797ceeca0682df6aa3" title="sqlite3VdbeMemNulTerminate" alt="" coords="1573,53,1771,83"/>
+<area shape="rect" id="node77" href="$da/d6b/a02352.html#ad78aa19c2a115f277a15a3ce8fc54306" title="sqlite3VdbeMemStringify" alt="" coords="895,273,1060,303"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a21199c589e37f01747333f7734dd2186" title="sqlite3VdbeMemTranslate" alt="" coords="1347,404,1520,433"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="2407,456,2548,485"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="2619,557,2717,587"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="2788,661,2908,691"/>
+<area shape="rect" id="node33" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="2960,661,3091,691"/>
+<area shape="rect" id="node35" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="3141,688,3272,717"/>
+<area shape="rect" id="node37" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="2964,765,3087,795"/>
+<area shape="rect" id="node39" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="2965,555,3085,584"/>
+<area shape="rect" id="node41" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="2967,608,3084,637"/>
+<area shape="rect" id="node47" href="$da/d6b/a02352.html#ad26fb054dcce926a1d2b8d981b630333" title="sqlite3VdbeMemGrow" alt="" coords="1825,247,1975,276"/>
+<area shape="rect" id="node49" href="$da/d6b/a02352.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="2427,252,2528,281"/>
+<area shape="rect" id="node54" href="$da/d6b/a02352.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="2597,200,2739,229"/>
+<area shape="rect" id="node60" href="$da/d6b/a02352.html#ae2f0f1c1597587c1a9c7c18f31c7be58" title="sqlite3DbReallocOrFree" alt="" coords="2025,301,2185,331"/>
+<area shape="rect" id="node51" href="$da/d6b/a02352.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="2803,252,2893,281"/>
+<area shape="rect" id="node63" href="$da/d6b/a02352.html#a169974d5f47a6e7e80f0f67799d5b292" title="sqlite3DbRealloc" alt="" coords="2236,403,2356,432"/>
+<area shape="rect" id="node80" href="$da/d6b/a02352.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="1151,299,1257,328"/>
+</map>

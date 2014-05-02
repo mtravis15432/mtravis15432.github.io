@@ -1,0 +1,5 @@
+<map id="rocksdb::VersionSet::Init" name="rocksdb::VersionSet::Init">
+<area shape="rect" id="node3" href="$d1/d42/a01800.html#a788a71e004c7a132a2fea2a82eedccd6" title="rocksdb::VersionSet\l::ReduceNumberOfLevels" alt="" coords="195,5,368,51"/>
+<area shape="rect" id="node7" href="$d1/d42/a01800.html#a83b61f7b0a60a303e2b412acf0f270f1" title="rocksdb::VersionSet\l::VersionSet" alt="" coords="212,74,351,121"/>
+<area shape="rect" id="node5" href="$d0/d58/a01230.html#af2eb900c9cab82e8dffb16d90d070ae1" title="rocksdb::ReduceDBLevelsCommand\l::DoCommand" alt="" coords="417,5,655,51"/>
+</map>

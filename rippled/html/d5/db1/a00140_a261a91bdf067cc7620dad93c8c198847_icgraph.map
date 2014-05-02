@@ -1,0 +1,13 @@
+<map id="AutoSocket::handle_autodetect" name="AutoSocket::handle_autodetect">
+<area shape="rect" id="node3" href="$d5/db1/a00140.html#a4d5068c67f0864e41c828523aae22592" title="AutoSocket::async_handshake" alt="" coords="189,221,392,251"/>
+<area shape="rect" id="node5" href="$d7/dc3/a00682.html#a054abd1d5e342a1271a8e079d261a2f9" title="ripple::HTTPClientImp\l::handleConnect" alt="" coords="440,213,592,259"/>
+<area shape="rect" id="node7" href="$d7/dc3/a00682.html#a3d9cde42636ece6e84b4cc9a8e4b8875" title="ripple::HTTPClientImp\l::handleResolve" alt="" coords="640,153,792,199"/>
+<area shape="rect" id="node9" href="$d7/dc3/a00682.html#a008ec5bfacbccd5a2733378638db5146" title="ripple::HTTPClientImp\l::httpsNext" alt="" coords="840,98,992,145"/>
+<area shape="rect" id="node11" href="$d7/dc3/a00682.html#aac80cb6cc569cc995505c955486cf855" title="ripple::HTTPClientImp\l::request" alt="" coords="1040,18,1192,65"/>
+<area shape="rect" id="node15" href="$d7/dc3/a00682.html#ae1648c490f75cec608f729f652d16153" title="ripple::HTTPClientImp\l::invokeComplete" alt="" coords="1040,129,1192,175"/>
+<area shape="rect" id="node13" href="$d7/dc3/a00682.html#af2a9a0e9182c72c868cd45fc00e42c3b" title="ripple::HTTPClientImp::get" alt="" coords="1240,5,1419,35"/>
+<area shape="rect" id="node20" href="$d7/dc3/a00682.html#a1b3364c288487264b7b136b14d2bc5a8" title="ripple::HTTPClientImp\l::handleRequest" alt="" coords="1867,134,2019,181"/>
+<area shape="rect" id="node23" href="$d7/dc3/a00682.html#a00b71e50be14ad50245014d4ad852818" title="ripple::HTTPClientImp\l::handleWrite" alt="" coords="1667,134,1819,181"/>
+<area shape="rect" id="node26" href="$d7/dc3/a00682.html#ab85dbe08db67b66d08563f98573029de" title="ripple::HTTPClientImp\l::handleHeader" alt="" coords="1467,159,1619,206"/>
+<area shape="rect" id="node29" href="$d7/dc3/a00682.html#ac092284e949d0be57baee6b4318fa29b" title="ripple::HTTPClientImp\l::handleData" alt="" coords="1253,210,1405,257"/>
+</map>

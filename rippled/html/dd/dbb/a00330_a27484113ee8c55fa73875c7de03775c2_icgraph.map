@@ -1,0 +1,5 @@
+<map id="beast::ServiceQueue_timing_test::Consumer::thread" name="beast::ServiceQueue_timing_test::Consumer::thread">
+<area shape="rect" id="node3" href="$dd/dbb/a00330.html#a53ac37996d6f2772119b6af2cdf594e7" title="beast::ServiceQueue\l_timing_test::Consumer\l::handler" alt="" coords="229,5,389,69"/>
+<area shape="rect" id="node5" href="$dd/dbb/a00330.html#aa52f23bdade4ce613fafcbeb89b418a2" title="beast::ServiceQueue\l_timing_test::Consumer::run" alt="" coords="216,93,403,139"/>
+<area shape="rect" id="node7" href="$dd/dbb/a00330.html#a55963e485fb34da9fff902b60b8a3627" title="beast::ServiceQueue\l_timing_test::Consumer\l::stop_one" alt="" coords="229,163,389,227"/>
+</map>

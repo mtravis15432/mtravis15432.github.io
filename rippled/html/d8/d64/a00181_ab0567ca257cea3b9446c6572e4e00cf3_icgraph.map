@@ -1,0 +1,7 @@
+<map id="rocksdb::Benchmark::DoWrite" name="rocksdb::Benchmark::DoWrite">
+<area shape="rect" id="node3" href="$d8/d64/a00181.html#a5f742eccea590df29a184b9e09f52f31" title="rocksdb::Benchmark\l::WriteRandom" alt="" coords="203,5,344,51"/>
+<area shape="rect" id="node9" href="$d8/d64/a00181.html#a4601e8522c484545f12e20f392adca85" title="rocksdb::Benchmark\l::WriteSeq" alt="" coords="203,74,344,121"/>
+<area shape="rect" id="node12" href="$d8/d64/a00181.html#a33943169aea11d9be25397f58d2b1fe9" title="rocksdb::Benchmark\l::WriteUniqueRandom" alt="" coords="199,143,348,190"/>
+<area shape="rect" id="node5" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="399,83,572,112"/>
+<area shape="rect" id="node7" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="621,83,672,112"/>
+</map>

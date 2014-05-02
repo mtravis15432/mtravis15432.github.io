@@ -1,0 +1,4 @@
+<map id="rocksdb::DBImpl::AllocateCompactionOutputFileNumbers" name="rocksdb::DBImpl::AllocateCompactionOutputFileNumbers">
+<area shape="rect" id="node3" href="$d9/d9a/a00998.html#adc55e4555301d02ced0ec883bc6cd4f6" title="rocksdb::port::Mutex\l::AssertHeld" alt="" coords="261,5,403,51"/>
+<area shape="rect" id="node5" href="$d9/d5e/a00295.html#ae0e14955026684df1c7e261dc31fcb70" title="rocksdb::Compaction\l::num_input_files" alt="" coords="259,74,405,121"/>
+</map>

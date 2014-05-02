@@ -1,0 +1,33 @@
+<map id="beast::InputStream::read" name="beast::InputStream::read">
+<area shape="rect" id="node3" href="$df/d96/a00714.html#ab2c8aaedaf9c135352ac67b8f6ce7df9" title="beast::InputStream\l::readByte" alt="" coords="200,109,333,155"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#aee66ff2640c5e1aa810b2268ce229ada" title="beast::InputStream\l::readCompressedInt" alt="" coords="419,5,563,51"/>
+<area shape="rect" id="node14" href="$df/d96/a00714.html#a72861ed1b420c1f132099a3f39219a46" title="beast::InputStream\l::readInt" alt="" coords="200,178,333,225"/>
+<area shape="rect" id="node18" href="$df/d96/a00714.html#a048b3d980f1f565aa2e982218900022c" title="beast::InputStream\l::readInt32" alt="" coords="200,247,333,294"/>
+<area shape="rect" id="node20" href="$df/d96/a00714.html#a077ad3b28c872819149798f7283c30ba" title="beast::InputStream\l::readInt32BigEndian" alt="" coords="196,317,337,363"/>
+<area shape="rect" id="node22" href="$df/d96/a00714.html#a1a0ab8a13fdc0b799037337653d4d1a8" title="beast::InputStream\l::readInt64" alt="" coords="200,386,333,433"/>
+<area shape="rect" id="node26" href="$df/d96/a00714.html#a3149d29b9bd729b37d7bf93df15c62be" title="beast::InputStream\l::readInt64BigEndian" alt="" coords="196,455,337,502"/>
+<area shape="rect" id="node30" href="$df/d96/a00714.html#ae1bc0cd2c480ec31be9ec98d223e0666" title="beast::InputStream\l::readIntBigEndian" alt="" coords="200,525,333,571"/>
+<area shape="rect" id="node34" href="$df/d96/a00714.html#afea46025ee87b1e56b355eb55000ee7f" title="beast::InputStream\l::readShort" alt="" coords="200,594,333,641"/>
+<area shape="rect" id="node36" href="$df/d96/a00714.html#ac7b05c48fcaa4ca4714b9fa38a0f9cb2" title="beast::InputStream\l::readShortBigEndian" alt="" coords="195,663,339,710"/>
+<area shape="rect" id="node38" href="$df/d96/a00714.html#abe01225c7faa2bf456ac4b785704ccf1" title="beast::InputStream\l::skipNextBytes" alt="" coords="200,733,333,779"/>
+<area shape="rect" id="node40" href="$d4/d8a/a01062.html#ac5cf6473eb4927f0469b95a18eb1c9b8" title="beast::OutputStream\l::writeFromInputStream" alt="" coords="188,802,345,849"/>
+<area shape="rect" id="node5" href="$df/d96/a00714.html#a3229c2df3b6aa14e2ec4af51a3f6a82c" title="beast::InputStream\l::readBool" alt="" coords="424,74,557,121"/>
+<area shape="rect" id="node9" href="$df/d96/a00714.html#ac4d16a65a5f05d9abdc846332c6461af" title="beast::InputStream\l::readString" alt="" coords="424,143,557,190"/>
+<area shape="rect" id="node11" href="$df/d96/a00714.html#a1e1395fc3549874e5deb8ed386c3284a" title="beast::InputStream\l::readNextLine" alt="" coords="424,213,557,259"/>
+<area shape="rect" id="node16" href="$df/d96/a00714.html#a313a733b38a360cbadc102537d356d6c" title="beast::InputStream\l::readFloat" alt="" coords="424,282,557,329"/>
+<area shape="rect" id="node24" href="$df/d96/a00714.html#ab494bad72f84c8afd1c11c42029c2554" title="beast::InputStream\l::readDouble" alt="" coords="424,386,557,433"/>
+<area shape="rect" id="node28" href="$df/d96/a00714.html#ac9037c0ccd5f672a3cab667cda433f97" title="beast::InputStream\l::readDoubleBigEndian" alt="" coords="413,455,568,502"/>
+<area shape="rect" id="node32" href="$df/d96/a00714.html#aab883f5f322809c95f6543e56ca8306f" title="beast::InputStream\l::readFloatBigEndian" alt="" coords="420,525,561,571"/>
+<area shape="rect" id="node42" href="$d4/d33/a00536.html#aef49f67624d359bde93859684e35da7b" title="beast::File::copyInternal" alt="" coords="409,749,572,779"/>
+<area shape="rect" id="node58" href="$de/dad/a00963.html#acb048eb12aa1104a6af38447da75c4af" title="beast::MemoryOutputStream\l::writeFromInputStream" alt="" coords="396,802,585,849"/>
+<area shape="rect" id="node64" href="$d5/d83/a03337.html#a23b8ff5e3a7b2b538fc5ed1172c850ac" title="beast::operator\&lt;\&lt;" alt="" coords="428,872,553,901"/>
+<area shape="rect" id="node44" href="$d4/d33/a00536.html#a9a4d08ab162aa1539ba1637950087c74" title="beast::File::copyFileTo" alt="" coords="641,696,796,725"/>
+<area shape="rect" id="node46" href="$d4/d33/a00536.html#afdc3dee4b13ce720b9d56f712a7da9f3" title="beast::File::moveInternal" alt="" coords="636,749,801,779"/>
+<area shape="rect" id="node48" href="$d4/d33/a00536.html#a1189ca4bcc58e94cf6d3dbda3bf3136a" title="beast::File::moveFileTo" alt="" coords="863,749,1020,779"/>
+<area shape="rect" id="node50" href="$d4/d33/a00536.html#a7e51e0f19df1ad6841fb570bc56c98d8" title="beast::File::moveToTrash" alt="" coords="1111,719,1281,748"/>
+<area shape="rect" id="node52" href="$d4/d49/a01643.html#aa751b12e6e0e453cd39c78a5603cd1a4" title="beast::TemporaryFile\l::overwriteTargetFileWithTemporary" alt="" coords="1081,771,1311,818"/>
+<area shape="rect" id="node54" href="$d4/d33/a00536.html#a05a70c6e6570aec32842e76c6d08a677" title="beast::File::replaceWithData" alt="" coords="1361,753,1548,783"/>
+<area shape="rect" id="node56" href="$d4/d33/a00536.html#ae29d14b6f84ab267d820d2001db82d8f" title="beast::File::replaceWithText" alt="" coords="1361,807,1548,836"/>
+<area shape="rect" id="node60" href="$df/d96/a00714.html#a386792eae8cf4273464058597b69929e" title="beast::InputStream\l::readIntoMemoryBlock" alt="" coords="640,802,797,849"/>
+<area shape="rect" id="node62" href="$d4/d33/a00536.html#aceba75948d504dd1cd2e1e2cacd0a49d" title="beast::File::loadFileAsData" alt="" coords="852,811,1031,840"/>
+</map>

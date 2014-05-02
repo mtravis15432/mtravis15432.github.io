@@ -1,0 +1,5 @@
+<map id="rocksdb::VersionSet::LevelDataSizeSummary" name="rocksdb::VersionSet::LevelDataSizeSummary">
+<area shape="rect" id="node3" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="420,5,559,51"/>
+<area shape="rect" id="node5" href="$d1/d42/a01800.html#ab0315528b5040a26724d06e9707692b4" title="rocksdb::VersionSet\l::NumLevelBytes" alt="" coords="225,65,364,111"/>
+<area shape="rect" id="node8" href="$d4/d87/a03436.html#a79ca3fdf63c8d546b2365f8fee94734e" title="rocksdb::TotalFileSize" alt="" coords="413,75,565,104"/>
+</map>

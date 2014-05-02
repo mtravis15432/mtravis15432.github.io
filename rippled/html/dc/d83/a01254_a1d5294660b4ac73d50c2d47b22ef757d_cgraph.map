@@ -1,0 +1,4 @@
+<map id="ripple::ResolverAsioImpl::stop_async" name="ripple::ResolverAsioImpl::stop_async">
+<area shape="rect" id="node3" href="$dc/d83/a01254.html#aabbcc518951e6b569fdbbe42dacd242c" title="ripple::ResolverAsioImpl\l::do_stop" alt="" coords="220,5,383,51"/>
+<area shape="rect" id="node5" href="$d7/d12/a00126.html#ad9b82cfd4d734f5ac0ddf5e157d689ce" title="beast::asio::AsyncObject\l\&lt; ResolverAsioImpl \&gt;::removeReference" alt="" coords="433,5,692,51"/>
+</map>

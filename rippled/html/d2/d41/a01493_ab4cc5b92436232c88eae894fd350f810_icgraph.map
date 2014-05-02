@@ -1,0 +1,8 @@
+<map id="ripple::STAmount::deserialize" name="ripple::STAmount::deserialize">
+<area shape="rect" id="node3" href="$de/d1a/a01559.html#aa6261552072b04431424e4ee96a9081b" title="ripple::STObject::makeDeserialized\lObject" alt="" coords="249,5,476,51"/>
+<area shape="rect" id="node7" href="$d6/d51/a01494.html#ae031e73609f209e1a0114aeb5ea3d3e2" title="ripple::STAmount_test\l::serializeAndDeserialize" alt="" coords="280,74,445,121"/>
+<area shape="rect" id="node5" href="$de/d1a/a01559.html#a6e4c27aedab5e7ad8921ccced42e39a7" title="ripple::STObject::set" alt="" coords="531,13,672,43"/>
+<area shape="rect" id="node9" href="$d6/d51/a01494.html#a0637c597279a59077d858e58e30e71be" title="ripple::STAmount_test\l::testNativeCurrency" alt="" coords="525,70,677,117"/>
+<area shape="rect" id="node13" href="$d6/d51/a01494.html#a7d53f62917a26abd5902c55ee2bb46f4" title="ripple::STAmount_test\l::testCustomCurrency" alt="" coords="525,139,677,186"/>
+<area shape="rect" id="node11" href="$d6/d51/a01494.html#a2fed37e27754e534db456868751ba2eb" title="ripple::STAmount_test::run" alt="" coords="725,113,904,143"/>
+</map>

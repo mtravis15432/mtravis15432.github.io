@@ -1,0 +1,17 @@
+<map id="beast::insight::BaseImpl" name="beast::insight::BaseImpl">
+<area shape="rect" id="node3" href="$d0/dc3/a00354.html" title="beast::insight::CounterImpl" alt="" coords="216,83,395,112"/>
+<area shape="rect" id="node9" href="$d9/dc5/a00480.html" title="beast::insight::EventImpl" alt="" coords="223,221,388,251"/>
+<area shape="rect" id="node15" href="$d5/d80/a00583.html" title="beast::insight::GaugeImpl" alt="" coords="220,325,391,355"/>
+<area shape="rect" id="node21" href="$d8/d7a/a00669.html" title="beast::insight::HookImpl" alt="" coords="224,429,387,459"/>
+<area shape="rect" id="node27" href="$d2/d4c/a00984.html" title="beast::insight::MeterImpl" alt="" coords="223,568,388,597"/>
+<area shape="rect" id="node5" href="$de/d26/a01035.html" title="beast::insight::detail\l::NullCounterImpl" alt="" coords="445,5,584,51"/>
+<area shape="rect" id="node7" href="$d6/d83/a01544.html" title="beast::insight::detail\l::StatsDCounterImpl" alt="" coords="444,74,585,121"/>
+<area shape="rect" id="node11" href="$d8/d79/a01036.html" title="beast::insight::detail\l::NullEventImpl" alt="" coords="445,143,584,190"/>
+<area shape="rect" id="node13" href="$dd/dba/a01545.html" title="beast::insight::detail\l::StatsDEventImpl" alt="" coords="445,213,584,259"/>
+<area shape="rect" id="node17" href="$d4/dbc/a01038.html" title="beast::insight::detail\l::NullGaugeImpl" alt="" coords="445,282,584,329"/>
+<area shape="rect" id="node19" href="$d9/da1/a01546.html" title="beast::insight::detail\l::StatsDGaugeImpl" alt="" coords="445,351,584,398"/>
+<area shape="rect" id="node23" href="$df/d21/a01039.html" title="beast::insight::detail\l::NullHookImpl" alt="" coords="445,421,584,467"/>
+<area shape="rect" id="node25" href="$da/ded/a01547.html" title="beast::insight::detail\l::StatsDHookImpl" alt="" coords="445,490,584,537"/>
+<area shape="rect" id="node29" href="$d1/d83/a01041.html" title="beast::insight::detail\l::NullMeterImpl" alt="" coords="445,559,584,606"/>
+<area shape="rect" id="node31" href="$da/dc7/a01548.html" title="beast::insight::detail\l::StatsDMeterImpl" alt="" coords="445,629,584,675"/>
+</map>

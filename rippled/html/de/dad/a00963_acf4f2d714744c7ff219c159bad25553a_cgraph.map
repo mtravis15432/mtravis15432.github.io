@@ -1,0 +1,8 @@
+<map id="beast::MemoryOutputStream::flush" name="beast::MemoryOutputStream::flush">
+<area shape="rect" id="node3" href="$de/dad/a00963.html#af8d4633b1faf308d525a8f7a206ff257" title="beast::MemoryOutputStream\l::trimExternalBlockSize" alt="" coords="247,77,436,123"/>
+<area shape="rect" id="node5" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="487,77,628,123"/>
+<area shape="rect" id="node7" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="684,5,863,35"/>
+<area shape="rect" id="node9" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="685,59,861,88"/>
+<area shape="rect" id="node11" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="679,112,868,141"/>
+<area shape="rect" id="node13" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="716,165,831,195"/>
+</map>

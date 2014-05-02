@@ -1,0 +1,7 @@
+<map id="beast::asio::socket_wrapper::get_io_service" name="beast::asio::socket_wrapper::get_io_service">
+<area shape="rect" id="node3" href="$d8/dd0/a01430.html#aa01ddb71095f9b6c9fd27f91bd3d05e0" title="beast::asio::socket\l_wrapper\&lt; acceptor_type\l &amp; \&gt;::async_accept" alt="" coords="223,5,391,69"/>
+<area shape="rect" id="node5" href="$d8/dd0/a01430.html#af0026cca2a5d7155f33172e72df619d4" title="beast::asio::socket\l_wrapper\&lt; acceptor_type\l &amp; \&gt;::async_handshake" alt="" coords="223,93,391,157"/>
+<area shape="rect" id="node7" href="$d8/dd0/a01430.html#ac66ba6e8ba07a958ab3b7c75d1a7da1b" title="beast::asio::socket\l_wrapper\&lt; acceptor_type\l &amp; \&gt;::async_read_some" alt="" coords="223,181,391,245"/>
+<area shape="rect" id="node9" href="$d8/dd0/a01430.html#ac4843235820144b735089f809b8b750c" title="beast::asio::socket\l_wrapper\&lt; acceptor_type\l &amp; \&gt;::async_shutdown" alt="" coords="223,269,391,333"/>
+<area shape="rect" id="node11" href="$d8/dd0/a01430.html#aed2f61e6819af78941347e68528e24b4" title="beast::asio::socket\l_wrapper\&lt; acceptor_type\l &amp; \&gt;::async_write_some" alt="" coords="223,357,391,421"/>
+</map>

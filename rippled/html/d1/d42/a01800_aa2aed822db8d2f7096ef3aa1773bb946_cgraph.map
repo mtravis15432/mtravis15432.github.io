@@ -1,0 +1,7 @@
+<map id="rocksdb::VersionSet::PickCompactionUniversalSizeAmp" name="rocksdb::VersionSet::PickCompactionUniversalSizeAmp">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="316,5,412,35"/>
+<area shape="rect" id="node5" href="$d1/d42/a01800.html#a51725970659718a612480286843b0ad5" title="rocksdb::VersionSet\l::MaxFileSizeForLevel" alt="" coords="288,58,440,105"/>
+<area shape="rect" id="node7" href="$d1/d42/a01800.html#a6ae62b8394f58801a6340323b2c37185" title="rocksdb::VersionSet\l::NumberLevels" alt="" coords="489,83,628,130"/>
+<area shape="rect" id="node10" href="$d0/dbf/a03363.html#a5187fa615e47f5c845d5f1b4fc0cb527" title="beast::hash_metrics\l::detail::score" alt="" coords="295,178,433,225"/>
+<area shape="rect" id="node12" href="$d0/dbf/a03363.html#a75c05654caed31bf91b09dbc14e681d1" title="beast::hash_metrics\l::detail::sqr" alt="" coords="489,178,628,225"/>
+</map>

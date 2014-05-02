@@ -1,0 +1,25 @@
+<map id="rippled/src/ripple/rocksdb/rocksdb/db/version_edit.h" name="rippled/src/ripple/rocksdb/rocksdb/db/version_edit.h">
+<area shape="rect" id="node9" href="$dc/db2/a02574.html" title="dbformat.h" alt="" coords="1481,117,1564,147"/>
+<area shape="rect" id="node13" href="$d4/d7d/a02628.html" title="../include/rocksdb\l/comparator.h" alt="" coords="1941,291,2066,338"/>
+<area shape="rect" id="node17" href="$d8/d70/a02629.html" title="../include/rocksdb/db.h" alt="" coords="1000,204,1154,233"/>
+<area shape="rect" id="node27" href="$dd/d75/a02639.html" title="slice.h" alt="" coords="146,541,205,571"/>
+<area shape="rect" id="node91" href="$d3/d23/a02646.html" title="types.h" alt="" coords="1192,387,1256,416"/>
+<area shape="rect" id="node104" href="$d0/d9a/a02631.html" title="../include/rocksdb\l/filter_policy.h" alt="" coords="1578,195,1704,242"/>
+<area shape="rect" id="node108" href="$d8/dd7/a02643.html" title="../include/rocksdb\l/table.h" alt="" coords="1342,195,1468,242"/>
+<area shape="rect" id="node125" href="$d4/dff/a02723.html" title="../util/coding.h" alt="" coords="2272,387,2376,416"/>
+<area shape="rect" id="node133" href="$d4/da5/a02746.html" title="../util/logging.h" alt="" coords="2141,387,2248,416"/>
+<area shape="rect" id="node19" href="$db/d86/a02663.html" title="stdint.h" alt="" coords="1192,464,1256,493"/>
+<area shape="rect" id="node25" href="$d6/d6a/a02633.html" title="iterator.h" alt="" coords="296,300,368,329"/>
+<area shape="rect" id="node40" href="$d2/de3/a02637.html" title="options.h" alt="" coords="1040,300,1114,329"/>
+<area shape="rect" id="node94" href="$d2/d80/a02645.html" title="transaction_log.h" alt="" coords="641,300,761,329"/>
+<area shape="rect" id="node36" href="$d5/d96/a02642.html" title="status.h" alt="" coords="197,464,266,493"/>
+<area shape="rect" id="node47" href="$d9/d07/a02635.html" title="memtablerep.h" alt="" coords="1458,387,1565,416"/>
+<area shape="rect" id="node56" href="$dd/d5f/a02640.html" title="slice_transform.h" alt="" coords="1658,464,1781,493"/>
+<area shape="rect" id="node61" href="$de/d4c/a02641.html" title="statistics.h" alt="" coords="829,464,914,493"/>
+<area shape="rect" id="node74" href="$da/d26/a02644.html" title="table_properties.h" alt="" coords="1690,387,1816,416"/>
+<area shape="rect" id="node80" href="$d2/d11/a02647.html" title="universal_compaction.h" alt="" coords="612,387,769,416"/>
+<area shape="rect" id="node50" href="$d8/d09/a02624.html" title="arena.h" alt="" coords="1469,464,1533,493"/>
+<area shape="rect" id="node98" href="$dc/dcb/a02648.html" title="write_batch.h" alt="" coords="168,387,266,416"/>
+<area shape="rect" id="node112" href="$d0/d3f/a02630.html" title="env.h" alt="" coords="1381,387,1434,416"/>
+<area shape="rect" id="node130" href="$df/d14/a02658.html" title="../port/port.h" alt="" coords="2226,464,2320,493"/>
+</map>

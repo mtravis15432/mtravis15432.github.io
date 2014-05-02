@@ -1,0 +1,5 @@
+<map id="ripple::LedgerEntrySet::getNextLedgerIndex" name="ripple::LedgerEntrySet::getNextLedgerIndex">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#a3c62f65b6d801fa3008ff179c988a3ed" title="ripple::LedgerEntrySet\l::getNextLedgerIndex" alt="" coords="207,5,356,51"/>
+<area shape="rect" id="node5" href="$d7/d9a/a00152.html#a3fa11a064a87fe4e970f00d661287dd2" title="ripple::base_uint::\lisNonZero" alt="" coords="405,5,531,51"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="579,5,704,51"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb::DBClientProxy::cleanUp" name="rocksdb::DBClientProxy::cleanUp">
+<area shape="rect" id="node3" href="$d3/d45/a00382.html#a18e8e94cd6dcdfab5dc100b78a0de559" title="rocksdb::DBClientProxy\l::connect" alt="" coords="216,5,379,51"/>
+<area shape="rect" id="node9" href="$d3/d45/a00382.html#a1a73bfa3705a8e2ad9afa3801a421084" title="rocksdb::DBClientProxy\l::~DBClientProxy" alt="" coords="216,74,379,121"/>
+<area shape="rect" id="node5" href="$da/d28/a02705.html#af2132b2bc8319a3cbbc0975e25f38159" title="testDBClientProxy" alt="" coords="427,13,557,43"/>
+<area shape="rect" id="node7" href="$da/d28/a02705.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="605,13,656,43"/>
+</map>

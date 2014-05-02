@@ -1,0 +1,28 @@
+<map id="beast::File::loadFileAsString" name="beast::File::loadFileAsString">
+<area shape="rect" id="node3" href="$d4/d33/a00536.html#a8c1c6c8e7085103a4e2fdddab99310cf" title="beast::File::existsAsFile" alt="" coords="249,205,412,235"/>
+<area shape="rect" id="node15" href="$d2/dd6/a03414.html#a7378f09d8f10ef3ccbb2aeefe7ff41d3" title="Json::in" alt="" coords="297,259,364,288"/>
+<area shape="rect" id="node17" href="$d4/d79/a00540.html#aa4e244d971850bc79d721d9c303afd25" title="beast::FileInputStream\l::openedOk" alt="" coords="253,311,408,358"/>
+<area shape="rect" id="node22" href="$df/d96/a00714.html#a50aa8864c5f19a210e6256a27c4bc873" title="beast::InputStream\l::readEntireStreamAsString" alt="" coords="240,402,421,449"/>
+<area shape="rect" id="node5" href="$d4/d33/a00536.html#add6f39f75f82fd84d132a70e668e32a3" title="beast::File::exists" alt="" coords="503,179,628,208"/>
+<area shape="rect" id="node11" href="$d4/d33/a00536.html#a087e5760e6671f26e708dcae6674f872" title="beast::File::isDirectory" alt="" coords="488,232,643,261"/>
+<area shape="rect" id="node7" href="$d1/d88/a01578.html#a5f9e864d7e0850599b8ecf514c6f4359" title="beast::String::isNotEmpty" alt="" coords="719,125,892,155"/>
+<area shape="rect" id="node9" href="$d1/d88/a01578.html#a83751c1169fd80c2b8d9c07ca391c63c" title="beast::String::toUTF8" alt="" coords="732,179,879,208"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#adac6dac4898ce30d950e6e253fa47162" title="beast::String::isEmpty" alt="" coords="729,232,881,261"/>
+<area shape="rect" id="node19" href="$d9/de7/a01257.html#ad1cd6e48b8f41b1c5f6377109288cffe" title="beast::Result::wasOk" alt="" coords="491,303,640,332"/>
+<area shape="rect" id="node24" href="$de/dad/a00963.html#af022bf5af7d11c327e9656bf6b97a6f5" title="beast::MemoryOutputStream\l::toString" alt="" coords="471,442,660,489"/>
+<area shape="rect" id="node26" href="$d1/d88/a01578.html#a7b3a4114aa54df693ce5dbd585436f36" title="beast::String::createString\lFromData" alt="" coords="719,285,892,331"/>
+<area shape="rect" id="node48" href="$de/dad/a00963.html#ab2f3eb67e737761e8d9d18e1756ef150" title="beast::MemoryOutputStream\l::getData" alt="" coords="711,453,900,499"/>
+<area shape="rect" id="node54" href="$de/dad/a00963.html#ac483f90f58b6c03f1b79fbfeb810338c" title="beast::MemoryOutputStream\l::getDataSize" alt="" coords="711,522,900,569"/>
+<area shape="rect" id="node28" href="$d5/d42/a00269.html#ad9e94bc273fadfeb6f7823981c7aa545" title="beast::CharPointer\l_UTF8::isByteOrderMark" alt="" coords="967,5,1135,51"/>
+<area shape="rect" id="node30" href="$d1/dd4/a00267.html#abb4ff1e7bc303756d604a21add62ff8c" title="beast::CharPointer\l_UTF16::isByteOrderMarkBig\lEndian" alt="" coords="953,75,1148,139"/>
+<area shape="rect" id="node32" href="$d1/dd4/a00267.html#af9cd0c9fb31d96435440b7f00d094b18" title="beast::CharPointer\l_UTF16::isByteOrderMarkLittle\lEndian" alt="" coords="949,163,1152,227"/>
+<area shape="rect" id="node34" href="$d6/d08/a00244.html#aa6f03d6a27cb4769e410c08737e9cdd4" title="beast::ByteOrder::swapIf\lBigEndian" alt="" coords="967,250,1135,297"/>
+<area shape="rect" id="node38" href="$d6/d08/a00244.html#ac4bab10972fc5ea6f84f567415380327" title="beast::ByteOrder::swapIf\lLittleEndian" alt="" coords="967,319,1135,366"/>
+<area shape="rect" id="node40" href="$da/de2/a01585.html#aa013f6eb176e47cccfb4f2ba8eaf14e2" title="beast::StringCreationHelper\l::write" alt="" coords="960,389,1141,435"/>
+<area shape="rect" id="node36" href="$d6/d08/a00244.html#a1a93d1392f8b87ebc9289e0088187962" title="beast::ByteOrder::swap" alt="" coords="1217,259,1377,288"/>
+<area shape="rect" id="node42" href="$d5/d83/a03337.html#ac6268cb2bd8387df60a94804204c45d8" title="beast::addBytesToPointer" alt="" coords="1211,344,1384,373"/>
+<area shape="rect" id="node44" href="$d5/d83/a03337.html#a850600d8d5274c00146bd55444cc1e82" title="beast::bmax" alt="" coords="1251,397,1344,427"/>
+<area shape="rect" id="node46" href="$d5/d42/a00269.html#ab20c2d63badda5d0de9005dedfdb4144" title="beast::CharPointer\l_UTF8::getBytesRequiredFor" alt="" coords="1201,450,1393,497"/>
+<area shape="rect" id="node50" href="$da/d45/a00961.html#a8aa3eee25fc5d0599c960b705d5ddced" title="beast::MemoryBlock\l::getSize" alt="" coords="980,458,1121,505"/>
+<area shape="rect" id="node52" href="$da/d45/a00961.html#ad492ba4c9db3b015ac799cbfe500ef3c" title="beast::MemoryBlock\l::getData" alt="" coords="980,527,1121,574"/>
+</map>

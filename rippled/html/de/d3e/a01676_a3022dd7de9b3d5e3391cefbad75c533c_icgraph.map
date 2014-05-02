@@ -1,0 +1,5 @@
+<map id="beast::asio::TestPeerLogicAsyncServer::on_write" name="beast::asio::TestPeerLogicAsyncServer::on_write">
+<area shape="rect" id="node3" href="$de/d3e/a01676.html#ab586b661549f5978735be443bc11e99d" title="beast::asio::TestPeerLogic\lAsyncServer::on_read" alt="" coords="232,5,411,51"/>
+<area shape="rect" id="node5" href="$de/d3e/a01676.html#aa1a4e9982dbb8df83ea6ff0f40ebccc3" title="beast::asio::TestPeerLogic\lAsyncServer::on_handshake" alt="" coords="459,5,648,51"/>
+<area shape="rect" id="node7" href="$de/d3e/a01676.html#a8601477aa6269124849cc945502296d6" title="beast::asio::TestPeerLogic\lAsyncServer::on_connect_async" alt="" coords="697,5,911,51"/>
+</map>

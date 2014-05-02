@@ -1,0 +1,5 @@
+<map id="beast::asio::HTTPClientType::Session::handle_shutdown" name="beast::asio::HTTPClientType::Session::handle_shutdown">
+<area shape="rect" id="node3" href="$d2/d1f/a01361.html#a7efe097ae125e99a001051abd4ff7f5a" title="beast::asio::HTTPClientType\l::Session::cancel_all" alt="" coords="488,5,680,51"/>
+<area shape="rect" id="node5" href="$d2/d1f/a01361.html#a3794c98fc52ca83331b47f86f51cb49a" title="beast::asio::HTTPClientType\l::Session::failed" alt="" coords="247,34,439,81"/>
+<area shape="rect" id="node8" href="$da/d3a/a00694.html#aa5b04e89527328ddcc9da71212d128c7" title="beast::HTTPResponseParser\l::response" alt="" coords="245,103,440,150"/>
+</map>

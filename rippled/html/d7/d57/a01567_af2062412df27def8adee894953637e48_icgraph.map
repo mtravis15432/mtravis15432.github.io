@@ -1,0 +1,8 @@
+<map id="ripple::Validators::Store::insert" name="ripple::Validators::Store::insert">
+<area shape="rect" id="node3" href="$d7/d12/a00911.html#a7fc10d23e527f4e29425b9b3dbb19251" title="ripple::Validators\l::Logic::add" alt="" coords="175,39,292,86"/>
+<area shape="rect" id="node5" href="$dc/d2b/a00936.html#ae5341237cc724139bfb4d8f8128935a0" title="ripple::Validators\l::ManagerImp::addSource" alt="" coords="343,5,513,51"/>
+<area shape="rect" id="node9" href="$d9/dfb/a00913.html#a104b1888de589345045ca3e75c22b4a5" title="ripple::Validators\l::Logic_test::addSources" alt="" coords="345,74,511,121"/>
+<area shape="rect" id="node7" href="$dc/d2b/a00936.html#aacc0c4384f81b9c585b84e1dcc9c5c20" title="ripple::Validators\l::ManagerImp::addURL" alt="" coords="564,5,721,51"/>
+<area shape="rect" id="node11" href="$d9/dfb/a00913.html#ad779bfe8d6bb1d9921ebe6cc3fb7b5bb" title="ripple::Validators\l::Logic_test::testLogic" alt="" coords="568,74,717,121"/>
+<area shape="rect" id="node13" href="$d9/dfb/a00913.html#a6dcbb52d0f72b46b9629265b9004f103" title="ripple::Validators\l::Logic_test::run" alt="" coords="772,74,889,121"/>
+</map>

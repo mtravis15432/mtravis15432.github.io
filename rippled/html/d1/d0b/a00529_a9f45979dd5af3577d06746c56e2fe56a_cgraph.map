@@ -1,0 +1,7 @@
+<map id="ripple::FeaturesImpl::reportValidations" name="ripple::FeaturesImpl::reportValidations">
+<area shape="rect" id="node3" href="$d5/db5/a00374.html#ae13874bae245fcea24edd3945ff16723" title="ripple::Database::executeSQL" alt="" coords="192,5,389,35"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="240,59,341,88"/>
+<area shape="rect" id="node9" href="$d6/db8/a00376.html#a9368476a90456c8f1256a53c239cc9a5" title="ripple::DatabaseCon\l::getDB" alt="" coords="220,111,361,158"/>
+<area shape="rect" id="node11" href="$da/d74/a00099.html#aa3469eee5e444e61eadeb12fcb7e1eee" title="ripple::Application\l::getWalletDB" alt="" coords="228,181,353,227"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="439,50,615,97"/>
+</map>

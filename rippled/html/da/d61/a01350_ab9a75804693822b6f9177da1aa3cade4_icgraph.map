@@ -1,0 +1,15 @@
+<map id="ripple::Serializer::getDataPtr" name="ripple::Serializer::getDataPtr">
+<area shape="rect" id="node3" href="$d9/d10/a01103.html#a598f84e984d687fea5c2f03d83dbe624" title="ripple::PeerImp::getLedger" alt="" coords="169,143,343,172"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a0fc02b8ef2f7112fb502175445e22566" title="ripple::Serializer\l::getString" alt="" coords="199,195,313,242"/>
+<area shape="rect" id="node27" href="$d7/ded/a01009.html#aba8325861d32ab9cab76bac7c211cba6" title="ripple::NetworkOPsImp\l::makeFetchPack" alt="" coords="177,265,335,311"/>
+<area shape="rect" id="node7" href="$df/d0b/a01372.html#a344c70ac6bbd1e865495841d638b7fdd" title="ripple::SHAMapNode\l::getRawString" alt="" coords="393,195,537,242"/>
+<area shape="rect" id="node9" href="$d0/dbc/a01704.html#ada68c8c11f2c9292782989f1ed65fefd" title="ripple::TransactionAcquire\l::trigger" alt="" coords="587,109,760,155"/>
+<area shape="rect" id="node17" href="$dd/d85/a00702.html#a9ea46b7b6bbb5f99a9120bbfbc70a64e" title="ripple::InboundLedger\l::trigger" alt="" coords="600,282,747,329"/>
+<area shape="rect" id="node11" href="$d0/dbc/a01704.html#aa760936e4317bbf5cfc4167ea66f22f6" title="ripple::TransactionAcquire\l::newPeer" alt="" coords="808,5,981,51"/>
+<area shape="rect" id="node13" href="$d0/dbc/a01704.html#aff2883c1a530f0236fb22abca68ab83e" title="ripple::TransactionAcquire\l::onTimer" alt="" coords="808,74,981,121"/>
+<area shape="rect" id="node15" href="$d0/dbc/a01704.html#af5050201ff5162e27302513d989837c2" title="ripple::TransactionAcquire\l::takeNodes" alt="" coords="808,143,981,190"/>
+<area shape="rect" id="node19" href="$dd/d85/a00702.html#a291eb601240f81e131f7a232f3eeeb71" title="ripple::InboundLedger\l::init" alt="" coords="821,213,968,259"/>
+<area shape="rect" id="node21" href="$dd/d85/a00702.html#a4e8b358963095210ee909cd5328c58a9" title="ripple::InboundLedger\l::newPeer" alt="" coords="821,282,968,329"/>
+<area shape="rect" id="node23" href="$dd/d85/a00702.html#a3365d49eb8fb372a956f1ae208330b7f" title="ripple::InboundLedger\l::onTimer" alt="" coords="821,351,968,398"/>
+<area shape="rect" id="node25" href="$dd/d85/a00702.html#a0fcb919dd1a3c7f0e37525aee124ee7d" title="ripple::InboundLedger\l::runData" alt="" coords="821,421,968,467"/>
+</map>

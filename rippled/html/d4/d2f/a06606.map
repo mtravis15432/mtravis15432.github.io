@@ -1,0 +1,8 @@
+<map id="beast::asio::TestPeerLogic" name="beast::asio::TestPeerLogic">
+<area shape="rect" id="node5" href="$db/d98/a01675.html" title="beast::asio::TestPeerLogic\lAsyncClient" alt="" coords="467,5,645,51"/>
+<area shape="rect" id="node7" href="$de/d3e/a01676.html" title="beast::asio::TestPeerLogic\lAsyncServer" alt="" coords="467,74,645,121"/>
+<area shape="rect" id="node9" href="$d6/d26/a01678.html" title="beast::asio::TestPeerLogic\lSyncClient" alt="" coords="467,143,645,190"/>
+<area shape="rect" id="node13" href="$d2/d34/a01679.html" title="beast::asio::TestPeerLogic\lSyncServer" alt="" coords="467,213,645,259"/>
+<area shape="rect" id="node2" href="$d2/d7b/a01672.html" title="beast::asio::TestPeerBasics" alt="" coords="5,117,192,147"/>
+<area shape="rect" id="node11" href="$d2/d44/a01677.html" title="beast::asio::TestPeerLogic\lProxyClient" alt="" coords="693,143,872,190"/>
+</map>

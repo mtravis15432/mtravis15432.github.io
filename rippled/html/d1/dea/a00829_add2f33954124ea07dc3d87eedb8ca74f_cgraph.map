@@ -1,0 +1,12 @@
+<map id="ripple::LedgerCleanerImp::getHash" name="ripple::LedgerCleanerImp::getHash">
+<area shape="rect" id="node3" href="$d1/de6/a00837.html#a284cae94955402f898357ae5b8e5841c" title="ripple::LedgerMaster\l::findAcquireLedger" alt="" coords="236,5,375,51"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="464,73,565,103"/>
+<area shape="rect" id="node9" href="$d1/dea/a00829.html#a4f40a9f1b3e18b27e30873b35ad084e2" title="ripple::LedgerCleanerImp\l::getLedgerHash" alt="" coords="223,125,388,171"/>
+<area shape="rect" id="node16" href="$da/d74/a00099.html#a57929fa83c551514e364fe6981b0c104" title="ripple::Application\l::getLedgerMaster" alt="" coords="243,194,368,241"/>
+<area shape="rect" id="node18" href="$d1/de6/a00837.html#a2e32e5b06d5b855f57a7d4fb3d25c05e" title="ripple::LedgerMaster\l::getValidatedLedger" alt="" coords="235,263,376,310"/>
+<area shape="rect" id="node20" href="$d7/d9a/a00152.html#a3fa11a064a87fe4e970f00d661287dd2" title="ripple::base_uint::\lisNonZero" alt="" coords="243,333,368,379"/>
+<area shape="rect" id="node22" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="452,362,577,409"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="641,65,817,111"/>
+<area shape="rect" id="node12" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="445,126,584,173"/>
+<area shape="rect" id="node14" href="$d8/d86/a00703.html#a6f59efd378b35314541b4d5c76cd905a" title="ripple::InboundLedgers\l::findCreate" alt="" coords="439,195,591,242"/>
+</map>

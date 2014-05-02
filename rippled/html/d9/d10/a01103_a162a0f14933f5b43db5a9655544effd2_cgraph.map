@@ -1,0 +1,8 @@
+<map id="ripple::PeerImp::~PeerImp" name="ripple::PeerImp::~PeerImp">
+<area shape="rect" id="node3" href="$d9/db3/a01064.html#afa4e7d42e14e611f22fd50f5b1f11738" title="ripple::OverlayImpl\l::remove" alt="" coords="229,35,360,82"/>
+<area shape="rect" id="node5" href="$d9/db3/a01064.html#aae610b1a44dfb3505bd9449e5217d660" title="ripple::OverlayImpl\l::release" alt="" coords="408,35,539,82"/>
+<area shape="rect" id="node7" href="$d9/db3/a01064.html#a8b12e6a7e9b089480735592140bf5732" title="ripple::OverlayImpl\l::check_stopped" alt="" coords="587,35,717,82"/>
+<area shape="rect" id="node9" href="$d2/d49/a01561.html#ac9e8f8db88a0ec9c9f616e55a220cc30" title="beast::Stoppable::areChildren\lStopped" alt="" coords="765,5,960,51"/>
+<area shape="rect" id="node11" href="$d2/d49/a01561.html#a32a3f86c14a870b4c8eefa77f9989a5e" title="beast::Stoppable::stopped" alt="" coords="776,75,949,104"/>
+<area shape="rect" id="node13" href="$d7/d02/a01808.html#a534ad45cb1fb86f6544356d78a0367e5" title="beast::WaitableEvent\l::signal" alt="" coords="1008,66,1155,113"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="beast::CharacterFunctions::copyWithDestByteLimit" name="beast::CharacterFunctions::copyWithDestByteLimit">
+<area shape="rect" id="node3" href="$d5/d35/a00266.html#af3c38008b303e7bc02b97ce8451a8e40" title="beast::CharPointer\l_ASCII::writeWithDestByteLimit" alt="" coords="232,5,443,51"/>
+<area shape="rect" id="node5" href="$db/d12/a00268.html#a67b8215aa012071d1de2296b643a2d2c" title="beast::CharPointer\l_UTF32::writeWithDestByteLimit" alt="" coords="231,74,444,121"/>
+<area shape="rect" id="node7" href="$d1/dd4/a00267.html#a46adf4c7d64c967d9f38dd81ceb70b90" title="beast::CharPointer\l_UTF16::writeWithDestByteLimit" alt="" coords="231,143,444,190"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#af1372c4700f1da26cdf4a2e3fa17fd25" title="beast::CharPointer\l_UTF8::writeWithDestByteLimit" alt="" coords="233,213,441,259"/>
+</map>

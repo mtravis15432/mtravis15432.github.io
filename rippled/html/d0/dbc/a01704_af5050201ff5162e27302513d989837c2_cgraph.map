@@ -1,0 +1,31 @@
+<map id="ripple::TransactionAcquire::takeNodes" name="ripple::TransactionAcquire::takeNodes">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="955,17,1056,47"/>
+<area shape="rect" id="node7" href="$d1/d3d/a01110.html#af4feb007aefaee406ca0cc8dc076ae31" title="ripple::PeerSet::getHash" alt="" coords="231,440,396,469"/>
+<area shape="rect" id="node9" href="$dd/d0c/a01368.html#a3dc682b7185ec0834398b3aa2b2d0034" title="ripple::SHAMapAddNode\l::invalid" alt="" coords="229,493,397,539"/>
+<area shape="rect" id="node13" href="$d1/d3d/a01110.html#ad7733986159c48a56d6e5049817a7c66" title="ripple::PeerSet::progress" alt="" coords="231,632,396,661"/>
+<area shape="rect" id="node15" href="$d0/dbc/a01704.html#ada68c8c11f2c9292782989f1ed65fefd" title="ripple::TransactionAcquire\l::trigger" alt="" coords="227,359,400,406"/>
+<area shape="rect" id="node65" href="$dd/d0c/a01368.html#a180f6dbffb287cdafd5d36c43919af7d" title="ripple::SHAMapAddNode\l::useful" alt="" coords="229,562,397,609"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="1132,9,1308,55"/>
+<area shape="rect" id="node11" href="$dd/d0c/a01368.html#ad464fbfde2b828dd6f57d9f8c51c6111" title="ripple::SHAMapAddNode\l::SHAMapAddNode" alt="" coords="459,574,627,621"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="1157,338,1283,385"/>
+<area shape="rect" id="node21" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="468,468,617,497"/>
+<area shape="rect" id="node23" href="$d1/d3d/a01110.html#ac8b6048a0b05a11da32d1657dcb98fd6" title="ripple::PeerSet::getTimeouts" alt="" coords="449,521,636,551"/>
+<area shape="rect" id="node25" href="$df/d0b/a01372.html#a344c70ac6bbd1e865495841d638b7fdd" title="ripple::SHAMapNode\l::getRawString" alt="" coords="471,398,615,445"/>
+<area shape="rect" id="node43" href="$d1/d3d/a01110.html#a3d539d36401a5042d1363c450379bb43" title="ripple::PeerSet::sendRequest" alt="" coords="687,68,879,97"/>
+<area shape="rect" id="node47" href="$d0/dbc/a01704.html#ae4797477cdc277af74dc698f8d2b9105" title="ripple::TransactionAcquire\l::done" alt="" coords="456,217,629,263"/>
+<area shape="rect" id="node19" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1359,377,1508,407"/>
+<area shape="rect" id="node27" href="$df/d0b/a01372.html#ace328564a09fe8629e690586129fefbf" title="ripple::SHAMapNode\l::addIDRaw" alt="" coords="711,398,855,445"/>
+<area shape="rect" id="node37" href="$da/d61/a01350.html#a0fc02b8ef2f7112fb502175445e22566" title="ripple::Serializer\l::getString" alt="" coords="725,537,840,583"/>
+<area shape="rect" id="node29" href="$da/d61/a01350.html#a0a59bc79c929b9b01c3fd88ca54195f1" title="ripple::Serializer\l::add256" alt="" coords="948,398,1063,445"/>
+<area shape="rect" id="node35" href="$da/d61/a01350.html#a0344fccc7552038b51568aa4f93fca4e" title="ripple::Serializer\l::add8" alt="" coords="948,467,1063,514"/>
+<area shape="rect" id="node32" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="1147,408,1293,437"/>
+<area shape="rect" id="node39" href="$da/d61/a01350.html#ab9a75804693822b6f9177da1aa3cade4" title="ripple::Serializer\l::getDataPtr" alt="" coords="948,537,1063,583"/>
+<area shape="rect" id="node41" href="$da/d61/a01350.html#ac7bf5cce451c952933b2750d902d848c" title="ripple::Serializer\l::size" alt="" coords="948,606,1063,653"/>
+<area shape="rect" id="node49" href="$dc/d0c/a00783.html#a0e6d017b056c57465c9d72f928e3271e" title="ripple::JobQueue::addJob" alt="" coords="697,225,868,255"/>
+<area shape="rect" id="node52" href="$da/d74/a00099.html#a860be08979e27d8c6f37f722f996ba6c" title="ripple::Application\l::getJobQueue" alt="" coords="720,278,845,325"/>
+<area shape="rect" id="node54" href="$d9/d9d/a03417.html#ab60dd3cb8f8d17b918ea9072bad6f551" title="ripple::TACompletionHandler" alt="" coords="688,172,877,201"/>
+<area shape="rect" id="node56" href="$d8/d86/a00703.html#aa8378c07e914d43964d816ee1ac8d1dd" title="ripple::InboundLedgers\l::dropLedger" alt="" coords="929,70,1081,117"/>
+<area shape="rect" id="node59" href="$da/d74/a00099.html#a6d349a4ada03689eae062c0399762dad" title="ripple::Application\l::getInboundLedgers" alt="" coords="936,139,1075,186"/>
+<area shape="rect" id="node61" href="$da/d74/a00099.html#a7c963aa5c47180b24897ff6b5622e5bc" title="ripple::Application\l::getOPs" alt="" coords="943,209,1068,255"/>
+<area shape="rect" id="node63" href="$dd/dac/a01008.html#a8a3422f518b3bfc4b4e2d16abde6ef0d" title="ripple::NetworkOPs\l::mapComplete" alt="" coords="937,278,1073,325"/>
+</map>

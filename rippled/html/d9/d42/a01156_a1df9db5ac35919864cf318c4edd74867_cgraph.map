@@ -1,0 +1,10 @@
+<map id="beast::Random::Random" name="beast::Random::Random">
+<area shape="rect" id="node3" href="$d9/d42/a01156.html#a5a3eccaa760740a8c8ad014c8a676a84" title="beast::Random::setSeedRandomly" alt="" coords="221,171,448,200"/>
+<area shape="rect" id="node5" href="$d9/d42/a01156.html#a5c91d38b1e88321509492ac9fec3dec3" title="beast::Random::combineSeed" alt="" coords="501,5,699,35"/>
+<area shape="rect" id="node7" href="$dc/dc8/a01695.html#a72213ba0e3eff5f7067dd740922651f2" title="beast::Time::getMillisecond\lCounter" alt="" coords="509,58,691,105"/>
+<area shape="rect" id="node11" href="$dc/dc8/a01695.html#a8d8ae04e6a87738e1d6cc1bb47b98846" title="beast::Time::getHighResolution\lTicks" alt="" coords="497,127,703,174"/>
+<area shape="rect" id="node13" href="$dc/dc8/a01695.html#a4ad86019a426b4d4ca22a0d4e6e965bc" title="beast::Time::getHighResolution\lTicksPerSecond" alt="" coords="497,197,703,243"/>
+<area shape="rect" id="node15" href="$dc/dc8/a01695.html#aff456c2d50de704a62966989bfae617a" title="beast::Time::currentTime\lMillis" alt="" coords="516,266,684,313"/>
+<area shape="rect" id="node17" href="$d9/d42/a01156.html#aaa7eba6653fb57c634ecfefff0e3de33" title="beast::Random::nextInt" alt="" coords="521,336,679,365"/>
+<area shape="rect" id="node9" href="$d5/d83/a03337.html#ab9caefe6aa83608404ede7c32dbadda8" title="beast::beast_milliseconds\lSinceStartup" alt="" coords="752,58,925,105"/>
+</map>

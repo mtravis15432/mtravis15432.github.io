@@ -1,0 +1,10 @@
+<map id="ripple::Transactor" name="ripple::Transactor">
+<area shape="rect" id="node3" href="$d3/d8b/a00059.html" title="ripple::AccountSetTransactor" alt="" coords="187,5,376,35"/>
+<area shape="rect" id="node5" href="$df/da9/a00263.html" title="ripple::ChangeTransactor" alt="" coords="197,59,365,88"/>
+<area shape="rect" id="node7" href="$db/dbb/a01047.html" title="ripple::OfferCancelTransactor" alt="" coords="185,112,377,141"/>
+<area shape="rect" id="node9" href="$d5/de7/a01048.html" title="ripple::OfferCreateTransactor" alt="" coords="187,165,376,195"/>
+<area shape="rect" id="node11" href="$da/d73/a01090.html" title="ripple::PaymentTransactor" alt="" coords="195,219,368,248"/>
+<area shape="rect" id="node13" href="$dc/dab/a01237.html" title="ripple::RegularKeySetTransactor" alt="" coords="176,272,387,301"/>
+<area shape="rect" id="node15" href="$da/d0e/a01720.html" title="ripple::TrustSetTransactor" alt="" coords="195,325,368,355"/>
+<area shape="rect" id="node17" href="$d6/dc4/a01816.html" title="ripple::WalletAddTransactor" alt="" coords="191,379,372,408"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="rocksdb::WriteBatch::Merge" name="rocksdb::WriteBatch::Merge">
+<area shape="rect" id="node3" href="$d4/d27/a00392.html#a7c23011ce3a37e5d9683c10ab88640f4" title="rocksdb::DBWithTTL\l::Merge" alt="" coords="196,5,340,51"/>
+<area shape="rect" id="node11" href="$d8/ddd/a00380.html#af6702472d68f092ade92c1eb8a6c0300" title="rocksdb::DB::Merge" alt="" coords="199,243,337,272"/>
+<area shape="rect" id="node45" href="$d3/daa/a01577.html#a2bdd8a9595b621c43bb200a88383ce14" title="rocksdb::StressTest\l::MultiPut" alt="" coords="199,295,337,342"/>
+<area shape="rect" id="node48" href="$d4/d87/a03436.html#ab1d9ae83668a944960bbbbcad6d19fd5" title="rocksdb::TEST" alt="" coords="213,365,323,395"/>
+<area shape="rect" id="node5" href="$d4/d27/a00392.html#a71ac4f9595315bfea87e163bc9206585" title="rocksdb::DBWithTTL\l::Write" alt="" coords="405,5,549,51"/>
+<area shape="rect" id="node7" href="$d4/d27/a00392.html#aecac9535709b5dd7617d950ffc14da49" title="rocksdb::DBWithTTL::Put" alt="" coords="627,13,800,43"/>
+<area shape="rect" id="node13" href="$dd/df5/a00386.html#a4b355ac2e2039e00d858b96905d79d71" title="rocksdb::DBImpl::Merge" alt="" coords="396,128,559,157"/>
+<area shape="rect" id="node21" href="$d4/d21/a00987.html#a92af69433b8972f727f7cb8cb5f52a7a" title="rocksdb::ModelDB::Merge" alt="" coords="391,181,564,211"/>
+<area shape="rect" id="node27" href="$d8/d64/a00181.html#a597fc33ca480f1de8e433a0ec2aad48c" title="rocksdb::Benchmark\l::MergeRandom" alt="" coords="407,234,548,281"/>
+<area shape="rect" id="node33" href="$d3/daa/a01577.html#af55a36a036e7348d3442400c050df2ee" title="rocksdb::StressTest\l::OperateDb" alt="" coords="408,357,547,403"/>
+<area shape="rect" id="node35" href="$db/d95/a00391.html#add7a428b8b6cb0379cf1f2cd5f4c54c1" title="rocksdb::DBTest::Put" alt="" coords="403,304,552,333"/>
+<area shape="rect" id="node15" href="$de/d4e/a00972.html#aaf818024e7d2d5f6aa7dd19b6711d631" title="MergeBasedCounters::add" alt="" coords="625,67,801,96"/>
+<area shape="rect" id="node17" href="$de/d40/a01592.html#abe4e79261354600253dd63f19f19eb27" title="rocksdb::StringLists\l::Append" alt="" coords="644,119,783,166"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#a427b25417806c153b1d7cad902ec9ae5" title="rocksdb::TEST" alt="" coords="899,128,1008,157"/>
+<area shape="rect" id="node23" href="$d4/d21/a00987.html#a21e950d94ac928ac7b1d1ba6f3018017" title="rocksdb::ModelDB::Write" alt="" coords="629,189,797,219"/>
+<area shape="rect" id="node25" href="$d4/d87/a03436.html#a4e8b2803616c617002bd6812ef1af230" title="rocksdb::TEST" alt="" coords="899,189,1008,219"/>
+<area shape="rect" id="node29" href="$d8/d64/a00181.html#a03997e3f4e60726e27f582cf684aa33a" title="rocksdb::Benchmark::Run" alt="" coords="627,243,800,272"/>
+<area shape="rect" id="node31" href="$d9/d66/a02562.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="928,243,979,272"/>
+<area shape="rect" id="node37" href="$db/d95/a00391.html#a09218d973702b7be115bc4a65c0d97b9" title="rocksdb::DBTest::MakeTables" alt="" coords="613,300,813,329"/>
+<area shape="rect" id="node41" href="$d4/d87/a03436.html#ac01378f7c8c05426b6dfdeda9546473b" title="rocksdb::PrefixScanInit" alt="" coords="635,353,792,383"/>
+<area shape="rect" id="node39" href="$db/d95/a00391.html#af32d610cb80f870ed942c9ec7a053675" title="rocksdb::DBTest::FillLevels" alt="" coords="861,300,1045,329"/>
+<area shape="rect" id="node43" href="$d4/d87/a03436.html#aee7713706576484996cbcefb0317f874" title="rocksdb::TEST" alt="" coords="899,353,1008,383"/>
+</map>

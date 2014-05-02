@@ -1,0 +1,14 @@
+<map id="beast::InputStream::readNextLine" name="beast::InputStream::readNextLine">
+<area shape="rect" id="node3" href="$d1/d88/a01578.html#aeb5f78e5d0b0d955ed90a0c6c2a7908c" title="beast::String::fromUTF8" alt="" coords="187,5,349,35"/>
+<area shape="rect" id="node5" href="$da/d45/a00961.html#ad492ba4c9db3b015ac799cbfe500ef3c" title="beast::MemoryBlock\l::getData" alt="" coords="197,58,339,105"/>
+<area shape="rect" id="node7" href="$df/d96/a00714.html#a0f6ce6eac3caed9aa64b0f9f8957f695" title="beast::InputStream\l::getPosition" alt="" coords="201,127,335,174"/>
+<area shape="rect" id="node9" href="$da/d45/a00961.html#a8aa3eee25fc5d0599c960b705d5ddced" title="beast::MemoryBlock\l::getSize" alt="" coords="197,197,339,243"/>
+<area shape="rect" id="node11" href="$df/d96/a00714.html#ab2c8aaedaf9c135352ac67b8f6ce7df9" title="beast::InputStream\l::readByte" alt="" coords="201,266,335,313"/>
+<area shape="rect" id="node15" href="$df/d96/a00714.html#a71c2ed81548b462b5fb37a1033cfa111" title="beast::InputStream\l::setPosition" alt="" coords="201,335,335,382"/>
+<area shape="rect" id="node17" href="$da/d45/a00961.html#a3002ce7f1c8d761c53f49eebc14e1304" title="beast::MemoryBlock\l::setSize" alt="" coords="197,405,339,451"/>
+<area shape="rect" id="node13" href="$df/d96/a00714.html#ad7da4644c542ada52519049105cd12f4" title="beast::InputStream\l::read" alt="" coords="427,266,560,313"/>
+<area shape="rect" id="node19" href="$da/dc3/a00657.html#a3dfb0e90abd053c058fbab2c0daf0d29" title="beast::HeapBlock::allocate" alt="" coords="404,348,583,377"/>
+<area shape="rect" id="node21" href="$da/dc3/a00657.html#a30ec90ed39fa37e00a88c12157d918e0" title="beast::HeapBlock::free_up" alt="" coords="405,401,581,431"/>
+<area shape="rect" id="node23" href="$da/dc3/a00657.html#a3ceeecc08184f12fb672fda46848ce82" title="beast::HeapBlock::reallocate" alt="" coords="399,455,588,484"/>
+<area shape="rect" id="node25" href="$d5/d83/a03337.html#a38033e39afc004edcf6caa9fc9c5eb45" title="beast::zeromem" alt="" coords="436,508,551,537"/>
+</map>

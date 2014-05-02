@@ -1,0 +1,5 @@
+<map id="beast::OutputStream::writeFloatBigEndian" name="beast::OutputStream::writeFloatBigEndian">
+<area shape="rect" id="node3" href="$d4/d8a/a01062.html#acef722928ef1832f3449537acce67ace" title="beast::OutputStream\l::writeIntBigEndian" alt="" coords="201,39,343,86"/>
+<area shape="rect" id="node5" href="$d6/d08/a00244.html#ac4bab10972fc5ea6f84f567415380327" title="beast::ByteOrder::swapIf\lLittleEndian" alt="" coords="392,5,560,51"/>
+<area shape="rect" id="node7" href="$d4/d8a/a01062.html#a1d16f6512dbe0117be4c64107f73ade6" title="beast::OutputStream\l::write" alt="" coords="405,74,547,121"/>
+</map>

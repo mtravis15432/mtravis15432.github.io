@@ -1,0 +1,9 @@
+<map id="ripple::RippleAddress::accountPrivateSign" name="ripple::RippleAddress::accountPrivateSign">
+<area shape="rect" id="node3" href="$d4/d0e/a01272.html#a82e10e86c62e6a2b788cee0317ad6eaf" title="ripple::RippleAddress\l::getAccountPrivate" alt="" coords="225,5,372,51"/>
+<area shape="rect" id="node5" href="$dc/d5d/a00278.html#a0cff62f1b43b21c1707d4e876e09f468" title="ripple::CKey::SetPrivateKeyU" alt="" coords="201,75,396,104"/>
+<area shape="rect" id="node13" href="$dc/d5d/a00278.html#ab13845b493fe4bc5feb814ce46bf2d7b" title="ripple::CKey::Sign" alt="" coords="235,128,363,157"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="492,119,617,166"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="480,67,629,96"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="713,128,863,157"/>
+<area shape="rect" id="node16" href="$d9/d9d/a03417.html#aad794513ccd19a4ee8d56945d088d68c" title="ripple::makeCanonicalECDSASig" alt="" coords="447,189,663,219"/>
+</map>

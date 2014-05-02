@@ -1,0 +1,16 @@
+<map id="ripple::SOTemplate::peek" name="ripple::SOTemplate::peek">
+<area shape="rect" id="node3" href="$de/d1a/a01559.html#a51eb5192522d62ad2f29f0ac311da1f6" title="ripple::STObject::isValid\lForType" alt="" coords="193,139,356,186"/>
+<area shape="rect" id="node5" href="$de/d1a/a01559.html#a965eac719cefd6f8e66ac3b6c2e1122a" title="ripple::STObject::set" alt="" coords="204,209,345,239"/>
+<area shape="rect" id="node25" href="$de/d1a/a01559.html#a5bf8c0333a83f8e6454f682e6650d481" title="ripple::STObject::setType" alt="" coords="189,305,360,335"/>
+<area shape="rect" id="node7" href="$de/d1a/a01559.html#a2d7efcfef4dea1604e0eefb63ec3e169" title="ripple::STObject::deserialize" alt="" coords="409,83,596,112"/>
+<area shape="rect" id="node15" href="$dc/d54/a01344.html#a1429f819041332a1f7fad9ba2569a216" title="ripple::SerializedLedger\lEntry::SerializedLedgerEntry" alt="" coords="409,262,596,309"/>
+<area shape="rect" id="node19" href="$d9/de4/a01346.html#a03dff4ec70d0d1f8a16a2b0e09e9f172" title="ripple::SerializedTransaction\l::SerializedTransaction" alt="" coords="409,139,596,186"/>
+<area shape="rect" id="node23" href="$de/d1a/a01559.html#afd5fb29652897240b7bfae5bbd919fdf" title="ripple::STObject::STObject" alt="" coords="413,209,592,239"/>
+<area shape="rect" id="node9" href="$de/d1a/a01559.html#aa6261552072b04431424e4ee96a9081b" title="ripple::STObject::makeDeserialized\lObject" alt="" coords="647,5,873,51"/>
+<area shape="rect" id="node13" href="$d1/da7/a01709.html#a5982964760428b7b44fe361f26de76ed" title="ripple::TransactionMetaSet\l::TransactionMetaSet" alt="" coords="671,74,849,121"/>
+<area shape="rect" id="node11" href="$de/d1a/a01559.html#a6e4c27aedab5e7ad8921ccced42e39a7" title="ripple::STObject::set" alt="" coords="924,13,1065,43"/>
+<area shape="rect" id="node17" href="$dc/d54/a01344.html#a1af2315ff46883d5a5f1c5678477bec4" title="ripple::SerializedLedger\lEntry::duplicate" alt="" coords="681,262,839,309"/>
+<area shape="rect" id="node21" href="$d9/de4/a01346.html#aec940c2d148ee555757f1fc2cbb76db2" title="ripple::SerializedTransaction\l::duplicate" alt="" coords="667,143,853,190"/>
+<area shape="rect" id="node28" href="$d9/de4/a01346.html#ace9f4d60d9badbd63a52ca50b5639c9d" title="ripple::SerializedTransaction\l::SerializedTransaction" alt="" coords="409,331,596,378"/>
+<area shape="rect" id="node30" href="$de/d1a/a01559.html#ae9d6ab07f93599daf7e75d16b2666605" title="ripple::STObject::STObject" alt="" coords="413,401,592,431"/>
+</map>

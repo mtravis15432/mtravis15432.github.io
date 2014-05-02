@@ -1,0 +1,21 @@
+<map id="btreePageLookup" name="btreePageLookup">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#acce36127359eb4baec99dac6d630bd9d" title="clearCell" alt="" coords="308,85,380,115"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#a625a2c2bdaf95cdb3a7cb945201f7efb" title="freePage2" alt="" coords="177,137,257,167"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#aa6c6b68ed28d38984e5fa329794d7f02" title="sqlite3BtreeInsert" alt="" coords="840,59,963,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a65c40cd7ec987dbd25392a180f388fe7" title="sqlite3BtreeDelete" alt="" coords="837,5,965,35"/>
+<area shape="rect" id="node16" href="$da/d6b/a02352.html#aecc3046a56feeeabd3ca93c0685e35d5" title="clearDatabasePage" alt="" coords="429,111,565,140"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="1272,84,1392,113"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#a3f2872e873e2758a4beedad1d5113554" title="sqlite3Step" alt="" coords="1441,84,1527,113"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="1577,84,1668,113"/>
+<area shape="rect" id="node18" href="$da/d6b/a02352.html#ac2fcbee7dcc155d776ecf9d5151f3872" title="sqlite3BtreeClearTable" alt="" coords="613,164,768,193"/>
+<area shape="rect" id="node20" href="$da/d6b/a02352.html#abba4061ea34842db278e91f537d2c2ff" title="btreeDropTable" alt="" coords="847,265,956,295"/>
+<area shape="rect" id="node22" href="$da/d6b/a02352.html#a7b9a218bc08d8acfc94b74ea5c47eaa8" title="sqlite3BtreeDropTable" alt="" coords="1055,439,1204,468"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#ad98f5006fdec390948dd2966cf0cf12f" title="freePage" alt="" coords="307,139,381,168"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="439,164,556,193"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="657,111,724,140"/>
+<area shape="rect" id="node34" href="$d9/dc5/a01705.html#ab9fec10cf88fcd1212cff4c5b4c29d60" title="ripple::TransactionEngine\l::applyTransaction" alt="" coords="817,195,985,242"/>
+<area shape="rect" id="node36" href="$d7/d5f/a00831.html#ab7e28c2e989b04348c4e3f3c1ee67748" title="ripple::LedgerConsensusImp\l::applyTransaction" alt="" coords="1036,161,1223,207"/>
+<area shape="rect" id="node38" href="$d2/dc7/a00838.html#a739076ea26b960435bbc86ade3a10db6" title="ripple::LedgerMasterImp\l::closeLedger" alt="" coords="1048,230,1211,277"/>
+<area shape="rect" id="node40" href="$d2/dc7/a00838.html#ae6729570b88f82b20c29ae00271073d0" title="ripple::LedgerMasterImp\l::doTransaction" alt="" coords="1048,299,1211,346"/>
+<area shape="rect" id="node42" href="$de/d01/a00897.html#a9cc56d83fcfa5f599ac03c3c20be9073" title="ripple::LocalTxsImp\l::apply" alt="" coords="1061,369,1197,415"/>
+</map>

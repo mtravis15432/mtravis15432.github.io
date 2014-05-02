@@ -1,0 +1,5 @@
+<map id="sqlite3BtreeLeaveCursor" name="sqlite3BtreeLeaveCursor">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="220,5,345,35"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="396,5,521,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="572,5,705,35"/>
+</map>

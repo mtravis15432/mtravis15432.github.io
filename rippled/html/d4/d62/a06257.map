@@ -1,0 +1,25 @@
+<map id="beast::HTTPParser" name="beast::HTTPParser">
+<area shape="rect" id="node4" href="$d1/d87/a00689.html" title="beast::HTTPParserImpl" alt="" coords="2360,212,2520,241"/>
+<area shape="rect" id="node6" href="$d9/dc8/a01593.html" title="beast::StringPairArray" alt="" coords="1759,379,1908,408"/>
+<area shape="rect" id="node52" href="$df/d9e/a00686.html" title="beast::HTTPHeaders" alt="" coords="2095,391,2241,420"/>
+<area shape="rect" id="node10" href="$d9/d1b/a01583.html" title="beast::StringArray" alt="" coords="1505,371,1631,400"/>
+<area shape="rect" id="node14" href="$d4/d81/a00110.html" title="beast::Array\&lt; beast\l::String \&gt;" alt="" coords="1209,358,1345,405"/>
+<area shape="rect" id="node16" href="$dd/d6d/a00111.html" title="beast::ArrayAllocationBase\l\&lt; beast::String, DummyCriticalSection \&gt;" alt="" coords="843,367,1101,414"/>
+<area shape="rect" id="node18" href="$d4/d53/a00429.html" title="beast::DummyCriticalSection" alt="" coords="460,437,652,467"/>
+<area shape="rect" id="node20" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="251,445,381,475"/>
+<area shape="rect" id="node22" href="$da/dc3/a00657.html" title="beast::HeapBlock\&lt; beast\l::String \&gt;" alt="" coords="471,367,641,414"/>
+<area shape="rect" id="node49" href="$d9/d40/a01387.html" title="beast::SharedObject" alt="" coords="677,492,819,521"/>
+<area shape="rect" id="node25" href="$d1/d88/a01578.html" title="beast::String" alt="" coords="268,368,364,397"/>
+<area shape="rect" id="node27" href="$d5/d42/a00269.html" title="beast::CharPointer_UTF8" alt="" coords="5,368,176,397"/>
+<area shape="rect" id="node30" href="$d4/d4f/a00673.html" title="http_parser" alt="" coords="1791,152,1876,181"/>
+<area shape="rect" id="node36" href="$d6/da1/a00675.html" title="http_parser_settings" alt="" coords="2099,203,2237,232"/>
+<area shape="rect" id="node32" title="STL class. " alt="" coords="2128,16,2208,45"/>
+<area shape="rect" id="node34" title="STL class. " alt="" coords="1771,7,1896,54"/>
+<area shape="rect" id="node39" href="$d4/d82/a00436.html" title="beast::DynamicBuffer" alt="" coords="2093,272,2243,301"/>
+<area shape="rect" id="node47" href="$df/d1b/a00687.html" title="beast::HTTPMessage" alt="" coords="2365,391,2515,420"/>
+<area shape="rect" id="node43" href="$d0/d36/a01388.html" title="beast::SharedPtr\&lt; beast\l::HTTPResponse \&gt;" alt="" coords="2948,382,3111,429"/>
+<area shape="rect" id="node45" href="$d3/dd2/a00693.html" title="beast::HTTPResponse" alt="" coords="2591,391,2745,420"/>
+<area shape="rect" id="node60" href="$da/dd4/a00690.html" title="beast::HTTPRequest" alt="" coords="2595,333,2741,363"/>
+<area shape="rect" id="node55" href="$d5/d5b/a00695.html" title="beast::HTTPVersion" alt="" coords="2097,444,2239,473"/>
+<area shape="rect" id="node58" href="$d0/d36/a01388.html" title="beast::SharedPtr\&lt; beast\l::HTTPRequest \&gt;" alt="" coords="2948,313,3111,359"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rocksdb::DBImpl::CheckWalFileExistsAndEmpty" name="rocksdb::DBImpl::CheckWalFileExistsAndEmpty">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#ae2353d93f3d1d9aaff4f7373f738fdc6" title="rocksdb::ArchivedLogFileName" alt="" coords="244,5,447,35"/>
+<area shape="rect" id="node7" href="$db/db1/a00460.html#afe49e988676094b54312ada4f927a26d" title="rocksdb::Env::GetFileSize" alt="" coords="259,59,432,88"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#ad2e1157820fce4ccbfc1846e12be2477" title="rocksdb::LogFileName" alt="" coords="269,112,421,141"/>
+<area shape="rect" id="node12" href="$d0/db9/a01552.html#a63cba37f62403ccc2f3e8b0b8ee04425" title="rocksdb::Status::ok" alt="" coords="277,165,413,195"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a645cac7eafed2fae5df45e8483f8fbaf" title="rocksdb::MakeFileName" alt="" coords="497,59,660,88"/>
+</map>

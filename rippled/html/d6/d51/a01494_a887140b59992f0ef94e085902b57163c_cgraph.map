@@ -1,0 +1,19 @@
+<map id="ripple::STAmount_test::testRounding" name="ripple::STAmount_test::testRounding">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#aa8f63e78109a5929ea07fddee20833a8" title="ripple::STAmount::addRound" alt="" coords="207,177,396,207"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#ab683af712f5bfcfa66c66f09f5a8399a" title="ripple::STAmount::canonicalize\lRound" alt="" coords="461,58,664,105"/>
+<area shape="rect" id="node18" href="$d2/d41/a01493.html#a547cf5be1bf2fdd7f7cd4cc076d77196" title="ripple::STAmount::divide" alt="" coords="219,427,384,456"/>
+<area shape="rect" id="node31" href="$d2/d41/a01493.html#a5a04a9b52239427b2faf80438dcda832" title="ripple::STAmount::divRound" alt="" coords="208,373,395,403"/>
+<area shape="rect" id="node41" href="$d2/d41/a01493.html#a789b3ee5edaf69eb840e57b4c7fc395e" title="ripple::STAmount::mulRound" alt="" coords="207,267,396,296"/>
+<area shape="rect" id="node52" href="$d2/d41/a01493.html#a12cf6e60ed96232c0595ebe39a7c65ac" title="ripple::STAmount::multiply" alt="" coords="213,320,389,349"/>
+<area shape="rect" id="node7" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="489,127,636,174"/>
+<area shape="rect" id="node9" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="463,197,663,227"/>
+<area shape="rect" id="node11" href="$d2/d41/a01493.html#abd4fd82bc6fbef164e509b1436722aea" title="ripple::STAmount::STAmount" alt="" coords="467,251,659,280"/>
+<area shape="rect" id="node13" href="$d2/d41/a01493.html#ab0b901062f0b7e67b0832d0601cd665e" title="ripple::STAmount::throwComparable" alt="" coords="447,5,679,35"/>
+<area shape="rect" id="node15" href="$d2/d41/a01493.html#a3cf020f0636f8cbc302a6261b9145c11" title="ripple::STAmount::isComparable" alt="" coords="728,5,939,35"/>
+<area shape="rect" id="node20" href="$d9/d9d/a03417.html#a6a718ea1b5de0444d1c41e60dc800640" title="ripple::BN_add_word64" alt="" coords="484,373,641,403"/>
+<area shape="rect" id="node22" href="$d9/d9d/a03417.html#a6695464b272d36f5cf768f472395d2f7" title="ripple::BN_div_word64" alt="" coords="487,427,639,456"/>
+<area shape="rect" id="node24" href="$d9/d9d/a03417.html#a3f8ae51567332338f0bc009416f7fb6c" title="ripple::BN_mul_word64" alt="" coords="484,480,641,509"/>
+<area shape="rect" id="node26" href="$d7/d2f/a00258.html#aa953d5910038dd334c8ff41d856bc4dd" title="ripple::CBigNum::getuint64" alt="" coords="473,533,652,563"/>
+<area shape="rect" id="node28" href="$d7/d2f/a00258.html#a89d1765e542c2a44a13f2470add46cbe" title="ripple::CBigNum::getulong" alt="" coords="747,533,920,563"/>
+<area shape="rect" id="node38" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="500,303,625,350"/>
+</map>

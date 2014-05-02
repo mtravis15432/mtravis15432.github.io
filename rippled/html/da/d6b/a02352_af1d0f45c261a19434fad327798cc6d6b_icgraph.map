@@ -1,0 +1,7 @@
+<map id="setResultStrOrError" name="setResultStrOrError">
+<area shape="rect" id="node3" href="$d1/db9/a02353.html#aa37a7968d2cc1824ff30313c9d2a8b3c" title="sqlite3_result_blob" alt="" coords="205,5,336,35"/>
+<area shape="rect" id="node5" href="$d1/db9/a02353.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="207,59,335,88"/>
+<area shape="rect" id="node7" href="$d1/db9/a02353.html#af7d06a8a5c730d8d76a81994efd24741" title="sqlite3_result_text16" alt="" coords="200,112,341,141"/>
+<area shape="rect" id="node9" href="$d1/db9/a02353.html#a2d7956a1e23f09dd309c3f08539b6361" title="sqlite3_result_text16be" alt="" coords="193,165,348,195"/>
+<area shape="rect" id="node11" href="$d1/db9/a02353.html#ae5cc54e4d40fcfad204fa09323a3cd20" title="sqlite3_result_text16le" alt="" coords="195,219,347,248"/>
+</map>

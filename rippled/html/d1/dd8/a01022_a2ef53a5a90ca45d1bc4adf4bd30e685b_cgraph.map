@@ -1,0 +1,22 @@
+<map id="ripple::NodeStore::NodeStoreBasic_test::testBatches" name="ripple::NodeStore::NodeStoreBasic_test::testBatches">
+<area shape="rect" id="node3" href="$d4/dd4/a01659.html#a267dea3178f1f0ef8d67b59a10f14f1d" title="ripple::NodeStore::\lTestBase::areBatchesEqual" alt="" coords="201,139,385,186"/>
+<area shape="rect" id="node5" href="$d4/dd4/a01659.html#a248ad23fcdf22f13f348c8909a51eee5" title="ripple::NodeStore::\lTestBase::createPredictable\lBatch" alt="" coords="200,209,387,273"/>
+<area shape="rect" id="node22" href="$db/dfd/a01608.html#a1b888660b6ebcdd2e0c0a9685051c05a" title="beast::unit_test::suite\l::expect" alt="" coords="220,357,367,403"/>
+<area shape="rect" id="node43" href="$db/dfd/a01608.html#a02554fbd9200fc71efa03e2cf3430424" title="beast::unit_test::suite\l::testcase" alt="" coords="456,287,603,334"/>
+<area shape="rect" id="node7" href="$db/d1e/a01126.html#a7683df6659c096f75cd8d6b514964e90" title="ripple::NodeStore::\lTestBase::PredictableObject\lFactory::createObject" alt="" coords="435,141,624,205"/>
+<area shape="rect" id="node9" href="$d9/d42/a01156.html#aaa7eba6653fb57c634ecfefff0e3de33" title="beast::Random::nextInt" alt="" coords="937,156,1095,185"/>
+<area shape="rect" id="node11" href="$d9/d42/a01156.html#a3039be8c82aa091135707dc40a8563bd" title="beast::Random::fillBitsRandomly" alt="" coords="673,75,887,104"/>
+<area shape="rect" id="node14" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="717,5,843,51"/>
+<area shape="rect" id="node18" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="705,128,855,157"/>
+<area shape="rect" id="node20" href="$d0/d43/a01020.html#a7810a7050fac630eccde0fb9c7b68d87" title="ripple::NodeObject\l::createObject" alt="" coords="715,181,845,227"/>
+<area shape="rect" id="node16" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="941,13,1091,43"/>
+<area shape="rect" id="node24" href="$db/dfd/a01608.html#a12ac06a598408212221270d1d8cbdd4e" title="beast::unit_test::suite\l::fail" alt="" coords="456,357,603,403"/>
+<area shape="rect" id="node36" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="456,426,603,473"/>
+<area shape="rect" id="node26" href="$d2/d4c/a01307.html#a03beb6cc1779c37cff6bceae09ed58c9" title="beast::unit_test::runner\l::fail" alt="" coords="703,357,857,403"/>
+<area shape="rect" id="node28" href="$d2/d4c/a01307.html#a2f8f5589364be61d71c81817dbd20e92" title="beast::unit_test::runner\l::on_fail" alt="" coords="939,361,1093,407"/>
+<area shape="rect" id="node30" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="939,291,1093,338"/>
+<area shape="rect" id="node32" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="1145,257,1300,303"/>
+<area shape="rect" id="node34" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="1145,326,1300,373"/>
+<area shape="rect" id="node38" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="703,426,857,473"/>
+<area shape="rect" id="node40" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="939,430,1093,477"/>
+</map>

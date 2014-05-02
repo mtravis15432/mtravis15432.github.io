@@ -1,0 +1,8 @@
+<map id="rocksdb::TransactionLogIteratorImpl::IsBatchExpected" name="rocksdb::TransactionLogIteratorImpl::IsBatchExpected">
+<area shape="rect" id="node3" href="$dd/df5/a00386.html#af639734e3275f01b80d8ef8702450dfe" title="rocksdb::DBImpl::GetLatest\lSequenceNumber" alt="" coords="263,5,447,51"/>
+<area shape="rect" id="node5" href="$d6/d66/a00916.html#af7c2444a0f7a42771584e307c548fdd1" title="rocksdb::LogReporter\l::Info" alt="" coords="281,74,428,121"/>
+<area shape="rect" id="node9" href="$da/d8c/a01845.html#a46b10bbe30119a1a8669a0bf82f9fd44" title="rocksdb::WriteBatchInternal\l::Sequence" alt="" coords="263,143,447,190"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="532,83,628,112"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a0bb1082c7c473bb0c6614963a14fed62" title="rocksdb::DecodeFixed64" alt="" coords="497,152,663,181"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="713,152,879,181"/>
+</map>

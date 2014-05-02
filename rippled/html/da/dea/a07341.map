@@ -1,0 +1,5 @@
+<map id="ripple::Ledger" name="ripple::Ledger">
+<area shape="rect" id="node4" href="$dc/d1b/a00827.html" title="ripple::LedgerBase" alt="" coords="260,75,391,104"/>
+<area shape="rect" id="node6" href="$d7/dfc/a00349.html" title="ripple::CountedObject\l\&lt; Ledger \&gt;" alt="" coords="252,127,399,174"/>
+<area shape="rect" id="node10" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="260,197,391,227"/>
+</map>

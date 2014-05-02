@@ -1,0 +1,7 @@
+<map id="AutoSocket::handle_autodetect" name="AutoSocket::handle_autodetect">
+<area shape="rect" id="node3" href="$d3/dd1/a00914.html#a58364999220ca1c7d7cd1736f1878720" title="ripple::LogPartition\l::doLog" alt="" coords="189,39,320,86"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#a437c68f3299fa632d4a1694059fd6ddb" title="rocksdb::Log" alt="" coords="207,109,303,139"/>
+<area shape="rect" id="node5" href="$d3/dd1/a00914.html#a4b896072212bac657fdf04d079637c63" title="ripple::LogPartition\l::getSeverity" alt="" coords="368,39,499,86"/>
+<area shape="rect" id="node7" href="$d3/dd1/a00914.html#a854c38652300a6c11a83b86ffff8efa6" title="ripple::LogPartition\l::convertSeverity" alt="" coords="551,5,681,51"/>
+<area shape="rect" id="node9" href="$df/d84/a01408.html#a6ababc2ca5503cdb27710c98d82f5e27" title="beast::Journal::Sink\l::severity" alt="" coords="547,74,685,121"/>
+</map>

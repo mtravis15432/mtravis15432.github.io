@@ -1,0 +1,4 @@
+<map id="rocksdb::BlockBuilder::EstimateSizeAfterKV" name="rocksdb::BlockBuilder::EstimateSizeAfterKV">
+<area shape="rect" id="node3" href="$d2/d50/a00561.html#adf46d219a988c255c98dbb9a35af8bf5" title="rocksdb::FlushBlockBySize\lPolicy::BlockAlmostFull" alt="" coords="209,5,391,51"/>
+<area shape="rect" id="node5" href="$d2/d50/a00561.html#a5bfa0317d2f3c09646090763462fe4fc" title="rocksdb::FlushBlockBySize\lPolicy::Update" alt="" coords="441,5,623,51"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ripple::Resource::Entry" name="ripple::Resource::Entry">
+<area shape="rect" id="node2" href="$d3/d50/a00882.html" title="beast::List\&lt;Entry\&gt;\l::Node" alt="" coords="741,63,872,110"/>
+<area shape="rect" id="node4" href="$d3/d50/a00882.html" title="beast::detail::ListNode\l\&lt; T, Tag \&gt;" alt="" coords="465,63,617,110"/>
+<area shape="rect" id="node7" href="$d9/da1/a00396.html" title="ripple::DecayingSample\l\&lt; decayWindowSeconds \&gt;" alt="" coords="717,133,896,179"/>
+<area shape="rect" id="node9" href="$d0/da2/a00796.html" title="ripple::Resource::Key" alt="" coords="733,203,880,232"/>
+<area shape="rect" id="node11" href="$da/dc3/a00453.html" title="beast::IP::Endpoint" alt="" coords="475,176,608,205"/>
+<area shape="rect" id="node13" href="$de/de1/a00065.html" title="beast::IP::Address" alt="" coords="237,171,368,200"/>
+<area shape="rect" id="node15" href="$d9/db3/a00066.html" title="beast::IP::AddressV4" alt="" coords="5,144,152,173"/>
+<area shape="rect" id="node17" href="$dc/ddf/a00067.html" title="beast::IP::AddressV6" alt="" coords="5,197,152,227"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="501,231,581,260"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="240,223,365,270"/>
+</map>

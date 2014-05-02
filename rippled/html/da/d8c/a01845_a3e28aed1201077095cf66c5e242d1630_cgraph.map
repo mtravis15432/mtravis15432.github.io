@@ -1,0 +1,5 @@
+<map id="rocksdb::WriteBatchInternal::Append" name="rocksdb::WriteBatchInternal::Append">
+<area shape="rect" id="node3" href="$d2/dbd/a01844.html#aab1bed53a5b803c151374a4a0788257a" title="rocksdb::WriteBatch\l::Count" alt="" coords="237,5,379,51"/>
+<area shape="rect" id="node5" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="427,5,611,51"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="660,13,825,43"/>
+</map>

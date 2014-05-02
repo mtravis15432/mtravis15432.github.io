@@ -1,0 +1,11 @@
+<map id="ripple::RPCHandler::doUnlLoad" name="ripple::RPCHandler::doUnlLoad">
+<area shape="rect" id="node3" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="216,13,317,43"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="208,67,325,96"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#ae79b884a8270ef8039ba9e256eeaf6c2" title="ripple::Application\l::getUNL" alt="" coords="204,119,329,166"/>
+<area shape="rect" id="node11" href="$d0/d78/a01745.html#a9fb35855ef4263c98b4e73459b8ee7e1" title="ripple::UniqueNodeList\l::nodeLoad" alt="" coords="189,189,344,235"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#ab114d40490d1a6a0ab2fa6053167d461" title="ripple::rpcError" alt="" coords="213,259,320,288"/>
+<area shape="rect" id="node5" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="393,5,569,51"/>
+<area shape="rect" id="node15" href="$d2/d9b/a03429.html#ac4c846c6043b4afa966f4f35790fe303" title="ripple::RPC::inject\l_error" alt="" coords="417,250,545,297"/>
+<area shape="rect" id="node17" href="$d2/d9b/a03429.html#aa6dc5b7a225869afb02c82d035352e7d" title="ripple::RPC::get_error_info" alt="" coords="620,259,796,288"/>
+<area shape="rect" id="node19" href="$dc/d8e/a00473.html#aec1914e37aa6e639af71985d7abfb52f" title="ripple::RPC::detail\l::ErrorCategory::get" alt="" coords="847,250,983,297"/>
+</map>

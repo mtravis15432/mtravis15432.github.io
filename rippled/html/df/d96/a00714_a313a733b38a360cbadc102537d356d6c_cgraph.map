@@ -1,0 +1,6 @@
+<map id="beast::InputStream::readFloat" name="beast::InputStream::readFloat">
+<area shape="rect" id="node3" href="$df/d96/a00714.html#a72861ed1b420c1f132099a3f39219a46" title="beast::InputStream\l::readInt" alt="" coords="187,39,320,86"/>
+<area shape="rect" id="node5" href="$df/d96/a00714.html#ad7da4644c542ada52519049105cd12f4" title="beast::InputStream\l::read" alt="" coords="379,5,512,51"/>
+<area shape="rect" id="node7" href="$d6/d08/a00244.html#a2ac5be536f88083c8f3f68269f6e6199" title="beast::ByteOrder::little\lEndianInt" alt="" coords="369,74,521,121"/>
+<area shape="rect" id="node9" href="$d6/d08/a00244.html#a1a93d1392f8b87ebc9289e0088187962" title="beast::ByteOrder::swap" alt="" coords="571,83,731,112"/>
+</map>

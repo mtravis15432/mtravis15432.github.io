@@ -1,0 +1,9 @@
+<map id="beast::RegistryKeyWrapper::RegistryKeyWrapper" name="beast::RegistryKeyWrapper::RegistryKeyWrapper">
+<area shape="rect" id="node3" href="$d1/d88/a01578.html#ab94a63b1fae34d770e550154a5a65b25" title="beast::String::indexOfChar" alt="" coords="239,5,415,35"/>
+<area shape="rect" id="node5" href="$d1/d88/a01578.html#ac964e99361851027f5df041e2ff21084" title="beast::String::lastIndex\lOfChar" alt="" coords="248,58,405,105"/>
+<area shape="rect" id="node11" href="$d1/d88/a01578.html#a8dd0929dc99d5a75d0df374a2f9ce952" title="beast::String::startsWith\lIgnoreCase" alt="" coords="245,127,408,174"/>
+<area shape="rect" id="node13" href="$d1/d88/a01578.html#a51b6c08a63652de5e8c66517483fa2b9" title="beast::String::substring" alt="" coords="248,197,405,227"/>
+<area shape="rect" id="node16" href="$d1/d88/a01578.html#aca5ef8a717c8aa073bfcbafb3743c021" title="beast::String::toWideChar\lPointer" alt="" coords="240,250,413,297"/>
+<area shape="rect" id="node7" href="$d5/d42/a00269.html#a665d6b2f54c42bdf3c05f99661d68d58" title="beast::CharPointer\l_UTF8::getAndAdvance" alt="" coords="464,58,627,105"/>
+<area shape="rect" id="node9" href="$d5/d42/a00269.html#a2779ed9a31d09e471aebdd29de54fec8" title="beast::CharPointer\l_UTF8::isEmpty" alt="" coords="480,158,611,205"/>
+</map>

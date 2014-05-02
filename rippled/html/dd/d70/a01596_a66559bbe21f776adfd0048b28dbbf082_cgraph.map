@@ -1,0 +1,8 @@
+<map id="rocksdb::log::LogTest::StringSource::Read" name="rocksdb::log::LogTest::StringSource::Read">
+<area shape="rect" id="node3" href="$d0/db9/a01552.html#a585d7fbcadd8858734f534519290035d" title="rocksdb::Status::Corruption" alt="" coords="204,5,385,35"/>
+<area shape="rect" id="node7" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="225,59,364,88"/>
+<area shape="rect" id="node9" href="$d0/db9/a01552.html#aceb84d55ae3b6bccf2a925433ca1ae00" title="rocksdb::Status::OK" alt="" coords="224,112,365,141"/>
+<area shape="rect" id="node12" href="$de/daf/a01417.html#ac03632091b9078ec551ffd58d3372f6b" title="rocksdb::Slice::remove\l_prefix" alt="" coords="217,165,372,211"/>
+<area shape="rect" id="node14" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="447,203,583,232"/>
+<area shape="rect" id="node5" href="$d0/db9/a01552.html#afcc875b53756534a635212b3d8f43864" title="rocksdb::Status::Status" alt="" coords="435,59,595,88"/>
+</map>

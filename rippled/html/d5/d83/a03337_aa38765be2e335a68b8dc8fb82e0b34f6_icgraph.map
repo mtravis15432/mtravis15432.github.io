@@ -1,0 +1,9 @@
+<map id="beast::getCPUInformation" name="beast::getCPUInformation">
+<area shape="rect" id="node3" href="$dd/dda/a01621.html#a8001d1424e3303e9faa43f08ee3d4f86" title="beast::SystemStats\l::getNumCpus" alt="" coords="229,5,368,51"/>
+<area shape="rect" id="node7" href="$dd/dda/a01621.html#ad052b0f7c72d516d2fcb746cac1282ac" title="beast::SystemStats\l::has3DNow" alt="" coords="229,74,368,121"/>
+<area shape="rect" id="node9" href="$dd/dda/a01621.html#af276833290cc56227f200a9d82a0fc5f" title="beast::SystemStats\l::hasMMX" alt="" coords="229,143,368,190"/>
+<area shape="rect" id="node11" href="$dd/dda/a01621.html#a7fb948576256b69db6e952122aba63b2" title="beast::SystemStats\l::hasSSE" alt="" coords="229,213,368,259"/>
+<area shape="rect" id="node13" href="$dd/dda/a01621.html#a125fc9cffa0e3cd01bc5c1aa21cbb48e" title="beast::SystemStats\l::hasSSE2" alt="" coords="229,282,368,329"/>
+<area shape="rect" id="node15" href="$dd/dda/a01621.html#a2e4465b70862ad2f3a33148ebe0d52c1" title="beast::SystemStats\l::hasSSE3" alt="" coords="229,351,368,398"/>
+<area shape="rect" id="node5" href="$d9/d00/a00784.html#a026a2c4342620edab064ae9624f31712" title="ripple::JobQueueImp\l::setThreadCount" alt="" coords="417,5,559,51"/>
+</map>

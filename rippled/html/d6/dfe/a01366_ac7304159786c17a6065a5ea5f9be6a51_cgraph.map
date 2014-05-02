@@ -1,0 +1,18 @@
+<map id="ripple::SHAMap::getNodePointer" name="ripple::SHAMap::getNodePointer">
+<area shape="rect" id="node3" href="$d2/d29/a01376.html#a44658fad4f17cd9cdf0f53d494e94e2e" title="ripple::SHAMapTreeNode\l::getChildHash" alt="" coords="267,5,437,51"/>
+<area shape="rect" id="node5" href="$df/d0b/a01372.html#a8f51c844496d936607d65fe24f37e892" title="ripple::SHAMapNode\l::getChildNodeID" alt="" coords="280,74,424,121"/>
+<area shape="rect" id="node13" href="$df/d0b/a01372.html#a4f1066002c946341252cced06ad46ef3" title="ripple::SHAMapNode\l::getNodeID" alt="" coords="280,143,424,190"/>
+<area shape="rect" id="node15" href="$d2/d29/a01376.html#a93890c731f643c17964c498d9913dace" title="ripple::SHAMapTreeNode\l::isEmptyBranch" alt="" coords="267,213,437,259"/>
+<area shape="rect" id="node17" href="$d2/d29/a01376.html#ada431797392ac1e4b220eca0ab18635d" title="ripple::SHAMapTreeNode\l::isLeaf" alt="" coords="267,282,437,329"/>
+<area shape="rect" id="node19" href="$df/d0b/a01372.html#a7bb879c98a7e8934ceb5f4e5cd0db877" title="ripple::SHAMapNode\l::selectBranch" alt="" coords="280,351,424,398"/>
+<area shape="rect" id="node35" href="$d2/d29/a01376.html#a85ca5f3f510c7c3cc01f68ae3babb6cc" title="ripple::SHAMapTreeNode\l::touch" alt="" coords="267,421,437,467"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="865,257,991,303"/>
+<area shape="rect" id="node11" href="$df/d0b/a01372.html#a5f0a2e2b69e024fe1e0162d8cc31e426" title="ripple::SHAMapNode\l::SHAMapNode" alt="" coords="487,134,631,181"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1052,265,1201,295"/>
+<area shape="rect" id="node21" href="$df/d0b/a01372.html#ad1d8828e92370ef3574decc0e6cc64f1" title="ripple::SHAMapNode\l::getString" alt="" coords="487,351,631,398"/>
+<area shape="rect" id="node23" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="680,317,805,363"/>
+<area shape="rect" id="node25" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="680,386,805,433"/>
+<area shape="rect" id="node28" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="853,368,1003,397"/>
+<area shape="rect" id="node30" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="879,421,977,451"/>
+<area shape="rect" id="node32" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="1072,421,1181,451"/>
+</map>

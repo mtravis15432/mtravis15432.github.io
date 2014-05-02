@@ -1,0 +1,6 @@
+<map id="ripple::operator+" name="ripple::operator+">
+<area shape="rect" id="node3" href="$d7/d57/a01348.html#a79472b7634153a0478119634c9e82d7e" title="ripple::SerializedType\l::getFName" alt="" coords="215,5,361,51"/>
+<area shape="rect" id="node5" href="$d2/d41/a01493.html#a70bbf21b0b886f5b8739293022a3c3e3" title="ripple::STAmount::getSNValue" alt="" coords="188,75,388,104"/>
+<area shape="rect" id="node7" href="$d2/d41/a01493.html#ab0b901062f0b7e67b0832d0601cd665e" title="ripple::STAmount::throwComparable" alt="" coords="172,128,404,157"/>
+<area shape="rect" id="node9" href="$d2/d41/a01493.html#a3cf020f0636f8cbc302a6261b9145c11" title="ripple::STAmount::isComparable" alt="" coords="453,128,664,157"/>
+</map>

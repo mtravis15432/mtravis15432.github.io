@@ -1,0 +1,12 @@
+<map id="rippled/src/ripple/rocksdb/rocksdb/utilities/merge_operators.h" name="rippled/src/ripple/rocksdb/rocksdb/utilities/merge_operators.h">
+<area shape="rect" id="node3" href="$d9/d66/a02562.html" title="rippled/src/ripple\l/rocksdb/rocksdb/db\l/db_bench.cc" alt="" coords="5,127,144,191"/>
+<area shape="rect" id="node5" href="$d9/de7/a02572.html" title="rippled/src/ripple\l/rocksdb/rocksdb/db\l/db_test.cc" alt="" coords="168,127,307,191"/>
+<area shape="rect" id="node7" href="$d6/dfc/a02593.html" title="rippled/src/ripple\l/rocksdb/rocksdb/db\l/merge_test.cc" alt="" coords="331,127,469,191"/>
+<area shape="rect" id="node9" href="$da/d37/a02598.html" title="rippled/src/ripple\l/rocksdb/rocksdb/db\l/simple_table_db_test.cc" alt="" coords="493,127,659,191"/>
+<area shape="rect" id="node11" href="$d6/d50/a02694.html" title="rippled/src/ripple\l/rocksdb/rocksdb/tools\l/db_stress.cc" alt="" coords="683,127,837,191"/>
+<area shape="rect" id="node13" href="$df/d91/a02774.html" title="rippled/src/ripple\l/rocksdb/rocksdb/utilities\l/merge_operators/put.cc" alt="" coords="861,127,1027,191"/>
+<area shape="rect" id="node15" href="$d4/d72/a02775.html" title="rippled/src/ripple\l/rocksdb/rocksdb/utilities\l/merge_operators/string\l_append/stringappend.cc" alt="" coords="1051,118,1216,199"/>
+<area shape="rect" id="node17" href="$d5/db0/a02777.html" title="rippled/src/ripple\l/rocksdb/rocksdb/utilities\l/merge_operators/string\l_append/stringappend2.cc" alt="" coords="1240,118,1413,199"/>
+<area shape="rect" id="node19" href="$dc/d6a/a02779.html" title="rippled/src/ripple\l/rocksdb/rocksdb/utilities\l/merge_operators/string\l_append/stringappend_test.cc" alt="" coords="1437,118,1632,199"/>
+<area shape="rect" id="node21" href="$df/de4/a02780.html" title="rippled/src/ripple\l/rocksdb/rocksdb/utilities\l/merge_operators/uint64add.cc" alt="" coords="1656,127,1856,191"/>
+</map>

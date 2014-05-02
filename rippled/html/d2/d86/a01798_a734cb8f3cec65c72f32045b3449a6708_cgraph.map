@@ -1,0 +1,7 @@
+<map id="rocksdb::VersionEdit::GetLevel" name="rocksdb::VersionEdit::GetLevel">
+<area shape="rect" id="node3" href="$d4/d87/a03436.html#ad2427e2124d28ef6468f035303fcb22d" title="rocksdb::GetVarint32" alt="" coords="199,59,343,88"/>
+<area shape="rect" id="node5" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="404,5,543,35"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#ad725181422bf6cf312bbea4b0b3c9d8c" title="rocksdb::GetVarint32Ptr" alt="" coords="392,59,555,88"/>
+<area shape="rect" id="node11" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="405,112,541,141"/>
+<area shape="rect" id="node9" href="$d4/d87/a03436.html#ab1d1f511057be322e0d7b0d7ef489a14" title="rocksdb::GetVarint32PtrFallback" alt="" coords="603,59,813,88"/>
+</map>

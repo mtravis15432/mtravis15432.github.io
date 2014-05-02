@@ -1,0 +1,14 @@
+<map id="beast::asio::HTTPClientType" name="beast::asio::HTTPClientType">
+<area shape="rect" id="node2" href="$d8/dba/a00681.html" title="beast::asio::HTTPClientBase" alt="" coords="841,5,1033,35"/>
+<area shape="rect" id="node4" href="$d1/d04/a01744.html" title="beast::Uncopyable" alt="" coords="5,240,136,269"/>
+<area shape="rect" id="node6" href="$d7/dde/a01384.html" title="beast::SharedData\&lt;\l State \&gt;" alt="" coords="868,169,1007,215"/>
+<area shape="rect" id="node15" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lWaiter \&gt;" alt="" coords="191,311,340,375"/>
+<area shape="rect" id="node18" href="$d5/d69/a00878.html" title="beast::List\&lt; beast\l::ServiceQueueBase::\lItem \&gt;" alt="" coords="191,223,340,287"/>
+<area shape="rect" id="node21" href="$d7/d02/a01808.html" title="beast::WaitableEvent" alt="" coords="368,383,515,412"/>
+<area shape="rect" id="node9" href="$d3/deb/a01386.html" title="beast::SharedMutexAdapter\l\&lt; RecursiveMutex \&gt;" alt="" coords="539,109,723,155"/>
+<area shape="rect" id="node11" href="$d8/d8e/a01224.html" title="beast::RecursiveMutex" alt="" coords="187,117,344,147"/>
+<area shape="rect" id="node13" href="$dc/d96/a01517.html" title="beast::ServiceQueueBase\l::State" alt="" coords="544,229,717,275"/>
+<area shape="rect" id="node24" href="$df/d0c/a00788.html" title="beast::Journal" alt="" coords="885,432,989,461"/>
+<area shape="rect" id="node26" href="$df/d84/a01408.html" title="beast::Journal::Sink" alt="" coords="196,465,335,495"/>
+<area shape="rect" id="node28" href="$d4/d2c/a01575.html" title="beast::Journal::Stream" alt="" coords="553,425,708,455"/>
+</map>

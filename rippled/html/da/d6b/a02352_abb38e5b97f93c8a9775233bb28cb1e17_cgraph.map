@@ -1,0 +1,15 @@
+<map id="analysisLoader" name="analysisLoader">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a847b06d69711842c8119e2213006faa7" title="decodeIntArray" alt="" coords="188,85,297,115"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#a79fb99db8d0f914bb72dd374ae088512" title="sqlite3FindIndex" alt="" coords="184,165,301,195"/>
+<area shape="rect" id="node25" href="$da/d6b/a02352.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="184,219,301,248"/>
+<area shape="rect" id="node29" href="$da/d6b/a02352.html#af6edde3fbbd22a22b86ad32677fad95b" title="sqlite3PrimaryKeyIndex" alt="" coords="163,272,323,301"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a15e4bdff3e3cd06c68de326d03f4aa37" title="sqlite3_strglob" alt="" coords="376,5,483,35"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="375,59,484,88"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a14c7d015bfd3d4a869739b9e6139c84f" title="sqlite3LogEst" alt="" coords="379,112,480,141"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#aefc4c0df27b623bc367525cd7f5b0eb0" title="patternCompare" alt="" coords="557,5,672,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#ae25f70650fcf02236868220f5ebd2d79" title="sqlite3Utf8Read" alt="" coords="743,5,857,35"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="376,219,483,248"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#a1bb83282c04c104ba033c3f5eb9556d2" title="sqlite3HashFind" alt="" coords="372,165,487,195"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#a28fb46fe75615ecc3ba2ff3172c09048" title="strHash" alt="" coords="581,192,648,221"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#acd222b7539c14ad3f6d59cd6496c3865" title="findElementGivenHash" alt="" coords="537,139,692,168"/>
+</map>

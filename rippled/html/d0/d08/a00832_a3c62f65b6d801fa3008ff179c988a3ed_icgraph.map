@@ -1,0 +1,10 @@
+<map id="ripple::LedgerEntrySet::getNextLedgerIndex" name="ripple::LedgerEntrySet::getNextLedgerIndex">
+<area shape="rect" id="node3" href="$d0/d08/a00832.html#a079ee134ff1f1599b88a5f5710312309" title="ripple::LedgerEntrySet\l::getNextLedgerIndex" alt="" coords="207,39,356,86"/>
+<area shape="rect" id="node5" href="$df/d24/a00217.html#aa2f2ded379961e8d2e8947d6d6d03123" title="ripple::BookDirIterator\l::nextDirectory" alt="" coords="207,109,356,155"/>
+<area shape="rect" id="node7" href="$df/d24/a00217.html#aaba051501ec98f2cc5f67d7ed76dcf15" title="ripple::BookDirIterator\l::firstDirectory" alt="" coords="413,5,563,51"/>
+<area shape="rect" id="node11" href="$df/d24/a00217.html#a4259545e98eb6d2dc5bcd95f0dbd1b69" title="ripple::BookDirIterator\l::resync" alt="" coords="413,143,563,190"/>
+<area shape="rect" id="node15" href="$d0/d90/a01059.html#a540d0058d3c202a4f5b178de8efa19f7" title="ripple::OrderBookIterator\l::nextOffer" alt="" coords="407,74,569,121"/>
+<area shape="rect" id="node19" href="$d0/d90/a01059.html#ae0cc25067ea5841c19ddc0d51ddfc675" title="ripple::OrderBookIterator\l::nextDir" alt="" coords="407,213,569,259"/>
+<area shape="rect" id="node9" href="$d0/d90/a01059.html#a87d22587d3bcbe1b34c881ac78077cc7" title="ripple::OrderBookIterator\l::firstOffer" alt="" coords="620,39,783,86"/>
+<area shape="rect" id="node13" href="$d0/d90/a01059.html#acdd03776b3a8e11b2160cd46a6d4fbce" title="ripple::OrderBookIterator\l::rewind" alt="" coords="620,126,783,173"/>
+</map>

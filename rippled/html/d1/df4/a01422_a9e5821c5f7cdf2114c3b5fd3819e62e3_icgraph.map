@@ -1,0 +1,5 @@
+<map id="ripple::PeerFinder::SlotImp::local_endpoint" name="ripple::PeerFinder::SlotImp::local_endpoint">
+<area shape="rect" id="node3" href="$df/da5/a00912.html#a6c18d8bde5058b9be60af19fda4ef1af" title="ripple::PeerFinder\l::Logic::writeSlots" alt="" coords="223,5,348,51"/>
+<area shape="rect" id="node5" href="$df/da5/a00912.html#aa8ad3ba4af496a23f74081fbd851249d" title="ripple::PeerFinder\l::Logic::onWrite" alt="" coords="399,5,521,51"/>
+<area shape="rect" id="node7" href="$d0/d5b/a00933.html#ab54a1dbfecb268fb0593ddad30c7ce53" title="ripple::PeerFinder\l::ManagerImp::onWrite" alt="" coords="571,5,725,51"/>
+</map>

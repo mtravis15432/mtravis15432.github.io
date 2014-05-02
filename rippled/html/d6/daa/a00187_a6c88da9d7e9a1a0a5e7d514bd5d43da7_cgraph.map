@@ -1,0 +1,10 @@
+<map id="beast::asio::bind_handler_test::run" name="beast::asio::bind_handler_test::run">
+<area shape="rect" id="node3" href="$d5/d9d/a03343.html#ae1c9014199c29fe953abd1778034e222" title="beast::asio::bind_handler" alt="" coords="223,5,388,35"/>
+<area shape="rect" id="node5" href="$d6/daa/a00187.html#afe45ecf0722d241d915b55d6ca0ca4cd" title="beast::asio::bind_handler\l_test::foo" alt="" coords="223,58,388,105"/>
+<area shape="rect" id="node7" href="$db/dfd/a01608.html#ac9062ee09b5c077d08e6ab2ae4f72f83" title="beast::unit_test::suite\l::pass" alt="" coords="232,127,379,174"/>
+<area shape="rect" id="node9" href="$d2/d4c/a01307.html#a0eceb045ec398fafd72c3be18978913f" title="beast::unit_test::runner\l::pass" alt="" coords="439,127,593,174"/>
+<area shape="rect" id="node11" href="$d2/d4c/a01307.html#afaad49afb34ac7157ac16d74276aab91" title="beast::unit_test::runner\l::testcase" alt="" coords="644,93,799,139"/>
+<area shape="rect" id="node17" href="$d2/d4c/a01307.html#a13f87f79ab49319fe03893bb21161d8e" title="beast::unit_test::runner\l::on_pass" alt="" coords="644,162,799,209"/>
+<area shape="rect" id="node13" href="$d2/d4c/a01307.html#a632f9f2035c1f05930753da4a205e9f3" title="beast::unit_test::runner\l::on_case_end" alt="" coords="849,58,1004,105"/>
+<area shape="rect" id="node15" href="$d2/d4c/a01307.html#ad6e0e7c71cc14317493d97f6ebcfdee7" title="beast::unit_test::runner\l::on_case_begin" alt="" coords="849,127,1004,174"/>
+</map>

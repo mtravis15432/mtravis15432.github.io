@@ -1,0 +1,5 @@
+<map id="ripple::PeerFinder::Counts::onWrite" name="ripple::PeerFinder::Counts::onWrite">
+<area shape="rect" id="node3" href="$d6/de1/a00356.html#a0683914d4289f099b8a1540628c8bd63" title="ripple::PeerFinder\l::Counts::acceptCount" alt="" coords="183,5,337,51"/>
+<area shape="rect" id="node5" href="$d6/de1/a00356.html#aebe8c897d57aad70035e9b8f916c2a48" title="ripple::PeerFinder\l::Counts::closingCount" alt="" coords="183,74,337,121"/>
+<area shape="rect" id="node7" href="$d6/de1/a00356.html#a16ce943d4beecca6cc4ae5eb0c4193bb" title="ripple::PeerFinder\l::Counts::connectCount" alt="" coords="180,143,340,190"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pcache1TruncateUnsafe" name="pcache1TruncateUnsafe">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="220,32,345,61"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="396,85,529,115"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#a8c56f8763581386fa892a46f77c8d684" title="pcache1PinPage" alt="" coords="223,136,343,165"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a283e764f60afec3ed4995402b6604ceb" title="pcache1Free" alt="" coords="415,32,511,61"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="580,5,703,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="581,59,701,88"/>
+</map>

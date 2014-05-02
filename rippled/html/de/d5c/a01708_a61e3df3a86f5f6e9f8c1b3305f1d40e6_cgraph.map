@@ -1,0 +1,11 @@
+<map id="ripple::TransactionMaster::fetch" name="ripple::TransactionMaster::fetch">
+<area shape="rect" id="node3" href="$de/d05/a01702.html#a6b34e15909640abcd996da4b3ec60fe4" title="ripple::Transaction\l::load" alt="" coords="225,150,353,197"/>
+<area shape="rect" id="node5" href="$de/d05/a01702.html#a127e942da36e00fd47b4dac4f2dc581c" title="ripple::Transaction\l::transactionFromSQL" alt="" coords="404,150,553,197"/>
+<area shape="rect" id="node7" href="$da/d61/a01350.html#a32c26f7ab6d19e352751979c9d56eccd" title="ripple::Serializer\l::begin" alt="" coords="636,5,751,51"/>
+<area shape="rect" id="node9" href="$d5/db5/a00374.html#a654eaaef86fa7de1fa9a9d6c9f8d38a4" title="ripple::Database::getBinary" alt="" coords="604,75,783,104"/>
+<area shape="rect" id="node13" href="$d5/db5/a00374.html#ad34864d60e84c7168a3b173097c27157" title="ripple::Database::getInt" alt="" coords="615,128,772,157"/>
+<area shape="rect" id="node16" href="$da/d61/a01350.html#a237280c7ca05aed5c750ec154a599547" title="ripple::Serializer\l::getLength" alt="" coords="636,181,751,227"/>
+<area shape="rect" id="node18" href="$d5/db5/a00374.html#a5695e1a1b8e65383924a03d29c81a4f2" title="ripple::Database::getStr" alt="" coords="613,251,773,280"/>
+<area shape="rect" id="node21" href="$da/d61/a01350.html#a462cbb304e3bcba2b4a78b8fee551265" title="ripple::Serializer\l::resize" alt="" coords="636,303,751,350"/>
+<area shape="rect" id="node11" href="$d5/db5/a00374.html#a5b7ed864f9f854446470c987b37ebecc" title="ripple::Database::getCol\lNumber" alt="" coords="832,119,995,166"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="beast::IP::is_private" name="beast::IP::is_private">
+<area shape="rect" id="node3" href="$da/dc3/a00453.html#a41d744f4c8d5888f8d5aa25da5e100bf" title="beast::IP::Endpoint\l::address" alt="" coords="195,5,328,51"/>
+<area shape="rect" id="node5" href="$d2/d7f/a03369.html#a25de154b027e488d8e4be8362e6b6927" title="beast::IP::is_private" alt="" coords="192,75,331,104"/>
+<area shape="rect" id="node7" href="$d2/d7f/a03369.html#abe52052bf8ee760f14bdf9c06e398212" title="beast::IP::is_loopback" alt="" coords="379,75,531,104"/>
+</map>

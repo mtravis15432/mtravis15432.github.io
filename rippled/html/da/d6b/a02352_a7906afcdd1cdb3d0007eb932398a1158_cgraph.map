@@ -1,0 +1,27 @@
+<map id="sqlite3MutexInit" name="sqlite3MutexInit">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a348b83939587368e0b6d833f169154e2" title="sqlite3DefaultMutex" alt="" coords="168,324,307,353"/>
+<area shape="rect" id="node38" href="$da/d6b/a02352.html#a4d81b0b1d67b647ae419a82c8df9164f" title="sqlite3NoopMutex" alt="" coords="175,644,300,673"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#a42290854458de8191cc8762a838e3092" title="pthreadMutexAlloc" alt="" coords="357,137,488,167"/>
+<area shape="rect" id="node26" href="$da/d6b/a02352.html#afcfa342e4b8a9b4debd150577fa7dd8d" title="pthreadMutexEnd" alt="" coords="361,191,484,220"/>
+<area shape="rect" id="node28" href="$da/d6b/a02352.html#a16e99241f37f67ad7659d347dedc6eba" title="pthreadMutexEnter" alt="" coords="357,244,488,273"/>
+<area shape="rect" id="node30" href="$da/d6b/a02352.html#ac2abf0acf925b9e3feecb4c0f3e10003" title="pthreadMutexFree" alt="" coords="360,297,485,327"/>
+<area shape="rect" id="node32" href="$da/d6b/a02352.html#a9b56fdbde7f0727defee410d73c40016" title="pthreadMutexInit" alt="" coords="364,351,481,380"/>
+<area shape="rect" id="node34" href="$da/d6b/a02352.html#aff5e74cc87a074eb386c1049425b7595" title="pthreadMutexLeave" alt="" coords="355,404,491,433"/>
+<area shape="rect" id="node36" href="$da/d6b/a02352.html#a3179009778d803b8bbdfbcdcb8b9e0c5" title="pthreadMutexTry" alt="" coords="363,457,483,487"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="540,137,663,167"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="712,137,811,167"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="860,137,980,167"/>
+<area shape="rect" id="node13" href="$da/d6b/a02352.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1031,5,1164,35"/>
+<area shape="rect" id="node15" href="$da/d6b/a02352.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1032,59,1163,88"/>
+<area shape="rect" id="node17" href="$da/d6b/a02352.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1213,85,1344,115"/>
+<area shape="rect" id="node19" href="$da/d6b/a02352.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1036,163,1159,192"/>
+<area shape="rect" id="node21" href="$da/d6b/a02352.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1037,216,1157,245"/>
+<area shape="rect" id="node23" href="$da/d6b/a02352.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1039,269,1156,299"/>
+<area shape="rect" id="node40" href="$da/d6b/a02352.html#a5b7e628d764b9fa21cf60efa4f007b9c" title="noopMutexInit" alt="" coords="371,511,475,540"/>
+<area shape="rect" id="node42" href="$da/d6b/a02352.html#a0f0c029ce49c2f6c8a10487686cd4c44" title="noopMutexEnd" alt="" coords="368,564,477,593"/>
+<area shape="rect" id="node44" href="$da/d6b/a02352.html#a19cab979a9c93ac871637110a1a0346a" title="noopMutexAlloc" alt="" coords="365,617,480,647"/>
+<area shape="rect" id="node46" href="$da/d6b/a02352.html#ac9f0fbd482a75bc7508626f508f7a222" title="noopMutexFree" alt="" coords="367,671,479,700"/>
+<area shape="rect" id="node48" href="$da/d6b/a02352.html#afd4250b184c2dc7f7ffddc073dc62415" title="noopMutexEnter" alt="" coords="364,724,481,753"/>
+<area shape="rect" id="node50" href="$da/d6b/a02352.html#a6cc5bf7bc4f4c4890d11321332080ce6" title="noopMutexTry" alt="" coords="371,777,475,807"/>
+<area shape="rect" id="node52" href="$da/d6b/a02352.html#abbb054fbbcb2239be190b65ee35bcc5a" title="noopMutexLeave" alt="" coords="363,831,483,860"/>
+</map>

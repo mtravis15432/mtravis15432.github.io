@@ -1,0 +1,11 @@
+<map id="beast::asio::HandshakeDetectLogicPROXY::analyze" name="beast::asio::HandshakeDetectLogicPROXY::analyze">
+<area shape="rect" id="node3" href="$d0/d8d/a00612.html#a25a5f7ca6c14b2b02741c8dd210a4b5c" title="beast::asio::HandshakeDetect\lLogicPROXY::analyze_input" alt="" coords="255,74,452,121"/>
+<area shape="rect" id="node7" href="$d2/dd6/a03414.html#a7378f09d8f10ef3ccbb2aeefe7ff41d3" title="Json::in" alt="" coords="751,83,817,112"/>
+<area shape="rect" id="node12" href="$dd/dc0/a00611.html#ad396502fad78895c7b4bcb8db527e046" title="beast::asio::HandshakeDetect\lLogic::conclude" alt="" coords="255,194,452,241"/>
+<area shape="rect" id="node16" href="$db/d06/a01509.html#ab071ad54445dbbcb106bacdd9845d960" title="beast::asio::InputParser\l::State::failed" alt="" coords="273,263,433,310"/>
+<area shape="rect" id="node19" href="$db/d06/a01509.html#a2d5ef5c0d244a54b68314d3fc2add31d" title="beast::asio::InputParser\l::State::passed" alt="" coords="273,333,433,379"/>
+<area shape="rect" id="node21" href="$d8/d75/a00555.html#afb0b26135b96dba64fa11f9c4018931f" title="beast::asio::FixedInputBuffer\l::used" alt="" coords="259,402,448,449"/>
+<area shape="rect" id="node5" href="$d6/d55/a03345.html#a0c2702801662989ddf6b7bc819a3111e" title="beast::asio::InputParser\l::match" alt="" coords="521,5,681,51"/>
+<area shape="rect" id="node9" href="$d6/d55/a03345.html#a3690fdcd48c8934e343e0d02e25a4adc" title="beast::asio::InputParser\l::read" alt="" coords="521,74,681,121"/>
+<area shape="rect" id="node14" href="$dd/dc0/a00611.html#a43f8ad1e791225847b31b7df3d4991fd" title="beast::asio::HandshakeDetect\lLogic::success" alt="" coords="503,194,700,241"/>
+</map>

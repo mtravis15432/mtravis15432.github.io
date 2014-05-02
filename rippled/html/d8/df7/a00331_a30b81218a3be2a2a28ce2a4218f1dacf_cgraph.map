@@ -1,0 +1,5 @@
+<map id="ripple::Resource::Consumer::operator=" name="ripple::Resource::Consumer::operator=">
+<area shape="rect" id="node3" href="$de/dc3/a00909.html#a1c0f73db245a2934e9ecbd4b0ceebee2" title="ripple::Resource::Logic\l::acquire" alt="" coords="241,5,396,51"/>
+<area shape="rect" id="node5" href="$de/dc3/a00909.html#ac5fbd92d50714fa66c36761eb76b3ab9" title="ripple::Resource::Logic\l::release" alt="" coords="241,74,396,121"/>
+<area shape="rect" id="node7" href="$d2/dee/a00049.html#ae8a34dde26bed08c9a6dbb59f0e9abd1" title="beast::abstract_clock\l::elapsed" alt="" coords="445,74,592,121"/>
+</map>

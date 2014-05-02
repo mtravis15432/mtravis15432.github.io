@@ -1,0 +1,5 @@
+<map id="beast::SharedPtr::get" name="beast::SharedPtr::get">
+<area shape="rect" id="node3" href="$d5/d83/a03337.html#a023005f74c4742332774c41b762a6082" title="beast::get_pointer" alt="" coords="223,5,348,35"/>
+<area shape="rect" id="node5" href="$d6/d53/a01688.html#a22684529e3fca91bfb96fad0508eb6bb" title="beast::Thread::getCurrent\lThread" alt="" coords="200,58,371,105"/>
+<area shape="rect" id="node7" href="$d0/d36/a01388.html#a7722d804f8f9b9fa78fd22911b59849b" title="beast::SharedPtr\&lt; beast\l::SharedSingleton\&lt; beast\l::sqdb::session::Sqlite3\l \&gt; \&gt;::operator=" alt="" coords="201,127,369,209"/>
+</map>

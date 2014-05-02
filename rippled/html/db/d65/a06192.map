@@ -1,0 +1,6 @@
+<map id="beast::Journal::Sink" name="beast::Journal::Sink">
+<area shape="rect" id="node3" href="$db/d14/a01040.html" title="beast::NullJournalSink" alt="" coords="5,92,157,121"/>
+<area shape="rect" id="node5" href="$d3/dd1/a00914.html" title="ripple::LogPartition" alt="" coords="181,92,312,121"/>
+<area shape="rect" id="node9" href="$db/d5a/a01842.html" title="ripple::PeerFinder\l::WrappedSink" alt="" coords="336,83,459,130"/>
+<area shape="rect" id="node7" href="$d2/d5e/a00915.html" title="ripple::detail::LogPartition\lType\&lt; Key \&gt;" alt="" coords="163,179,331,226"/>
+</map>

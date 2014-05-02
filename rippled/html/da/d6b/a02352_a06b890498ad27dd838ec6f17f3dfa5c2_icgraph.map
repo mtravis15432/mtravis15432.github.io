@@ -1,0 +1,7 @@
+<map id="robust_ftruncate" name="robust_ftruncate">
+<area shape="rect" id="node3" href="$da/d6b/a02352.html#a83b00fec4238518b00e315fe0eff28e6" title="fcntlSizeHint" alt="" coords="205,5,301,35"/>
+<area shape="rect" id="node7" href="$da/d6b/a02352.html#a30775afa2e08ca6ddc7853326afed7c7" title="unixOpenSharedMemory" alt="" coords="171,59,336,88"/>
+<area shape="rect" id="node11" href="$da/d6b/a02352.html#a0d55220865a8e1c4604e78e16666fe11" title="unixTruncate" alt="" coords="205,112,301,141"/>
+<area shape="rect" id="node5" href="$da/d6b/a02352.html#ad71f213fa385cc58f307cefd953c03ae" title="unixFileControl" alt="" coords="384,5,493,35"/>
+<area shape="rect" id="node9" href="$da/d6b/a02352.html#aeaa77f0ab08a4f4ee5f86e8c9727e974" title="unixShmMap" alt="" coords="389,59,488,88"/>
+</map>

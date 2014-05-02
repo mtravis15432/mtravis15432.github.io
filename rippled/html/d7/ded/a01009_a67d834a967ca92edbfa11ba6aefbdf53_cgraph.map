@@ -1,0 +1,8 @@
+<map id="ripple::NetworkOPsImp::getCloseTimeNC" name="ripple::NetworkOPsImp::getCloseTimeNC">
+<area shape="rect" id="node3" href="$d7/ded/a01009.html#a4bd8befae57d65b27880a6c11b903c5a" title="ripple::NetworkOPsImp\l::getNetworkTimePT" alt="" coords="215,66,372,113"/>
+<area shape="rect" id="node11" href="$d9/d9d/a03417.html#af3beca614a7a1e1872b08a8bc37e0ce7" title="ripple::iToSeconds" alt="" coords="228,136,359,165"/>
+<area shape="rect" id="node5" href="$d9/d9d/a03417.html#a41dc315618e2f1d4be04cf094a642d70" title="ripple::getApp" alt="" coords="451,13,552,43"/>
+<area shape="rect" id="node9" href="$da/d74/a00099.html#a193aa07bf009f0e3140c6744dfa5c678" title="ripple::Application\l::getSystemTimeOffset" alt="" coords="423,66,580,113"/>
+<area shape="rect" id="node7" href="$d4/d3a/a00101.html#a96693896ee8bf0b18686bce1d0559d95" title="ripple::ApplicationImpBase\l::getInstance" alt="" coords="631,5,807,51"/>
+<area shape="rect" id="node13" href="$d9/d9d/a03417.html#a00572ed03b233ecd42f36357a395c163" title="ripple::ptEpoch" alt="" coords="447,136,556,165"/>
+</map>

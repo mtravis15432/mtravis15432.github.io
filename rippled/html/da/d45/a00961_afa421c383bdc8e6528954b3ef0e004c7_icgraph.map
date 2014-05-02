@@ -1,0 +1,16 @@
+<map id="beast::MemoryBlock::ensureSize" name="beast::MemoryBlock::ensureSize">
+<area shape="rect" id="node3" href="$da/d45/a00961.html#a63e5d270c12dcb8a052e6d96528ca68f" title="beast::MemoryBlock\l::loadFromHexString" alt="" coords="223,5,364,51"/>
+<area shape="rect" id="node5" href="$de/dad/a00963.html#a04599bc108d4a6b1f839edc03d7baeb7" title="beast::MemoryOutputStream\l::preallocate" alt="" coords="199,74,388,121"/>
+<area shape="rect" id="node13" href="$de/df4/a00450.html#a0b3db65e430e30d842ce88a4c2eb37df" title="ripple::NodeStore::\lEncodedBlob::prepare" alt="" coords="219,143,368,190"/>
+<area shape="rect" id="node23" href="$de/dad/a00963.html#a46aa377a5d3ea938a8a8e56befd79f33" title="beast::MemoryOutputStream\l::prepareToWrite" alt="" coords="199,295,388,342"/>
+<area shape="rect" id="node7" href="$de/dad/a00963.html#acb048eb12aa1104a6af38447da75c4af" title="beast::MemoryOutputStream\l::writeFromInputStream" alt="" coords="440,34,629,81"/>
+<area shape="rect" id="node9" href="$df/d96/a00714.html#a386792eae8cf4273464058597b69929e" title="beast::InputStream\l::readIntoMemoryBlock" alt="" coords="699,34,856,81"/>
+<area shape="rect" id="node11" href="$d4/d33/a00536.html#aceba75948d504dd1cd2e1e2cacd0a49d" title="beast::File::loadFileAsData" alt="" coords="924,43,1103,72"/>
+<area shape="rect" id="node15" href="$dd/dd5/a00861.html#a502cdf8ada1f8759ab4747c5b03f08e3" title="ripple::NodeStore::\lLevelDBBackend::storeBatch" alt="" coords="437,103,632,150"/>
+<area shape="rect" id="node19" href="$d1/dd8/a01022.html#a9a2e129e141d452ac8426a8c54889ac2" title="ripple::NodeStore::\lNodeStoreBasic_test\l::testBlobs" alt="" coords="461,173,608,237"/>
+<area shape="rect" id="node17" href="$dd/dd5/a00861.html#aa35d49b96ba3b57956c6645604527a82" title="ripple::NodeStore::\lLevelDBBackend::writeBatch" alt="" coords="681,103,873,150"/>
+<area shape="rect" id="node21" href="$d1/dd8/a01022.html#a817dc7cf52f7f4160efb96e0816f0eaf" title="ripple::NodeStore::\lNodeStoreBasic_test::run" alt="" coords="692,182,863,229"/>
+<area shape="rect" id="node25" href="$de/dad/a00963.html#a07a46681a23211316b307d465e5869c4" title="beast::MemoryOutputStream\l::write" alt="" coords="440,261,629,307"/>
+<area shape="rect" id="node27" href="$de/dad/a00963.html#abda23da11b3d6d4d50788381b668bd17" title="beast::MemoryOutputStream\l::writeRepeatedByte" alt="" coords="440,330,629,377"/>
+<area shape="rect" id="node29" href="$de/dad/a00963.html#a6e1db6ab19c6677fb4f28fde7a9fbc6a" title="beast::MemoryOutputStream\l::appendUTF8Char" alt="" coords="440,399,629,446"/>
+</map>

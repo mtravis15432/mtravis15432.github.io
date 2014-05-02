@@ -1,0 +1,5 @@
+<map id="ripple::Validators::Logic::addStatic" name="ripple::Validators::Logic::addStatic">
+<area shape="rect" id="node3" href="$d7/d12/a00911.html#added48d90fc5f7344d610f7652bd55d4" title="ripple::Validators\l::Logic::findSourceByID" alt="" coords="180,5,340,51"/>
+<area shape="rect" id="node5" href="$d7/d12/a00911.html#a1011f4fa815d844870977dcce9016da9" title="ripple::Validators\l::Logic::merge" alt="" coords="201,74,319,121"/>
+<area shape="rect" id="node7" href="$d7/d12/a00911.html#a21aca7320081c0fbeab88c0d1e6a417b" title="ripple::Validators\l::Logic::dirtyChosen" alt="" coords="389,74,528,121"/>
+</map>

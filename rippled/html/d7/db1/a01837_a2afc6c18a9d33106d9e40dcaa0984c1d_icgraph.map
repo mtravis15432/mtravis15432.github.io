@@ -1,0 +1,8 @@
+<map id="beast::Workers::setNumberOfThreads" name="beast::Workers::setNumberOfThreads">
+<area shape="rect" id="node3" href="$d7/db1/a01837.html#a3ee6b9b2365d9436d68494b54d1b4dda" title="beast::Workers::pauseAll\lThreadsAndWait" alt="" coords="239,66,407,113"/>
+<area shape="rect" id="node7" href="$db/d09/a01838.html#a3158e17158af7b7fc92456c9628fe12c" title="beast::Workers_test\l::testThreads" alt="" coords="475,127,613,174"/>
+<area shape="rect" id="node11" href="$d9/d00/a00784.html#a026a2c4342620edab064ae9624f31712" title="ripple::JobQueueImp\l::setThreadCount" alt="" coords="252,186,393,233"/>
+<area shape="rect" id="node14" href="$d7/db1/a01837.html#a1cab7deab1684cfe357a035e3a71ae5d" title="beast::Workers::Workers" alt="" coords="239,256,407,285"/>
+<area shape="rect" id="node5" href="$d9/d00/a00784.html#aa3f7da1dd9d41217b775a80432b38d87" title="ripple::JobQueueImp\l::shutdown" alt="" coords="473,5,615,51"/>
+<area shape="rect" id="node9" href="$d7/db1/a01837.html#aff524be09270276f1991a99b8885b977" title="beast::Workers::~Workers" alt="" coords="456,75,632,104"/>
+</map>

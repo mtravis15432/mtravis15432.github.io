@@ -1,0 +1,6 @@
+<map id="rocksdb::EnvWrapper::target" name="rocksdb::EnvWrapper::target">
+<area shape="rect" id="node3" href="$dd/d08/a01448.html#afc74ef3477ef1f734dfaade78137a797" title="rocksdb::SpecialEnv\l::NewRandomAccessFile" alt="" coords="203,5,373,51"/>
+<area shape="rect" id="node5" href="$d1/d92/a00475.html#a8a3c0636e04c51da0a70f44569ab52ce" title="rocksdb::test::ErrorEnv\l::NewWritableFile" alt="" coords="209,74,367,121"/>
+<area shape="rect" id="node7" href="$dd/d08/a01448.html#a1615ad2a237b79b78e4b7592537c6b54" title="rocksdb::SpecialEnv\l::NewWritableFile" alt="" coords="217,143,359,190"/>
+<area shape="rect" id="node9" href="$dd/d08/a01448.html#a8cad8bde2fc7ca961ced712ff3843174" title="rocksdb::SpecialEnv\l::SleepForMicroseconds" alt="" coords="207,213,369,259"/>
+</map>

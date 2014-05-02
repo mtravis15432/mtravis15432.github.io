@@ -1,0 +1,9 @@
+<map id="beast::RootStoppable::start" name="beast::RootStoppable::start">
+<area shape="rect" id="node3" href="$d7/d06/a00131.html#a41f21d4a7146b3b26e41ae8e16ce086e" title="beast::Atomic::compareAnd\lSetBool" alt="" coords="217,5,401,51"/>
+<area shape="rect" id="node5" href="$d2/d49/a01561.html#a74f4b0c19a5169787afd7885a5942bbc" title="beast::Stoppable::prepare\lRecursive" alt="" coords="224,131,395,178"/>
+<area shape="rect" id="node13" href="$d2/d49/a01561.html#af5b401bf70de118e271524c7ba1f3a41" title="beast::Stoppable::startRecursive" alt="" coords="203,75,416,104"/>
+<area shape="rect" id="node7" href="$d2/d79/a00898.html#aabf0d32e3381ad563fa03f948cc497bf" title="beast::LockFreeStack\l::cbegin" alt="" coords="483,63,632,110"/>
+<area shape="rect" id="node9" href="$d2/d79/a00898.html#a3fe19ab930cc3d1dcf70b2d6e5f5ddd6" title="beast::LockFreeStack\l::cend" alt="" coords="483,133,632,179"/>
+<area shape="rect" id="node11" href="$d2/d49/a01561.html#a89ef9cbd5742a977aa6d6e13f534ca55" title="beast::Stoppable::onPrepare" alt="" coords="464,203,651,232"/>
+<area shape="rect" id="node17" href="$d2/d49/a01561.html#a91389d18e9eb5e26847533b57be650cd" title="beast::Stoppable::onStart" alt="" coords="472,11,643,40"/>
+</map>

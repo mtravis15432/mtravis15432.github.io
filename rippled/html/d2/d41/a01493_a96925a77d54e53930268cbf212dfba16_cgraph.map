@@ -1,0 +1,15 @@
+<map id="ripple::STAmount::createJsonCurrency" name="ripple::STAmount::createJsonCurrency">
+<area shape="rect" id="node3" href="$d2/d41/a01493.html#aefb662aaabfc521cb4cdcdb715c7d4b8" title="ripple::STAmount::create\lHumanCurrency" alt="" coords="223,131,388,178"/>
+<area shape="rect" id="node5" href="$da/d61/a01350.html#a509771bf1109949d4bee7b71aecc3757" title="ripple::Serializer\l::add160" alt="" coords="648,5,763,51"/>
+<area shape="rect" id="node14" href="$d7/d9a/a00152.html#a348c4019943a8b3a05f39f1efcb589c9" title="ripple::base_uint::\lGetHex" alt="" coords="643,143,768,190"/>
+<area shape="rect" id="node23" href="$d0/d85/a01352.html#a28779f2e8d8ceb7882acfb5534d70754" title="ripple::SerializerIterator\l::getRaw" alt="" coords="439,71,593,118"/>
+<area shape="rect" id="node27" href="$d7/d9a/a00152.html#a25e873c7d069c6c2d44655736f2b6c21" title="ripple::base_uint::\lisZero" alt="" coords="453,191,579,238"/>
+<area shape="rect" id="node29" href="$d7/d9a/a00152.html#ad19bda12f3725584ac179f2e091e30d7" title="ripple::base_uint::\lToString" alt="" coords="453,261,579,307"/>
+<area shape="rect" id="node7" href="$d7/d9a/a00152.html#a05af5cdcc33627cb359debe028ab675d" title="ripple::base_uint::\lbegin" alt="" coords="828,66,953,113"/>
+<area shape="rect" id="node11" href="$d7/d9a/a00152.html#afcb87d72a05033f7eafdf7563bf52224" title="ripple::base_uint::end" alt="" coords="817,13,964,43"/>
+<area shape="rect" id="node9" href="$d7/d9a/a00152.html#af39117db8d26ecef7a570cd3448822a6" title="ripple::base_uint::data" alt="" coords="1015,44,1164,73"/>
+<area shape="rect" id="node17" href="$d7/d9a/a00152.html#a463054abe1fe73a6f2d2dd9ecc9fb544" title="ripple::base_uint::size" alt="" coords="816,144,965,173"/>
+<area shape="rect" id="node19" href="$d9/d9d/a03417.html#a138db8803faea25db74891325f6b0073" title="ripple::strHex" alt="" coords="841,197,940,227"/>
+<area shape="rect" id="node21" href="$d9/d9d/a03417.html#aca6318bcfeb25f74477566a7ddc06a63" title="ripple::charHex" alt="" coords="1035,197,1144,227"/>
+<area shape="rect" id="node25" href="$da/d61/a01350.html#aae6a2808959bee786fa30c815a6d2306" title="ripple::Serializer\l::getRaw" alt="" coords="648,74,763,121"/>
+</map>

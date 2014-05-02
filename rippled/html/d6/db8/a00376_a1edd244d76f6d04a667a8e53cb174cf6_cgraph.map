@@ -1,0 +1,5 @@
+<map id="ripple::DatabaseCon::DatabaseCon" name="ripple::DatabaseCon::DatabaseCon">
+<area shape="rect" id="node3" href="$d5/db5/a00374.html#aa29ced5cd7f7e839fbfa96d8fe6d2be4" title="ripple::Database::connect" alt="" coords="208,5,379,35"/>
+<area shape="rect" id="node5" href="$d5/db5/a00374.html#ae13874bae245fcea24edd3945ff16723" title="ripple::Database::executeSQL" alt="" coords="195,59,392,88"/>
+<area shape="rect" id="node7" href="$d9/d9d/a03417.html#a3025f0e6e155cf9b7f4b6315f682423d" title="ripple::getConfig" alt="" coords="235,112,352,141"/>
+</map>

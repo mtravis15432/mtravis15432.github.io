@@ -1,0 +1,11 @@
+<map id="rocksdb::WriteBatch::Merge" name="rocksdb::WriteBatch::Merge">
+<area shape="rect" id="node3" href="$da/d8c/a01845.html#a3a404e8b1f29c53fc2d3b2a70dfb8478" title="rocksdb::WriteBatchInternal\l::Count" alt="" coords="195,15,379,62"/>
+<area shape="rect" id="node7" href="$d4/d87/a03436.html#af1cdcde94bcaeced42cd5925a5827232" title="rocksdb::PutLengthPrefixed\lSlice" alt="" coords="196,103,377,150"/>
+<area shape="rect" id="node17" href="$da/d8c/a01845.html#a5d61953d919f082c48c4d4aada512004" title="rocksdb::WriteBatchInternal\l::SetCount" alt="" coords="195,191,379,238"/>
+<area shape="rect" id="node5" href="$d4/d87/a03436.html#a5eb46c01bbc65cc301b2648e655dbe15" title="rocksdb::DecodeFixed32" alt="" coords="428,5,593,35"/>
+<area shape="rect" id="node9" href="$de/daf/a01417.html#abed770f35075076510897c3fbbc10923" title="rocksdb::Slice::data" alt="" coords="441,59,580,88"/>
+<area shape="rect" id="node11" href="$d4/d87/a03436.html#afe24fa7da1cd551af92134aa66f96183" title="rocksdb::PutVarint32" alt="" coords="439,112,583,141"/>
+<area shape="rect" id="node15" href="$de/daf/a01417.html#aeb3a4a3ede98a163cc3796ef0d4a759d" title="rocksdb::Slice::size" alt="" coords="443,165,579,195"/>
+<area shape="rect" id="node13" href="$d4/d87/a03436.html#a94c48680211f25845f5c35acd4b54ebb" title="rocksdb::EncodeVarint32" alt="" coords="643,112,811,141"/>
+<area shape="rect" id="node19" href="$d4/d87/a03436.html#aabc7ce45ae48e15b24a6756f9b4fd694" title="rocksdb::EncodeFixed32" alt="" coords="428,219,593,248"/>
+</map>
